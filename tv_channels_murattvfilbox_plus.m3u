@@ -33,8 +33,6 @@ https://stream.tiviturk.de/live/tiviturk.m3u8
 http://157.230.106.252:3923/hybrid/play.m3u8
 #EXTINF:-1,TV 48
 https://ajansplay.com:5443/LiveApp/streams/tv48.m3u8
-#EXTINF:-1,ÖZBURUN TV
-http://yilmaz.srfms.com:1935/yilmaz/livestream/chunklist_w1603425648.m3u8
 #EXTINF:-1,SANCAK TV HD
 https://2.rtmp.org/tv219/yayin.stream/playlist.m3u8
 #EXTINF:-1,DENİZ POSTASI TV
@@ -51,6 +49,8 @@ https://tv.ntnhd.com:3588/multi_web/play_1080.m3u8
 https://is.gd/NdDhgK.m3u8
 #EXTINF:-1,TV AVRUPA
 http://tv86905.radyotelekomtv.com:22808/almanyadaturktv/almanyadaturktv/playlist.m3u8
+#EXTINF:-1,ÖZBURUN TV
+http://yilmaz.srfms.com:1935/yilmaz/livestream/chunklist_w1603425648.m3u8
 #EXTINF:-1,CİNE1 TV
 https://is.gd/8nnZlr/cıne1.m3u8
 #EXTINF:-1,TELEON TV
