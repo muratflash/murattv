@@ -87,6 +87,8 @@ http://duzguntv1616.ozelip.net:25192/duzguntv/duzguntv/playlist.m3u8
 https://edge1.socialsmart.tv/adatv/bant1/chunks.m3u8
 #EXTINF:-1,GOP ŞEN TV
 http://91.134.203.253:30124/gopsentv/gopsentv/chunklist.m3u8
+#EXTINF:-1,TV BAŞKAN
+http://91.134.203.253:30124/baskantv/baskantv/chunklist.m3u8
 #EXTINF:-1,VİYANA TV
 http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
 #EXTINF:-1,360 TV HD
@@ -103,8 +105,8 @@ https://live-server-2.splitstream.io/fd15e2fa-310e-46fd-8310-a92599e61696/tracks
 https://dogus-live.daioncdn.net/kraltv/playlist.m3u8
 #EXTINF:-1,KRAL POP TV HD
 https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
-#EXTINF:-1,EGE LİVE TV
-https://59cba4d34b678.streamlock.net/canlitv/egelivetv/playlist.m3u8
+#EXTINF:-1,PALA TV
+http://tv56245.ozelip.com:2052/palatv/palatv/chunklist.m3u8
 #EXTINF:-1,KRAL FM
 https://dygedge2.radyotvonline.net/kralfm/playlist.m3u8
 #EXTINF:-1,BEST FM
