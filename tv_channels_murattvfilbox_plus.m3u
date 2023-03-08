@@ -30,7 +30,7 @@ https://live-server-2.splitstream.io/7b3b9e34-626f-4562-92ea-9adcac520468/tracks
 #EXTINF:-1,TİVİ TÜRK HD
 https://stream.tiviturk.de/live/tiviturk.m3u8
 #EXTINF:-1,SÜPER TÜRK TV
-http://157.230.106.252:3923/hybrid/play.m3u8
+http://192.248.176.242:3923/hybrid/play.m3u8
 #EXTINF:-1,TV 48
 https://ajansplay.com:5443/LiveApp/streams/tv48.m3u8
 #EXTINF:-1,SANCAK TV HD
