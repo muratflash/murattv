@@ -114,7 +114,7 @@ http://officialbestfm.radyotvonline.net/bestfmofficial
 #EXTINF:-1,RADYO KULÜP
 http://cdn-radyokulup.yayin.com.tr/radyokulup/radyokulup/chunklist.m3u8
 #EXTINF:-1,RADYO SPOR
-https://moondigitaledge.radyotvonline.net/radyospor/playlist.m3u8
+https://wowza1.radyotvonline.com/saran/radyospor.stream/chunklist_w959732395.m3u8
 #EXTINF:-1,TRT RADYO 1
 https://rd-trtradyo1.medya.trt.com.tr/master_128.m3u8
 #EXTINF:-1,TGRT FM
