@@ -45,7 +45,7 @@ https://tv.digitalbox.xyz:19360/afyonturktv/afyonturktv.m3u8
 https://yayin.rizeturk.com:3777/multi_web/play.m3u8
 #EXTINF:-1,FARK TÜRK TV
 http://91.134.203.253:30124/farkturktv/farkturktv/chunklist.m3u8
-#EXTINF:-1,NTN YEŞİLÇAM HD
+#EXTINF:-1,NTN SİNEMA HD
 https://tv.ntnhd.com:3588/multi_web/play_720.m3u8
 #EXTINF:-1,OA TV
 https://cdn-oatasoytv.yayin.com.tr/oatasoytv/oatasoytv/chunklist_w1202525982.m3u8
@@ -57,8 +57,6 @@ https://is.gd/NdDhgK.m3u8
 https://cdn1-skyhabertv.yayin.com.tr/skyhabertv/skyhabertv/chunklist_w1126474240_b1996000.m3u8
 #EXTINF:-1,TV AVRUPA
 http://tv86905.radyotelekomtv.com:22808/almanyadaturktv/almanyadaturktv/playlist.m3u8
-#EXTINF:-1,CİNE1 TV
-https://is.gd/8nnZlr/cıne1.m3u8
 #EXTINF:-1,TELEON TV
 https://streaming.netdirekt.com.tr/35757/teleontv/teleonmediagroup_canliyayin_4kultrahd_/chunks.m3u8
 #EXTINF:-1,TEBER TV
@@ -69,6 +67,8 @@ https://tivi191.ozelip.com:3929/live/zwtyoxkolive.m3u8
 https://vdo.digitalbox.xyz:3248/live/brukselturktvlive.m3u8
 #EXTINF:-1,EURO GENÇ TV
 https://bit.ly/3XJVM14
+#EXTINF:-1,CİNE1 TV
+https://is.gd/8nnZlr/cıne1.m3u8
 #EXTINF:-1,ÖZBURUN TV
 http://yilmaz.srfms.com:1935/yilmaz/livestream/chunklist_w1603425648.m3u8
 #EXTINF:-1,AKTİF TV HD
