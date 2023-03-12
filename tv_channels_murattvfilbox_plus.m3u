@@ -57,8 +57,6 @@ https://is.gd/NdDhgK.m3u8
 https://cdn1-skyhabertv.yayin.com.tr/skyhabertv/skyhabertv/chunklist_w1126474240_b1996000.m3u8
 #EXTINF:-1,TV AVRUPA
 http://tv86905.radyotelekomtv.com:22808/almanyadaturktv/almanyadaturktv/playlist.m3u8
-#EXTINF:-1,ÖZBURUN TV
-http://yilmaz.srfms.com:1935/yilmaz/livestream/chunklist_w1603425648.m3u8
 #EXTINF:-1,CİNE1 TV
 https://is.gd/8nnZlr/cıne1.m3u8
 #EXTINF:-1,TELEON TV
@@ -71,6 +69,8 @@ https://tivi191.ozelip.com:3929/live/zwtyoxkolive.m3u8
 https://vdo.digitalbox.xyz:3248/live/brukselturktvlive.m3u8
 #EXTINF:-1,EURO GENÇ TV
 https://bit.ly/3XJVM14
+#EXTINF:-1,ÖZBURUN TV
+http://yilmaz.srfms.com:1935/yilmaz/livestream/chunklist_w1603425648.m3u8
 #EXTINF:-1,AKTİF TV HD
 http://tv86905.radyotelekomtv.com:22808/aktif/aktif/chunklist.m3u8
 #EXTINF:-1,BİR TV HD
@@ -131,8 +131,6 @@ https://mn-nl.mncdn.com/blutv_play1_dvr/live_720p2000000kbps/index.m3u8
 https://mn-nl.mncdn.com/blutv_play2_dvr/live_720p2000000kbps/index.m3u8
 #EXTINF:-1,KOBİM TV
 http://cdn-kobimtv.yayin.com.tr/kobimtv/kobimtv/chunklist.m3u8
-#EXTINF:-1,ÇÖZÜM YAPI TV
-http://157.230.106.252:3496/hybrid/play.m3u8
 #EXTINF:-1,DİSCOVERY İD HD
 https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/master.m3u8
 #EXTINF:-1,BEİN SPORTS 1 HD
