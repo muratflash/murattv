@@ -74,9 +74,9 @@ http://yilmaz.srfms.com:1935/yilmaz/livestream/chunklist_w1603425648.m3u8
 #EXTINF:-1,AKTİF TV HD
 http://tv86905.radyotelekomtv.com:22808/aktif/aktif/chunklist.m3u8
 #EXTINF:-1,BİR TV HD
-https://h59.artiyerelmedya.net/birtv/bant1/chunks.m3u8
+https://live.artidijitalmedya.com/artidijital_birtv/birtv/chunks.m3u8
 #EXTINF:-1,TİVİ6 HD
-https://h59.artiyerelmedya.net/tivi6/bant1/chunks.m3u8
+https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
 #EXTINF:-1,KANAL İSTANBUL HD
 http://cdn1-kanalistanbultv.yayin.com.tr/kanalistanbultv/ngrp:kanalistanbultv/chunklist_w1612362189_b1596000.m3u8
 #EXTINF:-1,İSTANBUL TV HD
@@ -92,7 +92,7 @@ http://91.134.203.253:30124/baskantv/baskantv/chunklist.m3u8
 #EXTINF:-1,VİYANA TV
 http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
 #EXTINF:-1,360 TV HD
-http://mn-nl.mncdn.com/360tv_live/smil:360tv.smil/playlist.m3u8
+https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 #EXTINF:-1,BEYAZ TV HD
 https://mn-nl.mncdn.com/blutv_beyaztv2/live.m3u8
 #EXTINF:-1,CLC MEDYA TV
