@@ -126,7 +126,7 @@ http://kuzeykibris.tv/m3u8/tv_kktv.m3u8
 #EXTINF:-1,EM TV
 https://cdn.yayin.com.tr/TVEM/TVEM/chunklist.m3u8
 #EXTINF:-1,BLU TV PLAY 1
-https://mn-nl.mncdn.com/blutv_play1_dvr/live_720p2000000kbps/index.m3u8
+https://mn-nl.mncdn.com/blutv_play1srt/smil:blutv_play1srtsmil.smil/chunklist_b4128000.m3u8
 #EXTINF:-1,BLU TV PLAY 2
 https://mn-nl.mncdn.com/blutv_play2_dvr/live_720p2000000kbps/index.m3u8
 #EXTINF:-1,KOBİM TV
