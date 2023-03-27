@@ -111,6 +111,8 @@ http://tv56245.ozelip.com:2052/palatv/palatv/chunklist.m3u8
 https://dygedge2.radyotvonline.net/kralfm/playlist.m3u8
 #EXTINF:-1,BEST FM
 http://officialbestfm.radyotvonline.net/bestfmofficial
+#EXTINF:-1,RADYO D
+https://radyo.duhnet.tv/ak_dtvh_radyod
 #EXTINF:-1,RADYO KULÜP
 http://cdn-radyokulup.yayin.com.tr/radyokulup/radyokulup/chunklist.m3u8
 #EXTINF:-1,RADYO SPOR
