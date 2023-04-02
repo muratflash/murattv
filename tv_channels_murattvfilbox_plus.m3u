@@ -12,7 +12,7 @@ http://germanydnsx11.com:8000/live/Mehmetasil/Fe555543/88982.ts
 #EXTINF:-1,TV 8 HD
 https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
 #EXTINF:-1,FB TV HD
-http://163.172.220.137:8080/kovbox-007/7o8JiJVngf/32433
+http://cdn.x-sportsiptv.cf:8080/live/Mbcelik61/Atlas6161/110505.ts
 #EXTINF:-1,GS TV HD
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
 #EXTINF:-1,KONYA OLAY TV
@@ -140,27 +140,33 @@ http://163.172.220.137:8080/kovbox-007/7o8JiJVngf/31385
 #EXTINF:-1,BEİN SPORTS 2 HD
 http://163.172.220.137:8080/kovbox-007/7o8JiJVngf/31561
 #EXTINF:-1,BEİN SPORTS 3 HD
-http://163.172.220.137:8080/kovbox-007/7o8JiJVngf/30669
+http://cdn.x-sportsiptv.cf:8080/live/Mbcelik61/Atlas6161/150659.ts
 #EXTINF:-1,BEİN SPORTS 4 HD
-http://163.172.220.137:8080/kovbox-007/7o8JiJVngf/31200
+http://cdn.x-sportsiptv.cf:8080/live/Mbcelik61/Atlas6161/150663.ts
 #EXTINF:-1,BEİN MOVİES ACTİON HD
-https://tsriptv.art:443/live/sila1/sila2/100.ts
+http://cdn.x-sportsiptv.cf:8080/live/Mbcelik61/Atlas6161/140195.ts
+#EXTINF:-1,BEİN MOVİES ACTİON 2 HD
+http://cdn.x-sportsiptv.cf:8080/live/Mbcelik61/Atlas6161/140196.ts
 #EXTINF:-1,BEİN MOVİES PREMİERE HD
-https://tsriptv.art:443/live/sila1/sila2/103.ts
+http://cdn.x-sportsiptv.cf:8080/live/Mbcelik61/Atlas6161/110151.ts
 #EXTINF:-1,BEİN MOVİES STARS HD
 https://tsriptv.art:443/live/sila1/sila2/105.ts
 #EXTINF:-1,BEİN MOVİES TÜRK HD
-https://tsriptv.art:443/live/sila1/sila2/6634.ts
+http://cdn.x-sportsiptv.cf:8080/live/Mbcelik61/Atlas6161/110153.ts
 #EXTINF:-1,MOVİE SMART TÜRK HD
-https://tsriptv.art:443/live/sila1/sila2/120.ts
+http://163.172.220.137:8080/kovbox-007/7o8JiJVngf/13857
 #EXTINF:-1,MOVİE SMART CLASSİC HD
-https://tsriptv.art:443/live/sila1/sila2/112.ts
+http://163.172.220.137:8080/kovbox-007/7o8JiJVngf/13865
 #EXTINF:-1,KEMAL SUNAL TV
-https://tsriptv.art:443/live/sila1/sila2/10731.ts
+http://cdn.x-sportsiptv.cf:8080/live/Mbcelik61/Atlas6161/110265.ts
+#EXTINF:-1,ŞENER ŞEN TV
+http://cdn.x-sportsiptv.cf:8080/live/Mbcelik61/Atlas6161/110266.ts
+#EXTINF:-1,İBRAHİM TATLISES TV
+http://cdn.x-sportsiptv.cf:8080/live/Mbcelik61/Atlas6161/110268.ts
 #EXTINF:-1,SİNEMA TV HD
-https://tsriptv.art:443/live/sila1/sila2/130.ts
+http://cdn.x-sportsiptv.cf:8080/live/Mbcelik61/Atlas6161/145569.ts
 #EXTINF:-1,SİNEMA AKSİYON HD
-https://tsriptv.art:443/live/sila1/sila2/128.ts
+http://cdn.x-sportsiptv.cf:8080/live/Mbcelik61/Atlas6161/145572.ts
 #EXTINF:-1,FİL TV HD
 rtmp://umt01.videobulut.com/live/filboxfiltv
 #EXTINF:-1,FİL TV HD 2
