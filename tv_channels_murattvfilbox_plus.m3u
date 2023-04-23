@@ -18,7 +18,7 @@ https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
 #EXTINF:-1,KONYA OLAY TV
 http://olayhabertv42.ozelip.com:28008/olay/olay/playlist.m3u8
 #EXTINF:-1,YANSIMA SİNEMA TV HD
-https://live-server-2.splitstream.io/5438e115-c1ad-41f1-84fe-adb059606c8b/tracks-v1a1/mono.m3u8
+https://ssh101.bozztv.com/ssh101/yansinemaatv/chunks.m3u8
 #EXTINF:-1,YANSIMA SİNEMA CLASSİC HD
 https://live-server-2.splitstream.io/7b3b9e34-626f-4562-92ea-9adcac520468/tracks-v1a1/mono.m3u8
 #EXTINF:-1,TİVİ TÜRK HD
@@ -54,13 +54,13 @@ http://tv86905.radyotelekomtv.com:22808/almanyadaturktv/almanyadaturktv/playlist
 #EXTINF:-1,TELEON TV
 https://streaming.netdirekt.com.tr/35757/teleontv/teleonmediagroup_canliyayin_4kultrahd_/chunks.m3u8
 #EXTINF:-1,TEBER TV
-https://live-server-2.splitstream.io/fe992241-c5b5-464d-a0b6-b9aa254d5ff6/tracks-v1a1/mono.m3u8
+https://ssh101.bozztv.com/ssh101/teber1/chunks.m3u8
 #EXTINF:-1,TRAKYA TÜRK TV
 https://tivi191.ozelip.com:3929/live/zwtyoxkolive.m3u8
 #EXTINF:-1,BRÜKSEL TÜRK TV
 https://vdo.digitalbox.xyz:3248/live/brukselturktvlive.m3u8
 #EXTINF:-1,EURO GENÇ TV
-https://bit.ly/3XJVM14
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/d6484177af1e4203b50c278ffd96d4ab/chunklist_b2592000.m3u8
 #EXTINF:-1,CİNE1 TV
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
 #EXTINF:-1,ÖZBURUN TV
@@ -95,8 +95,6 @@ https://clcmediatv.ozelip.com:3192/stream/play.m3u8
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist_w564654603.m3u8
 #EXTINF:-1,YANSIMA MÜZİK TV HD
 https://live-server-2.splitstream.io/fd15e2fa-310e-46fd-8310-a92599e61696/tracks-v1a1/mono.m3u8
-#EXTINF:-1,KRAL TV HD
-https://dogus-live.daioncdn.net/kraltv/playlist.m3u8
 #EXTINF:-1,KRAL POP TV HD
 https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
 #EXTINF:-1,PALA TV
