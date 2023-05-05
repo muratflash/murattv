@@ -7,6 +7,8 @@ https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 http://gserverwebtv.xyz:8000/live/Mehmetasil/Fe555543/89086.ts
 #EXTINF:-1,TİVİBU SPOR HD
 http://gserverwebtv.xyz:8000/live/Mehmetasil/Fe555543/89071.ts
+#EXTINF:-1,SPOR SMART HD
+http://163.172.220.137:8080/az99ITT9Ck/4j76gEmwGl/29498
 #EXTINF:-1,TV 8,5 HD
 http://gserverwebtv.xyz:8000/live/Mehmetasil/Fe555543/88982.ts
 #EXTINF:-1,TV 8 HD
@@ -56,7 +58,7 @@ https://streaming.netdirekt.com.tr/35757/teleontv/teleonmediagroup_canliyayin_4k
 #EXTINF:-1,TEBER TV
 https://ssh101.bozztv.com/ssh101/teber1/chunks.m3u8
 #EXTINF:-1,TRAKYA TÜRK TV
-https://tivi191.ozelip.com:3929/live/zwtyoxkolive.m3u8
+https://live.artidijitalmedya.com/artidijital_trakyaturk/trakyaturk/chunks.m3u8
 #EXTINF:-1,BRÜKSEL TÜRK TV
 https://vdo.digitalbox.xyz:3248/live/brukselturktvlive.m3u8
 #EXTINF:-1,EURO GENÇ TV
@@ -148,9 +150,9 @@ http://163.172.220.137:8080/az99ITT9Ck/4j76gEmwGl/33438
 #EXTINF:-1,BEİN MOVİES TÜRK HD
 http://163.172.220.137:8080/az99ITT9Ck/4j76gEmwGl/33439
 #EXTINF:-1,MOVİE SMART TÜRK HD
-http://163.172.220.137:8080/az99ITT9Ck/4j76gEmwGl/33420
+http://163.172.220.137:8080/az99ITT9Ck/4j76gEmwGl/13857
 #EXTINF:-1,MOVİE SMART CLASSİC HD
-http://163.172.220.137:8080/az99ITT9Ck/4j76gEmwGl/33419
+http://163.172.220.137:8080/az99ITT9Ck/4j76gEmwGl/13865
 #EXTINF:-1,KEMAL SUNAL TV 1
 http://mserver50.xyz:8080/Seyfullah/14531453/110264
 #EXTINF:-1,KEMAL SUNAL TV 2
