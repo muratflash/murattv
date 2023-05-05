@@ -1,6 +1,6 @@
 #EXTINF:
 #EXTINF:-1,BEİN SPORTS HABER
-http://163.172.220.137:8080/az99ITT9Ck/4j76gEmwGl/33293
+http://163.172.220.137:8080/az99ITT9Ck/4j76gEmwGl/33045
 #EXTINF:-1,TRT SPOR HD
 https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,A SPOR HD
@@ -112,7 +112,7 @@ https://wowza1.radyotvonline.com/saran/radyospor.stream/chunklist_w959732395.m3u
 #EXTINF:-1,TRT RADYO 1
 https://rd-trtradyo1.medya.trt.com.tr/master_128.m3u8
 #EXTINF:-1,TGRT FM
-https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fead000e2128.smil/chunklist_b200000.m3u8
+https://nminhgrts.mediatriple.net/tgrtfm.aac
 #EXTINF:-1,RADYO HUZUR PINARI
 https://radyo.huzurpinari.com:8443/radio/8050/radio.mp3
 #EXTINF:-1,KUZEY KIBRIS TV
