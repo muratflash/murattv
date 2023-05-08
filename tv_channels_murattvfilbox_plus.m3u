@@ -139,8 +139,6 @@ http://163.172.220.137:8080/az99ITT9Ck/4j76gEmwGl/33282
 http://163.172.220.137:8080/az99ITT9Ck/4j76gEmwGl/33285
 #EXTINF:-1,BEİN MOVİES ACTİON HD
 http://163.172.220.137:8080/az99ITT9Ck/4j76gEmwGl/33433
-#EXTINF:-1,BEİN MOVİES ACTİON 2 HD
-http://163.172.220.137:8080/az99ITT9Ck/4j76gEmwGl/33434
 #EXTINF:-1,BEİN MOVİES PREMİERE HD
 http://163.172.220.137:8080/az99ITT9Ck/4j76gEmwGl/33436
 #EXTINF:-1,BEİN MOVİES PREMİERE 2 HD
@@ -169,6 +167,12 @@ http://mserver50.xyz:8080/Seyfullah/14531453/110269
 http://163.172.220.137:8080/az99ITT9Ck/4j76gEmwGl/33421
 #EXTINF:-1,SİNEMA AKSİYON HD
 http://163.172.220.137:8080/az99ITT9Ck/4j76gEmwGl/33425
+#EXTINF:-1,FİLMBOX HD
+http://gserverwebtv.xyz:8000/Mehmetasil/Fe555543/89282
+#EXTINF:-1,FX HD
+http://163.172.220.137:8080/az99ITT9Ck/4j76gEmwGl/36935
+#EXTINF:-1,EPİC DRAMA
+http://163.172.220.137:8080/az99ITT9Ck/4j76gEmwGl/33414
 #EXTINF:-1,FİL TV HD
 rtmp://umt01.videobulut.com/live/filboxfiltv
 #EXTINF:-1,FİLMAX HD
@@ -181,8 +185,6 @@ rtmp://umt01.videobulut.com/live/filboxaksiyon
 rtmp://umt01.videobulut.com/live/filboxkomedi
 #EXTINF:-1,FİLMCLUB FAMİLY HD
 rtmp://umt01.videobulut.com/live/filboxfamily
-#EXTINF:-1,FİLMBOX HD
-http://gserverwebtv.xyz:8000/Mehmetasil/Fe555543/89282
 #EXTINF:-1,BEYAZ MEDYA TV DİZİ
 https://cdn-beyazmedyatv.yayin.com.tr/beyazmedyatv-dizi/tracks-v1a1/mono.m3u8
 #EXTINF:-1,BEYAZ MEDYA TV YEŞİLÇAM
