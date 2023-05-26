@@ -1,6 +1,6 @@
 #EXTINF:
 #EXTINF:-1,BEİN SPORTS HABER
-http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/7448
+http://minnos.org:8080/live/Ali124/JU7YZ44B/2091.ts
 #EXTINF:-1,TRT SPOR HD
 https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,A SPOR HD
@@ -8,13 +8,13 @@ http://gserverwebtv.xyz:8000/live/Mehmetasil/Fe555543/89086.ts
 #EXTINF:-1,TİVİBU SPOR HD
 http://gserverwebtv.xyz:8000/live/Mehmetasil/Fe555543/89071.ts
 #EXTINF:-1,SPOR SMART HD
-http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/1750
+http://minnos.org:8080/live/Ali124/JU7YZ44B/53.ts
 #EXTINF:-1,TV 8,5 HD
 http://gserverwebtv.xyz:8000/live/Mehmetasil/Fe555543/88982.ts
 #EXTINF:-1,TV 8 HD
 https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
 #EXTINF:-1,FB TV HD
-http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/575
+http://minnos.org:8080/live/Ali124/JU7YZ44B/818.ts
 #EXTINF:-1,GS TV HD
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
 #EXTINF:-1,KONYA OLAY TV
@@ -24,7 +24,7 @@ https://ssh101.bozztv.com/ssh101/yansinemaatv/chunks.m3u8
 #EXTINF:-1,TİVİ TÜRK HD
 https://stream.tiviturk.de/live/tiviturk.m3u8
 #EXTINF:-1,SÜPER TÜRK TV
-http://95.179.215.242:3923/stream/play.m3u8
+http://64.176.187.72:3942/stream/play.m3u8
 #EXTINF:-1,SANCAK TV HD
 https://2.rtmp.org/tv219/yayin.stream/playlist.m3u8
 #EXTINF:-1,SİNEMAX TV
@@ -121,16 +121,18 @@ https://mn-nl.mncdn.com/blutv_play2_dvr/live_720p2000000kbps/index.m3u8
 http://cdn-kobimtv.yayin.com.tr/kobimtv/kobimtv/chunklist.m3u8
 #EXTINF:-1,DİSCOVERY İD HD
 https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/master.m3u8
+#EXTINF:-1,BEİN SPORTS 4K
+http://minnos.org:8080/live/Ali124/JU7YZ44B/9794.ts
 #EXTINF:-1,BEİN SPORTS 1 HD
-http://gamsgo.cyou:8080/live/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/1735.ts
+http://minnos.org:8080/live/Ali124/JU7YZ44B/663.ts
 #EXTINF:-1,BEİN SPORTS 2 HD
-http://gamsgo.cyou:8080/live/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/1737.ts
+http://minnos.org:8080/live/Ali124/JU7YZ44B/56.ts
 #EXTINF:-1,BEİN SPORTS 3 HD
-http://gamsgo.cyou:8080/live/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/1739.ts
+http://minnos.org:8080/live/Ali124/JU7YZ44B/57.ts
 #EXTINF:-1,BEİN SPORTS 4 HD
-http://gamsgo.cyou:8080/live/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/7450.ts
+http://minnos.org:8080/live/Ali124/JU7YZ44B/253.ts
 #EXTINF:-1,BEİN MOVİES ACTİON HD
-http://163.172.220.137:8080/az99ITT9Ck/4j76gEmwGl/33433
+http://lserver100.xyz:8080/Seyfullah/14531453/140195
 #EXTINF:-1,BEİN MOVİES PREMİERE HD
 http://minnos.org:8080/live/Ali124/JU7YZ44B/2009.ts
 #EXTINF:-1,BEİN MOVİES PREMİERE 2 HD
@@ -164,9 +166,7 @@ http://minnos.org:8080/live/Ali124/JU7YZ44B/5768.ts
 #EXTINF:-1,FİLMBOX HD
 http://gserverwebtv.xyz:8000/Mehmetasil/Fe555543/89282
 #EXTINF:-1,FX HD
-http://163.172.220.137:8080/az99ITT9Ck/4j76gEmwGl/36935
-#EXTINF:-1,EPİC DRAMA
-http://163.172.220.137:8080/az99ITT9Ck/4j76gEmwGl/33414
+http://germanydnsx13.com:8080/live/Mehmetasil/Fe555543/89206.ts
 #EXTINF:-1,FİL TV HD
 rtmp://umt01.videobulut.com/live/filboxfiltv
 #EXTINF:-1,FİLMAX HD
