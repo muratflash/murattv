@@ -93,6 +93,8 @@ https://live-server-2.splitstream.io/fd15e2fa-310e-46fd-8310-a92599e61696/tracks
 https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
 #EXTINF:-1,PALA TV
 http://tv56245.ozelip.com:2052/palatv/palatv/chunklist.m3u8
+#EXTINF:-1,SLOW KARADENİZ TV
+https://yayin.slowkaradeniztv.com:3390/multi_web/play.m3u8
 #EXTINF:-1,KRAL FM
 https://dygedge2.radyotvonline.net/kralfm/playlist.m3u8
 #EXTINF:-1,BEST FM
