@@ -24,7 +24,7 @@ https://ssh101.bozztv.com/ssh101/yansinemaatv/chunks.m3u8
 #EXTINF:-1,TİVİ TÜRK HD
 https://stream.tiviturk.de/live/tiviturk.m3u8
 #EXTINF:-1,SÜPER TÜRK TV
-http://64.176.187.72:3942/stream/play.m3u8
+http://34.107.124.147:3942/stream/play.m3u8
 #EXTINF:-1,SANCAK TV HD
 https://2.rtmp.org/tv219/yayin.stream/playlist.m3u8
 #EXTINF:-1,SİNEMAX TV
