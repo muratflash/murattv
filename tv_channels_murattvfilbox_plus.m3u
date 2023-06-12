@@ -25,10 +25,12 @@ https://ssh101.bozztv.com/ssh101/yansinemaatv/chunks.m3u8
 https://stream.tiviturk.de/live/tiviturk.m3u8
 #EXTINF:-1,SÜPER TÜRK TV
 http://34.107.124.147:3942/stream/play.m3u8
-#EXTINF:-1,SANCAK TV HD
-https://2.rtmp.org/tv219/yayin.stream/playlist.m3u8
 #EXTINF:-1,SİNEMAX TV
 https://film.ozelip.com:3344/stream/play.m3u8
+#EXTINF:-1,TELEON TV
+https://streaming.netdirekt.com.tr/35757/teleontv/klasmediagroup_lisansli_4kultrahd_/chunks.m3u8
+#EXTINF:-1,SANCAK TV HD
+https://2.rtmp.org/tv219/yayin.stream/playlist.m3u8
 #EXTINF:-1,TV 48
 https://ajansplay.com:5443/LiveApp/streams/tv48.m3u8
 #EXTINF:-1,DENİZ POSTASI TV
@@ -49,8 +51,6 @@ https://is.gd/NdDhgK.m3u8
 https://cdn1-skyhabertv.yayin.com.tr/skyhabertv/skyhabertv/chunklist_w1126474240_b1996000.m3u8
 #EXTINF:-1,TV AVRUPA
 http://tv86905.radyotelekomtv.com:22808/almanyadaturktv/almanyadaturktv/playlist.m3u8
-#EXTINF:-1,OA TV
-https://cdn-oatasoytv.yayin.com.tr/oatasoytv/oatasoytv/chunklist_w1202525982.m3u8
 #EXTINF:-1,TRAKYA TÜRK TV
 https://live.artidijitalmedya.com/artidijital_trakyaturk/trakyaturk/chunks.m3u8
 #EXTINF:-1,BRÜKSEL TÜRK TV
@@ -181,11 +181,3 @@ rtmp://umt01.videobulut.com/live/filboxaksiyon
 rtmp://umt01.videobulut.com/live/filboxkomedi
 #EXTINF:-1,FİLMCLUB FAMİLY HD
 rtmp://umt01.videobulut.com/live/filboxfamily
-#EXTINF:-1,BEYAZ MEDYA TV DİZİ
-https://cdn-beyazmedyatv.yayin.com.tr/beyazmedyatv-dizi/tracks-v1a1/mono.m3u8
-#EXTINF:-1,BEYAZ MEDYA TV YEŞİLÇAM
-https://beyazmedyatv.yayin.com.tr/beyazmedyatv-yesilcam/video.m3u8
-#EXTINF:-1,BEYAZ MEDYA TV SİNEMA
-https://beyazmedyatv.yayin.com.tr/beyazmedyatv-yabanci/video.m3u8
-#EXTINF:-1,YANSIMA SİNEMA CLASSİC HD
-https://live-server-2.splitstream.io/7b3b9e34-626f-4562-92ea-9adcac520468/tracks-v1a1/mono.m3u8
