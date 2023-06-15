@@ -31,8 +31,6 @@ https://film.ozelip.com:3344/stream/play.m3u8
 https://streaming.netdirekt.com.tr/35757/teleontv/klasmediagroup_lisansli_4kultrahd_/chunks.m3u8
 #EXTINF:-1,SANCAK TV HD
 https://2.rtmp.org/tv219/yayin.stream/playlist.m3u8
-#EXTINF:-1,TV 48
-https://ajansplay.com:5443/LiveApp/streams/tv48.m3u8
 #EXTINF:-1,DENİZ POSTASI TV
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
 #EXTINF:-1,AFYON TÜRK TV
@@ -45,6 +43,8 @@ http://91.134.203.253:30124/farkturktv/farkturktv/chunklist.m3u8
 https://tv.ntnhd.com:3588/multi_web/play_720.m3u8
 #EXTINF:-1,KANAL 19
 https://vdo.digitalbox.xyz:3644/live/kanal19tvlive.m3u8
+#EXTINF:-1,AKTİF TV HD
+http://tv86905.radyotelekomtv.com:22808/aktif/aktif/chunklist.m3u8
 #EXTINF:-1,İSVİÇRE TV
 https://is.gd/NdDhgK.m3u8
 #EXTINF:-1,SKY HABER TV
@@ -57,10 +57,10 @@ https://live.artidijitalmedya.com/artidijital_trakyaturk/trakyaturk/chunks.m3u8
 https://vdo.digitalbox.xyz:3248/live/brukselturktvlive.m3u8
 #EXTINF:-1,CİNE1 TV
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
+#EXTINF:-1,TV 48
+https://ajansplay.com:5443/LiveApp/streams/tv48.m3u8
 #EXTINF:-1,ÖZBURUN TV
 http://yilmaz.srfms.com:1935/yilmaz/livestream/chunklist_w1603425648.m3u8
-#EXTINF:-1,AKTİF TV HD
-http://tv86905.radyotelekomtv.com:22808/aktif/aktif/chunklist.m3u8
 #EXTINF:-1,BİR TV HD
 https://live.artidijitalmedya.com/artidijital_birtv/birtv/chunks.m3u8
 #EXTINF:-1,TİVİ6 HD
@@ -75,8 +75,6 @@ http://duzguntv1616.ozelip.net:25192/duzguntv/duzguntv/playlist.m3u8
 https://edge1.socialsmart.tv/adatv/bant1/chunks.m3u8
 #EXTINF:-1,GOP ŞEN TV
 http://91.134.203.253:30124/gopsentv/gopsentv/chunklist.m3u8
-#EXTINF:-1,TV BAŞKAN
-http://91.134.203.253:30124/baskantv/baskantv/chunklist.m3u8
 #EXTINF:-1,VİYANA TV
 http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
 #EXTINF:-1,360 TV HD
@@ -113,14 +111,16 @@ https://nminhgrts.mediatriple.net/tgrtfm.aac
 https://radyo.huzurpinari.com:8443/radio/8050/radio.mp3
 #EXTINF:-1,KUZEY KIBRIS TV
 http://kuzeykibris.tv/m3u8/tv_kktv.m3u8
+#EXTINF:-1,KOBİM TV
+http://cdn-kobimtv.yayin.com.tr/kobimtv/kobimtv/chunklist.m3u8
 #EXTINF:-1,EM TV
 https://cdn.yayin.com.tr/TVEM/TVEM/chunklist.m3u8
+#EXTINF:-1,TV BAŞKAN
+http://91.134.203.253:30124/baskantv/baskantv/chunklist.m3u8
 #EXTINF:-1,BLU TV PLAY 1
 https://mn-nl.mncdn.com/blutv_play1_dvr/live_720p2000000kbps/index.m3u8
 #EXTINF:-1,BLU TV PLAY 2
 https://mn-nl.mncdn.com/blutv_play2_dvr/live_720p2000000kbps/index.m3u8
-#EXTINF:-1,KOBİM TV
-http://cdn-kobimtv.yayin.com.tr/kobimtv/kobimtv/chunklist.m3u8
 #EXTINF:-1,DİSCOVERY İD HD
 https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/master.m3u8
 #EXTINF:-1,BEİN SPORTS 4K
@@ -168,7 +168,7 @@ http://minnos.org:8080/live/Ali124/JU7YZ44B/5768.ts
 #EXTINF:-1,FİLMBOX HD
 http://gserverwebtv.xyz:8000/Mehmetasil/Fe555543/89282
 #EXTINF:-1,FX HD
-http://germanydnsx13.com:8080/live/Mehmetasil/Fe555543/89206.ts
+http://gserverwebtv.xyz:8000/live/Mehmetasil/Fe555543/89206.ts
 #EXTINF:-1,FİL TV HD
 rtmp://umt01.videobulut.com/live/filboxfiltv
 #EXTINF:-1,FİLMAX HD
