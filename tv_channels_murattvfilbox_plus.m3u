@@ -193,5 +193,7 @@ https://krt.blutv.com/blutv_krt_live/live_720p2000000kbps/index.m3u8
 https://mn-nl.mncdn.com/blutv_flashtv/live_720p2000000kbps/index.m3u8
 #EXTINF:-1,ARTI TV
 http://minnos.org:8080/live/Ali124/JU7YZ44B/8835.ts
+#EXTINF:-1,CAN TV
+http://canbroadcast.com:7000/canlican/tv.m3u8
 #EXTINF:-1,YOL TV
 http://minnos.org:8080/live/Ali124/JU7YZ44B/3573.ts
