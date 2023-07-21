@@ -187,3 +187,5 @@ http://minnos.org:8080/live/Ali124/JU7YZ44B/8835.ts
 http://canbroadcast.com:7000/canlican/tv.m3u8
 #EXTINF:-1,YOL TV
 http://minnos.org:8080/live/Ali124/JU7YZ44B/3573.ts
+#EXTINF:-1,MC EU
+http://149.62.183.207:4000/play/a003/index.m3u8
