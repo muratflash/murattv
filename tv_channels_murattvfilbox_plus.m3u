@@ -29,8 +29,6 @@ http://34.16.130.141:3942/stream/play.m3u8
 https://film.ozelip.com:3344/stream/play.m3u8
 #EXTINF:-1,TELEON TV
 https://streaming.netdirekt.com.tr/35757/teleontv/klasmediagroup_lisansli_4kultrahd__/chunks.m3u8
-#EXTINF:-1,SANCAK TV HD
-https://2.rtmp.org/tv219/yayin.stream/playlist.m3u8
 #EXTINF:-1,DENİZ POSTASI TV
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
 #EXTINF:-1,AFYON TÜRK TV
@@ -61,16 +59,10 @@ https://live.artidijitalmedya.com/artidijital_trakyaturk/trakyaturk/chunks.m3u8
 https://vdo.digitalbox.xyz:3248/live/brukselturktvlive.m3u8
 #EXTINF:-1,CİNE1 TV
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
-#EXTINF:-1,TV 48
-https://ajansplay.com:5443/LiveApp/streams/tv48.m3u8
-#EXTINF:-1,ÖZBURUN TV
-http://yilmaz.srfms.com:1935/yilmaz/livestream/chunklist_w1603425648.m3u8
 #EXTINF:-1,BİR TV HD
 https://live.artidijitalmedya.com/artidijital_birtv/birtv/chunks.m3u8
 #EXTINF:-1,TİVİ6 HD
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
-#EXTINF:-1,KANAL İSTANBUL HD
-http://cdn1-kanalistanbultv.yayin.com.tr/kanalistanbultv/ngrp:kanalistanbultv/chunklist_w1612362189_b1596000.m3u8
 #EXTINF:-1,İSTANBUL TV HD
 http://streaming.netdirekt.com.tr:80/35757/msyapi/chunks.m3u8
 #EXTINF:-1,DÜZGÜN TV HD
@@ -81,12 +73,16 @@ https://edge1.socialsmart.tv/adatv/bant1/chunks.m3u8
 http://91.134.203.253:30124/gopsentv/gopsentv/chunklist.m3u8
 #EXTINF:-1,VİYANA TV
 http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
+#EXTINF:-1,SANCAK TV HD
+https://2.rtmp.org/tv219/yayin.stream/playlist.m3u8
 #EXTINF:-1,90PLUS TV
 https://euro90tv-live.cdnnew.com/euro90tv/e9090.m3u8
 #EXTINF:-1,360 TV HD
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 #EXTINF:-1,BEYAZ TV HD
 https://mn-nl.mncdn.com/blutv_beyaztv2/live.m3u8
+#EXTINF:-1,A2 HD
+http://195.230.27.108:8003/play/a01h/index.m3u8
 #EXTINF:-1,CLC MEDYA TV
 https://clcmediatv.ozelip.com:3192/stream/play.m3u8
 #EXTINF:-1,CİNE5 TV HD
@@ -112,9 +108,11 @@ https://wowza1.radyotvonline.com/saran/radyospor.stream/chunklist_w959732395.m3u
 #EXTINF:-1,TRT RADYO 1
 https://rd-trtradyo1.medya.trt.com.tr/master_128.m3u8
 #EXTINF:-1,TGRT FM
-https://nminhgrts.mediatriple.net/tgrtfm.aac
+https://nminhgrts.mediatriple.net/tgrtfm.acc?/;stream.mp3
 #EXTINF:-1,RADYO HUZUR PINARI
 https://radyo.huzurpinari.com:8443/radio/8050/radio.mp3
+#EXTINF:-1,TRT DİYANET ÇOCUK
+http://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,KUZEY KIBRIS TV
 http://kuzeykibris.tv/m3u8/tv_kktv.m3u8
 #EXTINF:-1,KOBİM TV
@@ -136,7 +134,7 @@ http://minnos.org:8080/live/Ali124/JU7YZ44B/57.ts
 #EXTINF:-1,BEİN SPORTS 4 HD
 http://minnos.org:8080/live/Ali124/JU7YZ44B/253.ts
 #EXTINF:-1,BEİN MOVİES ACTİON HD
-http://lideriptv245.xyz:8080/Seyfullah/14531453/140195
+http://lideriptv245.xyz:8080/ilter01/ilter01/140195
 #EXTINF:-1,BEİN MOVİES PREMİERE HD
 http://minnos.org:8080/live/Ali124/JU7YZ44B/2009.ts
 #EXTINF:-1,BEİN MOVİES PREMİERE 2 HD
@@ -150,19 +148,19 @@ http://minnos.org:8080/live/Ali124/JU7YZ44B/458.ts
 #EXTINF:-1,MOVİE SMART CLASSİC HD
 http://minnos.org:8080/live/Ali124/JU7YZ44B/2362.ts
 #EXTINF:-1,KEMAL SUNAL TV 1
-http://lideriptv245.xyz:8080/Seyfullah/14531453/110264
+http://lideriptv245.xyz:8080/ilter01/ilter01/110264
 #EXTINF:-1,KEMAL SUNAL TV 2
-http://lideriptv245.xyz:8080/Seyfullah/14531453/110265
+http://lideriptv245.xyz:8080/ilter01/ilter01/110265
 #EXTINF:-1,KEMAL SUNAL TV 3
 http://minnos.org:8080/live/Ali124/JU7YZ44B/1166.ts
 #EXTINF:-1,ŞENER ŞEN TV
-http://lideriptv245.xyz:8080/Seyfullah/14531453/110266
+http://lideriptv245.xyz:8080/ilter01/ilter01/110266
 #EXTINF:-1,ZEKİ METİN TV
-http://lideriptv245.xyz:8080/Seyfullah/14531453/110267
+http://lideriptv245.xyz:8080/ilter01/ilter01/110267
 #EXTINF:-1,İBRAHİM TATLISES TV
-http://lideriptv245.xyz:8080/Seyfullah/14531453/110268
+http://lideriptv245.xyz:8080/ilter01/ilter01/110268
 #EXTINF:-1,CÜNEYT ARKIN TV
-http://lideriptv245.xyz:8080/Seyfullah/14531453/110269
+http://lideriptv245.xyz:8080/ilter01/ilter01/110269
 #EXTINF:-1,SİNEMA TV HD
 http://minnos.org:8080/live/Ali124/JU7YZ44B/278.ts
 #EXTINF:-1,SİNEMA AKSİYON HD
@@ -185,7 +183,7 @@ https://mn-nl.mncdn.com/blutv_flashtv/live_720p2000000kbps/index.m3u8
 http://minnos.org:8080/live/Ali124/JU7YZ44B/8835.ts
 #EXTINF:-1,CAN TV
 http://canbroadcast.com:7000/canlican/tv.m3u8
-#EXTINF:-1,YOL TV
-http://minnos.org:8080/live/Ali124/JU7YZ44B/3573.ts
+#EXTINF:-1,MEDYA HABER
+http://149.62.183.207:4000/play/a008/index.m3u8
 #EXTINF:-1,MC EU
 http://149.62.183.207:4000/play/a003/index.m3u8
