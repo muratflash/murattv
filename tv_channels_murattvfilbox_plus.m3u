@@ -43,6 +43,10 @@ https://tv.ntnhd.com:3588/multi_web/play_720.m3u8
 https://vdo.digitalbox.xyz:3644/live/kanal19tvlive.m3u8
 #EXTINF:-1,DİZİMAX
 http://cdn-dizimax.yayin.com.tr/dizimax/dizimax/playlist.m3u8
+#EXTINF:-1,SAM TV
+https://cdn-365tv.yayin.com.tr/365tv/365tv/playlist.m3u8
+#EXTINF:-1,NEO CİNE SİNEMA
+https://nimplus3.bozztv.com/yumrcaktv/yumrcaktv/playlist.m3u8
 #EXTINF:-1,AKTİF TV HD
 http://tv86905.radyotelekomtv.com:22808/aktif/aktif/chunklist.m3u8
 #EXTINF:-1,İSVİÇRE TV
@@ -63,6 +67,8 @@ https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
 https://live.artidijitalmedya.com/artidijital_birtv/birtv/chunks.m3u8
 #EXTINF:-1,TİVİ6 HD
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
+#EXTINF:-1,KARDELEN TV
+https://edge1.socialsmart.tv/kardelentv/bant1/playlist.m3u8
 #EXTINF:-1,İSTANBUL TV HD
 http://streaming.netdirekt.com.tr:80/35757/msyapi/chunks.m3u8
 #EXTINF:-1,DÜZGÜN TV HD
@@ -81,6 +87,8 @@ https://euro90tv-live.cdnnew.com/euro90tv/e9090.m3u8
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 #EXTINF:-1,BEYAZ TV HD
 https://mn-nl.mncdn.com/blutv_beyaztv2/live.m3u8
+#EXTINF:-1,A2 HD
+http://149.13.0.73:5001/a2hd
 #EXTINF:-1,CLC MEDYA TV
 https://clcmediatv.ozelip.com:3192/stream/play.m3u8
 #EXTINF:-1,CİNE5 TV HD
