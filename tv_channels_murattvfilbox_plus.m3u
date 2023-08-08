@@ -88,7 +88,7 @@ https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 #EXTINF:-1,BEYAZ TV HD
 https://mn-nl.mncdn.com/blutv_beyaztv2/live.m3u8
 #EXTINF:-1,A2 HD
-http://149.13.0.73:5001/a2hd
+http://zyniptv.com:8080/live/iptv-volkan/HZS49fEXSgye/107269.ts
 #EXTINF:-1,CLC MEDYA TV
 https://clcmediatv.ozelip.com:3192/stream/play.m3u8
 #EXTINF:-1,CİNE5 TV HD
