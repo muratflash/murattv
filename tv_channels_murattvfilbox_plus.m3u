@@ -9,6 +9,14 @@ http://190.2.141.145:8080/live/Mehmetasil/Fe555543/89086.ts
 http://190.2.141.145:8080/live/Mehmetasil/Fe555543/89071.ts
 #EXTINF:-1,SPOR SMART HD
 http://minnos.org:8080/live/Ali124/JU7YZ44B/53.ts
+#EXTINF:-1,BEİN SPORTS 1 HD
+http://minnos.org:8080/live/Ali124/JU7YZ44B/663.ts
+#EXTINF:-1,BEİN SPORTS 2 HD
+http://minnos.org:8080/live/Ali124/JU7YZ44B/56.ts
+#EXTINF:-1,BEİN SPORTS 3 HD
+http://minnos.org:8080/live/Ali124/JU7YZ44B/57.ts
+#EXTINF:-1,BEİN SPORTS 4 HD
+http://minnos.org:8080/live/Ali124/JU7YZ44B/253.ts
 #EXTINF:-1,TV 8,5 HD
 http://190.2.141.145:8080/live/Mehmetasil/Fe555543/88982.ts
 #EXTINF:-1,TV 8 HD
@@ -106,7 +114,7 @@ https://dygedge2.radyotvonline.net/kralfm/playlist.m3u8
 #EXTINF:-1,BEST FM
 http://officialbestfm.radyotvonline.net/bestfmofficial
 #EXTINF:-1,RADYO D
-https://radyo.duhnet.tv/ak_dtvh_radyod
+https://moondigitaledge2.radyotvonline.net/radyod/playlist.m3u8
 #EXTINF:-1,RADYO KULÜP
 http://cdn-radyokulup.yayin.com.tr/radyokulup/radyokulup/chunklist.m3u8
 #EXTINF:-1,RADYO SPOR
@@ -131,14 +139,6 @@ https://mn-nl.mncdn.com/blutv_play1_dvr/live_1080p3500000kbps/index.m3u8
 https://mn-nl.mncdn.com/blutv_play2_dvr/live_720p2000000kbps/index.m3u8
 #EXTINF:-1,DİSCOVERY İD HD
 https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/master.m3u8
-#EXTINF:-1,BEİN SPORTS 1 HD
-http://minnos.org:8080/live/Ali124/JU7YZ44B/663.ts
-#EXTINF:-1,BEİN SPORTS 2 HD
-http://minnos.org:8080/live/Ali124/JU7YZ44B/56.ts
-#EXTINF:-1,BEİN SPORTS 3 HD
-http://minnos.org:8080/live/Ali124/JU7YZ44B/57.ts
-#EXTINF:-1,BEİN SPORTS 4 HD
-http://minnos.org:8080/live/Ali124/JU7YZ44B/253.ts
 #EXTINF:-1,BEİN MOVİES ACTİON HD
 http://lideriptv245.xyz:8080/mrtttu/mrtttu/140195
 #EXTINF:-1,BEİN MOVİES PREMİERE HD
@@ -191,3 +191,15 @@ http://minnos.org:8080/live/Ali124/JU7YZ44B/8835.ts
 http://canbroadcast.com:7000/canlican/tv.m3u8
 #EXTINF:-1,MC EU
 https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&type=live&service=wowza&protocol=https&output=playlist.m3u8
+#EXTINF:-1,BEİN SPORTS 1
+http://zyniptv.com:8080/live/iptv-volkan/HZS49fEXSgye/107195.ts
+#EXTINF:-1,BEİN SPORTS 2
+http://zyniptv.com:8080/live/iptv-volkan/HZS49fEXSgye/107196.ts
+#EXTINF:-1,BEİN SPORTS 3
+http://zyniptv.com:8080/live/iptv-volkan/HZS49fEXSgye/107197.ts
+#EXTINF:-1,BEİN SPORTS 4
+http://zyniptv.com:8080/live/iptv-volkan/HZS49fEXSgye/107198.ts
+#EXTINF:-1,BEİN SPORTS MAX 1
+http://zyniptv.com:8080/live/iptv-volkan/HZS49fEXSgye/107204.ts
+#EXTINF:-1,BEİN SPORTS MAX 2
+http://zyniptv.com:8080/live/iptv-volkan/HZS49fEXSgye/107205.ts
