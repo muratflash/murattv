@@ -53,6 +53,8 @@ https://vdo.digitalbox.xyz:3644/live/kanal19tvlive.m3u8
 http://cdn-dizimax.yayin.com.tr/dizimax/dizimax/playlist.m3u8
 #EXTINF:-1,SAM TV
 https://cdn-365tv.yayin.com.tr/365tv/365tv/playlist.m3u8
+#EXTINF:-1,SABAN TV
+http://new.cache-stream.workers.dev/stream/UCfoQxHKIWW_HrECGLaDrBEw/live.m3u8
 #EXTINF:-1,NEO CİNE SİNEMA
 https://nimplus3.bozztv.com/yumrcaktv/yumrcaktv/playlist.m3u8
 #EXTINF:-1,AKTİF TV HD
