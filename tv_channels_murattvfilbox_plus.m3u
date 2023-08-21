@@ -138,7 +138,7 @@ http://cdn-kobimtv.yayin.com.tr/kobimtv/kobimtv/chunklist.m3u8
 #EXTINF:-1,EM TV
 https://cdn.yayin.com.tr/TVEM/TVEM/chunklist.m3u8
 #EXTINF:-1,BLU TV PLAY 1
-https://mn-nl.mncdn.com/blutv_play1_dvr/live_1080p3500000kbps/index.m3u8
+https://play1dvr.blutv.com/blutv_play1_dvr/live_1080p3500000kbps/index.m3u8
 #EXTINF:-1,BLU TV PLAY 2
 https://mn-nl.mncdn.com/blutv_play2_dvr/live_720p2000000kbps/index.m3u8
 #EXTINF:-1,DİSCOVERY İD HD
