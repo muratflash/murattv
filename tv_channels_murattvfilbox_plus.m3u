@@ -4,9 +4,9 @@ http://minnos.org:8080/live/Ali124/JU7YZ44B/2091.ts
 #EXTINF:-1,TRT SPOR HD
 https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,A SPOR HD
-http://190.2.141.145:8080/live/Canercin/h4KPqlYvug/89086.ts
+http://190.2.141.145:8080/live/fZ2IGAcy/T9VwGpb1/89086.ts
 #EXTINF:-1,TİVİBU SPOR HD
-http://190.2.141.145:8080/live/Canercin/h4KPqlYvug/89071.ts
+http://190.2.141.145:8080/live/fZ2IGAcy/T9VwGpb1/89071.ts
 #EXTINF:-1,SPOR SMART HD
 http://minnos.org:8080/live/Ali124/JU7YZ44B/53.ts
 #EXTINF:-1,BEİN SPORTS 1 HD
@@ -18,7 +18,7 @@ http://minnos.org:8080/live/Ali124/JU7YZ44B/57.ts
 #EXTINF:-1,BEİN SPORTS 4 HD
 http://minnos.org:8080/live/Ali124/JU7YZ44B/253.ts
 #EXTINF:-1,TV 8,5 HD
-http://190.2.141.145:8080/live/Canercin/h4KPqlYvug/88982.ts
+http://190.2.141.145:8080/live/fZ2IGAcy/T9VwGpb1/88982.ts
 #EXTINF:-1,TV 8 HD
 https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
 #EXTINF:-1,FB TV HD
@@ -100,7 +100,7 @@ https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 #EXTINF:-1,BEYAZ TV HD
 https://beyaztvdvr.blutv.com/blutv_beyaztv_dvr2/live_720p2000000kbps/index.m3u8
 #EXTINF:-1,A2 HD
-http://zyniptv.com:8080/live/iptv-volkan/HZS49fEXSgye/107269.ts
+http://23.146.40.157:8080/zorbeyli/bZBdAh3FyA62/59852
 #EXTINF:-1,CLC MEDYA TV
 https://clcmediatv.ozelip.com:3192/stream/play.m3u8
 #EXTINF:-1,CİNE5 TV HD
@@ -178,9 +178,9 @@ http://minnos.org:8080/live/Ali124/JU7YZ44B/278.ts
 #EXTINF:-1,SİNEMA AKSİYON HD
 http://minnos.org:8080/live/Ali124/JU7YZ44B/5768.ts
 #EXTINF:-1,FİLMBOX HD
-http://190.2.141.145:8080/Canercin/h4KPqlYvug/89282
+http://190.2.141.145:8080/fZ2IGAcy/T9VwGpb1/89282
 #EXTINF:-1,FX HD
-http://190.2.141.145:8080/live/Canercin/h4KPqlYvug/89206.ts
+http://190.2.141.145:8080/live/fZ2IGAcy/T9VwGpb1/89206.ts
 #EXTINF:-1,HALK TV
 https://halktv.blutv.com/blutv_halktv_live/live_720p2000000kbps/index.m3u8
 #EXTINF:-1,SÖZCÜ TV
