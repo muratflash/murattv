@@ -209,3 +209,9 @@ http://zyniptv.com:8080/live/iptv-volkan/HZS49fEXSgye/107198.ts
 http://zyniptv.com:8080/live/iptv-volkan/HZS49fEXSgye/107204.ts
 #EXTINF:-1,BEİN SPORTS MAX 2
 http://zyniptv.com:8080/live/iptv-volkan/HZS49fEXSgye/107205.ts
+#EXTINF:-1,TRT SPOR
+Vhttps://trtspordvr.blutv.com/blutv_trtspor_dvr/live.m3u8
+#EXTINF:-1,A SPOR
+http://195.142.1.211:4022/udp/224.2.2.21:10001
+#EXTINF:-1,TV 8,5
+http://50.7.218.122:8080/tv85/index.m3u8
