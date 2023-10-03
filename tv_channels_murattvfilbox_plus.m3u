@@ -223,3 +223,7 @@ https://trtspordvr.blutv.com/blutv_trtspor_dvr/live.m3u8
 https://ythls.onrender.com/channel/UCJElRTCNEmLemgirqvsW63Q.m3u8
 #EXTINF:-1,TV 8,5
 http://50.7.218.122:8080/tv85/index.m3u8
+#EXTINF:-1,İDMAN TV HD
+http://de.iptv.monster/play/439/000B18F39B0BA50/video.m3u8
+#EXTINF:-1,CBC SPORT HD
+http://de.iptv.monster/play/434/000B18F39B0BA50/video.m3u8
