@@ -4,37 +4,31 @@ https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1,TRT 1 HD YEDEK
 https://trt1dvr.blutv.com/blutv_trt1_dvr2/live.m3u8
 #EXTINF:-1,TRT 1 FHD
-https://ddc75c8a6akqr.cloudfront.net...-1/master.m3u8
-#EXTINF:-1,TRT 1 FHD YEDEK
-https://stream2.filbox.com.tr/live/0.../84/index.m3u8
+https://ddc75c8a6akqr.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/master.m3u8
 #EXTINF:-1,TRT 1 FHD YEDEK
 https://tv-trt1-dai.medya.trt.com.tr/master_4.m3u8
 #EXTINF:-1,KANAL D HD
-https://live.duhnet.tv/S2/HLS_LIVE/k.../playlist.m3u8
+https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
 #EXTINF:-1,KANAL D FHD
-https://demiroren.daioncdn.net/kanal...anald_web&ce=3
-#EXTINF:-1,KANAL D FHD YEDEK
-https://stream2.filbox.com.tr/live/7.../17/index.m3u8
+https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
 #EXTINF:-1,STAR TV HD
 https://dogus-live.daioncdn.net/startv/playlist.m3u8
 #EXTINF:-1,ATV HD
 http://51.195.5.44:80/atv/index.m3u8
 #EXTINF:-1,ATV FHD
-https://stream2.filbox.com.tr/live/0...8/8/index.m3u8
+https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/8/index.m3u8
 #EXTINF:-1,SHOW TV HD
 https://showtvdvr.blutv.com/blutv_showtv_dvr2/live.m3u8
 #EXTINF:-1,SHOW TV FHD
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
-#EXTINF:-1,SHOW TV YEDEK
-https://stream2.filbox.com.tr/live/7.../11/index.m3u8
 #EXTINF:-1,KANAL 7 HD
 https://kanal7dvr.blutv.com/blutv_kanal7_dvr2/live.m3u8
 #EXTINF:-1,KANAL 7 FHD
-https://kanal7-live.daioncdn.net/kan...al7_1080p.m3u8
+https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 #EXTINF:-1,FOX TV HD
 https://foxtvdvr.blutv.com/blutv_foxtv_dvr2/live.m3u8
 #EXTINF:-1,FOX TV FHD
-https://stream2.filbox.com.tr/live/7.../20/index.m3u8
+https://stream2.filbox.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/20/index.m3u8
 #EXTINF:-1,360 TV HD
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:-1,360 TV HD YEDEK
@@ -46,17 +40,15 @@ https://tv4.blutv.com/blutv_tv4/live.m3u8
 #EXTINF:-1,TEVE 2 FHD
 https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
 #EXTINF:-1,TEVE 2 FHD YEDEK
-https://stream2.filbox.com.tr/live/7.../34/index.m3u8
+https://stream2.filbox.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/34/index.m3u8
 #EXTINF:-1,BEYAZ TV HD
-https://beyaztvdvr.blutv.com/blutv_b...dvr2/live.m3u8
+https://beyaztvdvr.blutv.com/blutv_beyaztv_dvr2/live.m3u8
 #EXTINF:-1,BEYAZ TV FHD
-https://beyaztv-live.daioncdn.net/be...ztv_1080p.m3u8
-#EXTINF:-1,BEYAZ TV FHD YEDEK
-https://stream2.filbox.com.tr/live/7.../31/index.m3u8
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 #EXTINF:-1,TRT BELGESEL HD
-https://d2xwn494f2lep.cloudfront.net...el/master.m3u8
+https://d2xwn494f2lep.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-Belgesel/master.m3u8
 #EXTINF:-1,TRT BELGESEL HD YEDEK
-https://trtbelgeseldvr.blutv.com/blu..._dvr/live.m3u8
+https://trtbelgeseldvr.blutv.com/blutv_trtbelgesel_dvr/live.m3u8
 #EXTINF:-1,TLC HD
 https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
 #EXTINF:-1,TLC HD YEDEK
@@ -64,63 +56,57 @@ https://tlcdvr.blutv.com/blutv_tlc_dvr2/live.m3u8
 #EXTINF:-1,DMAX TV HD
 https://dmaxdvr.blutv.com/blutv_dmax_dvr/live.m3u8
 #EXTINF:-1,DİSCOVER ID FHD
-https://dnx8nkmlprapr.cloudfront.net.../master_3.m3u8
+https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/master_3.m3u8
 #EXTINF:-1,BLU TV PLAY 1
 https://play1dvr.blutv.com/blutv_play1_dvr/live.m3u8
 #EXTINF:-1,BLU TV PLAY 2
 https://play2dvr.blutv.com/blutv_play2_dvr/live.m3u8
-#EXTINF:-1,TV8 FHD
+#EXTINF:-1,TV 8 FHD
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 #EXTINF:-1,TV 8.5 FHD
-https://tv8.daioncdn.net/tv8bucuk/tv...bucuk_web&ce=3
-#EXTINF:-1,TV 8.5 FHD YEDEK
-http://50.7.218.122:8080/tv85/index.m3u8
+https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?app=tv8bucuk_web&ce=3
 #EXTINF:-1,TiVi 6 HD
-https://live.artidijitalmedya.com/ar.../playlist.m3u8
+https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 #EXTINF:-1,TRT HABER HD
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
-#EXTINF:-1,TRT HABER HD YEDEK
-https://stream2.filbox.com.tr/live/0.../65/index.m3u8
 #EXTINF:-1,NTV HD
 https://dogus-live.daioncdn.net/ntv/playlist.m3u8
-#EXTINF:-1,NTV YEDEK
-https://stream2.filbox.com.tr/live/0.../60/index.m3u8
 #EXTINF:-1,CNN TURK HD
-https://live.duhnet.tv/S2/HLS_LIVE/c.../playlist.m3u8
+https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
 #EXTINF:-1,HABER GLOBAL HD
-https://haberglobaldvr.blutv.com/blu..._dvr/live.m3u8
+https://haberglobaldvr.blutv.com/blutv_haberglobal_dvr/live.m3u8
 #EXTINF:-1,HABER GLOBAL FHD
-https://stream2.filbox.com.tr/live/7.../72/index.m3u8
+https://stream2.filbox.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/72/index.m3u8
 #EXTINF:-1,HABER TURK HD
-https://haberturkdvr.blutv.com/blutv...dvr2/live.m3u8
+https://haberturkdvr.blutv.com/blutv_haberturk_dvr2/live.m3u8
 #EXTINF:-1,HABERTÜRK FHD
-https://stream2.filbox.com.tr/live/0.../54/index.m3u8
+https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/54/index.m3u8
 #EXTINF:-1,TGRT HABER FHD
-https://b01c02nl.mediatriple.net/vid.../playlist.m3u8
-#EXTINF:-1,TGRT HABER FHD YEDEK
-https://stream2.filbox.com.tr/live/7.../83/index.m3u8
-#EXTINF:-1,ULKE TV HD
-https://ulketv.blutv.com/blutv_ulketv2/live.m3u8
-#EXTINF:-1,24 TV FHD
-https://mn-nl.mncdn.com/kanal24/smil...t_b896000.m3u8
+https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8
 #EXTINF:-1,24 TV HD
 https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
+#EXTINF:-1,24 TV FHD
+https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist_b896000.m3u8
 #EXTINF:-1,A HABER
-https://stream2.filbox.com.tr/live/0.../51/index.m3u8
+https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/51/index.m3u8
 #EXTINF:-1,AKiT TV HD
 https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
+#EXTINF:-1,ULKE TV HD
+https://ulketv.blutv.com/blutv_ulketv2/live.m3u8
 #EXTINF:-1,BENGU TURK
-https://ensonhaber-live.ercdn.net/be...benguturk.m3u8
+https://ensonhaber-live.ercdn.net/benguturk/benguturk.m3u8
 #EXTINF:-1,FLASH HABER HD
-https://stream.guventechnology.com:1...v/flashtv.m3u8
+https://stream.guventechnology.com:19360/flashtv/flashtv.m3u8
 #EXTINF:-1,TURK HABER TV HD
-https://edge1.socialsmart.tv/turkhab...t1/chunks.m3u8
+https://edge1.socialsmart.tv/turkhaber/bant1/chunks.m3u8
 #EXTINF:-1,HABER 61 HD
-http://win8.yayin.com.tr/haber61tv/s.../playlist.m3u8
+http://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/playlist.m3u8
 #EXTINF:-1,KANAL 7 AVRUPA FHD
-https://live.kanal7.com/live/kanal7A...ive/index.m3u8
+https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
 #EXTINF:-1,TGRT EU
 https://tv.ensonhaber.com/tgrteu/tgrteu.m3u8
+#EXTINF:-1,TGRT BELGESEL
+https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8?md5=yJ4adbAK5bE0F93vqFevgw&expires=1687122603
 #EXTINF:-1,TRT TURK HD
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1,TRT 2 HD
@@ -128,277 +114,269 @@ https://tv-trt2.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1,TRT AVAZ
 https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1,TELEON TV
-https://streaming.netdirekt.com.tr/3.../playlist.m3u8
+https://streaming.netdirekt.com.tr/35757/teleontv/fogmediagroups_lisansli_ultrahd__/playlist.m3u8
 #EXTINF:-1,TiViTURK HD
 https://stream.tiviturk.de/live/tiviturk.m3u8
 #EXTINF:-1,TV AVRUPA
-http://tv56245.ozelip.com:2052/alman.../playlist.m3u8
+http://tv56245.ozelip.com:2052/almanyadaturktv/almanyadaturktv/playlist.m3u8
 #EXTINF:-1,AFYON TÜRK
-https://tv.digitalbox.xyz:19360/afyo...yonturktv.m3u8
+https://tv.digitalbox.xyz:19360/afyonturktv/afyonturktv.m3u8
 #EXTINF:-1,İSVİCRE TV
 https://is.gd/NdDhgK.m3u8
 #EXTINF:-1,DENiZ POSTASI TV
-https://live.artidijitalmedya.com/ar.../playlist.m3u8
+https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
 #EXTINF:-1,CİNE 1
-https://live.artidijitalmedya.com/ar.../playlist.m3u8
+https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
 #EXTINF:-1,CİNE 5
-https://cdn-cine5tv.yayin.com.tr/cin.../playlist.m3u8
-#EXTINF:-1,TGRT BELGESEL
-https://b01c02nl.mediatriple.net/vid...res=1687122603
-#EXTINF:-1,MELTEM TV FHD
-https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
+https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
 #EXTINF:-1,KRAL POP TV FHD
 http://dygvideo.dygdigital.com/live/hls/kralpop
 #EXTINF:-1,KRAL POP TV HD
-https://dogus-live.daioncdn.net/kral...optv_720p.m3u8
+https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8
 #EXTINF:-1,TRT MUZiK HD
 https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1,DREAM TURK HD
-https://live.duhnet.tv//S2/HLS_LIVE/.../playlist.m3u8
+https://live.duhnet.tv//S2/HLS_LIVE/dreamturknp/playlist.m3u8
 #EXTINF:-1,TATLISES TV HD
-https://live.artidijitalmedya.com/ar.../playlist.m3u8
+https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/playlist.m3u8
 #EXTINF:-1,NR 1 TURK HD
-https://mn-nl.mncdn.com/blutv_nr1turk2/live.m3u8
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/chunklist_b400000.m3u8
+#EXTINF:-1,NR 1 DAMAR HD
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e19877b340.smil/chunklist_b400000.m3u8?md5=api5VtN5dEXl5cvRHMQBNQ&expires=1696713505
 #EXTINF:-1,NR 1 TV HD
-https://mn-nl.mncdn.com/blutv_nr12/live.m3u8
-#EXTINF:-1,POWER TURK FHD
-https://livetv.powerapp.com.tr/power...000_sltur.m3u8
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/chunklist_b400000.m3u8
+#EXTINF:-1,POWER TURK HD
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist_b5250000_sltur.m3u8
 #EXTINF:-1,POWER TURK SLOW
-https://listen.powerapp.com.tr/pturk.../playlist.m3u8
+https://listen.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
 #EXTINF:-1,POWER TV AKUSTiK
-https://listen.powerapp.com.tr/pturk.../playlist.m3u8
+https://listen.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
 #EXTINF:-1,POWER TURK TAPTAZE
-https://listen.powerapp.com.tr/pturk.../playlist.m3u8
+https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
 #EXTINF:-1,POWER DANCE HD
-https://listen.powerapp.com.tr/dance.../playlist.m3u8
+https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8
 #EXTINF:-1,POWER LOVE HD
-https://listen.powerapp.com.tr/plove.../playlist.m3u8
-#EXTINF:-1,POWER TV FHD
-https://livetv.powerapp.com.tr/power...000_sltur.m3u8
+https://listen.powerapp.com.tr/plove/love.smil/playlist.m3u8
+#EXTINF:-1,POWER TV HD
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/chunklist_b1428000_sltur.m3u8
 #EXTINF:-1,MiLYON TV
-https://sosyoapp-live.cdnnew.com/sos...sim-verin.m3u8
+https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
 #EXTINF:-1,SLOW KARADENIZ TV HD
-https://yayin.slowkaradeniztv.com:33..._web/play.m3u8
+https://yayin.slowkaradeniztv.com:3390/multi_web/play.m3u8
+#EXTINF:-1,MELTEM TV FHD
+https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
 #EXTINF:-1,BERAT TV
-http://cdn-berattv.yayin.com.tr/bera.../playlist.m3u8
+http://cdn-berattv.yayin.com.tr/berattv/berattv/playlist.m3u8
 #EXTINF:-1,CAMiA TV FHD
-http://camiatv-live.ercdn.net/camiat...atv_1080p.m3u8
-#EXTINF:-1,DiYANET TV HD
-https://mn-nl.mncdn.com/blutv_diyane...bps/index.m3u8
+http://camiatv-live.ercdn.net/camiatv/camiatv_1080p.m3u8
 #EXTINF:-1,DiYANET TV FHD
-http://eustr73.mediatriple.net/video.../playlist.m3u8
+http://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
 #EXTINF:-1,DOST HD TV
 https://dost.stream.emsal.im/tv/live.m3u8
 #EXTINF:-1,LALEGUL TV FHD
 http://lalegultv.netmedya.net/hls/lalegultv.m3u8
 #EXTINF:-1,SEMERKAND TV FHD
-http://b01c02nl.mediatriple.net/vide.../playlist.m3u8
+http://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
 #EXTINF:-1,GONCA TV
-https://edge1.socialsmart.tv/goncatv.../playlist.m3u8
+https://edge1.socialsmart.tv/goncatv/bant1/playlist.m3u8
 #EXTINF:-1,TRT SPOR HD
 https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,TRT SPOR YEDEK
-https://trtspordvr.blutv.com/blutv_t..._dvr/live.m3u8
+https://trtspordvr.blutv.com/blutv_trtspor_dvr/live.m3u8
 #EXTINF:-1,TRT SPOR YILDIZ HD
 https://tv-trtspor2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,TRT SPOR YILDIZ FHD
-https://trtsporyildiz.blutv.com/blut...64000_DVR.m3u8
+https://trtsporyildiz.blutv.com/blutv_trtsporyildiz_2/smil:trtsporyildiz.smil/chunklist_b2064000_DVR.m3u8
 #EXTINF:-1,A SPOR FHD
-https://stream2.filbox.com.tr/live/7.../75/index.m3u8
-#EXTINF:-1,A SPOR FHD YEDEK
-https://ythls.onrender.com/channel/U...irqvsW63Q.m3u8
+https://stream2.filbox.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/75/index.m3u8
 #EXTINF:-1,GS TV HD
-https://owifavo5.rocketcdn.com/gstv/...il/master.m3u8
-#EXTINF:-1,FENERBAHÇE TV FHD
-https://stream2.filbox.com.tr/live/0...298/index.m3u8
-#EXTINF:-1,FENERBAHÇE TV YEDEK
-https://nimplus6.bozztv.com/fbtv1/fbtv1/playlist.m3u8
+https://owifavo5.rocketcdn.com/gstv1/gstv.smil/master.m3u822
+#EXTINF:-1,FB TV FHD
+https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/298/index.m3u8
 #EXTINF:-1,SPORTS TV
 https://sportstv.blutv.com/blutv_sportstv2/live.m3u8
-#EXTINF:-1,KON TV HD
-https://kontv.blutv.com/blutv_kontv2/live.m3u8
-#EXTINF:-1,DiYAR TV
-https://yayin30.haber100.com/live/diyartv/playlist.m3u8
-#EXTINF:-1,BÜLTEN TV
-https://cdn1-bultentv.yayin.com.tr/b.../playlist.m3u8
 #EXTINF:-1,ANGARA TV HD
-https://angr.radyotvonline.net/webtv...000_sltur.m3u8
+https://angr.radyotvonline.net/webtv/smil:kecioren.smil/chunklist_w976368300_b3268000_sltur.m3u8
+#EXTINF:-1,BÜLTEN TV
+https://cdn1-bultentv.yayin.com.tr/bultentv/bultentv/playlist.m3u8
 #EXTINF:-1,KANAL 3
-https://live.artidijitalmedya.com/ar.../playlist.m3u8
+https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/playlist.m3u8
 #EXTINF:-1,KANAL 15
-https://live.artidijitalmedya.com/ar.../playlist.m3u8
+https://live.artidijitalmedya.com/artidijital_kanal15/kanal15/playlist.m3u8
 #EXTINF:-1,KANAL 23
-https://live.artidijitalmedya.com/ar.../playlist.m3u8
+https://live.artidijitalmedya.com/artidijital_kanal23/kanal23/playlist.m3u8
 #EXTINF:-1,KANAL 23 FHD
-https://cdn13-kanal23.yayin.com.tr/k...v1a1/mono.m3u8
+https://cdn13-kanal23.yayin.com.tr/kanal23/ngrp:kanal23/tracks-v1a1/mono.m3u8
 #EXTINF:-1,KANAL 26
-https://live.artidijitalmedya.com/ar.../playlist.m3u8
+https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/playlist.m3u8
 #EXTINF:-1,KANAL 32
 https://edge1.socialsmart.tv/kanal32/bant1/chunks.m3u8
 #EXTINF:-1,KANAL 33
-https://edge1.socialsmart.tv/kanal33.../playlist.m3u8
+https://edge1.socialsmart.tv/kanal33/bant1/playlist.m3u8
 #EXTINF:-1,KANAL 34
 https://vdo.digitalbox.xyz:3266/live/kanal34tvlive.m3u8
 #EXTINF:-1,KANAL 56
-https://cdn-kanal56tv.yayin.com.tr/k...559405215.m3u8
+https://cdn-kanal56tv.yayin.com.tr/kanal56tv/kanal56tv/chunklist_w559405215.m3u8
 #EXTINF:-1,KANAL 58
 http://yerelmedya.tv:1935/kanal58/bant1/chunks.m3u8
-#EXTINF:-1,KANAL 58 FHD
-https://edge1.socialsmart.tv/kanal58.../playlist.m3u8
+#EXTINF:-1,KANAL 58  FHD
+https://edge1.socialsmart.tv/kanal58/bant1/playlist.m3u8
 #EXTINF:-1,KANAL 68
-https://live.artidijitalmedya.com/ar.../playlist.m3u8
+https://live.artidijitalmedya.com/artidijital_kanal68/kanal68/playlist.m3u8
 #EXTINF:-1,KANAL S
-https://cdn-kanals.yayin.com.tr/kana.../playlist.m3u8
+https://cdn-kanals.yayin.com.tr/kanals/kanals/playlist.m3u8
 #EXTINF:-1,KANAL FIRAT
-https://live.artidijitalmedya.com/ar.../playlist.m3u8
+https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/playlist.m3u8
 #EXTINF:-1,KANAL URFA
-https://broadcasttr.com:446/kanalurf...125528664.m3u8
+https://broadcasttr.com:446/kanalurfa/bant1/chunklist_w1125528664.m3u8
 #EXTINF:-1,KANAL V
-https://waw1.artiyerelmedya.net/kana...t1/chunks.m3u8
+https://waw1.artiyerelmedya.net/kanalv/bant1/chunks.m3u8
 #EXTINF:-1,KANAL Z
-https://live.artidijitalmedya.com/ar.../playlist.m3u8
+https://live.artidijitalmedya.com/artidijital_kanalz/kanalz/playlist.m3u8
 #EXTINF:-1,KANAL B
 https://mn-nl.mncdn.com/blutv_kanalb2/live.m3u8
 #EXTINF:-1,KAÇKAR TV
 https://kackartv.ozelip.com:3898/hybrid/play.m3u8
-#EXTINF:-1,TARIM TV
-https://content.tvkur.com/l/c7e1da7m...dex-1080p.m3u8
 #EXTINF:-1,KANAL AVRUPA FHD
 https://api-tv27.yayin.com.tr/kanalavrupa/index.m3u8
+#EXTINF:-1,TARIM TV
+https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/index-1080p.m3u8
 #EXTINF:-1,AGRO TV
 https://yayin30.haber100.com/live/agrotv/playlist.m3u8
-#EXTINF:-1,ADA TV
-https://edge1.socialsmart.tv/adatv/bant1/chunks.m3u8
-#EXTINF:-1,MUGLA TV
-https://edge1.socialsmart.tv/muglatu...t1/chunks.m3u8
-#EXTINF:-1,KÖROĞLU TV
-https://edge1.socialsmart.tv/koroglu...t1/chunks.m3u8
+#EXTINF:-1,MUGLA TÜRK TV
+https://edge1.socialsmart.tv/muglaturk/bant1/chunks.m3u8
 #EXTINF:-1,ViYANA TV HD
-http://nrttn172.kesintisizyayin.com:.../playlist.m3u8
+http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
 #EXTINF:-1,WORLD TURK
-https://live.artidijitalmedya.com/ar.../playlist.m3u8
+https://live.artidijitalmedya.com/artidijital_worldturk/worldturk/playlist.m3u8
 #EXTINF:-1,KARDELEN TV HD
-https://edge1.socialsmart.tv/kardele...u8?WithCaption
+https://edge1.socialsmart.tv/kardelentv/bant1/playlist.m3u8?WithCaption
 #EXTINF:-1,TRAKYA TÜRK TV
-https://live.artidijitalmedya.com/ar.../playlist.m3u8
+https://live.artidijitalmedya.com/artidijital_trakyaturk/trakyaturk/playlist.m3u8
 #EXTINF:-1,TV 264 SAKARYA TV
-https://b01c02nl.mediatriple.net/vid...res=1651666386
-#EXTINF:-1,TV 41 KOCAELi
-https://live.artidijitalmedya.com/ar.../playlist.m3u8
-#EXTINF:-1,TV 41 YEDEK
-http://stream.taksimbilisim.com:1935...ant1/TV41.m3u8
+https://b01c02nl.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee244263fd6d.smil/playlist.m3u8?md5=qb_9l3erQIDqZMjbKfALzA&expires=1651666386
 #EXTINF:-1,TV 48
 https://ajansplay.com:5443/LiveApp/streams/tv48.m3u8
+#EXTINF:-1,TV 41 KOCAELi
+https://live.artidijitalmedya.com/artidijital_tv41/tv41/playlist.m3u8
 #EXTINF:-1,TV 52
 https://edge1.socialsmart.tv/tv52/bant1/playlist.m3u8
 #EXTINF:-1,TV 90
 https://tv90-live.cdnnew.com/tv90/tv90.m3u8
-#EXTINF:-1,GUNAYDIN TV
-https://tv.digitalbox.xyz:19360/guna...unaydintv.m3u8
+#EXTINF:-1,KÖROĞLU TV
+https://edge1.socialsmart.tv/koroglutv/bant1/chunks.m3u8
+#EXTINF:-1,ADA TV
+https://edge1.socialsmart.tv/adatv/bant1/chunks.m3u8
 #EXTINF:-1,AKSU TV
-https://live.artidijitalmedya.com/ar.../playlist.m3u8
+https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8
 #EXTINF:-1,ANADOLUNET TV
-https://live.artidijitalmedya.com/ar.../playlist.m3u8
+https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/playlist.m3u8
 #EXTINF:-1,ULUSAL KANAL
-https://stream2.filbox.com.tr/live/7.../85/index.m3u8
+https://stream2.filbox.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/85/index.m3u8
 #EXTINF:-1,BRTV
-https://live.artidijitalmedya.com/ar.../playlist.m3u8
+https://live.artidijitalmedya.com/artidijital_brtv/brtv/playlist.m3u8
 #EXTINF:-1,BARTIN TV HD
-http://cdn-bartintv.yayin.com.tr/BAR...896416726.m3u8
+http://cdn-bartintv.yayin.com.tr/BARTINTV/BARTINTV/chunklist_w896416726.m3u8
 #EXTINF:-1,BEA TV
-https://yayin30.haber100.com/live/be...chunklist.m3u8
+https://yayin30.haber100.com/live/beykenttv/chunklist.m3u8
+#EXTINF:-1,BİZİM TV
+https://bizimev.blutv.com/blutv_bizimev/bizimev_sd.smil/chunklist_b2064000.m3u8
 #EXTINF:-1,BURSA ON6 TV
-https://live.artidijitalmedya.com/ar.../playlist.m3u8
+https://live.artidijitalmedya.com/artidijital_kanal16/kanal16/playlist.m3u8
 #EXTINF:-1,BURSA LiNE TV
 https://edge1.socialsmart.tv/linetv/bant1/chunks.m3u8
-#EXTINF:-1,BİZİM TV
-https://bizimev.blutv.com/blutv_bizi..._b2064000.m3u8
 #EXTINF:-1,CAY TV
 https://edge1.socialsmart.tv/caytv/bant1/chunks.m3u8
 #EXTINF:-1,GURBET 24 TV
-http://cdn1-gurbet24.yayin.com.tr/gu...by:iptvcat.com
+http://cdn1-gurbet24.yayin.com.tr/gurbet24/ngrp:gurbet24/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,GUNAYDIN TV
+https://tv.digitalbox.xyz:19360/gunaydintv/gunaydintv.m3u8
 #EXTINF:-1,GUNEY TV TARSUS
-https://live.artidijitalmedya.com/ar.../playlist.m3u8
+https://live.artidijitalmedya.com/artidijital_guneytv/guneytv/playlist.m3u8
 #EXTINF:-1,HUNAT TV KAYSERi
-https://live.artidijitalmedya.com/ar.../playlist.m3u8
+https://live.artidijitalmedya.com/artidijital_hunattv/hunattv/playlist.m3u8
 #EXTINF:-1,GRT GAZiANTEP TV
-https://live.artidijitalmedya.com/ar.../playlist.m3u8
+https://live.artidijitalmedya.com/artidijital_grt/grt1/playlist.m3u8
+#EXTINF:-1,DiYAR TV
+https://yayin30.haber100.com/live/diyartv/playlist.m3u8
 #EXTINF:-1,KAY TV
-https://live.artidijitalmedya.com/ar.../playlist.m3u8
+https://live.artidijitalmedya.com/artidijital_kaytv/kaytv1/playlist.m3u8
+#EXTINF:-1,KON TV HD
+https://kontv.blutv.com/blutv_kontv2/live.m3u8
 #EXTINF:-1,ERT SAH TV
-https://cdn-ertsahtv.yayin.com.tr/er.../playlist.m3u8
+https://cdn-ertsahtv.yayin.com.tr/ertsahtv/ertsahtv/playlist.m3u8
 #EXTINF:-1,EDESSA TV URFA
 https://tv.digitalbox.xyz:19360/edessatv/edessatv.m3u8
 #EXTINF:-1,ETV KAYSERi
-https://live.artidijitalmedya.com/ar.../playlist.m3u8
+https://live.artidijitalmedya.com/artidijital_etv/etv/playlist.m3u8
 #EXTINF:-1,ETV MANiSA
-https://edge1.socialsmart.tv/manisae.../playlist.m3u8
+https://edge1.socialsmart.tv/manisaetv/bant1/playlist.m3u8
 #EXTINF:-1,ER TV MALATYA HD
-https://live.artidijitalmedya.com/ar.../playlist.m3u8
+https://live.artidijitalmedya.com/artidijital_ertv/ertv/playlist.m3u8
 #EXTINF:-1,EKOL TV
-https://live.artidijitalmedya.com/ar...tv/chunks.m3u8
+https://live.artidijitalmedya.com/artidijital_ekoltv/ekoltv/chunks.m3u8
 #EXTINF:-1,DRT DENiZLi
-http://stream2.taksimbilisim.com:193.../playlist.m3u8
+http://stream2.taksimbilisim.com:1935/drt/smil:drt.smil/playlist.m3u8
 #EXTINF:-1,PALA TV HD
-http://palatv34.ozelip.com:22372/pal.../playlist.m3u8
+http://palatv34.ozelip.com:22372/palatv/palatv/playlist.m3u8
 #EXTINF:-1,OLAY TV HD
-http://nrttn172.kesintisizyayin.com:.../playlist.m3u8
+http://nrttn172.kesintisizyayin.com:29010/olay/olay/playlist.m3u8
 #EXTINF:-1,TV DEN
 http://canli.tvden.com.tr/hls/live.m3u8
 #EXTINF:-1,TV ADANA HD
-https://live.artidijitalmedya.com/ar.../playlist.m3u8
+https://live.artidijitalmedya.com/artidijital_tva/tva/playlist.m3u8
 #EXTINF:-1,TON TV
-https://live.artidijitalmedya.com/ar.../playlist.m3u8
+https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8
 #EXTINF:-1,BİR TV
-https://live.artidijitalmedya.com/ar.../playlist.m3u8
+https://live.artidijitalmedya.com/artidijital_birtv/birtv/playlist.m3u8
 #EXTINF:-1,ÖNCÜ TV
-https://edge1.socialsmart.tv/oncurtv.../playlist.m3u8
+https://edge1.socialsmart.tv/oncurtv/bant1/playlist.m3u8
 #EXTINF:-1,ORT TV
 https://edge1.socialsmart.tv/orttv/bant1/playlist.m3u8
 #EXTINF:-1,iCEL TV HD
 https://edge1.socialsmart.tv/iceltv/bant1/playlist.m3u8
 #EXTINF:-1,UR FANATiK TV
-https://live.artidijitalmedya.com/ar.../playlist.m3u8
+https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/playlist.m3u8
 #EXTINF:-1,VAN GOLU TV
-https://cdn1-vangolutv.yayin.com.tr/.../playlist.m3u8
-#EXTINF:-1,TRT COCUK HD
-https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1,REHBER TV
-https://yayin30.haber100.com/live/re.../playlist.m3u8
-#EXTINF:-1,KUDUS TV
-https://yayin30.haber100.com/live/ku...chunklist.m3u8
+https://cdn1-vangolutv.yayin.com.tr/vangolutv/amlst:vangolutv/playlist.m3u8
 #EXTINF:-1,KANAL ORDU TV
 https://vdo.digitalbox.xyz:3791/stream/play.m3u8
 #EXTINF:-1,KANAL ON 4 TV
 https://edge1.socialsmart.tv/on4/bant1/playlist.m3u8
 #EXTINF:-1,VUSLAT TV HD
-https://live.artidijitalmedya.com/ar.../playlist.m3u8
+https://live.artidijitalmedya.com/artidijital_vuslattv/vuslattv/playlist.m3u8
 #EXTINF:-1,EDiRNE TV
 https://yayin.edirnetv.com:8088/hls/etvcanliyayin.m3u8
 #EXTINF:-1,ES TV
-https://live.artidijitalmedya.com/ar.../playlist.m3u8
+https://live.artidijitalmedya.com/artidijital_estv/estv/playlist.m3u8
 #EXTINF:-1,TOKAT TV
-https://cdn-tokattvwebtv.yayin.com.t.../playlist.m3u8
+https://cdn-tokattvwebtv.yayin.com.tr/tokattvwebtv/tokattvwebtv/playlist.m3u8
 #EXTINF:-1,OLAY TURK KAYSERi TV
-https://live.artidijitalmedya.com/ar.../playlist.m3u8
-#EXTINF:-1,GUNEYDOGU TV
-http://stream2.taksimbilisim.com:193.../playlist.m3u8
+https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/playlist.m3u8
 #EXTINF:-1,TV 1 KAYSERi
-http://stream.taksimbilisim.com:1935.../playlist.m3u8
+http://stream.taksimbilisim.com:1935/tv1/bant1/playlist.m3u8
+#EXTINF:-1,GUNEYDOGU TV
+http://stream2.taksimbilisim.com:1935/gtv/bant1/playlist.m3u8
+#EXTINF:-1,DEHA TV
+https://live.artidijitalmedya.com/artidijital_dehatv/dehatv/playlist.m3u8
 #EXTINF:-1,MAVi KARADENiZ TV
-https://live.artidijitalmedya.com/ar.../playlist.m3u8
+https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8
 #EXTINF:-1,TEMPO TV
-https://live.artidijitalmedya.com/ar.../playlist.m3u8
+https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8
 #EXTINF:-1,SUN TV
-https://live.artidijitalmedya.com/ar.../playlist.m3u8
+https://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/playlist.m3u8
 #EXTINF:-1,ALANYA POSTA TV
 http://win4.yayin.com.tr/postatv/postatv/simba.m3u8
 #EXTINF:-1,WOMEN KADIN TV
 https://embedlp.becdn.net/womantv.m3u8
 #EXTINF:-1,TEK RUMELi TV
-https://edge1.socialsmart.tv/tekrume.../playlist.m3u8
+https://edge1.socialsmart.tv/tekrumelitv/bant1/playlist.m3u8
 #EXTINF:-1,TV MOR
 https://vdo.digitalbox.xyz:3175/live/tvmorlive.m3u8
+#EXTINF:-1,VRT HD
+https://vrttv.ozelip.com:3644/multi_web/play_720.m3u8
+#EXTINF:-1,TRT COCUK HD
+https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1,EBA iLKOKUL
 https://tv-e-okul00.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,EBA ORTAOKUL
@@ -411,52 +389,60 @@ https://mn-nl.mncdn.com/blutv_ebai2/live.m3u8
 https://mn-nl.mncdn.com/blutv_ebao2/live.m3u8
 #EXTINF:-1,EBA LiSE YEDEK
 https://mn-nl.mncdn.com/blutv_ebal2/live.m3u8
+#EXTINF:-1,BLOOMBERG HT
+https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8
 #EXTINF:-1,BOOMERANG TV
 https://boomerang.blutv.com/blutv_boomerang/live.m3u8
 #EXTINF:-1,FORTUNA TV
-https://fortunacdn.socialsmart.tv/ft.../playlist.m3u8
-#EXTINF:-1,DEHA TV
-https://live.artidijitalmedya.com/ar.../playlist.m3u8
-#EXTINF:-1,FiNEST TV
-http://media.finest.tv/hls/live.m3u8
+https://fortunacdn.socialsmart.tv/ftvturk/bant1/playlist.m3u8
 #EXTINF:-1,ERCiS TV
-https://cdn1-ercistv.yayin.com.tr/er...chunklist.m3u8
+https://cdn1-ercistv.yayin.com.tr/ercistv/amlst:ercistv/chunklist.m3u8
 #EXTINF:-1,SiNOP YILDIZ TV
 http://s01.vpis.io/sinopyildiz/sinopyildiz.m3u8
+#EXTINF:-1,REHBER TV
+https://yayin30.haber100.com/live/rehbertv/playlist.m3u8
+#EXTINF:-1,KUDUS TV
+https://yayin30.haber100.com/live/kudustv/chunklist.m3u8
+#EXTINF:-1,DÜZGÜN TV
+http://duzguntv1616.ozelip.net:25192/duzguntv/duzguntv/playlist.m3u8
+#EXTINF:-1,ALMANYA TV
+http://tv86905.radyotelekomtv.com:22808/almanyatv/almanyatv/chunklist.m3u8
+#EXTINF:-1,SÜPRİZ TV
+https://yayin30.haber100.com/live/surpriztv/chunklist_w313408686.m3u8
+#EXTINF:-1,REHBERİM TV
+http://nrttn172.kesintisizyayin.com:29010/rehbermitv/rehbermitv/sec-f5-v1-a1.m3u8
 #EXTINF:-1,İLK TV
-https://592f1881b3d5f.streamlock.net.../playlist.m3u8
-#EXTINF:-1,BLOOMBERG HT
-https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8
-#EXTINF:-1,BRiC-SATRANC TV
-http://139.162.182.79/live/test/index.m3u8
+https://592f1881b3d5f.streamlock.net:1443/santraltv_294/santraltv_294/playlist.m3u8
 #EXTINF:-1,HRT AKDENiZ
-https://vod02.cdn.web.tv/cn/ov/cnovv...-f3-v1-a1.m3u8
+https://vod02.cdn.web.tv/cn/ov/cnovvu97lqw_,240,360,480,.mp4.urlset/playlist-f3-v1-a1.m3u8
 #EXTINF:-1,BRT 1 KIBRIS
-https://sc-kuzeykibrissmarttv.ercdn..../playlist.m3u8
+https://sc-kuzeykibrissmarttv.ercdn.net/brt1hd/bant1/playlist.m3u8
 #EXTINF:-1,BRT 2 KIBRIS
-https://sc-kuzeykibrissmarttv.ercdn..../playlist.m3u8
+https://sc-kuzeykibrissmarttv.ercdn.net/brt2hd/bant1/playlist.m3u8
 #EXTINF:-1,BESiKTAS WEB TV
 http://s01.vpis.io/besiktas/besiktas.m3u8
 #EXTINF:-1,CEKMEKOY BELEDiYE TV
-https://cdn-cekmekoybeltv.yayin.com...._b1694720.m3u8
+https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/amlst:cekmekoybeltv/chunklist_w1305163043_b1694720.m3u8
 #EXTINF:-1,ESENLER SEHiR EKRANI
-https://yayin30.haber100.com/live/se...128481069.m3u8
+https://yayin30.haber100.com/live/sehirekrani/chunklist_w1128481069.m3u8
 #EXTINF:-1,ERZURUM WEB TV
-https://win29.yayin.com.tr/erzurumwe.../playlist.m3u8
+https://win29.yayin.com.tr/erzurumwebtv/erzurumwebtv/playlist.m3u8
 #EXTINF:-1,ORDU BEL TV
-https://cdn1-ordubeltv.yayin.com.tr/.../playlist.m3u8
+https://cdn1-ordubeltv.yayin.com.tr/ordubeltv/ordubeltv/playlist.m3u8
+#EXTINF:-1,BRiC-SATRANC TV
+http://139.162.182.79/live/test/index.m3u8
 #EXTINF:-1,EBS TV
 https://canli.ebs.org.tr/hls/Stream.m3u8
-#EXTINF:-1,AMED TV DiYARBAKIR
-http://live.amedradyotv.net:2020/hls/ferat.m3u8
 #EXTINF:-1,MC EU TV HD
-https://rrr.sz.xlcdn.com/?account=mc...=playlist.m3u8
+https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&type=live&service=wowza&protocol=https&output=playlist.m3u8
 #EXTINF:-1,BRUKSEL TURK TV
-https://vdo.digitalbox.xyz:3248/live...urktvlive.m3u8
+https://vdo.digitalbox.xyz:3248/live/brukselturktvlive.m3u8
 #EXTINF:-1,EURO 90 CHANNEL
 https://euro90tv-live.cdnnew.com/euro90tv/e9090.m3u8
 #EXTINF:-1,NATURAL TV TURK
-https://edge1.socialsmart.tv/natural.../playlist.m3u8
+https://edge1.socialsmart.tv/naturaltv/bant1/playlist.m3u8
+#EXTINF:-1,AMED TV DiYARBAKIR
+http://live.amedradyotv.net:2020/hls/ferat.m3u8
 #EXTINF:-1,TRT WORLD HD
 https://tv-trtworld.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1,TRT ARABi
@@ -464,9 +450,11 @@ https://tv-trtarabi.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1,TRT KURDi
 https://tv-trtkurdi.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1,SUNNAH TV - MEDİNE CANLI
-https://shls-euronews-en-prod-dub.sh...de7/index.m3u8
+https://shls-euronews-en-prod-dub.shahid.net/out/v1/b09bbb8d9b684763be4211b088168de7/index.m3u8
 #EXTINF:-1,Al Quran Al Kareem - MEKKE CANLI
-https://al-ekhbaria-prod-dub.shahid....76b/index.m3u8
+https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
+#EXTINF:-1,FiNEST TV
+http://media.finest.tv/hls/live.m3u8
 #EXTINF:-1,DAMAR TV
 https://tvsms.club/tv.php?kanal=damar&file=.m3u8
 #EXTINF:-1,ARABESK TV
