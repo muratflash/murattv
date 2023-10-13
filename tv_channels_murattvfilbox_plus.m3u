@@ -33,8 +33,8 @@ https://ssh101.bozztv.com/ssh101/yansinemaatv/chunks.m3u8
 https://stream.tiviturk.de/live/tiviturk.m3u8
 #EXTINF:-1,SÜPER TÜRK 2 TV
 http://169.53.242.72/SUPERTURK_2CH_HD/index.m3u8
-#EXTINF:-1,SİNEMAX TV
-https://film.ozelip.com:3344/stream/play.m3u8
+#EXTINF:-1,SÜRPRİZ TV HD
+https://yayin30.haber100.com/live/surpriztv/chunklist_w499191500.m3u8
 #EXTINF:-1,TELEON TV
 https://streaming.netdirekt.com.tr/35757/teleontv/fogmediagroups_lisansli_ultrahd__/chunks.m3u8
 #EXTINF:-1,LİFE TV HD
@@ -51,8 +51,6 @@ http://91.134.203.253:30124/farkturktv/farkturktv/chunklist.m3u8
 https://tv.ntnhd.com:3588/multi_web/play_720.m3u8
 #EXTINF:-1,KANAL 19
 https://vdo.digitalbox.xyz:3644/live/kanal19tvlive.m3u8
-#EXTINF:-1,DİZİMAX
-http://cdn-dizimax.yayin.com.tr/dizimax/dizimax/playlist.m3u8
 #EXTINF:-1,SAM TV
 https://cdn-365tv.yayin.com.tr/365tv/365tv/playlist.m3u8
 #EXTINF:-1,SABAN TV
@@ -93,8 +91,6 @@ http://91.134.203.253:30124/gopsentv/gopsentv/chunklist.m3u8
 http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
 #EXTINF:-1,BÜLTEN TV
 https://cdn1-bultentv.yayin.com.tr/bultentv/bultentv/playlist.m3u8
-#EXTINF:-1,SANCAK TV HD
-https://2.rtmp.org/tv219/yayin.stream/playlist.m3u8
 #EXTINF:-1,90PLUS TV
 https://euro90tv-live.cdnnew.com/euro90tv/e9090.m3u8
 #EXTINF:-1,360 TV HD
