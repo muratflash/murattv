@@ -181,6 +181,18 @@ http://minnos.org:8080/live/Ali124/JU7YZ44B/5768.ts
 http://190.2.141.31:8000/fZ2IGAcy/T9VwGpb1/89282
 #EXTINF:-1,FX HD
 http://190.2.141.31:8000/live/fZ2IGAcy/T9VwGpb1/89206.ts
+#EXTINF:-1,REDBOX VİZYON 1
+https://gineu8.bozztv.com/gin-36bay3/gt-sinevizyon1/index.m3u8
+#EXTINF:-1,REDBOX SİNEMA
+https://gineu8.bozztv.com/gin-36bay3/gt-sinevizyon2/index.m3u8
+#EXTINF:-1,REDBOX YEŞİLÇAM
+https://gineu9.bozztv.com/gin-36bay3/gt-yesilcamtv2/index.m3u8
+#EXTINF:-1,YEŞİLÇAM TV
+https://gineu9.bozztv.com/gin-36bay3/gt-sinevizyon3/index.m3u8
+#EXTINF:-1,YEŞİLÇAM TV 2
+https://gineu10.bozztv.com/gin-36bay3/gt-yesilcamtv3/index.m3u8
+#EXTINF:-1,NENET TV
+https://gineu10.bozztv.com/gin-36bay3/gt-yesilcamtv1/index.m3u8
 #EXTINF:-1,HALK TV
 https://halktv.blutv.com/blutv_halktv_live/live_720p2000000kbps/index.m3u8
 #EXTINF:-1,SÖZCÜ TV
