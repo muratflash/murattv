@@ -49,6 +49,8 @@ https://yayin.rizeturk.com:3777/multi_web/play.m3u8
 http://91.134.203.253:30124/farkturktv/farkturktv/chunklist.m3u8
 #EXTINF:-1,NTN SİNEMA HD
 https://tv.ntnhd.com:3588/multi_web/play_720.m3u8
+#EXTINF:-1,ASLAN TV
+https://starkurd.ozelip.com:3459/stream/play.m3u8
 #EXTINF:-1,KANAL 19
 https://vdo.digitalbox.xyz:3644/live/kanal19tvlive.m3u8
 #EXTINF:-1,SAM TV
