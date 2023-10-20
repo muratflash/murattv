@@ -45,10 +45,6 @@ https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m
 https://tv.digitalbox.xyz:19360/afyonturktv/afyonturktv.m3u8
 #EXTINF:-1,RİZE TÜRK TV
 https://yayin.rizeturk.com:3777/multi_web/play.m3u8
-#EXTINF:-1,FARK TÜRK TV
-http://91.134.203.253:30124/farkturktv/farkturktv/chunklist.m3u8
-#EXTINF:-1,NTN SİNEMA HD
-https://tv.ntnhd.com:3588/multi_web/play_720.m3u8
 #EXTINF:-1,ASLAN TV
 https://starkurd.ozelip.com:3459/stream/play.m3u8
 #EXTINF:-1,KANAL 19
@@ -57,8 +53,6 @@ https://vdo.digitalbox.xyz:3644/live/kanal19tvlive.m3u8
 https://cdn-365tv.yayin.com.tr/365tv/365tv/playlist.m3u8
 #EXTINF:-1,SABAN TV
 http://new.cache-stream.workers.dev/stream/UCfoQxHKIWW_HrECGLaDrBEw/live.m3u8
-#EXTINF:-1,NEO CİNE SİNEMA
-https://nimplus3.bozztv.com/yumrcaktv/yumrcaktv/playlist.m3u8
 #EXTINF:-1,AKTİF TV HD
 http://tv86905.radyotelekomtv.com:22808/aktif/aktif/chunklist.m3u8
 #EXTINF:-1,İSVİÇRE TV
@@ -88,7 +82,7 @@ http://duzguntv1616.ozelip.net:25192/duzguntv/duzguntv/playlist.m3u8
 #EXTINF:-1,ADA TV NET
 https://edge1.socialsmart.tv/adatv/bant1/chunks.m3u8
 #EXTINF:-1,GOP ŞEN TV
-http://91.134.203.253:30124/gopsentv/gopsentv/chunklist.m3u8
+https://altyazi180.radyotelekom.com.tr/player/m3u8/993cd8703cc01e6beec72df3376c0ee4/chunklist_w95657756.m3u8
 #EXTINF:-1,VİYANA TV
 http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
 #EXTINF:-1,BÜLTEN TV
@@ -98,7 +92,7 @@ https://euro90tv-live.cdnnew.com/euro90tv/e9090.m3u8
 #EXTINF:-1,360 TV HD
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 #EXTINF:-1,BEYAZ TV HD
-https://beyaztvdvr.blutv.com/blutv_beyaztv_dvr2/live_720p2000000kbps/index.m3u8
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 #EXTINF:-1,A2 HD
 http://23.146.40.157:8080/zorbeyli/bZBdAh3FyA62/59852
 #EXTINF:-1,CLC MEDYA TV
@@ -233,15 +227,7 @@ http://zyniptv.com:8080/live/iptv-volkan/HZS49fEXSgye/107198.ts
 http://zyniptv.com:8080/live/iptv-volkan/HZS49fEXSgye/107204.ts
 #EXTINF:-1,BEİN SPORTS MAX 2
 http://zyniptv.com:8080/live/iptv-volkan/HZS49fEXSgye/107205.ts
-#EXTINF:-1,BEİN HABER
-https://ythls.onrender.com/channel/UCPe9vNjHF1kEExT5kHwc7aw.m3u8
 #EXTINF:-1,TRT SPOR
 https://trtspordvr.blutv.com/blutv_trtspor_dvr/live.m3u8
-#EXTINF:-1,A SPOR
-https://ythls.onrender.com/channel/UCJElRTCNEmLemgirqvsW63Q.m3u8
 #EXTINF:-1,TV 8,5
 http://50.7.218.122:8080/tv85/index.m3u8
-#EXTINF:-1,İDMAN TV HD
-http://de.iptv.monster/play/439/000B18F39B0BA50/video.m3u8
-#EXTINF:-1,CBC SPORT HD
-http://de.iptv.monster/play/434/000B18F39B0BA50/video.m3u8
