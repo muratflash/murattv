@@ -47,7 +47,7 @@ https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m
 https://tv.digitalbox.xyz:19360/afyonturktv/afyonturktv.m3u8
 #EXTINF:-1,RİZE TÜRK TV
 https://yayin.rizeturk.com:3777/multi_web/play.m3u8
-#EXTINF:-1,ASLAN TV
+#EXTINF:-1,CTV HD
 https://starkurd.ozelip.com:3459/stream/play.m3u8
 #EXTINF:-1,KANAL 19
 https://vdo.digitalbox.xyz:3644/live/kanal19tvlive.m3u8
@@ -100,7 +100,7 @@ https://clcmediatv.ozelip.com:3192/stream/play.m3u8
 #EXTINF:-1,CİNE5 TV HD
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist_w564654603.m3u8
 #EXTINF:-1,YANSIMA MÜZİK TV HD
-https://live-server-2.splitstream.io/fd15e2fa-310e-46fd-8310-a92599e61696/tracks-v1a1/mono.m3u8
+https://ssh101.bozztv.com/ssh101/yansiimamuziktv/chunks.m3u8
 #EXTINF:-1,KRAL POP TV HD
 https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
 #EXTINF:-1,TATLISES TV
