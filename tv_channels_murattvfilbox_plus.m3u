@@ -4,9 +4,9 @@ http://minnos.org:8080/live/Ali124/JU7YZ44B/2091.ts
 #EXTINF:-1,TRT SPOR HD
 https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,A SPOR HD
-http://190.2.141.31:8000/live/fZ2IGAcy/T9VwGpb1/89086.ts
+http://euteger.net:8080/live/fZ2IGAcy/T9VwGpb1/89086.ts
 #EXTINF:-1,TİVİBU SPOR HD
-http://190.2.141.31:8000/live/fZ2IGAcy/T9VwGpb1/89071.ts
+http://euteger.net:8080/live/fZ2IGAcy/T9VwGpb1/89071.ts
 #EXTINF:-1,SPOR SMART HD
 http://minnos.org:8080/live/Ali124/JU7YZ44B/53.ts
 #EXTINF:-1,BEİN SPORTS 1 HD
@@ -18,7 +18,7 @@ http://minnos.org:8080/live/Ali124/JU7YZ44B/57.ts
 #EXTINF:-1,BEİN SPORTS 4 HD
 http://minnos.org:8080/live/Ali124/JU7YZ44B/253.ts
 #EXTINF:-1,TV 8.5 HD
-http://190.2.141.31:8000/live/fZ2IGAcy/T9VwGpb1/88982.ts
+http://euteger.net:8080/live/fZ2IGAcy/T9VwGpb1/88982.ts
 #EXTINF:-1,TV 8 HD
 https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
 #EXTINF:-1,FB TV HD
@@ -28,7 +28,7 @@ https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
 #EXTINF:-1,KONYA OLAY TV
 http://olayhabertv42.ozelip.com:28008/olay/olay/playlist.m3u8
 #EXTINF:-1,YANSIMA SİNEMA TV HD
-https://ssh101.bozztv.com/ssh101/yansinemaatv/chunks.m3u8
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/yansinematvs/chunklist_w1968217333.m3u8
 #EXTINF:-1,TİVİ TÜRK HD
 https://stream.tiviturk.de/live/tiviturk.m3u8
 #EXTINF:-1,SÜPER TÜRK 2 TV
@@ -100,7 +100,7 @@ https://clcmediatv.ozelip.com:3192/stream/play.m3u8
 #EXTINF:-1,CİNE5 TV HD
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist_w564654603.m3u8
 #EXTINF:-1,YANSIMA MÜZİK TV HD
-https://ssh101.bozztv.com/ssh101/yansiimamuziktv/chunks.m3u8
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/yansimapremiumtv/chunklist_w1448699434.m3u8
 #EXTINF:-1,KRAL POP TV HD
 https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
 #EXTINF:-1,TATLISES TV
@@ -142,7 +142,7 @@ https://play2dvr.blutv.com/blutv_play2_dvr/live.m3u8
 #EXTINF:-1,DİSCOVERY İD HD
 https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/master.m3u8
 #EXTINF:-1,BEİN MOVİES ACTİON HD
-http://mac-keyf-5.pw:8080/alikayhan/zEn3U76g3E/140195
+http://mac-keyf-100.pw:8080/alikayhan/zEn3U76g3E/140195
 #EXTINF:-1,BEİN MOVİES PREMİERE HD
 http://minnos.org:8080/live/Ali124/JU7YZ44B/2009.ts
 #EXTINF:-1,BEİN MOVİES PREMİERE 2 HD
@@ -156,47 +156,27 @@ http://minnos.org:8080/live/Ali124/JU7YZ44B/458.ts
 #EXTINF:-1,MOVİE SMART CLASSİC HD
 http://minnos.org:8080/live/Ali124/JU7YZ44B/2362.ts
 #EXTINF:-1,KEMAL SUNAL TV 1
-http://mac-keyf-5.pw:8080/alikayhan/zEn3U76g3E/110264
+http://mac-keyf-100.pw:8080/alikayhan/zEn3U76g3E/110264
 #EXTINF:-1,KEMAL SUNAL TV 2
-http://mac-keyf-5.pw:8080/alikayhan/zEn3U76g3E/110265
+http://mac-keyf-100.pw:8080/alikayhan/zEn3U76g3E/110265
 #EXTINF:-1,KEMAL SUNAL TV 3
 http://minnos.org:8080/live/Ali124/JU7YZ44B/1166.ts
 #EXTINF:-1,ŞENER ŞEN TV
-http://mac-keyf-5.pw:8080/alikayhan/zEn3U76g3E/110266
+http://mac-keyf-100.pw:8080/alikayhan/zEn3U76g3E/110266
 #EXTINF:-1,ZEKİ METİN TV
-http://mac-keyf-5.pw:8080/alikayhan/zEn3U76g3E/110267
+http://mac-keyf-100.pw:8080/alikayhan/zEn3U76g3E/110267
 #EXTINF:-1,HABABAM SINIFI TV
-http://mac-keyf-5.pw:8080/alikayhan/zEn3U76g3E/110268
+http://mac-keyf-100.pw:8080/alikayhan/zEn3U76g3E/110268
 #EXTINF:-1,CÜNEYT ARKIN TV
-http://mac-keyf-5.pw:8080/alikayhan/zEn3U76g3E/110269
+http://mac-keyf-100.pw:8080/alikayhan/zEn3U76g3E/110269
 #EXTINF:-1,SİNEMA TV HD
 http://minnos.org:8080/live/Ali124/JU7YZ44B/278.ts
 #EXTINF:-1,SİNEMA AKSİYON HD
 http://minnos.org:8080/live/Ali124/JU7YZ44B/5768.ts
 #EXTINF:-1,FİLMBOX HD
-http://190.2.141.31:8000/fZ2IGAcy/T9VwGpb1/89282
+http://euteger.net:8080/fZ2IGAcy/T9VwGpb1/89282
 #EXTINF:-1,FX HD
-http://190.2.141.31:8000/live/fZ2IGAcy/T9VwGpb1/89206.ts
-#EXTINF:-1,REDBOX VİZYON 1
-https://gineu8.bozztv.com/gin-36bay3/gt-sinevizyon1/index.m3u8
-#EXTINF:-1,REDBOX SİNEMA
-https://gineu8.bozztv.com/gin-36bay3/gt-sinevizyon2/index.m3u8
-#EXTINF:-1,REDBOX YEŞİLÇAM
-https://gineu9.bozztv.com/gin-36bay3/gt-yesilcamtv2/index.m3u8
-#EXTINF:-1,YEŞİLÇAM TV
-https://gineu9.bozztv.com/gin-36bay3/gt-sinevizyon3/index.m3u8
-#EXTINF:-1,YEŞİLÇAM TV 2
-https://gineu10.bozztv.com/gin-36bay3/gt-yesilcamtv3/index.m3u8
-#EXTINF:-1,NENET TV
-https://gineu10.bozztv.com/gin-36bay3/gt-yesilcamtv1/index.m3u8
-#EXTINF:-1,FİL TV
-https://stream2.filbox.com.tr/live/7cca6a18d1fc442798497cc78ade4cad/1277/index.m3u8
-#EXTINF:-1,FİLMAX
-https://stream2.filbox.com.tr/live/7cca6a18d1fc442798497cc78ade4cad/1282/index.m3u8
-#EXTINF:-1,FİLM CLUB
-https://stream2.filbox.com.tr/live/7cca6a18d1fc442798497cc78ade4cad/1279/index.m3u8
-#EXTINF:-1,FİLM CLUB AKSİYON
-https://stream2.filbox.com.tr/live/7cca6a18d1fc442798497cc78ade4cad/1281/index.m3u8
+http://euteger.net:8080/live/fZ2IGAcy/T9VwGpb1/89206.ts
 #EXTINF:-1,HALK TV
 https://halktv.blutv.com/blutv_halktv_live/live_720p2000000kbps/index.m3u8
 #EXTINF:-1,SÖZCÜ TV
