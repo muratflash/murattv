@@ -31,8 +31,10 @@ http://olayhabertv42.ozelip.com:28008/olay/olay/playlist.m3u8
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/yansinematvs/chunklist_w1968217333.m3u8
 #EXTINF:-1,TİVİ TÜRK HD
 https://stream.tiviturk.de/live/tiviturk.m3u8
+#EXTINF:-1,SÜPER TÜRK TV
+http://51.20.128.76/SUPER_TURK_TV_CH_HD/index.m3u8
 #EXTINF:-1,SÜPER TÜRK 2 TV
-http://169.53.242.72/SUPERTURK_2CH_HD/index.m3u8
+http://51.20.128.76/SUPERTURK_TV_2HD/index.m3u8
 #EXTINF:-1,SÜRPRİZ TV HD
 https://yayin30.haber100.com/live/surpriztv/chunklist_w499191500.m3u8
 #EXTINF:-1,TELEON TV
@@ -56,7 +58,7 @@ https://cdn-365tv.yayin.com.tr/365tv/365tv/playlist.m3u8
 #EXTINF:-1,SABAN TV
 http://new.cache-stream.workers.dev/stream/UCfoQxHKIWW_HrECGLaDrBEw/live.m3u8
 #EXTINF:-1,AKTİF TV HD
-http://tv86905.radyotelekomtv.com:22808/aktif/aktif/chunklist.m3u8
+http://145.239.37.125:20458/aktif/aktif/chunklist.m3u8
 #EXTINF:-1,İSVİÇRE TV
 https://is.gd/NdDhgK.m3u8
 #EXTINF:-1,SKY HABER TV
