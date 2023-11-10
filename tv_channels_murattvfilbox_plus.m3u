@@ -96,7 +96,7 @@ https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 #EXTINF:-1,BEYAZ TV HD
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 #EXTINF:-1,A2 HD
-http://23.146.40.157:8080/zorbeyli/bZBdAh3FyA62/59852
+http://23.146.40.56:8000/live/youssef.guitarajsjss/Cxt2moKzYhsuus/24.ts
 #EXTINF:-1,CLC MEDYA TV
 https://clcmediatv.ozelip.com:3192/stream/play.m3u8
 #EXTINF:-1,CİNE5 TV HD
@@ -113,6 +113,8 @@ http://tv56245.ozelip.com:2052/palatv/palatv/chunklist.m3u8
 https://yayin.slowkaradeniztv.com:3390/multi_web/play.m3u8
 #EXTINF:-1,KRAL FM
 https://dygedge2.radyotvonline.net/kralfm/playlist.m3u8
+#EXTINF:-1,BABA RADYO
+http://officialbabaradyo.radyotvonline.net/babaofficial
 #EXTINF:-1,BEST FM
 http://officialbestfm.radyotvonline.net/bestfmofficial
 #EXTINF:-1,RADYO D
