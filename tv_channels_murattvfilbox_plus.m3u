@@ -55,6 +55,8 @@ https://yayin.rizeturk.com:3777/multi_web/play.m3u8
 https://starkurd.ozelip.com:3459/stream/play.m3u8
 #EXTINF:-1,KANAL 19
 https://vdo.digitalbox.xyz:3644/live/kanal19tvlive.m3u8
+#EXTINF:-1,DOĞU TV
+https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/1286/index.m3u8
 #EXTINF:-1,SAM TV
 https://cdn-365tv.yayin.com.tr/365tv/365tv/playlist.m3u8
 #EXTINF:-1,SABAN TV
@@ -103,6 +105,8 @@ http://23.146.40.56:8000/live/youssef.guitarajsjss/Cxt2moKzYhsuus/24.ts
 https://clcmediatv.ozelip.com:3192/stream/play.m3u8
 #EXTINF:-1,CİNE5 TV HD
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist_w564654603.m3u8
+#EXTINF:-1,KOBİM TV
+http://cdn-kobimtv.yayin.com.tr/kobimtv/kobimtv/chunklist.m3u8
 #EXTINF:-1,YANSIMA MÜZİK TV HD
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/yansimapremiumtv/chunklist_w1448699434.m3u8
 #EXTINF:-1,KRAL POP TV HD
@@ -137,8 +141,6 @@ https://radyo.huzurpinari.com:8443/radio/8050/radio.mp3
 http://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,KUZEY KIBRIS TV
 http://kuzeykibris.tv/m3u8/tv_kktv.m3u8
-#EXTINF:-1,KOBİM TV
-http://cdn-kobimtv.yayin.com.tr/kobimtv/kobimtv/chunklist.m3u8
 #EXTINF:-1,EM TV
 https://cdn.yayin.com.tr/TVEM/TVEM/chunklist.m3u8
 #EXTINF:-1,BLU TV PLAY 1
@@ -183,6 +185,18 @@ http://minnos.org:8080/live/Ali124/JU7YZ44B/5768.ts
 http://euteger.net:8080/fZ2IGAcy/T9VwGpb1/89282
 #EXTINF:-1,FX HD
 http://euteger.net:8080/live/fZ2IGAcy/T9VwGpb1/89206.ts
+#EXTINF:-1,FİL TV
+https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/1277/index.m3u8
+#EXTINF:-1,FİLMAX
+https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/1282/index.m3u8
+#EXTINF:-1,FİLM CLUB
+https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/1279/index.m3u8
+#EXTINF:-1,FİLM CLUB AKSİYON
+https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/1281/index.m3u8
+#EXTINF:-1,FİLM CLUB KOMEDİ
+https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/1283/index.m3u8
+#EXTINF:-1,FİLM CLUB FAMİLY
+https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/1285/index.m3u8
 #EXTINF:-1,HALK TV
 https://halktv.blutv.com/blutv_halktv_live/live_720p2000000kbps/index.m3u8
 #EXTINF:-1,SÖZCÜ TV
