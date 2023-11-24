@@ -6,7 +6,7 @@ https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,A SPOR HD
 http://new.cache-stream.workers.dev/stream/UCJElRTCNEmLemgirqvsW63Q/live.m3u8
 #EXTINF:-1,TİVİBU SPOR HD
-http://babanin.xyz:8080/glifor1000mg/o53WWALeDE/91777
+http://bestitv.xyz:8080/ncp5393/ncp.10/6101
 #EXTINF:-1,SPOR SMART HD
 http://minnos.org:8080/live/Ali124/JU7YZ44B/53.ts
 #EXTINF:-1,BEİN SPORTS 1 HD
@@ -57,18 +57,14 @@ https://starkurd.ozelip.com:3459/stream/play.m3u8
 https://vdo.digitalbox.xyz:3644/live/kanal19tvlive.m3u8
 #EXTINF:-1,DOĞU TV
 https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/1286/index.m3u8
-#EXTINF:-1,SAM TV
-https://cdn-365tv.yayin.com.tr/365tv/365tv/playlist.m3u8
+#EXTINF:-1,OA TV
+https://cdn-oatasoytv.yayin.com.tr/oatasoytv/oatasoytv/chunklist_w1202525982.m3u8
 #EXTINF:-1,SABAN TV
 https://tivi191.ozelip.com:3463/stream/play.m3u8
 #EXTINF:-1,AKTİF TV HD
 http://145.239.37.125:20458/aktif/aktif/chunklist.m3u8
-#EXTINF:-1,İSVİÇRE TV
-https://is.gd/NdDhgK.m3u8
 #EXTINF:-1,SKY HABER TV
 https://cdn1-skyhabertv.yayin.com.tr/skyhabertv/skyhabertv/chunklist_w1126474240_b1996000.m3u8
-#EXTINF:-1,TV AVRUPA
-http://tv86905.radyotelekomtv.com:22808/almanyadaturktv/almanyadaturktv/playlist.m3u8
 #EXTINF:-1,TH TÜRK HABER
 https://edge1.socialsmart.tv/turkhaber/bant1/chunks.m3u8
 #EXTINF:-1,TRAKYA TÜRK TV
