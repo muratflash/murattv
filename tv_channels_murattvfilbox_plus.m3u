@@ -6,9 +6,9 @@ https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,A SPOR HD
 http://www.x-changer.org:80/live/2oIHpxyQfP/2eNw02wHUK/33352.ts
 #EXTINF:-1,TİVİBU SPOR HD
-http://135.125.227.180:80/live/vnZbpcmynMTc/fqQ4tDkDVSMQ/140803.ts
+http://euteger.net:8080/weycellonal/YsIpVhijFb/89071
 #EXTINF:-1,SPOR SMART HD
-http://minnos.org:8080/live/Ali124/JU7YZ44B/53.ts
+http://minnos.org:8080/live/Ali124/JU7YZ44B/9337.ts
 #EXTINF:-1,BEİN SPORTS 1 HD
 http://minnos.org:8080/live/Ali124/JU7YZ44B/663.ts
 #EXTINF:-1,BEİN SPORTS 2 HD
@@ -41,8 +41,6 @@ https://yayin30.haber100.com/live/surpriztv/chunklist_w499191500.m3u8
 https://streaming.netdirekt.com.tr/35757/teleontv/teleontv_lisansli_canliyayin/playlist.m3u8
 #EXTINF:-1,PAZARCIK TV
 https://pazarciktv.ozelip.net:3962/hybrid/play.m3u8
-#EXTINF:-1,VRT HD
-https://vrttv.ozelip.com:3644/multi_web/play_1080.m3u8
 #EXTINF:-1,LİFE TV HD
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/chunks.m3u8
 #EXTINF:-1,DENİZ POSTASI TV
@@ -51,6 +49,8 @@ https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m
 https://tv.digitalbox.xyz:19360/afyonturktv/afyonturktv.m3u8
 #EXTINF:-1,RİZE TÜRK TV
 https://yayin.rizeturk.com:3777/multi_web/play.m3u8
+#EXTINF:-1,VRT HD
+https://vrttv.ozelip.com:3644/multi_web/play_1080.m3u8
 #EXTINF:-1,CTV HD
 https://starkurd.ozelip.com:3459/stream/play.m3u8
 #EXTINF:-1,KANAL 19
@@ -178,9 +178,9 @@ http://minnos.org:8080/live/Ali124/JU7YZ44B/278.ts
 #EXTINF:-1,SİNEMA AKSİYON HD
 http://minnos.org:8080/live/Ali124/JU7YZ44B/5768.ts
 #EXTINF:-1,FİLMBOX HD
-http://euteger.net:8080/fZ2IGAcy/T9VwGpb1/89282
+http://euteger.net:8080/weycellonal/YsIpVhijFb/89282
 #EXTINF:-1,FX HD
-http://euteger.net:8080/live/fZ2IGAcy/T9VwGpb1/89206.ts
+http://euteger.net:8080/live/weycellonal/YsIpVhijFb/89206.ts
 #EXTINF:-1,FİL TV
 https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/1277/index.m3u8
 #EXTINF:-1,FİLMAX
