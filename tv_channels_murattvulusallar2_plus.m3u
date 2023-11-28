@@ -1,0 +1,133 @@
+#EXTM3U
+#EXTINF:-1,TRT 1
+http://hw1.jemtv.com/app/trt1/playlist.m3u8
+#EXTINF:-1,TRT 2
+http://hw1.jemtv.com/app/trt2/playlist.m3u8
+#EXTINF:-1,KANAL D
+http://hw1.jemtv.com/app/KanalD/playlist.m3u8
+#EXTINF:-1,TV 8
+http://hw1.jemtv.com/app/tv8/playlist.m3u8
+#EXTINF:-1,TV 8,5
+http://hw1.jemtv.com/app/tv85/playlist.m3u8
+#EXTINF:-1,A2 HD
+http://hw1.jemtv.com/app/a2hd/playlist.m3u8
+#EXTINF:-1,ATV
+http://hw1.jemtv.com/app/ATVHD/playlist.m3u8
+#EXTINF:-1,STAR
+http://hw1.jemtv.com/app/StarTV/playlist.m3u8
+#EXTINF:-1,SHOW
+http://hw1.jemtv.com/app/ShowTV/playlist.m3u8
+#EXTINF:-1,FOX
+http://hw1.jemtv.com/app/FoxTurkey/playlist.m3u8
+#EXTINF:-1,KANAL 7
+http://hw1.jemtv.com/app/Kanal7/playlist.m3u8
+#EXTINF:-1,BEYAZ TV
+http://hw1.jemtv.com/app/beyaz/playlist.m3u8
+#EXTINF:-1,360 TV
+http://hw1.jemtv.com/app/360tv/playlist.m3u8
+#EXTINF:-1,aSPOR HD
+http://hw1.jemtv.com/app/ASporHD/playlist.m3u8
+#EXTINF:-1,TRT SPOR
+http://hw1.jemtv.com/app/trtspor/playlist.m3u8
+#EXTINF:-1,TRT SPOR 2
+http://hw1.jemtv.com/app/trtspor2/playlist.m3u8
+#EXTINF:-1,SPORTS TV
+http://hw1.jemtv.com/app/sportstv/playlist.m3u8
+#EXTINF:-1,TLC HD
+http://hw1.jemtv.com/app/tlchd/playlist.m3u8
+#EXTINF:-1,DMAX
+http://hw1.jemtv.com/app/Dmax/playlist.m3u8
+#EXTINF:-1,teve2
+http://hw1.jemtv.com/app/teve2/playlist.m3u8
+#EXTINF:-1,TRT HABER
+http://hw1.jemtv.com/app/trthaber/playlist.m3u8
+#EXTINF:-1,TRT BELGESEL
+http://hw1.jemtv.com/app/trtbelgese/playlist.m3u8
+#EXTINF:-1,NTV
+http://hw1.jemtv.com/app/NTVTurkey/playlist.m3u8
+#EXTINF:-1,aHABER HD
+http://hw1.jemtv.com/app/AHaber/playlist.m3u8
+#EXTINF:-1,HABERTURK
+http://hw1.jemtv.com/app/haberturk/playlist.m3u8
+#EXTINF:-1,CNNTURK
+http://hw1.jemtv.com/app/cnnturk/playlist.m3u8
+#EXTINF:-1,ULKE TV
+http://hw1.jemtv.com/app/ulketv/playlist.m3u8
+#EXTINF:-1,TV 100
+http://hw1.jemtv.com/app/tv100/playlist.m3u8
+#EXTINF:-1,HALK TV
+http://hw1.jemtv.com/app/halktv/playlist.m3u8
+#EXTINF:-1,AKİT
+http://hw1.jemtv.com/app/akittv/playlist.m3u8
+#EXTINF:-1,TV 5
+http://hw1.jemtv.com/app/tv5/playlist.m3u8
+#EXTINF:-1,KANAL B
+http://hw1.jemtv.com/app/kanalB/playlist.m3u8
+#EXTINF:-1,TELE 1
+http://hw1.jemtv.com/app/tele1/playlist.m3u8
+#EXTINF:-1,KRT HD
+http://hw1.jemtv.com/app/krt/playlist.m3u8
+#EXTINF:-1,TRT TURK
+http://hw2.jemtv.com/app/10062.stream/playlist.m3u8
+#EXTINF:-1,KANAL 26
+http://hw1.jemtv.com/app/kanal26/playlist.m3u8
+#EXTINF:-1,ANEWS HD
+http://hw1.jemtv.com/app/anewshd/playlist.m3u8
+#EXTINF:-1,MEDYA HABER
+http://hw1.jemtv.com/app/medyahaber/playlist.m3u8
+#EXTINF:-1,TRT AVAZ
+http://hw2.jemtv.com/app/trtavaz/playlist.m3u8
+#EXTINF:-1,TRT COCUK
+http://hw2.jemtv.com/app/10064.stream/playlist.m3u8
+#EXTINF:-1,TRT ABARIC
+http://hw2.jemtv.com/app/trtarabic/playlist.m3u8
+#EXTINF:-1,TRT KURDI
+http://hw2.jemtv.com/app/trtkurdi/playlist.m3u8
+#EXTINF:-1,TRT MUZIK
+http://hw2.jemtv.com/app/10063.stream/playlist.m3u8
+#EXTINF:-1,NR1 TURK HD
+http://hw1.jemtv.com/app/NR1/playlist.m3u8
+#EXTINF:-1,TAY TV
+http://hw1.jemtv.com/app/taytv/playlist.m3u8
+#EXTINF:-1,TV KAYSERI
+http://hw1.jemtv.com/app/Kayseri/playlist.m3u8
+#EXTINF:-1,DRT DENIZLI
+http://hw1.jemtv.com/app/Kayseri/playlist.m3u8
+#EXTINF:-1,KANAL URFA
+http://hw1.jemtv.com/app/kanalurfa/playlist.m3u8
+#EXTINF:-1,KANAL 58
+http://hw1.jemtv.com/app/kanal58/playlist.m3u8
+#EXTINF:-1,KANAL B
+http://hw1.jemtv.com/app/kanalB/playlist.m3u8
+#EXTINF:-1,KANAL 26
+http://hw1.jemtv.com/app/kanal26/playlist.m3u8
+#EXTINF:-1,AKSU TV
+http://hw1.jemtv.com/app/AksuTV/playlist.m3u8
+#EXTINF:-1,BLOOMBERG HT
+http://hw1.jemtv.com/app/bloomberght/playlist.m3u8
+#EXTINF:-1,TEMPO TV
+http://hw1.jemtv.com/app/tempotv/playlist.m3u8
+#EXTINF:-1,ÇAY TV
+http://cds.y7c2y5s4.hwcdn.net/app/caytv/playlist.m3u8
+#EXTINF:-1,KANAL 33
+http://hw1.jemtv.com/app/Kanalk33/playlist.m3u8
+#EXTINF:-1,ARTI TV
+http://hw1.jemtv.com/app/ArtiTV/playlist.m3u8
+#EXTINF:-1,BRT KARABUK
+http://hw1.jemtv.com/app/brtv/playlist.m3u8
+#EXTINF:-1,KANAL 23
+http://hw1.jemtv.com/app/kanal23/playlist.m3u8
+#EXTINF:-1,KANAL 68
+http://hw1.jemtv.com/app/kanal68/playlist.m3u8
+#EXTINF:-1,TEK RUMELI TV
+http://hw1.jemtv.com/app/tekrumeli/playlist.m3u8
+#EXTINF:-1,VIZYON 58
+http://hw1.jemtv.com/app/vizyon58/playlist.m3u8
+#EXTINF:-1,SRT SIVAS
+http://hw1.jemtv.com/app/srtsivas/playlist.m3u8
+#EXTINF:-1,LALEGUL TV
+http://hw1.jemtv.com/app/LalegulTV/playlist.m3u8
+#EXTINF:-1,DOST TV
+http://hw1.jemtv.com/app/dosttv/playlist.m3u8
+#EXTINF:-1,REHBER TV
+http://hw2.jemtv.com/app/rehber/playlist.m3u8
