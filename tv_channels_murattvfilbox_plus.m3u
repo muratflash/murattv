@@ -4,7 +4,7 @@ http://minnos.org:8080/live/Ali124/JU7YZ44B/2091.ts
 #EXTINF:-1,TRT SPOR HD
 https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,A SPOR HD
-http://23.146.40.56:8000/live/youssef.guitarajsjss/Cxt2moKzYhsuus/17540.ts
+http://hw1.jemtv.com/app/ASporHD/playlist.m3u8
 #EXTINF:-1,TİVİBU SPOR HD
 http://euteger.net:8080/weycellonal/YsIpVhijFb/89071
 #EXTINF:-1,SPOR SMART HD
@@ -32,9 +32,9 @@ https://5e06e5e8c2e27.streamlock.net:1936/videonow/yansinematvs/chunklist_w19682
 #EXTINF:-1,TİVİ TÜRK HD
 https://stream.tiviturk.de/live/tiviturk.m3u8
 #EXTINF:-1,SÜPER TÜRK TV
-http://75.119.144.48:3501/hybrid/play.m3u8
+http://75.119.144.48/SUPERTURK_TVHD/index.m3u8
 #EXTINF:-1,SÜPER TÜRK MAX TV
-http://75.119.144.48:3203/hybrid/play.m3u8
+http://75.119.144.48/SUPERTURK_MAX_MUZIK_HD/index.m3u8
 #EXTINF:-1,SÜRPRİZ TV HD
 https://yayin30.haber100.com/live/surpriztv/chunklist_w499191500.m3u8
 #EXTINF:-1,TELEON TV
@@ -89,14 +89,12 @@ https://edge1.socialsmart.tv/adatv/bant1/chunks.m3u8
 http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
 #EXTINF:-1,BÜLTEN TV
 https://cdn1-bultentv.yayin.com.tr/bultentv/bultentv/playlist.m3u8
-#EXTINF:-1,90PLUS TV
-https://euro90tv-live.cdnnew.com/euro90tv/e9090.m3u8
 #EXTINF:-1,360 TV HD
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 #EXTINF:-1,BEYAZ TV HD
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 #EXTINF:-1,A2 HD
-http://23.146.40.56:8000/live/youssef.guitarajsjss/Cxt2moKzYhsuus/24.ts
+http://hw1.jemtv.com/app/a2hd/playlist.m3u8
 #EXTINF:-1,CLC MEDYA TV
 https://clcmediatv.ozelip.com:3192/stream/play.m3u8
 #EXTINF:-1,CİNE5 TV HD
