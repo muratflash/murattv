@@ -49,6 +49,10 @@ https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m
 https://tv.digitalbox.xyz:19360/afyonturktv/afyonturktv.m3u8
 #EXTINF:-1,RİZE TÜRK TV
 https://yayin.rizeturk.com:3777/multi_web/play.m3u8
+#EXTINF:-1,KASTAMONU TV
+http://51.158.204.52:8080/kastamonutv/kastamonutv/3385
+#EXTINF:-1,GÜNEY TV
+https://edge1.socialsmart.tv/guneytv/bant1/chunks.m3u8
 #EXTINF:-1,VRT HD
 https://vrttv.ozelip.com:3644/multi_web/play_1080.m3u8
 #EXTINF:-1,CTV HD
