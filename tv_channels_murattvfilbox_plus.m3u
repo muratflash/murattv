@@ -59,10 +59,6 @@ https://vrttv.ozelip.com:3644/multi_web/play_1080.m3u8
 https://starkurd.ozelip.com:3459/stream/play.m3u8
 #EXTINF:-1,KANAL 19
 https://vdo.digitalbox.xyz:3644/live/kanal19tvlive.m3u8
-#EXTINF:-1,DOĞU TV
-https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/1286/index.m3u8
-#EXTINF:-1,OA TV
-https://cdn-oatasoytv.yayin.com.tr/oatasoytv/oatasoytv/chunklist_w1202525982.m3u8
 #EXTINF:-1,SABAN TV
 https://tivi191.ozelip.com:3463/stream/play.m3u8
 #EXTINF:-1,AKTİF TV HD
@@ -162,19 +158,21 @@ http://minnos.org:8080/live/Ali124/JU7YZ44B/458.ts
 #EXTINF:-1,MOVİE SMART CLASSİC HD
 http://minnos.org:8080/live/Ali124/JU7YZ44B/2362.ts
 #EXTINF:-1,KEMAL SUNAL TV 1
-http://mac-keyf-100.pw:8080/alikayhan/zEn3U76g3E/110264
+http://kahvehane.org:8080/live/anlgurlek/31VW1ZZR2D/1166.ts
 #EXTINF:-1,KEMAL SUNAL TV 2
-http://mac-keyf-100.pw:8080/alikayhan/zEn3U76g3E/110265
+http://nk0811.xyz:8080/live/mtt1755/mtt.2050/6325.ts
 #EXTINF:-1,KEMAL SUNAL TV 3
 http://minnos.org:8080/live/Ali124/JU7YZ44B/1166.ts
+#EXTINF:-1,KEMAL SUNAL TV 4
+http://nk0811.xyz:8080/live/mtt1755/mtt.2050/101136.ts
 #EXTINF:-1,ŞENER ŞEN TV
-http://mac-keyf-100.pw:8080/alikayhan/zEn3U76g3E/110266
+http://nk0811.xyz:8080/live/mtt1755/mtt.2050/23578.ts
 #EXTINF:-1,ZEKİ METİN TV
-http://mac-keyf-100.pw:8080/alikayhan/zEn3U76g3E/110267
-#EXTINF:-1,HABABAM SINIFI TV
-http://mac-keyf-100.pw:8080/alikayhan/zEn3U76g3E/110268
+http://nk0811.xyz:8080/live/mtt1755/mtt.2050/6320.ts
+#EXTINF:-1,İBRAHİM TATLISES TV
+http://nk0811.xyz:8080/live/mtt1755/mtt.2050/6318.ts
 #EXTINF:-1,CÜNEYT ARKIN TV
-http://mac-keyf-100.pw:8080/alikayhan/zEn3U76g3E/110269
+http://nk0811.xyz:8080/live/mtt1755/mtt.2050/23579.ts
 #EXTINF:-1,SİNEMA TV HD
 http://minnos.org:8080/live/Ali124/JU7YZ44B/278.ts
 #EXTINF:-1,SİNEMA AKSİYON HD
@@ -212,17 +210,17 @@ https://live.artidijitalmedya.com/artidijital_ekoltv/ekoltv/chunks.m3u8
 #EXTINF:-1,MC EU
 https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&type=live&service=wowza&protocol=https&output=playlist.m3u8
 #EXTINF:-1,BEİN SPORTS 1
-http://23.146.40.56:8000/live/youssef.guitarajsjss/Cxt2moKzYhsuus/17625.ts
+http://4ab8dce6.edmonst.net/iptv/C7BFDN9L95DRB8/6781/index.m3u8
 #EXTINF:-1,BEİN SPORTS 2
-http://23.146.40.56:8000/live/youssef.guitarajsjss/Cxt2moKzYhsuus/17626.ts
+http://4ab8dce6.edmonst.net/iptv/C7BFDN9L95DRB8/6819/index.m3u8
 #EXTINF:-1,BEİN SPORTS 3
-http://23.146.40.56:8000/live/youssef.guitarajsjss/Cxt2moKzYhsuus/17627.ts
+http://4ab8dce6.edmonst.net/iptv/C7BFDN9L95DRB8/6821/index.m3u8
 #EXTINF:-1,BEİN SPORTS 4
-http://23.146.40.56:8000/live/youssef.guitarajsjss/Cxt2moKzYhsuus/17628.ts
+http://4ab8dce6.edmonst.net/iptv/C7BFDN9L95DRB8/6823/index.m3u8
 #EXTINF:-1,BEİN SPORTS MAX 1
-http://23.146.40.56:8000/live/youssef.guitarajsjss/Cxt2moKzYhsuus/17629.ts
+http://4ab8dce6.edmonst.net/iptv/C7BFDN9L95DRB8/6824/index.m3u8
 #EXTINF:-1,BEİN SPORTS MAX 2
-http://23.146.40.56:8000/live/youssef.guitarajsjss/Cxt2moKzYhsuus/17630.ts
+http://4ab8dce6.edmonst.net/iptv/C7BFDN9L95DRB8/19066/index.m3u8
 #EXTINF:-1,TRT SPOR
 https://trtspordvr.blutv.com/blutv_trtspor_dvr/live.m3u8
 #EXTINF:-1,TV 8,5
