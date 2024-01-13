@@ -41,10 +41,12 @@ https://yayin30.haber100.com/live/surpriztv/chunklist_w499191500.m3u8
 https://streaming.netdirekt.com.tr/35757/teleontv/teleontv_lisansli_canliyayin_hd_live/chunks.m3u8
 #EXTINF:-1,HOCWAN TV
 https://hocwantv.ozelip.com:3593/hybrid/play.m3u8
-#EXTINF:-1,TV 90
-https://tv90-live.cdnnew.com/tv90/tv90.m3u8
 #EXTINF:-1,PAZARCIK TV
 https://pazarciktv.ozelip.net:3962/hybrid/play.m3u8
+#EXTINF:-1,KARAPINAR TV
+http://164.132.23.92:22372/karapinar/karapinar/sec-f5-v1-a1.m3u8
+#EXTINF:-1,GOPŞEN TV
+http://164.132.23.92:22372/gopsentv/gopsentv/sec-f5-v1-a1.m3u8
 #EXTINF:-1,LİFE TV HD
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/chunks.m3u8
 #EXTINF:-1,DENİZ POSTASI TV
@@ -89,6 +91,8 @@ http://streaming.netdirekt.com.tr:80/35757/msyapi/chunks.m3u8
 http://duzguntv1616.ozelip.net:25192/duzguntv/duzguntv/playlist.m3u8
 #EXTINF:-1,ADA TV NET
 https://edge1.socialsmart.tv/adatv/bant1/chunks.m3u8
+#EXTINF:-1,TV 90
+https://tv90-live.cdnnew.com/tv90/tv90.m3u8
 #EXTINF:-1,VİYANA TV
 http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
 #EXTINF:-1,BÜLTEN TV
