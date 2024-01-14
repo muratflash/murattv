@@ -1,30 +1,82 @@
 #EXTINF:
-#EXTINF:-1,BEİN SPORTS HABER
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS HABER" tvg-logo="" group-title="SPOR",BEİN SPORTS HABER
 http://minnos.org:8080/live/mariyanmilenov/63A7A5KA97/2091.ts
-#EXTINF:-1,TRT SPOR HD
+#EXTINF:-1 tvg-id="" tvg-name="TRT SPOR HD" tvg-logo="" group-title="SPOR",TRT SPOR HD
 https://tv-trtspor1.medya.trt.com.tr/master.m3u8
-#EXTINF:-1,A SPOR HD
+#EXTINF:-1 tvg-id="" tvg-name="A SPOR HD" tvg-logo="" group-title="SPOR",A SPOR HD
 http://hw1.jemtv.com/app/ASporHD/playlist.m3u8
-#EXTINF:-1,TİVİBU SPOR HD
+#EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR HD" tvg-logo="" group-title="SPOR",TİVİBU SPOR HD
 http://euteger.net:8080/weycellonal/YsIpVhijFb/89071
-#EXTINF:-1,SPOR SMART HD
+#EXTINF:-1 tvg-id="" tvg-name="SPOR SMART HD" tvg-logo="" group-title="SPOR",SPOR SMART HD
 http://minnos.org:8080/live/mariyanmilenov/63A7A5KA97/9337.ts
-#EXTINF:-1,BEİN SPORTS 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 HD" tvg-logo="" group-title="SPOR",BEİN SPORTS 1 HD
 http://minnos.org:8080/live/mariyanmilenov/63A7A5KA97/663.ts
-#EXTINF:-1,BEİN SPORTS 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 2 HD" tvg-logo="" group-title="SPOR",BEİN SPORTS 2 HD
 http://minnos.org:8080/live/mariyanmilenov/63A7A5KA97/56.ts
-#EXTINF:-1,BEİN SPORTS 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 3 HD" tvg-logo="" group-title="SPOR",BEİN SPORTS 3 HD
 http://minnos.org:8080/live/mariyanmilenov/63A7A5KA97/57.ts
-#EXTINF:-1,BEİN SPORTS 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 4 HD" tvg-logo="" group-title="SPOR",BEİN SPORTS 4 HD
 http://minnos.org:8080/live/mariyanmilenov/63A7A5KA97/253.ts
-#EXTINF:-1,TV 8.5 HD
+#EXTINF:-1 tvg-id="" tvg-name="TV 8.5 HD" tvg-logo="" group-title="SPOR",TV 8.5 HD
 http://50.7.218.122:8080/tv85/index.m3u8
-#EXTINF:-1,TV 8 HD
-https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
-#EXTINF:-1,FB TV HD
+#EXTINF:-1 tvg-id="" tvg-name="TV 8.5" tvg-logo="" group-title="SPOR",TV 8.5
+https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?app=tv8bucuk_web&ce=3
+#EXTINF:-1 tvg-id="" tvg-name="TRT SPOR" tvg-logo="" group-title="SPOR",TRT SPOR
+https://trtspordvr.blutv.com/blutv_trtspor_dvr/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FB TV HD" tvg-logo="" group-title="SPOR",FB TV HD
 http://minnos.org:8080/live/mariyanmilenov/63A7A5KA97/818.ts
-#EXTINF:-1,GS TV HD
+#EXTINF:-1 tvg-id="" tvg-name="GS TV HD" tvg-logo="" group-title="SPOR",GS TV HD
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1" tvg-logo="" group-title="SPOR",BEİN SPORTS 1
+https://corsproxy.org/?https://cakal.click/yayinzirve.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 2" tvg-logo="" group-title="SPOR",BEİN SPORTS 2
+https://corsproxy.org/?https://cakal.click/yayinb2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 3" tvg-logo="" group-title="SPOR",BEİN SPORTS 3
+https://corsproxy.org/?https://cakal.click/yayinb3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 4" tvg-logo="" group-title="SPOR",BEİN SPORTS 4
+https://corsproxy.org/?https://cakal.click/yayinb4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS MAX 1" tvg-logo="" group-title="SPOR",BEİN SPORTS MAX 1
+https://corsproxy.org/?https://cakal.click/yayinbm1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS MAX 2" tvg-logo="" group-title="SPOR",BEİN SPORTS MAX 2
+https://corsproxy.org/?https://cakal.click/yayinbm2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="İNAT TV" tvg-logo="" group-title="SPOR",İNAT TV
+https://corsproxy.org/?https://cakal.click/yayininat.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="S SPORT" tvg-logo="" group-title="SPOR",S SPORT
+https://corsproxy.org/?https://cakal.click/yayinss.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="S SPORT 2" tvg-logo="" group-title="SPOR",S SPORT 2
+https://corsproxy.org/?https://cakal.click/yayinss2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPOR SMART" tvg-logo="" group-title="SPOR",SPOR SMART
+https://corsproxy.org/?https://cakal.click/yayinsmarts.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPOR SMART 2" tvg-logo="" group-title="SPOR",SPOR SMART 2
+https://corsproxy.org/?https://cakal.click/yayinsms2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR 1" tvg-logo="" group-title="SPOR",TİVİBU SPOR 1
+https://corsproxy.org/?https://cakal.click/yayint1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR 2" tvg-logo="" group-title="SPOR",TİVİBU SPOR 2
+https://corsproxy.org/?https://cakal.click/yayint2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR 3" tvg-logo="" group-title="SPOR",TİVİBU SPOR 3
+https://corsproxy.org/?https://cakal.click/yayint3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR 4" tvg-logo="" group-title="SPOR",TİVİBU SPOR 4
+https://corsproxy.org/?https://cakal.click/yayint4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="İDMAN TV HD" tvg-logo="" group-title="SPOR",İDMAN TV HD
+http://4ab8dce6.edmonst.net/iptv/C7BFDN9L95DRB8/6840/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="İDMAN TV" tvg-logo="" group-title="SPOR",İDMAN TV
+https://proxy.canlitvplayer.com/canlitvulusal2.xyz/live1/idmantv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBC SPORT" tvg-logo="" group-title="SPOR",CBC SPORT
+https://de.iptv.monster/play/434/3CBF88AF63B755F/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBC SPORT HD" tvg-logo="" group-title="SPOR",CBC SPORT HD
+http://satscream.000webhostapp.com/GinikoHD.php?ID=782
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN 1" tvg-logo="" group-title="SPOR",EXXEN 1
+https://corsproxy.org/?https://cakal.click/yayinex1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN 2" tvg-logo="" group-title="SPOR",EXXEN 2
+https://corsproxy.org/?https://cakal.click/yayinex2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN 3" tvg-logo="" group-title="SPOR",EXXEN 3
+https://corsproxy.org/?https://cakal.click/yayinex3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN 4" tvg-logo="" group-title="SPOR",EXXEN 4
+https://corsproxy.org/?https://cakal.click/yayinex4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN 6" tvg-logo="" group-title="SPOR",EXXEN 6
+https://corsproxy.org/?https://cakal.click/yayinex6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN 7" tvg-logo="" group-title="SPOR",EXXEN 7
+https://corsproxy.org/?https://cakal.click/yayinex7.m3u8
 #EXTINF:-1,KONYA OLAY TV
 http://olayhabertv42.ozelip.com:28008/olay/olay/playlist.m3u8
 #EXTINF:-1,YANSIMA SİNEMA TV HD
@@ -257,11 +309,3 @@ http://4ab8dce6.edmonst.net/iptv/C7BFDN9L95DRB8/6823/index.m3u8
 http://4ab8dce6.edmonst.net/iptv/C7BFDN9L95DRB8/6824/index.m3u8
 #EXTINF:-1,BEİN SPORTS MAX 2
 http://4ab8dce6.edmonst.net/iptv/C7BFDN9L95DRB8/19066/index.m3u8
-#EXTINF:-1,TRT SPOR
-https://trtspordvr.blutv.com/blutv_trtspor_dvr/live.m3u8
-#EXTINF:-1,TV 8,5
-https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?app=tv8bucuk_web&ce=3
-#EXTINF:-1,İDMAN TV
-https://de.iptv.monster/play/439/3CBF88AF63B755F/video.m3u8
-#EXTINF:-1,CBC SPORT
-https://de.iptv.monster/play/434/3CBF88AF63B755F/video.m3u8
