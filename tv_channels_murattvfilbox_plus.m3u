@@ -67,8 +67,6 @@ http://streaming.netdirekt.com.tr:80/35757/msyapi/chunks.m3u8
 http://duzguntv1616.ozelip.net:25192/duzguntv/duzguntv/playlist.m3u8
 #EXTINF:-1,ADA TV NET
 https://edge1.socialsmart.tv/adatv/bant1/chunks.m3u8
-#EXTINF:-1,TV 90
-https://tv90-live.cdnnew.com/tv90/tv90.m3u8
 #EXTINF:-1,VİYANA TV
 http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
 #EXTINF:-1,BÜLTEN TV
@@ -140,31 +138,31 @@ http://minnos.org:8080/live/mariyanmilenov/63A7A5KA97/458.ts
 #EXTINF:-1,MOVİE SMART CLASSİC HD
 http://minnos.org:8080/live/mariyanmilenov/63A7A5KA97/2362.ts
 #EXTINF:-1,KEMAL SUNAL TV 1
-http://firsttv.xyz:8080/live/hulya1903/7WuLCC9zSase/149123.ts
+http://firsttv.org:8080/live/hulya1903/7WuLCC9zSase/149123.ts
 #EXTINF:-1,KEMAL SUNAL TV 2
-http://firsttv.xyz:8080/live/hulya1903/7WuLCC9zSase/149124.ts
+http://firsttv.org:8080/live/hulya1903/7WuLCC9zSase/149124.ts
 #EXTINF:-1,KEMAL SUNAL TV 3
-http://firsttv.xyz:8080/live/hulya1903/7WuLCC9zSase/149125.ts
+http://firsttv.org:8080/live/hulya1903/7WuLCC9zSase/149125.ts
 #EXTINF:-1,KEMAL SUNAL TV 4
 http://fr0811.xyz:8080/live/mtt1755/mtt.2050/6325.ts
 #EXTINF:-1,KEMAL SUNAL TV 5
 http://fr0811.xyz:8080/live/mtt1755/mtt.2050/101136.ts
 #EXTINF:-1,HABABAM SINIFI TV
-http://firsttv.xyz:8080/live/hulya1903/7WuLCC9zSase/149126.ts
+http://firsttv.org:8080/live/hulya1903/7WuLCC9zSase/149126.ts
 #EXTINF:-1,ŞENER ŞEN TV 1
-http://firsttv.xyz:8080/live/hulya1903/7WuLCC9zSase/149127.ts
+http://firsttv.org:8080/live/hulya1903/7WuLCC9zSase/149127.ts
 #EXTINF:-1,ŞENER ŞEN TV 2
 http://fr0811.xyz:8080/live/mtt1755/mtt.2050/23578.ts
 #EXTINF:-1,ZEKİ METİN TV
 http://fr0811.xyz:8080/live/mtt1755/mtt.2050/6320.ts
 #EXTINF:-1,CEM YILMAZ TV
-http://firsttv.xyz:8080/live/hulya1903/7WuLCC9zSase/149133.ts
+http://firsttv.org:8080/live/hulya1903/7WuLCC9zSase/149133.ts
 #EXTINF:-1,İBRAHİM TATLISES TV
 http://fr0811.xyz:8080/live/mtt1755/mtt.2050/6318.ts
 #EXTINF:-1,CÜNEYT ARKIN TV 1
-http://firsttv.xyz:8080/live/hulya1903/7WuLCC9zSase/149128.ts
+http://firsttv.org:8080/live/hulya1903/7WuLCC9zSase/149128.ts
 #EXTINF:-1,CÜNEYT ARKIN TV 2
-http://firsttv.xyz:8080/live/hulya1903/7WuLCC9zSase/149129.ts
+http://firsttv.org:8080/live/hulya1903/7WuLCC9zSase/149129.ts
 #EXTINF:-1,CÜNEYT ARKIN TV 3
 http://fr0811.xyz:8080/live/mtt1755/mtt.2050/23579.ts
 #EXTINF:-1,YEŞİLÇAM TV 1
