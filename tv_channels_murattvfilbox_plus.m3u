@@ -168,9 +168,11 @@ http://vip1.kolinx.xyz:8080/live/mtt1755/mtt.2050/6599.ts
 #EXTINF:-1,KÜÇÜK EMRAH TV
 http://vip1.kolinx.xyz:8080/live/mtt1755/mtt.2050/6611.ts
 #EXTINF:-1,CÜNEYT ARKIN TV 1
-http://vip1.kolinx.xyz:8080/live/hulya1903/7WuLCC9zSase/6597.ts
+http://firsttv.org:8080/live/hulya1903/7WuLCC9zSase/149128.ts
 #EXTINF:-1,CÜNEYT ARKIN TV 2
 http://firsttv.org:8080/live/hulya1903/7WuLCC9zSase/149129.ts
+#EXTINF:-1,CÜNEYT ARKIN TV 3
+http://vip1.kolinx.xyz:8080/live/mtt1755/mtt.2050/6597.ts
 #EXTINF:-1,YEŞİLÇAM TV 1
 http://31.42.187.143:25461/live/05053986947/05053986947/86503.ts
 #EXTINF:-1,YEŞİLÇAM TV 2
