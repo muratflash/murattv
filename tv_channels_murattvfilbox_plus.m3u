@@ -73,6 +73,8 @@ http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
 https://cdn1-bultentv.yayin.com.tr/bultentv/bultentv/playlist.m3u8
 #EXTINF:-1,360 TV HD
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
+#EXTINF:-1,TV4 HD
+https://tv4.blutv.com/blutv_tv4/live.m3u8
 #EXTINF:-1,BEYAZ TV HD
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 #EXTINF:-1,A2 HD
