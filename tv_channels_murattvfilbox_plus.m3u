@@ -35,8 +35,6 @@ https://yayin.rizeturk.com:3777/multi_web/play.m3u8
 https://edge1.socialsmart.tv/guneytv/bant1/chunks.m3u8
 #EXTINF:-1,VRT HD
 https://vrttv.ozelip.com:3644/multi_web/play_1080.m3u8
-#EXTINF:-1,CTV HD
-https://starkurd.ozelip.com:3459/stream/play.m3u8
 #EXTINF:-1,KANAL 19
 https://vdo.digitalbox.xyz:3644/live/kanal19tvlive.m3u8
 #EXTINF:-1,SABAN TV
@@ -115,6 +113,8 @@ https://nminhgrts.mediatriple.net/tgrtfm.aac
 https://radyo.huzurpinari.com:8443/radio/8050/radio.mp3
 #EXTINF:-1,TRT DİYANET ÇOCUK
 http://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1,DİSCOVERY İD HD
+https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/master.m3u8
 #EXTINF:-1,KUZEY KIBRIS TV
 http://kuzeykibris.tv/m3u8/tv_kktv.m3u8
 #EXTINF:-1,EM TV
@@ -123,22 +123,20 @@ https://cdn.yayin.com.tr/TVEM/TVEM/chunklist.m3u8
 https://play1dvr.blutv.com/blutv_play1_dvr/live_1080p3500000kbps/index.m3u8
 #EXTINF:-1,BLU TV PLAY 2
 https://play2dvr.blutv.com/blutv_play2_dvr/live.m3u8
-#EXTINF:-1,DİSCOVERY İD HD
-https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/master.m3u8
 #EXTINF:-1,BEİN MOVİES ACTİON HD
 http://vip1.kolinx.xyz:8080/live/rkn3789/rkn.80/6448.ts
 #EXTINF:-1,BEİN MOVİES PREMİERE HD
-http://vizyon51.us:8080/live/mariyanmilenov/63A7A5KA97/2009.ts
+http://vizyon51.us:8080/live/anlgurlek/31VW1ZZR2D/2009.ts
 #EXTINF:-1,BEİN MOVİES PREMİERE 2 HD
-http://vizyon51.us:8080/live/mariyanmilenov/63A7A5KA97/5759.ts
+http://vizyon51.us:8080/live/anlgurlek/31VW1ZZR2D/5759.ts
 #EXTINF:-1,BEİN MOVİES STARS HD
-http://vizyon51.us:8080/live/mariyanmilenov/63A7A5KA97/1108.ts
+http://vizyon51.us:8080/live/anlgurlek/31VW1ZZR2D/1108.ts
 #EXTINF:-1,BEİN MOVİES TÜRK HD
-http://vizyon51.us:8080/live/mariyanmilenov/63A7A5KA97/1082.ts
+http://vizyon51.us:8080/live/anlgurlek/31VW1ZZR2D/1082.ts
 #EXTINF:-1,MOVİE SMART TÜRK HD
-http://vizyon51.us:8080/live/mariyanmilenov/63A7A5KA97/458.ts
+http://vizyon51.us:8080/live/anlgurlek/31VW1ZZR2D/458.ts
 #EXTINF:-1,MOVİE SMART CLASSİC HD
-http://vizyon51.us:8080/live/mariyanmilenov/63A7A5KA97/2362.ts
+http://vizyon51.us:8080/live/anlgurlek/31VW1ZZR2D/2362.ts
 #EXTINF:-1,KEMAL SUNAL TV 1
 http://firsttv.org:8080/live/hulya1903/7WuLCC9zSase/149123.ts
 #EXTINF:-1,KEMAL SUNAL TV 2
@@ -206,7 +204,7 @@ http://31.42.187.143:25461/live/05053986947/05053986947/86574.ts
 #EXTINF:-1,YEŞİLÇAM TV 9
 http://31.42.187.143:25461/live/05053986947/05053986947/86575.ts
 #EXTINF:-1,SİNEMA TV HD
-http://vizyon51.us:8080/live/mariyanmilenov/63A7A5KA97/278.ts
+http://vizyon51.us:8080/live/anlgurlek/31VW1ZZR2D/278.ts
 #EXTINF:-1,SİNEMA AKSİYON HD
 http://vip1.kolinx.xyz:8080/live/rkn3789/rkn.80/6465.ts
 #EXTINF:-1,FİLMBOX HD
@@ -242,7 +240,7 @@ https://live.artidijitalmedya.com/artidijital_ekoltv/ekoltv/chunks.m3u8
 #EXTINF:-1,MC EU
 https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&type=live&service=wowza&protocol=https&output=playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS HABER" tvg-logo="" group-title="SPOR",BEİN SPORTS HABER
-http://vizyon51.us:8080/live/mariyanmilenov/63A7A5KA97/2091.ts
+http://vizyon51.us:8080/live/anlgurlek/31VW1ZZR2D/2091.ts
 #EXTINF:-1 tvg-id="" tvg-name="TRT SPOR HD" tvg-logo="" group-title="SPOR",TRT SPOR HD
 https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A SPOR HD" tvg-logo="" group-title="SPOR",A SPOR HD
@@ -250,15 +248,15 @@ http://hw1.jemtv.com/app/ASporHD/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR HD" tvg-logo="" group-title="SPOR",TİVİBU SPOR HD
 http://euteger.net:8080/weycellonal/YsIpVhijFb/89071
 #EXTINF:-1 tvg-id="" tvg-name="SPOR SMART HD" tvg-logo="" group-title="SPOR",SPOR SMART HD
-http://vizyon51.us:8080/live/mariyanmilenov/63A7A5KA97/9337.ts
+http://vizyon51.us:8080/live/anlgurlek/31VW1ZZR2D/9337.ts
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 HD" tvg-logo="" group-title="SPOR",BEİN SPORTS 1 HD
-http://vizyon51.us:8080/live/mariyanmilenov/63A7A5KA97/663.ts
+http://vizyon51.us:8080/live/anlgurlek/31VW1ZZR2D/663.ts
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 2 HD" tvg-logo="" group-title="SPOR",BEİN SPORTS 2 HD
-http://vizyon51.us:8080/live/mariyanmilenov/63A7A5KA97/56.ts
+http://vizyon51.us:8080/live/anlgurlek/31VW1ZZR2D/56.ts
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 3 HD" tvg-logo="" group-title="SPOR",BEİN SPORTS 3 HD
-http://vizyon51.us:8080/live/mariyanmilenov/63A7A5KA97/57.ts
+http://vizyon51.us:8080/live/anlgurlek/31VW1ZZR2D/57.ts
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 4 HD" tvg-logo="" group-title="SPOR",BEİN SPORTS 4 HD
-http://vizyon51.us:8080/live/mariyanmilenov/63A7A5KA97/253.ts
+http://vizyon51.us:8080/live/anlgurlek/31VW1ZZR2D/253.ts
 #EXTINF:-1 tvg-id="" tvg-name="TV 8.5 HD" tvg-logo="" group-title="SPOR",TV 8.5 HD
 http://50.7.218.122:8080/tv85/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV 8.5" tvg-logo="" group-title="SPOR",TV 8.5
@@ -266,7 +264,7 @@ https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?app=tv8bucuk_web&ce=3
 #EXTINF:-1 tvg-id="" tvg-name="TRT SPOR" tvg-logo="" group-title="SPOR",TRT SPOR
 https://trtspordvr.blutv.com/blutv_trtspor_dvr/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FB TV HD" tvg-logo="" group-title="SPOR",FB TV HD
-http://vizyon51.us:8080/live/mariyanmilenov/63A7A5KA97/818.ts
+http://vizyon51.us:8080/live/anlgurlek/31VW1ZZR2D/818.ts
 #EXTINF:-1 tvg-id="" tvg-name="GS TV HD" tvg-logo="" group-title="SPOR",GS TV HD
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1" tvg-logo="" group-title="SPOR",BEİN SPORTS 1
