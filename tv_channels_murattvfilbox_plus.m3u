@@ -13,6 +13,8 @@ http://75.119.144.48/SUPERTURK_MAX_MUZIK_HD/index.m3u8
 https://yayin30.haber100.com/live/surpriztv/chunklist_w499191500.m3u8
 #EXTINF:-1,TELEON TV
 https://streaming.netdirekt.com.tr/35757/teleontv/teleonmediagroups_live_4kultrahd_lisansli/chunks.m3u8
+#EXTINF:-1,ÖZBURUN TV
+http://stream.tvcdn.net/diger-eglence/ozburun-tv.m3u8
 #EXTINF:-1,HOCWAN TV
 https://hocwantv.ozelip.com:3593/hybrid/play.m3u8
 #EXTINF:-1,PAZARCIK TV
@@ -23,6 +25,8 @@ http://164.132.23.92:22372/karapinar/karapinar/sec-f5-v1-a1.m3u8
 http://164.132.23.92:22372/gopsentv/gopsentv/sec-f5-v1-a1.m3u8
 #EXTINF:-1,KASTAMONU TV
 http://51.91.118.139:8080/kastamonutv/kastamonutv/3385
+#EXTINF:-1,DOĞANAY TV
+http://stream.tvcdn.net/diger-eglence/doganay-tv.m3u8
 #EXTINF:-1,LİFE TV HD
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/chunks.m3u8
 #EXTINF:-1,DENİZ POSTASI TV
@@ -31,6 +35,8 @@ https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m
 https://tv.digitalbox.xyz:19360/afyonturktv/afyonturktv.m3u8
 #EXTINF:-1,RİZE TÜRK TV
 https://yayin.rizeturk.com:3777/multi_web/play.m3u8
+#EXTINF:-1,NTN HD
+http://stream.tvcdn.net/diger-eglence/ntn-hd.m3u8
 #EXTINF:-1,GÜNEY TV
 https://edge1.socialsmart.tv/guneytv/bant1/chunks.m3u8
 #EXTINF:-1,VRT HD
@@ -91,6 +97,8 @@ https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
 https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/playlist.m3u8
 #EXTINF:-1,SLOW KARADENİZ TV
 https://yayin.slowkaradeniztv.com:3390/multi_web/play.m3u8
+#EXTINF:-1,EGE LİVE TV
+http://stream.tvcdn.net/yerel/ege-live-tv.m3u8
 #EXTINF:-1,KRAL FM
 https://dygedge2.radyotvonline.net/kralfm/playlist.m3u8
 #EXTINF:-1,BABA RADYO
@@ -111,6 +119,8 @@ https://rd-trtradyo1.medya.trt.com.tr/master_128.m3u8
 https://nminhgrts.mediatriple.net/tgrtfm.aac
 #EXTINF:-1,RADYO HUZUR PINARI
 https://radyo.huzurpinari.com:8443/radio/8050/radio.mp3
+#EXTINF:-1,HUZUR PINARI TV
+http://stream.tvcdn.net/dini/huzur-pinari.m3u8
 #EXTINF:-1,TRT DİYANET ÇOCUK
 http://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,DİSCOVERY İD HD
@@ -203,6 +213,8 @@ http://31.42.187.143:25461/live/05053986947/05053986947/86573.ts
 http://31.42.187.143:25461/live/05053986947/05053986947/86574.ts
 #EXTINF:-1,YEŞİLÇAM TV 9
 http://31.42.187.143:25461/live/05053986947/05053986947/86575.ts
+#EXTINF:-1,YEŞİLÇAM TV 10
+http://stream.tvcdn.net/diger-eglence/yesilcam-tv-1.m3u8
 #EXTINF:-1,SİNEMA TV HD
 http://vizyon51.us:8080/live/anlgurlek/31VW1ZZR2D/278.ts
 #EXTINF:-1,SİNEMA AKSİYON HD
