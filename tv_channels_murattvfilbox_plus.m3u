@@ -255,8 +255,10 @@ https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&type=live&service=wowza&protoc
 http://vizyon51.us:8080/live/anlgurlek/31VW1ZZR2D/2091.ts
 #EXTINF:-1 tvg-id="" tvg-name="TRT SPOR HD" tvg-logo="" group-title="SPOR",TRT SPOR HD
 https://tv-trtspor1.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A SPOR HD" tvg-logo="" group-title="SPOR",A SPOR HD
+#EXTINF:-1 tvg-id="" tvg-name="A SPOR" tvg-logo="" group-title="SPOR",A SPOR
 http://hw1.jemtv.com/app/ASporHD/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A SPOR HD" tvg-logo="" group-title="SPOR",A SPOR HD
+https://ythls.armelin.one/video/XML046Hzwqk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR HD" tvg-logo="" group-title="SPOR",TİVİBU SPOR HD
 http://euteger.net:8080/weycellonal/YsIpVhijFb/89071
 #EXTINF:-1 tvg-id="" tvg-name="SPOR SMART HD" tvg-logo="" group-title="SPOR",SPOR SMART HD
