@@ -51,6 +51,8 @@ https://ythls.armelin.one/channel/UCoIUysIrvGxoDw-GkdOGjRw.m3u8
 http://145.239.37.125:20458/aktif/aktif/chunklist.m3u8
 #EXTINF:-1,İSVİÇRE TV
 https://i41.ozelip.com:3269/hybrid/play.m3u8
+#EXTINF:-1,CENNET MAHALLESİ TV
+https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/cennetmahallesi.m3u8
 #EXTINF:-1,SKY HABER TV
 https://cdn1-skyhabertv.yayin.com.tr/skyhabertv/skyhabertv/chunklist_w1126474240_b1996000.m3u8
 #EXTINF:-1,TH TÜRK HABER
