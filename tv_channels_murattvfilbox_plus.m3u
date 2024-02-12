@@ -37,6 +37,8 @@ https://tv.digitalbox.xyz:19360/afyonturktv/afyonturktv.m3u8
 https://yayin.rizeturk.com:3777/multi_web/play.m3u8
 #EXTINF:-1,NTN HD
 http://stream.tvcdn.net/diger-eglence/ntn-hd.m3u8
+#EXTINF:-1,İLKGÜN TV
+http://stream.tvcdn.net/diger-eglence/ilkgun-tv.m3u8
 #EXTINF:-1,GÜNEY TV
 https://edge1.socialsmart.tv/guneytv/bant1/chunks.m3u8
 #EXTINF:-1,VRT HD
