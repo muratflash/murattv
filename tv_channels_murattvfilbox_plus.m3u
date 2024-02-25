@@ -101,28 +101,6 @@ https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
 https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/playlist.m3u8
 #EXTINF:-1,SLOW KARADENİZ TV
 https://yayin.slowkaradeniztv.com:3390/multi_web/play.m3u8
-#EXTINF:-1,EGE LİVE TV
-http://stream.tvcdn.net/yerel/ege-live-tv.m3u8
-#EXTINF:-1,KRAL FM
-https://dygedge2.radyotvonline.net/kralfm/playlist.m3u8
-#EXTINF:-1,BABA RADYO
-http://officialbabaradyo.radyotvonline.net/babaofficial
-#EXTINF:-1,BEST FM
-http://officialbestfm.radyotvonline.net/bestfmofficial
-#EXTINF:-1,RADYO D
-https://moondigitaledge2.radyotvonline.net/radyod/playlist.m3u8
-#EXTINF:-1,RADYO KULÜP
-http://cdn-radyokulup.yayin.com.tr/radyokulup/radyokulup/chunklist.m3u8
-#EXTINF:-1,RADYO SPOR
-https://wowza1.radyotvonline.com/saran/radyospor.stream/chunklist_w959732395.m3u8
-#EXTINF:-1,RADYO GOL
-https://wowza1.radyotvonline.com/unitedmedia/radyogol.stream/chunklist_w510741187.m3u8
-#EXTINF:-1,TRT RADYO 1
-https://rd-trtradyo1.medya.trt.com.tr/master_128.m3u8
-#EXTINF:-1,TGRT FM
-https://nminhgrts.mediatriple.net/tgrtfm.aac
-#EXTINF:-1,RADYO HUZUR PINARI
-https://radyo.huzurpinari.com:8443/radio/8050/radio.mp3
 #EXTINF:-1,HUZUR PINARI TV
 http://stream.tvcdn.net/dini/huzur-pinari.m3u8
 #EXTINF:-1,TRT DİYANET ÇOCUK
@@ -335,15 +313,43 @@ https://corsproxy.org/?https://cakal.click/yayinex4.m3u8
 https://corsproxy.org/?https://cakal.click/yayinex6.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EXXEN 7" tvg-logo="" group-title="Spor",EXXEN 7
 https://corsproxy.org/?https://cakal.click/yayinex7.m3u8
-#EXTINF:-1,BEİN SPORTS 1
-http://4ab8dce6.edmonst.net/iptv/C7BFDN9L95DRB8/6781/index.m3u8
-#EXTINF:-1,BEİN SPORTS 2
-http://4ab8dce6.edmonst.net/iptv/C7BFDN9L95DRB8/6819/index.m3u8
-#EXTINF:-1,BEİN SPORTS 3
-http://4ab8dce6.edmonst.net/iptv/C7BFDN9L95DRB8/6821/index.m3u8
-#EXTINF:-1,BEİN SPORTS 4
-http://4ab8dce6.edmonst.net/iptv/C7BFDN9L95DRB8/6823/index.m3u8
-#EXTINF:-1,BEİN SPORTS MAX 1
-http://4ab8dce6.edmonst.net/iptv/C7BFDN9L95DRB8/6824/index.m3u8
-#EXTINF:-1,BEİN SPORTS MAX 2
-http://4ab8dce6.edmonst.net/iptv/C7BFDN9L95DRB8/19066/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT RADYO 1" tvg-logo="" group-title="Radyo",TRT RADYO 1
+https://rd-trtradyo1.medya.trt.com.tr/master_128.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TGRT FM" tvg-logo="" group-title="Radyo",TGRT FM
+https://nminhgrts.mediatriple.net/tgrtfm.aac
+#EXTINF:-1 tvg-id="" tvg-name="RADYO HUZUR PINARI" tvg-logo="" group-title="Radyo",RADYO HUZUR PINARI
+https://radyo.huzurpinari.com:8443/radio/8050/radio.mp3
+#EXTINF:-1 tvg-id="" tvg-name="RADYO SPOR" tvg-logo="" group-title="Radyo",RADYO SPOR
+https://wowza1.radyotvonline.com/saran/radyospor.stream/chunklist_w959732395.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADYO GOL" tvg-logo="" group-title="Radyo",RADYO GOL
+https://wowza1.radyotvonline.com/unitedmedia/radyogol.stream/chunklist_w510741187.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEST FM" tvg-logo="" group-title="Radyo",BEST FM
+http://officialbestfm.radyotvonline.net/bestfmofficial
+#EXTINF:-1 tvg-id="" tvg-name="RADYO D" tvg-logo="" group-title="Radyo",RADYO D
+https://moondigitaledge2.radyotvonline.net/radyod/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KRAL FM" tvg-logo="" group-title="Radyo",KRAL FM
+https://dygedge2.radyotvonline.net/kralfm/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BABA RADYO" tvg-logo="" group-title="Radyo",BABA RADYO
+http://officialbabaradyo.radyotvonline.net/babaofficial
+#EXTINF:-1 tvg-id="" tvg-name="BABA RADYO LİVE" tvg-logo="" group-title="Radyo",BABA RADYO LİVE
+https://ythls.armelin.one/video/X338edtSw-M.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADYO 7" tvg-logo="" group-title="Radyo",RADYO 7
+https://ythls.armelin.one/video/a5OTwdV7R08.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADYO ARABESK" tvg-logo="" group-title="Radyo",RADYO ARABESK
+https://ythls.armelin.one/video/AacykI39EFU.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADYO DAMAR" tvg-logo="" group-title="Radyo",RADYO DAMAR
+https://ythls.armelin.one/video/Amb7_Vi8qOw.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADYO TÜRKÜ" tvg-logo="" group-title="Radyo",RADYO TÜRKÜ
+https://ythls.armelin.one/video/T1S5ZKS7NS4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADYO AKUSTİK TÜRKÜ" tvg-logo="" group-title="Radyo",RADYO AKUSTİK TÜRKÜ
+https://ythls.armelin.one/video/Ds4XXYTWMcc.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KARADENİZ AKUSTİK RADYO" tvg-logo="" group-title="Radyo",KARADENİZ AKUSTİK RADYO
+https://ythls.armelin.one/video/OVDXq8cdHqI.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADYO SLOW TÜRKÜ" tvg-logo="" group-title="Radyo",RADYO SLOW TÜRKÜ
+https://ythls.armelin.one/video/gcu9PriSsTg.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EGE GOKKUSAGİ FM" tvg-logo="" group-title="Radyo",EGE GOKKUSAGİ FM
+http://stream.tvcdn.net/yerel/ege-live-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADYO POP MİX" tvg-logo="" group-title="Radyo",RADYO POP MİX
+https://ythls.armelin.one/video/oglLX7ticB0.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADYO KULÜP" tvg-logo="" group-title="Radyo",RADYO KULÜP
+http://cdn-radyokulup.yayin.com.tr/radyokulup/radyokulup/chunklist.m3u8
