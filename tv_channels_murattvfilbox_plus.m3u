@@ -103,6 +103,8 @@ https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
 https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/playlist.m3u8
 #EXTINF:-1,FRT TV
 https://edge1.socialsmart.tv/frttv/bant1/chunks.m3u8
+#EXTINF:-1,PALA TV
+http://stream.tvcdn.net/diger-muzik/pala-tv.m3u8
 #EXTINF:-1,SLOW KARADENİZ TV
 https://yayin.slowkaradeniztv.com:3390/multi_web/play.m3u8
 #EXTINF:-1,HUZUR PINARI TV
