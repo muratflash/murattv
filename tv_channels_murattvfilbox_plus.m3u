@@ -320,9 +320,9 @@ http://4ab8dce6.edmonst.net/iptv/C7BFDN9L95DRB8/6840/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="İDMAN TV" tvg-logo="" group-title="Spor",İDMAN TV
 https://proxy.canlitvplayer.com/canlitvulusal2.xyz/live1/idmantv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CBC SPORT" tvg-logo="" group-title="Spor",CBC SPORT
-http://teos.black2.live:8080/aydin49/2212201949571/362962
+https://yayin8.canlitv.day/livetv/cbcsport.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CBC SPORT HD" tvg-logo="" group-title="Spor",CBC SPORT HD
-http://vizyon51.us:8080/live/anlgurlek/31VW1ZZR2D/44173.ts
+http://teos.black2.live:8080/aydin49/2212201949571/362962
 #EXTINF:-1 tvg-id="" tvg-name="EXXEN 1" tvg-logo="" group-title="Spor",EXXEN 1
 https://corsproxy.org/?https://cakal.click/yayinex1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EXXEN 2" tvg-logo="" group-title="Spor",EXXEN 2
