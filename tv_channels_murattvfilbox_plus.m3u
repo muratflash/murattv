@@ -52,7 +52,7 @@ http://145.239.37.125:20458/aktif/aktif/chunklist.m3u8
 #EXTINF:-1,İSVİÇRE TV
 https://i41.ozelip.com:3269/hybrid/play.m3u8
 #EXTINF:-1,CENNET MAHALLESİ TV
-https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/cennetmahallesi.m3u8
+https://ythls.armelin.one/video/lf1NxAexRAE.m3u8
 #EXTINF:-1,EN SON BABALAR DUYAR TV
 https://ythls.armelin.one/video/kXAUBBh_h_s.m3u8
 #EXTINF:-1,SKY HABER TV
@@ -199,26 +199,6 @@ https://ythls.armelin.one/video/EYg1n041Nug.m3u8
 https://ythls.armelin.one/video/R5_u76hnMks.m3u8
 #EXTINF:-1,MURATFİLM CÜNEYT ARKIN
 https://ythls.armelin.one/video/hmgM0Yzfj_4.m3u8
-#EXTINF:-1,YEŞİLÇAM TV 1
-http://31.42.187.143:25461/live/5384149945/5384149945/86503.ts
-#EXTINF:-1,YEŞİLÇAM TV 2
-http://31.42.187.143:25461/live/5384149945/5384149945/86504.ts
-#EXTINF:-1,YEŞİLÇAM TV 3
-http://31.42.187.143:25461/live/5384149945/5384149945/86568.ts
-#EXTINF:-1,YEŞİLÇAM TV 4
-http://31.42.187.143:25461/live/5384149945/5384149945/86569.ts
-#EXTINF:-1,YEŞİLÇAM TV 5
-http://31.42.187.143:25461/live/5384149945/5384149945/86570.ts
-#EXTINF:-1,YEŞİLÇAM TV 6
-http://31.42.187.143:25461/live/5384149945/5384149945/86571.ts
-#EXTINF:-1,YEŞİLÇAM TV 7
-http://31.42.187.143:25461/live/5384149945/5384149945/86573.ts
-#EXTINF:-1,YEŞİLÇAM TV 8
-http://31.42.187.143:25461/live/5384149945/5384149945/86574.ts
-#EXTINF:-1,YEŞİLÇAM TV 9
-http://31.42.187.143:25461/live/5384149945/5384149945/86575.ts
-#EXTINF:-1,YEŞİLÇAM TV 10
-http://stream.tvcdn.net/diger-eglence/yesilcam-tv-1.m3u8
 #EXTINF:-1,SİNEMA TV HD
 http://vizyon51.us:8080/live/anlgurlek/31VW1ZZR2D/278.ts
 #EXTINF:-1,SİNEMA AKSİYON HD
