@@ -329,6 +329,8 @@ https://wowza1.radyotvonline.com/unitedmedia/radyogol.stream/chunklist_w51074118
 http://officialbestfm.radyotvonline.net/bestfmofficial
 #EXTINF:-1 tvg-id="" tvg-name="RADYO D" tvg-logo="" group-title="Radyo",RADYO D
 https://moondigitaledge2.radyotvonline.net/radyod/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SHOW RADYO" tvg-logo="" group-title="Radyo",SHOW RADYO
+https://ythls.armelin.one/video/T0B2z2p8pDo.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KRAL FM" tvg-logo="" group-title="Radyo",KRAL FM
 https://dygedge2.radyotvonline.net/kralfm/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KRAL FM LİVE" tvg-logo="" group-title="Radyo",KRAL FM LİVE
@@ -343,6 +345,8 @@ https://ythls.armelin.one/video/a5OTwdV7R08.m3u8
 https://ythls.armelin.one/video/AacykI39EFU.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO DAMAR" tvg-logo="" group-title="Radyo",RADYO DAMAR
 https://ythls.armelin.one/video/Amb7_Vi8qOw.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADYO DRAM" tvg-logo="" group-title="Radyo",RADYO DRAM
+https://ythls.armelin.one/video/33jLPDlKKow.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO TÜRKÜ" tvg-logo="" group-title="Radyo",RADYO TÜRKÜ
 https://ythls.armelin.one/video/T1S5ZKS7NS4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO AKUSTİK TÜRKÜ" tvg-logo="" group-title="Radyo",RADYO AKUSTİK TÜRKÜ
