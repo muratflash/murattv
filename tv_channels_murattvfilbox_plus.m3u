@@ -148,9 +148,9 @@ http://vip1.kolinx.xyz:8080/live/rkn3789/rkn.80/6595.ts
 #EXTINF:-1,KEMAL SUNAL TV 6
 http://vip1.kolinx.xyz:8080/live/rkn3789/rkn.80/6596.ts
 #EXTINF:-1,KEMAL SUNAL TV 7
-http://tf0811.xyz:8080/live/mtt1755/mtt.2050/6325.ts
+http://poy.iptvtestle.xyz:8080/live/mtt1755/mtt.2050/6325.ts
 #EXTINF:-1,KEMAL SUNAL TV 8
-http://tf0811.xyz:8080/live/mtt1755/mtt.2050/101136.ts
+http://poy.iptvtestle.xyz:8080/live/mtt1755/mtt.2050/101136.ts
 #EXTINF:-1,HABABAM SINIFI TV 1
 http://firsttv.org:8080/live/hulya1903/7WuLCC9zSase/149126.ts
 #EXTINF:-1,HABABAM SINIFI TV 2
@@ -160,13 +160,13 @@ http://firsttv.org:8080/live/hulya1903/7WuLCC9zSase/149127.ts
 #EXTINF:-1,ŞENER ŞEN TV 2
 http://vip1.kolinx.xyz:8080/live/rkn3789/rkn.80/6601.ts
 #EXTINF:-1,ŞENER ŞEN TV 3
-http://tf0811.xyz:8080/live/mtt1755/mtt.2050/23578.ts
+http://poy.iptvtestle.xyz:8080/live/mtt1755/mtt.2050/23578.ts
 #EXTINF:-1,ZEKİ METİN TV
 http://vip1.kolinx.xyz:8080/live/rkn3789/rkn.80/6610.ts
 #EXTINF:-1,CEM YILMAZ TV
 http://firsttv.org:8080/live/hulya1903/7WuLCC9zSase/149133.ts
 #EXTINF:-1,KADİR İNANIR TV
-http://tf0811.xyz:8080/live/mtt1755/mtt.2050/23580.ts
+http://poy.iptvtestle.xyz:8080/live/mtt1755/mtt.2050/23580.ts
 #EXTINF:-1,TARIK AKAN TV
 http://vip1.kolinx.xyz:8080/live/zgr2553/zgr.dnm2/6606.ts
 #EXTINF:-1,İBRAHİM TATLISES TV
@@ -182,7 +182,7 @@ http://vip1.kolinx.xyz:8080/live/rkn3789/rkn.80/6597.ts
 #EXTINF:-1,CÜNEYT ARKIN TV 4
 http://enndy75.com:2086/live/mustafakarakoc/mk28032023/87621.ts
 #EXTINF:-1,CÜNEYT ARKIN TV 5
-http://tf0811.xyz:8080/live/mtt1755/mtt.2050/23579.ts
+http://poy.iptvtestle.xyz:8080/live/mtt1755/mtt.2050/23579.ts
 #EXTINF:-1,KEMAL SUNAL FİLMLERİ TV
 https://ythls.armelin.one/video/lDI6Lbxhz6Y.m3u8
 #EXTINF:-1,ARZUFİLM KEMAL SUNAL
@@ -236,7 +236,7 @@ https://live.artidijitalmedya.com/artidijital_ekoltv/ekoltv/chunks.m3u8
 #EXTINF:-1,MC EU
 https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&type=live&service=wowza&protocol=https&output=playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS HABER" tvg-logo="" group-title="Spor",BEİN SPORTS HABER
-http://vizyon51.us:8080/live/anlgurlek/31VW1ZZR2D/2091.ts
+https://ythls.armelin.one/video/OypUpUTYAHI.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT SPOR HD" tvg-logo="" group-title="Spor",TRT SPOR HD
 https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A SPOR" tvg-logo="" group-title="Spor",A SPOR
@@ -350,7 +350,7 @@ https://ythls.armelin.one/video/Amb7_Vi8qOw.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO DRAM" tvg-logo="" group-title="Radyo",RADYO DRAM
 https://ythls.armelin.one/video/33jLPDlKKow.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ARABESK RADYO" tvg-logo="" group-title="Radyo",ARABESK RADYO
-https://ythls.armelin.one/video/GfbymSQjZqE.m3u8
+https://ythls.armelin.one/video/XYnDx-gFSac.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO TÜRKÜ" tvg-logo="" group-title="Radyo",RADYO TÜRKÜ
 https://ythls.armelin.one/video/T1S5ZKS7NS4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO AKUSTİK TÜRKÜ" tvg-logo="" group-title="Radyo",RADYO AKUSTİK TÜRKÜ
