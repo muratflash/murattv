@@ -350,7 +350,7 @@ https://ythls.armelin.one/video/Amb7_Vi8qOw.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO DRAM" tvg-logo="" group-title="Radyo",RADYO DRAM
 https://ythls.armelin.one/video/33jLPDlKKow.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ARABESK RADYO" tvg-logo="" group-title="Radyo",ARABESK RADYO
-https://ythls.armelin.one/video/XYnDx-gFSac.m3u8
+https://ythls.armelin.one/video/J4_D5f17qVA.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO TÜRKÜ" tvg-logo="" group-title="Radyo",RADYO TÜRKÜ
 https://ythls.armelin.one/video/T1S5ZKS7NS4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO AKUSTİK TÜRKÜ" tvg-logo="" group-title="Radyo",RADYO AKUSTİK TÜRKÜ
@@ -359,8 +359,6 @@ https://ythls.armelin.one/video/Ds4XXYTWMcc.m3u8
 https://ythls.armelin.one/video/OVDXq8cdHqI.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO SLOW TÜRKÜ" tvg-logo="" group-title="Radyo",RADYO SLOW TÜRKÜ
 https://ythls.armelin.one/video/gcu9PriSsTg.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADYO ESİNTİ" tvg-logo="" group-title="Radyo",RADYO ESİNTİ
-https://ythls.armelin.one/video/I5sk9XibkQ8.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EGE GOKKUSAGİ FM" tvg-logo="" group-title="Radyo",EGE GOKKUSAGİ FM
 http://stream.tvcdn.net/yerel/ege-live-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO POP MİX" tvg-logo="" group-title="Radyo",RADYO POP MİX
