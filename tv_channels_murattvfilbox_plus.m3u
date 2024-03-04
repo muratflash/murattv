@@ -333,6 +333,8 @@ http://officialbestfm.radyotvonline.net/bestfmofficial
 https://ythls.armelin.one/video/ExlWtnvFm5E.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SHOW RADYO" tvg-logo="" group-title="Radyo",SHOW RADYO
 https://ythls.armelin.one/video/T0B2z2p8pDo.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SÜPER FM" tvg-logo="" group-title="Radyo",SÜPER FM
+https://25633.live.streamtheworld.com/SUPER_FM128AAC.aac
 #EXTINF:-1 tvg-id="" tvg-name="KRAL FM" tvg-logo="" group-title="Radyo",KRAL FM
 https://dygedge2.radyotvonline.net/kralfm/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KRAL FM LİVE" tvg-logo="" group-title="Radyo",KRAL FM LİVE
@@ -343,12 +345,16 @@ http://officialbabaradyo.radyotvonline.net/babaofficial
 https://ythls.armelin.one/video/X338edtSw-M.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO 7" tvg-logo="" group-title="Radyo",RADYO 7
 https://ythls.armelin.one/video/a5OTwdV7R08.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADYO 7 AKUSTİK TÜRKÜLER" tvg-logo="" group-title="Radyo",RADYO 7 AKUSTİK TÜRKÜLER
+https://ythls.armelin.one/video/XdGhXYoa3go.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO ARABESK" tvg-logo="" group-title="Radyo",RADYO ARABESK
 https://ythls.armelin.one/video/AacykI39EFU.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO DAMAR" tvg-logo="" group-title="Radyo",RADYO DAMAR
 https://ythls.armelin.one/video/Amb7_Vi8qOw.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO DRAM" tvg-logo="" group-title="Radyo",RADYO DRAM
 https://ythls.armelin.one/video/33jLPDlKKow.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADYO 44 ARABESK" tvg-logo="" group-title="Radyo",RADYO 44 ARABESK
+https://ythls.armelin.one/video/gSBZcx5YbH4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ARABESK RADYO" tvg-logo="" group-title="Radyo",ARABESK RADYO
 https://ythls.armelin.one/video/J4_D5f17qVA.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO TÜRKÜ" tvg-logo="" group-title="Radyo",RADYO TÜRKÜ
