@@ -75,6 +75,8 @@ http://streaming.netdirekt.com.tr:80/35757/msyapi/chunks.m3u8
 http://duzguntv1616.ozelip.net:25192/duzguntv/duzguntv/playlist.m3u8
 #EXTINF:-1,KANAL 53
 https://kanal53.ozelip.com:3448/hybrid/play.m3u8
+#EXTINF:-1,HÜRTÜRK TV
+https://github.com/UzunMuhalefet/yayinlar/raw/main/streams/best/hurturktv.m3u8
 #EXTINF:-1,ADA TV NET
 https://edge1.socialsmart.tv/adatv/bant1/chunks.m3u8
 #EXTINF:-1,VİYANA TV
