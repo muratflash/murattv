@@ -41,8 +41,8 @@ http://stream.tvcdn.net/diger-eglence/ilkgun-tv.m3u8
 https://edge1.socialsmart.tv/guneytv/bant1/chunks.m3u8
 #EXTINF:-1,VRT HD
 https://vrttv.ozelip.com:3644/multi_web/play_1080.m3u8
-#EXTINF:-1,KANAL EGE
-https://cdn-365tv.yayin.com.tr/365tv/365tv/chunklist_w1735064091.m3u8
+#EXTINF:-1,ULUSLARARASI TV
+http://stream.tvcdn.net/diger/uluslararasi-tv.m3u8
 #EXTINF:-1,KANAL 19
 https://vdo.digitalbox.xyz:3644/live/kanal19tvlive.m3u8
 #EXTINF:-1,SABAN TV
@@ -114,7 +114,7 @@ http://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,DİSCOVERY İD HD
 https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/master.m3u8
 #EXTINF:-1,KUZEY KIBRIS TV
-http://kuzeykibris.tv/m3u8/tv_kktv.m3u8
+https://kuzeykibris.tv/m3u8/kktv.m3u8
 #EXTINF:-1,EM TV
 https://cdn.yayin.com.tr/TVEM/TVEM/chunklist.m3u8
 #EXTINF:-1,BLU TV PLAY 1
@@ -181,6 +181,8 @@ http://firsttv.org:8080/live/hulya1903/7WuLCC9zSase/149129.ts
 http://vip1.kolinx.xyz:8080/live/rkn3789/rkn.80/6597.ts
 #EXTINF:-1,CÜNEYT ARKIN TV 4
 http://egapanel.xyz:8080/live/mtt1755/mtt.2050/23579.ts
+#EXTINF:-1,YEŞİLÇAM TV
+http://stream.tvcdn.net/diger-eglence/yesilcam-tv-3.m3u8
 #EXTINF:-1,KEMAL SUNAL FİLMLERİ TV
 https://ythlsgo.onrender.com/video/lDI6Lbxhz6Y.m3u8
 #EXTINF:-1,ARZUFİLM KEMAL SUNAL
