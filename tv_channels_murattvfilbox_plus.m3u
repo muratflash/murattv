@@ -19,12 +19,8 @@ http://51.91.118.139:8080/kastamonutv/kastamonutv/3385
 https://hocwantv.ozelip.com:3593/hybrid/play.m3u8
 #EXTINF:-1,PAZARCIK TV
 https://pazarciktv.ozelip.net:3962/hybrid/play.m3u8
-#EXTINF:-1,KARAPINAR TV
-http://164.132.23.92:22372/karapinar/karapinar/sec-f5-v1-a1.m3u8
 #EXTINF:-1,GOPŞEN TV
 http://164.132.23.92:22372/gopsentv/gopsentv/sec-f5-v1-a1.m3u8
-#EXTINF:-1,DOĞANAY TV
-http://stream.tvcdn.net/diger-eglence/doganay-tv.m3u8
 #EXTINF:-1,LİFE TV HD
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/chunks.m3u8
 #EXTINF:-1,DENİZ POSTASI TV
@@ -121,20 +117,24 @@ https://cdn.yayin.com.tr/TVEM/TVEM/chunklist.m3u8
 https://play1dvr.blutv.com/blutv_play1_dvr/live.m3u8
 #EXTINF:-1,BLU TV PLAY 2
 https://play2dvr.blutv.com/blutv_play2_dvr/live.m3u8
+#EXTINF:-1,BEİN BOX OFFİCE 1 HD
+http://vip1.kolinx.xyz:8080/live/rkn3789/rkn.80/142318.ts
+#EXTINF:-1,BEİN BOX OFFİCE 2 HD
+http://vip1.kolinx.xyz:8080/live/rkn3789/rkn.80/142319.ts
+#EXTINF:-1,BEİN BOX OFFİCE 3 HD
+http://vip1.kolinx.xyz:8080/live/rkn3789/rkn.80/142320.ts
 #EXTINF:-1,BEİN MOVİES ACTİON HD
 http://vip1.kolinx.xyz:8080/live/rkn3789/rkn.80/6448.ts
 #EXTINF:-1,BEİN MOVİES PREMİERE HD
-http://vizyon51.us:8080/live/anlgurlek/31VW1ZZR2D/2009.ts
-#EXTINF:-1,BEİN MOVİES PREMİERE 2 HD
-http://vizyon51.us:8080/live/anlgurlek/31VW1ZZR2D/5759.ts
+http://vip1.kolinx.xyz:8080/live/rkn3789/rkn.80/6451.ts
 #EXTINF:-1,BEİN MOVİES STARS HD
-http://vizyon51.us:8080/live/anlgurlek/31VW1ZZR2D/1108.ts
+http://vip1.kolinx.xyz:8080/live/rkn3789/rkn.80/6453.ts
 #EXTINF:-1,BEİN MOVİES TÜRK HD
-http://vizyon51.us:8080/live/anlgurlek/31VW1ZZR2D/1082.ts
+http://vip1.kolinx.xyz:8080/live/rkn3789/rkn.80/6454.ts
 #EXTINF:-1,MOVİE SMART TÜRK HD
-http://vizyon51.us:8080/live/anlgurlek/31VW1ZZR2D/458.ts
+http://vip1.kolinx.xyz:8080/live/rkn3789/rkn.80/6461.ts
 #EXTINF:-1,MOVİE SMART CLASSİC HD
-http://vizyon51.us:8080/live/anlgurlek/31VW1ZZR2D/2362.ts
+http://vip1.kolinx.xyz:8080/live/rkn3789/rkn.80/6458.ts
 #EXTINF:-1,KEMAL SUNAL TV 1
 http://firsttv.org:8080/live/hulya1903/7WuLCC9zSase/149123.ts
 #EXTINF:-1,KEMAL SUNAL TV 2
@@ -147,10 +147,6 @@ http://vip1.kolinx.xyz:8080/live/rkn3789/rkn.80/6594.ts
 http://vip1.kolinx.xyz:8080/live/rkn3789/rkn.80/6595.ts
 #EXTINF:-1,KEMAL SUNAL TV 6
 http://vip1.kolinx.xyz:8080/live/rkn3789/rkn.80/6596.ts
-#EXTINF:-1,KEMAL SUNAL TV 7
-http://egapanel.xyz:8080/live/mtt1755/mtt.2050/6325.ts
-#EXTINF:-1,KEMAL SUNAL TV 8
-http://egapanel.xyz:8080/live/mtt1755/mtt.2050/101136.ts
 #EXTINF:-1,HABABAM SINIFI TV 1
 http://firsttv.org:8080/live/hulya1903/7WuLCC9zSase/149126.ts
 #EXTINF:-1,HABABAM SINIFI TV 2
@@ -159,14 +155,10 @@ http://vip1.kolinx.xyz:8080/live/rkn3789/rkn.80/6612.ts
 http://firsttv.org:8080/live/hulya1903/7WuLCC9zSase/149127.ts
 #EXTINF:-1,ŞENER ŞEN TV 2
 http://vip1.kolinx.xyz:8080/live/rkn3789/rkn.80/6601.ts
-#EXTINF:-1,ŞENER ŞEN TV 3
-http://egapanel.xyz:8080/live/mtt1755/mtt.2050/23578.ts
 #EXTINF:-1,ZEKİ METİN TV
 http://vip1.kolinx.xyz:8080/live/rkn3789/rkn.80/6610.ts
 #EXTINF:-1,CEM YILMAZ TV
 http://firsttv.org:8080/live/hulya1903/7WuLCC9zSase/149133.ts
-#EXTINF:-1,KADİR İNANIR TV
-http://egapanel.xyz:8080/live/mtt1755/mtt.2050/23580.ts
 #EXTINF:-1,TARIK AKAN TV
 http://vip1.kolinx.xyz:8080/live/zgr2553/zgr.dnm2/6606.ts
 #EXTINF:-1,İBRAHİM TATLISES TV
@@ -179,8 +171,6 @@ http://firsttv.org:8080/live/hulya1903/7WuLCC9zSase/149128.ts
 http://firsttv.org:8080/live/hulya1903/7WuLCC9zSase/149129.ts
 #EXTINF:-1,CÜNEYT ARKIN TV 3
 http://vip1.kolinx.xyz:8080/live/rkn3789/rkn.80/6597.ts
-#EXTINF:-1,CÜNEYT ARKIN TV 4
-http://egapanel.xyz:8080/live/mtt1755/mtt.2050/23579.ts
 #EXTINF:-1,YEŞİLÇAM TV
 http://stream.tvcdn.net/diger-eglence/yesilcam-tv-3.m3u8
 #EXTINF:-1,KEMAL SUNAL FİLMLERİ TV
@@ -194,7 +184,7 @@ https://ythlsgo.onrender.com/video/4Nj9oNgvjKk.m3u8
 #EXTINF:-1,KEMAL SUNAL TV
 https://ythlsgo.onrender.com/video/J30JtRcQSls.1.m3u8
 #EXTINF:-1,ŞENER ŞEN FİLMLERİ
-https://ythls.armelin.one/video/PTp6hmibGSc.m3u8
+https://ythlsgo.onrender.com/video/PTp6hmibGSc.m3u8
 #EXTINF:-1,ZEKİ METİN FİLMLERİ
 https://ythlsgo.onrender.com/video/EYg1n041Nug.m3u8
 #EXTINF:-1,İBRAHİM TATLISES FİLMLERİ
@@ -202,25 +192,13 @@ https://ythlsgo.onrender.com/video/R5_u76hnMks.m3u8
 #EXTINF:-1,MURATFİLM CÜNEYT ARKIN
 https://ythlsgo.onrender.com/video/hmgM0Yzfj_4.m3u8
 #EXTINF:-1,SİNEMA TV HD
-http://vizyon51.us:8080/live/anlgurlek/31VW1ZZR2D/278.ts
+http://vip1.kolinx.xyz:8080/live/rkn3789/rkn.80/6467.ts
 #EXTINF:-1,SİNEMA AKSİYON HD
 http://vip1.kolinx.xyz:8080/live/rkn3789/rkn.80/6465.ts
 #EXTINF:-1,FİLMBOX HD
-http://euteger.net:8080/weycellonal/YsIpVhijFb/89282
+http://vip1.kolinx.xyz:8080/live/rkn3789/rkn.80/99048.ts
 #EXTINF:-1,FX HD
-http://euteger.net:8080/live/weycellonal/YsIpVhijFb/89206.ts
-#EXTINF:-1,FİL TV
-https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/1277/index.m3u8
-#EXTINF:-1,FİLMAX
-https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/1282/index.m3u8
-#EXTINF:-1,FİLM CLUB
-https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/1279/index.m3u8
-#EXTINF:-1,FİLM CLUB AKSİYON
-https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/1281/index.m3u8
-#EXTINF:-1,FİLM CLUB KOMEDİ
-https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/1283/index.m3u8
-#EXTINF:-1,FİLM CLUB FAMİLY
-https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/1285/index.m3u8
+http://vip1.kolinx.xyz:8080/live/rkn3789/rkn.80/6475.ts
 #EXTINF:-1,HALK TV
 https://halktv.blutv.com/blutv_halktv_live/live_720p2000000kbps/index.m3u8
 #EXTINF:-1,SÖZCÜ TV
@@ -241,28 +219,28 @@ https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&type=live&service=wowza&protoc
 https://ythlsgo.onrender.com/video/OypUpUTYAHI.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT SPOR HD" tvg-logo="" group-title="Spor",TRT SPOR HD
 https://tv-trtspor1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT SPOR" tvg-logo="" group-title="Spor",TRT SPOR
+https://trtspordvr.blutv.com/blutv_trtspor_dvr/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A SPOR" tvg-logo="" group-title="Spor",A SPOR
 http://hw1.jemtv.com/app/ASporHD/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A SPOR HD" tvg-logo="" group-title="Spor",A SPOR HD
 https://ythlsgo.onrender.com/channel/UCJElRTCNEmLemgirqvsW63Q.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR HD" tvg-logo="" group-title="Spor",TİVİBU SPOR HD
-http://euteger.net:8080/weycellonal/YsIpVhijFb/89071
+http://vip1.kolinx.xyz:8080/live/rkn3789/rkn.80/100384.ts
 #EXTINF:-1 tvg-id="" tvg-name="SPOR SMART HD" tvg-logo="" group-title="Spor",SPOR SMART HD
-http://vizyon51.us:8080/live/anlgurlek/31VW1ZZR2D/9337.ts
+http://vip1.kolinx.xyz:8080/live/rkn3789/rkn.80/6396.ts
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 HD" tvg-logo="" group-title="Spor",BEİN SPORTS 1 HD
-http://vizyon51.us:8080/live/anlgurlek/31VW1ZZR2D/663.ts
+http://vip1.kolinx.xyz:8080/live/rkn3789/rkn.80/5849.ts
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 2 HD" tvg-logo="" group-title="Spor",BEİN SPORTS 2 HD
-http://vizyon51.us:8080/live/anlgurlek/31VW1ZZR2D/56.ts
+http://vip1.kolinx.xyz:8080/live/rkn3789/rkn.80/104794.ts
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 3 HD" tvg-logo="" group-title="Spor",BEİN SPORTS 3 HD
-http://vizyon51.us:8080/live/anlgurlek/31VW1ZZR2D/57.ts
+http://vip1.kolinx.xyz:8080/live/rkn3789/rkn.80/5858.ts
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 4 HD" tvg-logo="" group-title="Spor",BEİN SPORTS 4 HD
-http://vizyon51.us:8080/live/anlgurlek/31VW1ZZR2D/253.ts
+http://vip1.kolinx.xyz:8080/live/rkn3789/rkn.80/5861.ts
 #EXTINF:-1 tvg-id="" tvg-name="TV 8.5 HD" tvg-logo="" group-title="Spor",TV 8.5 HD
 http://50.7.218.122:8080/tv85/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV 8.5" tvg-logo="" group-title="Spor",TV 8.5
 https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?app=tv8bucuk_web&ce=3
-#EXTINF:-1 tvg-id="" tvg-name="TRT SPOR" tvg-logo="" group-title="Spor",TRT SPOR
-https://trtspordvr.blutv.com/blutv_trtspor_dvr/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FB TV HD" tvg-logo="" group-title="Spor",FB TV HD
 https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/chunklist_b996000_sltur.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GS TV HD" tvg-logo="" group-title="Spor",GS TV HD
