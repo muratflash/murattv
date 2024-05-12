@@ -19,8 +19,6 @@ http://51.91.118.139:8080/kastamonutv/kastamonutv/3385
 https://hocwantv.ozelip.com:3593/hybrid/play.m3u8
 #EXTINF:-1,PAZARCIK TV
 https://pazarciktv.ozelip.net:3962/hybrid/play.m3u8
-#EXTINF:-1,GOPŞEN TV
-http://164.132.23.92:22372/gopsentv/gopsentv/sec-f5-v1-a1.m3u8
 #EXTINF:-1,LİFE TV HD
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/chunks.m3u8
 #EXTINF:-1,DENİZ POSTASI TV
@@ -33,6 +31,8 @@ https://yayin.rizeturk.com:3777/multi_web/play.m3u8
 http://stream.tvcdn.net/eglence/dizi-film-tv.m3u8
 #EXTINF:-1,İLKGÜN TV
 http://stream.tvcdn.net/diger-eglence/ilkgun-tv.m3u8
+#EXTINF:-1,GOPŞEN TV
+http://164.132.23.92:22372/gopsentv/gopsentv/sec-f5-v1-a1.m3u8
 #EXTINF:-1,GÜNEY TV
 https://edge1.socialsmart.tv/guneytv/bant1/chunks.m3u8
 #EXTINF:-1,VRT HD
@@ -67,14 +67,10 @@ https://live.artidijitalmedya.com/artidijital_birtv/birtv/chunks.m3u8
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
 #EXTINF:-1,KARDELEN TV
 https://edge1.socialsmart.tv/kardelentv/bant1/playlist.m3u8
-#EXTINF:-1,İSTANBUL TV HD
-http://streaming.netdirekt.com.tr:80/35757/msyapi/chunks.m3u8
 #EXTINF:-1,DÜZGÜN TV HD
 http://duzguntv1616.ozelip.net:25192/duzguntv/duzguntv/playlist.m3u8
 #EXTINF:-1,KANAL 53
 https://kanal53.ozelip.com:3448/hybrid/play.m3u8
-#EXTINF:-1,HÜRTÜRK TV
-https://github.com/UzunMuhalefet/yayinlar/raw/main/streams/best/hurturktv.m3u8
 #EXTINF:-1,VİYANA TV
 http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
 #EXTINF:-1,360 TV HD
@@ -97,8 +93,6 @@ https://5e06e5e8c2e27.streamlock.net:1936/videonow/yansimapremiumtv/chunklist_w1
 https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
 #EXTINF:-1,TATLISES TV
 https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/playlist.m3u8
-#EXTINF:-1,FRT TV
-https://edge1.socialsmart.tv/frttv/bant1/chunks.m3u8
 #EXTINF:-1,PALA TV
 http://stream.tvcdn.net/diger-muzik/pala-tv.m3u8
 #EXTINF:-1,SLOW KARADENİZ TV
@@ -169,8 +163,6 @@ http://firsttv.org:8080/live/hulya1903/7WuLCC9zSase/149128.ts
 http://firsttv.org:8080/live/hulya1903/7WuLCC9zSase/149129.ts
 #EXTINF:-1,CÜNEYT ARKIN TV 3
 http://vip.torktv.org:2095/live/zgr2553/zgr.dnm2/6597.ts
-#EXTINF:-1,YEŞİLÇAM TV
-http://stream.tvcdn.net/diger-eglence/yesilcam-tv-3.m3u8
 #EXTINF:-1,SİNEMA TV HD
 http://vip.torktv.org:2095/live/zgr2553/zgr.dnm2/6467.ts
 #EXTINF:-1,SİNEMA AKSİYON HD
@@ -211,8 +203,6 @@ http://vip.torktv.org:2095/live/zgr2553/zgr.dnm2/100384.ts
 http://vip.torktv.org:2095/live/zgr2553/zgr.dnm2/6396.ts
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 HD" tvg-logo="" group-title="Spor",BEİN SPORTS 1 HD
 http://vip.torktv.org:2095/live/zgr2553/zgr.dnm2/5849.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 FHD" tvg-logo="" group-title="Spor",BEİN SPORTS 1 FHD
-http://212.154.94.251/0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 2 HD" tvg-logo="" group-title="Spor",BEİN SPORTS 2 HD
 http://vip.torktv.org:2095/live/zgr2553/zgr.dnm2/104794.ts
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 3 HD" tvg-logo="" group-title="Spor",BEİN SPORTS 3 HD
