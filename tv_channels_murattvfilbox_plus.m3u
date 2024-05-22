@@ -53,6 +53,8 @@ https://i41.ozelip.com:3269/hybrid/play.m3u8
 https://github.com/rideordie16/YouTube/raw/main/dizi/cennetmahallesi.m3u8
 #EXTINF:-1,EN SON BABALAR DUYAR TV
 https://ythls-v2.onrender.com/video/kXAUBBh_h_s.m3u8
+#EXTINF:-1,BEHZAT Ç TV
+https://github.com/rideordie16/YouTube/raw/main/dizi/behzatc.m3u8
 #EXTINF:-1,SKY HABER TV
 https://cdn1-skyhabertv.yayin.com.tr/skyhabertv/skyhabertv/chunklist_w1126474240_b1996000.m3u8
 #EXTINF:-1,TH TÜRK HABER
@@ -127,6 +129,8 @@ http://vip.torktv.org:2095/live/zgr2553/zgr.dnm2/6454.ts
 http://vip.torktv.org:2095/live/zgr2553/zgr.dnm2/6461.ts
 #EXTINF:-1,MOVİE SMART CLASSİC HD
 http://vip.torktv.org:2095/live/zgr2553/zgr.dnm2/6458.ts
+#EXTINF:-1,YEŞİLÇAM TV
+https://github.com/rideordie16/YouTube/raw/main/film/muratfilm.m3u8
 #EXTINF:-1,KEMAL SUNAL TV 1
 http://firsttv.org:8080/live/hulya1903/7WuLCC9zSase/149123.ts
 #EXTINF:-1,KEMAL SUNAL TV 2
@@ -196,7 +200,7 @@ https://trtspordvr.blutv.com/blutv_trtspor_dvr/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A SPOR" tvg-logo="" group-title="Spor",A SPOR
 http://hw1.jemtv.com/app/ASporHD/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A SPOR HD" tvg-logo="" group-title="Spor",A SPOR HD
-https://ythls-v2.onrender.com/channel/UCJElRTCNEmLemgirqvsW63Q.m3u8
+https://github.com/rideordie16/YouTube/raw/main/spor/aspor.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR HD" tvg-logo="" group-title="Spor",TİVİBU SPOR HD
 http://vip.torktv.org:2095/live/zgr2553/zgr.dnm2/100384.ts
 #EXTINF:-1 tvg-id="" tvg-name="SPOR SMART HD" tvg-logo="" group-title="Spor",SPOR SMART HD
