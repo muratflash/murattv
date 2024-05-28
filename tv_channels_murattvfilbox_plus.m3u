@@ -44,7 +44,7 @@ https://vdo.digitalbox.xyz:3644/live/kanal19tvlive.m3u8
 #EXTINF:-1,SABAN TV
 https://tivi44.ozelip.com:3463/stream/play.m3u8
 #EXTINF:-1,SABAN TV 2
-https://ythls-v2.onrender.com/channel/UCoIUysIrvGxoDw-GkdOGjRw.m3u8
+https://koprulu.global.ssl.fastly.net/ythls?kanal_id=UCoIUysIrvGxoDw-GkdOGjRw.m3u8
 #EXTINF:-1,AKTİF TV HD
 http://145.239.37.125:20458/aktif/aktif/chunklist.m3u8
 #EXTINF:-1,İSVİÇRE TV
@@ -52,7 +52,7 @@ https://i41.ozelip.com:3269/hybrid/play.m3u8
 #EXTINF:-1,CENNET MAHALLESİ TV
 https://github.com/rideordie16/YouTube/raw/main/dizi/cennetmahallesi.m3u8
 #EXTINF:-1,EN SON BABALAR DUYAR TV
-https://ythls-v2.onrender.com/video/kXAUBBh_h_s.m3u8
+https://koprulu.global.ssl.fastly.net/ythls?video_id=kXAUBBh_h_s.m3u8
 #EXTINF:-1,BEHZAT Ç TV
 https://github.com/rideordie16/YouTube/raw/main/dizi/behzatc.m3u8
 #EXTINF:-1,SKY HABER TV
