@@ -86,6 +86,8 @@ http://hw1.jemtv.com/app/a2hd/playlist.m3u8
 #EXTINF:-1,CLC MEDYA TV
 https://clcmediatv.ozelip.com:3192/stream/play.m3u8
 #EXTINF:-1,CİNE5 TV HD
+https://live.euromediacenter.com/cine5tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,CİNE5 TV 2
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist_w564654603.m3u8
 #EXTINF:-1,KOBİM TV
 http://cdn-kobimtv.yayin.com.tr/kobimtv/kobimtv/chunklist.m3u8
