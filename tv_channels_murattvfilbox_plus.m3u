@@ -131,8 +131,14 @@ http://vip.torktv.org:2095/live/zgr2553/zgr.dnm2/6454.ts
 http://vip.torktv.org:2095/live/zgr2553/zgr.dnm2/6461.ts
 #EXTINF:-1,MOVİE SMART CLASSİC HD
 http://vip.torktv.org:2095/live/zgr2553/zgr.dnm2/6458.ts
-#EXTINF:-1,YEŞİLÇAM TV
-https://github.com/rideordie16/YouTube/raw/main/film/muratfilm.m3u8
+#EXTINF:-1,FİLM TV 1
+http://62.210.88.161/gin-trn09/gt-sinevizyon-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1,FİLM TV 2
+http://62.210.88.161/gin-trn09/gt-yesilcam-tv1/index.m3u8
+#EXTINF:-1,FİLM TV 3
+http://62.210.88.161/gin-trn09/gt-yesilcam-tv2/index.m3u8
+#EXTINF:-1,FİLM TV 4
+http://62.210.88.161/gin-trn09/gt-sinevizyon-1/index.m3u8
 #EXTINF:-1,KEMAL SUNAL TV 1
 http://firsttv.org:8080/live/hulya1903/7WuLCC9zSase/149123.ts
 #EXTINF:-1,KEMAL SUNAL TV 2
@@ -223,36 +229,6 @@ https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?app=tv8bucuk_web&ce=3
 https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/chunklist_b996000_sltur.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GS TV HD" tvg-logo="" group-title="Spor",GS TV HD
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1" tvg-logo="" group-title="Spor",BEİN SPORTS 1
-https://corsproxy.org/?https://cakal.click/yayinzirve.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 2" tvg-logo="" group-title="Spor",BEİN SPORTS 2
-https://corsproxy.org/?https://cakal.click/yayinb2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 3" tvg-logo="" group-title="Spor",BEİN SPORTS 3
-https://corsproxy.org/?https://cakal.click/yayinb3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 4" tvg-logo="" group-title="Spor",BEİN SPORTS 4
-https://corsproxy.org/?https://cakal.click/yayinb4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS MAX 1" tvg-logo="" group-title="Spor",BEİN SPORTS MAX 1
-https://corsproxy.org/?https://cakal.click/yayinbm1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS MAX 2" tvg-logo="" group-title="Spor",BEİN SPORTS MAX 2
-https://corsproxy.org/?https://cakal.click/yayinbm2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="İNAT TV" tvg-logo="" group-title="Spor",İNAT TV
-https://corsproxy.org/?https://cakal.click/yayininat.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="S SPORT" tvg-logo="" group-title="Spor",S SPORT
-https://corsproxy.org/?https://cakal.click/yayinss.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="S SPORT 2" tvg-logo="" group-title="Spor",S SPORT 2
-https://corsproxy.org/?https://cakal.click/yayinss2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPOR SMART" tvg-logo="" group-title="Spor",SPOR SMART
-https://corsproxy.org/?https://cakal.click/yayinsmarts.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPOR SMART 2" tvg-logo="" group-title="Spor",SPOR SMART 2
-https://corsproxy.org/?https://cakal.click/yayinsms2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR 1" tvg-logo="" group-title="Spor",TİVİBU SPOR 1
-https://corsproxy.org/?https://cakal.click/yayint1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR 2" tvg-logo="" group-title="Spor",TİVİBU SPOR 2
-https://corsproxy.org/?https://cakal.click/yayint2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR 3" tvg-logo="" group-title="Spor",TİVİBU SPOR 3
-https://corsproxy.org/?https://cakal.click/yayint3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR 4" tvg-logo="" group-title="Spor",TİVİBU SPOR 4
-https://corsproxy.org/?https://cakal.click/yayint4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="İDMAN TV HD" tvg-logo="" group-title="Spor",İDMAN TV HD
 http://4ab8dce6.edmonst.net/iptv/C7BFDN9L95DRB8/6840/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="İDMAN TV" tvg-logo="" group-title="Spor",İDMAN TV
@@ -261,18 +237,6 @@ https://proxy.canlitvplayer.com/canlitvulusal2.xyz/live1/idmantv/index.m3u8
 https://yayin8.canlitv.day/livetv/cbcsport.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CBC SPORT HD" tvg-logo="" group-title="Spor",CBC SPORT HD
 http://teos.black2.live:8080/aydin49/2212201949571/362962
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN 1" tvg-logo="" group-title="Spor",EXXEN 1
-https://corsproxy.org/?https://cakal.click/yayinex1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN 2" tvg-logo="" group-title="Spor",EXXEN 2
-https://corsproxy.org/?https://cakal.click/yayinex2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN 3" tvg-logo="" group-title="Spor",EXXEN 3
-https://corsproxy.org/?https://cakal.click/yayinex3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN 4" tvg-logo="" group-title="Spor",EXXEN 4
-https://corsproxy.org/?https://cakal.click/yayinex4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN 6" tvg-logo="" group-title="Spor",EXXEN 6
-https://corsproxy.org/?https://cakal.click/yayinex6.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN 7" tvg-logo="" group-title="Spor",EXXEN 7
-https://corsproxy.org/?https://cakal.click/yayinex7.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT RADYO 1" tvg-logo="" group-title="Radyo",TRT RADYO 1
 https://rd-trtradyo1.medya.trt.com.tr/master_128.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TGRT FM" tvg-logo="" group-title="Radyo",TGRT FM
@@ -288,9 +252,9 @@ https://moondigitaledge2.radyotvonline.net/radyod/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEST FM" tvg-logo="" group-title="Radyo",BEST FM
 http://officialbestfm.radyotvonline.net/bestfmofficial
 #EXTINF:-1 tvg-id="" tvg-name="BEST FM LİVE" tvg-logo="" group-title="Radyo",BEST FM LİVE
-https://ythls-v2.onrender.com/video/ExlWtnvFm5E.m3u8
+https://koprulu.global.ssl.fastly.net/ythls?video_id=ExlWtnvFm5E.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SHOW RADYO" tvg-logo="" group-title="Radyo",SHOW RADYO
-https://ythls-v2.onrender.com/video/T0B2z2p8pDo.m3u8
+https://koprulu.global.ssl.fastly.net/ythls?video_id=T0B2z2p8pDo.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SÜPER FM" tvg-logo="" group-title="Radyo",SÜPER FM
 https://25633.live.streamtheworld.com/SUPER_FM128AAC.aac
 #EXTINF:-1 tvg-id="" tvg-name="ALEM FM" tvg-logo="" group-title="Radyo",ALEM FM
@@ -298,15 +262,15 @@ https://edge1.radyotvonline.net/shoutcast/play/alemfm
 #EXTINF:-1 tvg-id="" tvg-name="KRAL FM" tvg-logo="" group-title="Radyo",KRAL FM
 https://dygedge2.radyotvonline.net/kralfm/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KRAL FM LİVE" tvg-logo="" group-title="Radyo",KRAL FM LİVE
-https://ythls-v2.onrender.com/video/A49bKX8gb-8.m3u8
+https://koprulu.global.ssl.fastly.net/ythls?video_id=A49bKX8gb-8.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AŞK FM" tvg-logo="" group-title="Radyo",AŞK FM
 https://stream.netradyom.com/radio/8000/radio.mp3?/;stream.mp3
 #EXTINF:-1 tvg-id="" tvg-name="BABA RADYO" tvg-logo="" group-title="Radyo",BABA RADYO
 http://officialbabaradyo.radyotvonline.net/babaofficial
 #EXTINF:-1 tvg-id="" tvg-name="BABA RADYO LİVE" tvg-logo="" group-title="Radyo",BABA RADYO LİVE
-https://ythls-v2.onrender.com/video/X338edtSw-M.m3u8
+https://koprulu.global.ssl.fastly.net/ythls?video_id=X338edtSw-M.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO 7" tvg-logo="" group-title="Radyo",RADYO 7
-https://ythls-v2.onrender.com/video/a5OTwdV7R08.m3u8
+https://koprulu.global.ssl.fastly.net/ythls?video_id=a5OTwdV7R08.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO 7 AKUSTİK TÜRKÜLER" tvg-logo="" group-title="Radyo",RADYO 7 AKUSTİK TÜRKÜLER
 https://moondigitaledge2.radyotvonline.net/radyo7turku/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO 7 ARABESK" tvg-logo="" group-title="Radyo",RADYO 7 ARABESK
@@ -314,13 +278,13 @@ https://moondigitaledge2.radyotvonline.net/radyo7arabesk/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO 7 MÜSLÜM FERDİ ORHAN" tvg-logo="" group-title="Radyo",RADYO 7 MÜSLÜM FERDİ ORHAN
 https://moondigitaledge2.radyotvonline.net/radyo7fmo/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO ARABESK" tvg-logo="" group-title="Radyo",RADYO ARABESK
-https://ythls-v2.onrender.com/video/AacykI39EFU.m3u8
+https://koprulu.global.ssl.fastly.net/ythls?video_id=AacykI39EFU.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO DAMAR" tvg-logo="" group-title="Radyo",RADYO DAMAR
-https://ythls-v2.onrender.com/video/Amb7_Vi8qOw.m3u8
+https://koprulu.global.ssl.fastly.net/ythls?video_id=Amb7_Vi8qOw.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO DRAM" tvg-logo="" group-title="Radyo",RADYO DRAM
-https://ythls-v2.onrender.com/video/33jLPDlKKow.m3u8
+https://koprulu.global.ssl.fastly.net/ythls?video_id=33jLPDlKKow.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO 44 ARABESK" tvg-logo="" group-title="Radyo",RADYO 44 ARABESK
-https://ythls-v2.onrender.com/video/gSBZcx5YbH4.m3u8
+https://koprulu.global.ssl.fastly.net/ythls?video_id=gSBZcx5YbH4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO EFSANE 4LU" tvg-logo="" group-title="Radyo",RADYO EFSANE 4LU
 https://moondigitaledge.radyotvonline.net/efsane4lu/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO NEŞTER" tvg-logo="" group-title="Radyo",RADYO NEŞTER
@@ -336,18 +300,18 @@ https://yayin.turkhosted.com/sultanradyo/stream?/;stream.mp3
 #EXTINF:-1 tvg-id="" tvg-name="YOL ARKADAŞIM RADYO" tvg-logo="" group-title="Radyo",YOL ARKADAŞIM RADYO
 https://22733.live.streamtheworld.com/SC022_SO1AAC.aac?/;stream.mp3
 #EXTINF:-1 tvg-id="" tvg-name="RADYO TÜRKÜ" tvg-logo="" group-title="Radyo",RADYO TÜRKÜ
-https://ythls-v2.onrender.com/video/T1S5ZKS7NS4.m3u8
+https://koprulu.global.ssl.fastly.net/ythls?video_id=T1S5ZKS7NS4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO AKUSTİK TÜRKÜ" tvg-logo="" group-title="Radyo",RADYO AKUSTİK TÜRKÜ
-https://ythls-v2.onrender.com/video/Ds4XXYTWMcc.m3u8
+https://koprulu.global.ssl.fastly.net/ythls?video_id=Ds4XXYTWMcc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KARADENİZ AKUSTİK RADYO" tvg-logo="" group-title="Radyo",KARADENİZ AKUSTİK RADYO
-https://ythls-v2.onrender.com/video/OVDXq8cdHqI.m3u8
+https://koprulu.global.ssl.fastly.net/ythls?video_id=OVDXq8cdHqI.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO SLOW TÜRKÜ" tvg-logo="" group-title="Radyo",RADYO SLOW TÜRKÜ
-https://ythls-v2.onrender.com/video/gcu9PriSsTg.m3u8
+https://koprulu.global.ssl.fastly.net/ythls?video_id=gcu9PriSsTg.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EGE GOKKUSAGİ FM" tvg-logo="" group-title="Radyo",EGE GOKKUSAGİ FM
 http://stream.tvcdn.net/yerel/ege-live-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO POP MİX" tvg-logo="" group-title="Radyo",RADYO POP MİX
-https://ythls-v2.onrender.com/video/oglLX7ticB0.m3u8
+https://koprulu.global.ssl.fastly.net/ythls?video_id=oglLX7ticB0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO KULÜP" tvg-logo="" group-title="Radyo",RADYO KULÜP
 http://cdn-radyokulup.yayin.com.tr/radyokulup/radyokulup/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FON MÜZİKLERİ 7/24" tvg-logo="" group-title="Radyo",FON MÜZİKLERİ 7/24
-https://ythls-v2.onrender.com/video/EmdtE7sRMSY.m3u8
+https://koprulu.global.ssl.fastly.net/ythls?video_id=EmdtE7sRMSY.m3u8
