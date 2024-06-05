@@ -41,18 +41,18 @@ https://vrttv.ozelip.com:3644/multi_web/play_1080.m3u8
 http://stream.tvcdn.net/diger/uluslararasi-tv.m3u8
 #EXTINF:-1,KANAL 19
 https://vdo.digitalbox.xyz:3644/live/kanal19tvlive.m3u8
-#EXTINF:-1,SABAN TV
-https://tivi44.ozelip.com:3463/stream/play.m3u8
-#EXTINF:-1,SABAN TV 2
-https://koprulu.global.ssl.fastly.net/ythls?kanal_id=UCoIUysIrvGxoDw-GkdOGjRw.m3u8
 #EXTINF:-1,AKTİF TV HD
 http://145.239.37.125:20458/aktif/aktif/chunklist.m3u8
 #EXTINF:-1,İSVİÇRE TV
 https://i41.ozelip.com:3269/hybrid/play.m3u8
+#EXTINF:-1,SABAN TV
+https://tivi44.ozelip.com:3463/stream/play.m3u8
+#EXTINF:-1,SABAN TV 2
+https://koprulu.global.ssl.fastly.net/ythls?kanal_id=UCoIUysIrvGxoDw-GkdOGjRw.m3u8
 #EXTINF:-1,CENNET MAHALLESİ TV
 https://github.com/rideordie16/YouTube/raw/main/dizi/cennetmahallesi.m3u8
 #EXTINF:-1,ALEMİN KIRALI TV
-https://koprulu.global.ssl.fastly.net/ythls?video_id=8FEznkFtDhA.m3u8
+https://koprulu.global.ssl.fastly.net/ythls?kanal_id=UC7X6WuvzdVTFtAAAly9ldcw.m3u8
 #EXTINF:-1,EN SON BABALAR DUYAR TV
 https://koprulu.global.ssl.fastly.net/ythls?video_id=kXAUBBh_h_s.m3u8
 #EXTINF:-1,KURTLAR VADİSİ PUSU TV
