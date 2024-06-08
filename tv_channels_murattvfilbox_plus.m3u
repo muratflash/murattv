@@ -61,6 +61,8 @@ https://github.com/rideordie16/YouTube/raw/main/dizi/behzatc.m3u8
 https://cdn1-skyhabertv.yayin.com.tr/skyhabertv/skyhabertv/chunklist_w1126474240_b1996000.m3u8
 #EXTINF:-1,TH TÜRK HABER
 https://edge1.socialsmart.tv/turkhaber/bant1/chunks.m3u8
+#EXTINF:-1,BALKAN TÜRK TV
+https://live.euromediacenter.com/balkanturktv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,TRAKYA TÜRK TV
 https://live.artidijitalmedya.com/artidijital_trakyaturk/trakyaturk/chunks.m3u8
 #EXTINF:-1,CİNE1 TV
