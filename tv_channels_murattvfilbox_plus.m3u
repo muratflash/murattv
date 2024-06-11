@@ -117,6 +117,20 @@ https://cdn.yayin.com.tr/TVEM/TVEM/chunklist.m3u8
 https://play1dvr.blutv.com/blutv_play1_dvr/live.m3u8
 #EXTINF:-1,BLU TV PLAY 2
 https://play2dvr.blutv.com/blutv_play2_dvr/live.m3u8
+#EXTINF:-1,FİL TV
+https://live.filbox.com.tr/filtv/index.m3u8
+#EXTINF:-1,FİLMAX
+https://live.filbox.com.tr/filmax/index.m3u8
+#EXTINF:-1,FİLM CLUP
+https://live.filbox.com.tr/filmclub/index.m3u8
+#EXTINF:-1,FİLM CLUP AKSİYON
+https://live.filbox.com.tr/filmclubaksiyon/index.m3u8
+#EXTINF:-1,FİLM CLUP KOMEDİ
+https://live.filbox.com.tr/filmclubkomedi/index.m3u8
+#EXTINF:-1,FİLM CLUP FAMİLY
+https://live.filbox.com.tr/filmclubfamily/index.m3u8
+#EXTINF:-1,DOĞU TV
+https://live.filbox.com.tr/dogutv/index.m3u8
 #EXTINF:-1,BEİN BOX OFFİCE 1 HD
 http://vip.torktv.org:2095/live/zgr2553/zgr.dnm2/142318.ts
 #EXTINF:-1,BEİN BOX OFFİCE 2 HD
