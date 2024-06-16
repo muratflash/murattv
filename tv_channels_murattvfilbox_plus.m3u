@@ -214,6 +214,8 @@ https://flashtv.blutv.com/blutv_flashtv/live.m3u8
 #EXTINF:-1,CAN TV
 http://canbroadcast.com:7000/canlican/tv.m3u8
 #EXTINF:-1,EKOL TV
+https://helga.iptv2022.com/ekol_tv/index.m3u8
+#EXTINF:-1,EKOL TV HD
 https://koprulu.global.ssl.fastly.net/ythls?kanal_id=UCccxXUKSuqOrlWQxweZBAQw.m3u8
 #EXTINF:-1,MC EU
 https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&type=live&service=wowza&protocol=https&output=playlist.m3u8
