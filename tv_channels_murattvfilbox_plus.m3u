@@ -260,9 +260,9 @@ http://teos.black2.live:8080/aydin49/2212201949571/362962
 #EXTINF:-1 tvg-id="" tvg-name="TRT RADYO 1" tvg-logo="" group-title="Radyo",TRT RADYO 1
 https://rd-trtradyo1.medya.trt.com.tr/master_128.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TGRT FM" tvg-logo="" group-title="Radyo",TGRT FM
-https://nminhgrts.mediatriple.net/tgrtfm.aac
+https://canli1.ihlasdigitalassets.com/tgrtfm.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO HUZUR PINARI" tvg-logo="" group-title="Radyo",RADYO HUZUR PINARI
-https://radyo.huzurpinari.com:8443/radio/8050/radio.mp3
+https://radyo.huzurpinari.com/listen/huzurpinari_radyo/radio.mp3
 #EXTINF:-1 tvg-id="" tvg-name="RADYO SPOR" tvg-logo="" group-title="Radyo",RADYO SPOR
 https://wowza1.radyotvonline.com/saran/radyospor.stream/chunklist_w959732395.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO GOL" tvg-logo="" group-title="Radyo",RADYO GOL
