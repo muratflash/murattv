@@ -112,9 +112,9 @@ http://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,KUZEY KIBRIS TV
 https://kuzeykibris.tv/m3u8/kktv.m3u8
 #EXTINF:-1,BLU TV PLAY 1
-https://play1dvr.blutv.com/blutv_play1_dvr/live.m3u8
+https://15595674c0604ed6.mediapackage.eu-central-1.amazonaws.com/out/v1/dbc93664979b4b6db20d13f0d58f4b07/index_1.m3u8
 #EXTINF:-1,BLU TV PLAY 2
-https://play2dvr.blutv.com/blutv_play2_dvr/live.m3u8
+https://15595674c0604ed6.mediapackage.eu-central-1.amazonaws.com/out/v1/f0134e8bd5cc4964bbdbc12aff9bf27e/index_1.m3u8
 #EXTINF:-1,FİL TV
 https://live.filbox.com.tr/filtv/index.m3u8
 #EXTINF:-1,FİLMAX
