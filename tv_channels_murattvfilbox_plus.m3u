@@ -29,10 +29,6 @@ https://tv.digitalbox.xyz:19360/afyonturktv/afyonturktv.m3u8
 https://yayin.rizeturk.com:3777/multi_web/play.m3u8
 #EXTINF:-1,DİZİ FİLM TV
 http://stream.tvcdn.net/eglence/dizi-film-tv.m3u8
-#EXTINF:-1,İLKGÜN TV
-http://stream.tvcdn.net/diger-eglence/ilkgun-tv.m3u8
-#EXTINF:-1,GOPŞEN TV
-http://164.132.23.92:22372/gopsentv/gopsentv/sec-f5-v1-a1.m3u8
 #EXTINF:-1,VRT HD
 https://vrttv.ozelip.com:3644/multi_web/play_1080.m3u8
 #EXTINF:-1,ULUSLARARASI TV
@@ -305,7 +301,7 @@ https://koprulu.global.ssl.fastly.net/ythls?video_id=AacykI39EFU.m3u8
 https://koprulu.global.ssl.fastly.net/ythls?video_id=Amb7_Vi8qOw.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO DRAM" tvg-logo="" group-title="Radyo",RADYO DRAM
 https://koprulu.global.ssl.fastly.net/ythls?video_id=33jLPDlKKow.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADYO 44 ARABESK" tvg-logo="" group-title="Radyo",RADYO 44 ARABESK
+#EXTINF:-1 tvg-id="" tvg-name="VİVA ARABESK" tvg-logo="" group-title="Radyo",RADYO 44 ARABESK
 https://koprulu.global.ssl.fastly.net/ythls?video_id=gSBZcx5YbH4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO EFSANE 4LU" tvg-logo="" group-title="Radyo",RADYO EFSANE 4LU
 https://moondigitaledge.radyotvonline.net/efsane4lu/playlist.m3u8
@@ -325,8 +321,8 @@ https://22733.live.streamtheworld.com/SC022_SO1AAC.aac?/;stream.mp3
 https://moondigitaledge.radyotvonline.net/paldoga/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO TÜRKÜ" tvg-logo="" group-title="Radyo",RADYO TÜRKÜ
 https://koprulu.global.ssl.fastly.net/ythls?video_id=T1S5ZKS7NS4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADYO ULUS TÜRKÜLER" tvg-logo="" group-title="Radyo",RADYO ULUS TÜRKÜLER
-https://koprulu.global.ssl.fastly.net/ythls?video_id=yM3iJ1DZW6c.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADYO SEYMEN" tvg-logo="" group-title="Radyo",RADYO ULUS TÜRKÜLER
+https://koprulu.global.ssl.fastly.net/ythls?video_id=MZji6nf8fxY.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO AKUSTİK TÜRKÜ" tvg-logo="" group-title="Radyo",RADYO AKUSTİK TÜRKÜ
 https://koprulu.global.ssl.fastly.net/ythls?video_id=Ds4XXYTWMcc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KARADENİZ AKUSTİK RADYO" tvg-logo="" group-title="Radyo",KARADENİZ AKUSTİK RADYO
