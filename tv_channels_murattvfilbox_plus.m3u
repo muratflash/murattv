@@ -40,7 +40,7 @@ http://145.239.37.125:20458/aktif/aktif/chunklist.m3u8
 #EXTINF:-1,İSVİÇRE TV
 https://i41.ozelip.com:3269/hybrid/play.m3u8
 #EXTINF:-1,SABAN TV
-https://tivi44.ozelip.com:3463/stream/play.m3u8
+https://goldtv.kesintisizyayin.com:3996/stream/play.m3u8
 #EXTINF:-1,SABAN TV 2
 https://koprulu.global.ssl.fastly.net/ythls?kanal_id=UCoIUysIrvGxoDw-GkdOGjRw.m3u8
 #EXTINF:-1,CENNET MAHALLESİ TV
@@ -319,10 +319,10 @@ https://yayin.turkhosted.com/sultanradyo/stream?/;stream.mp3
 https://22733.live.streamtheworld.com/SC022_SO1AAC.aac?/;stream.mp3
 #EXTINF:-1 tvg-id="" tvg-name="PAL DOĞA RADYO" tvg-logo="" group-title="Radyo",PAL DOĞA RADYO
 https://moondigitaledge.radyotvonline.net/paldoga/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADYO TÜRKÜ" tvg-logo="" group-title="Radyo",RADYO TÜRKÜ
-https://koprulu.global.ssl.fastly.net/ythls?video_id=T1S5ZKS7NS4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO SEYMEN" tvg-logo="" group-title="Radyo",RADYO ULUS TÜRKÜLER
 https://koprulu.global.ssl.fastly.net/ythls?video_id=MZji6nf8fxY.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADYO TÜRKÜ" tvg-logo="" group-title="Radyo",RADYO TÜRKÜ
+https://koprulu.global.ssl.fastly.net/ythls?video_id=T1S5ZKS7NS4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO AKUSTİK TÜRKÜ" tvg-logo="" group-title="Radyo",RADYO AKUSTİK TÜRKÜ
 https://koprulu.global.ssl.fastly.net/ythls?video_id=Ds4XXYTWMcc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KARADENİZ AKUSTİK RADYO" tvg-logo="" group-title="Radyo",KARADENİZ AKUSTİK RADYO
