@@ -296,12 +296,12 @@ https://moondigitaledge2.radyotvonline.net/radyo7arabesk/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO 7 MÜSLÜM FERDİ ORHAN" tvg-logo="" group-title="Radyo",RADYO 7 MÜSLÜM FERDİ ORHAN
 https://moondigitaledge2.radyotvonline.net/radyo7fmo/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO ARABESK" tvg-logo="" group-title="Radyo",RADYO ARABESK
-https://koprulu.global.ssl.fastly.net/ythls?video_id=AacykI39EFU.m3u8
+https://koprulu.global.ssl.fastly.net/ythls?video_id=dJvjthqtfHc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO DAMAR" tvg-logo="" group-title="Radyo",RADYO DAMAR
 https://koprulu.global.ssl.fastly.net/ythls?video_id=Amb7_Vi8qOw.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO DRAM" tvg-logo="" group-title="Radyo",RADYO DRAM
 https://koprulu.global.ssl.fastly.net/ythls?video_id=33jLPDlKKow.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VİVA ARABESK" tvg-logo="" group-title="Radyo",RADYO 44 ARABESK
+#EXTINF:-1 tvg-id="" tvg-name="VİVA ARABESK" tvg-logo="" group-title="Radyo",VİVA ARABESK
 https://koprulu.global.ssl.fastly.net/ythls?video_id=gSBZcx5YbH4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO EFSANE 4LU" tvg-logo="" group-title="Radyo",RADYO EFSANE 4LU
 https://moondigitaledge.radyotvonline.net/efsane4lu/playlist.m3u8
@@ -319,7 +319,7 @@ https://yayin.turkhosted.com/sultanradyo/stream?/;stream.mp3
 https://22733.live.streamtheworld.com/SC022_SO1AAC.aac?/;stream.mp3
 #EXTINF:-1 tvg-id="" tvg-name="PAL DOĞA RADYO" tvg-logo="" group-title="Radyo",PAL DOĞA RADYO
 https://moondigitaledge.radyotvonline.net/paldoga/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADYO SEYMEN" tvg-logo="" group-title="Radyo",RADYO ULUS TÜRKÜLER
+#EXTINF:-1 tvg-id="" tvg-name="RADYO SEYMEN" tvg-logo="" group-title="Radyo",RADYO SEYMEN
 https://koprulu.global.ssl.fastly.net/ythls?video_id=MZji6nf8fxY.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO TÜRKÜ" tvg-logo="" group-title="Radyo",RADYO TÜRKÜ
 https://koprulu.global.ssl.fastly.net/ythls?video_id=T1S5ZKS7NS4.m3u8
