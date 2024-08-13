@@ -29,6 +29,8 @@ https://tv.digitalbox.xyz:19360/afyonturktv/afyonturktv.m3u8
 https://yayin.rizeturk.com:3777/multi_web/play.m3u8
 #EXTINF:-1,DİZİ FİLM TV
 http://stream.tvcdn.net/eglence/dizi-film-tv.m3u8
+#EXTINF:-1,ESMA TV
+https://esmatv.interweb.com.tr:3928/stream/play.m3u8
 #EXTINF:-1,VRT HD
 https://vrttv.ozelip.com:3644/multi_web/play_1080.m3u8
 #EXTINF:-1,ULUSLARARASI TV
@@ -39,6 +41,8 @@ https://live.euromediacenter.com/kanal19/tracks-v1a1/mono.m3u8
 http://145.239.37.125:20458/aktif/aktif/chunklist.m3u8
 #EXTINF:-1,İSVİÇRE TV
 https://i41.ozelip.com:3269/hybrid/play.m3u8
+#EXTINF:-1,NATİVE TV
+https://nativetv.ozelip.com:3735/stream/play.m3u8
 #EXTINF:-1,SABAN TV
 https://goldtv.kesintisizyayin.com:3996/stream/play.m3u8
 #EXTINF:-1,SABAN TV 2
@@ -77,6 +81,8 @@ https://edge1.socialsmart.tv/kardelentv/bant1/playlist.m3u8
 http://duzguntv1616.ozelip.net:25192/duzguntv/duzguntv/playlist.m3u8
 #EXTINF:-1,KANAL 53
 https://kanal53.ozelip.com:3448/hybrid/play.m3u8
+#EXTINF:-1,ŞUSA TV
+https://susatv.interweb.com.tr:3432/stream/play.m3u8
 #EXTINF:-1,VİYANA TV
 http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
 #EXTINF:-1,360 TV HD
