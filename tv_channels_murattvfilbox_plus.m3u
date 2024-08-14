@@ -48,7 +48,7 @@ https://goldtv.kesintisizyayin.com:3996/stream/play.m3u8
 #EXTINF:-1,SABAN TV 2
 https://koprulu.global.ssl.fastly.net/ythls?kanal_id=UCoIUysIrvGxoDw-GkdOGjRw.m3u8
 #EXTINF:-1,CENNET MAHALLESİ TV
-https://github.com/rideordie16/YouTube/raw/main/dizi/cennetmahallesi.m3u8
+https://koprulu.global.ssl.fastly.net/ythls?video_id=lf1NxAexRAE.m3u8
 #EXTINF:-1,ALEMİN KIRALI TV
 https://ythls.armelin.one/channel/UC7X6WuvzdVTFtAAAly9ldcw.m3u8
 #EXTINF:-1,EN SON BABALAR DUYAR TV
@@ -119,20 +119,6 @@ https://kuzeykibris.tv/m3u8/kktv.m3u8
 https://15595674c0604ed6.mediapackage.eu-central-1.amazonaws.com/out/v1/dbc93664979b4b6db20d13f0d58f4b07/index_1.m3u8
 #EXTINF:-1,BLU TV PLAY 2
 https://15595674c0604ed6.mediapackage.eu-central-1.amazonaws.com/out/v1/f0134e8bd5cc4964bbdbc12aff9bf27e/index_1.m3u8
-#EXTINF:-1,FİL TV
-https://live.filbox.com.tr/filtv/index.m3u8
-#EXTINF:-1,FİLMAX
-https://live.filbox.com.tr/filmax/index.m3u8
-#EXTINF:-1,FİLM CLUP
-https://live.filbox.com.tr/filmclub/index.m3u8
-#EXTINF:-1,FİLM CLUP AKSİYON
-https://live.filbox.com.tr/filmclubaksiyon/index.m3u8
-#EXTINF:-1,FİLM CLUP KOMEDİ
-https://live.filbox.com.tr/filmclubkomedi/index.m3u8
-#EXTINF:-1,FİLM CLUP FAMİLY
-https://live.filbox.com.tr/filmclubfamily/index.m3u8
-#EXTINF:-1,DOĞU TV
-https://live.filbox.com.tr/dogutv/index.m3u8
 #EXTINF:-1,BEİN BOX OFFİCE 1 HD
 http://vip.torktv.org:2095/live/zgr2553/zgr.dnm2/142318.ts
 #EXTINF:-1,BEİN BOX OFFİCE 2 HD
@@ -181,8 +167,6 @@ http://firsttv.org:8080/live/hulya1903/7WuLCC9zSase/149127.ts
 http://vip.torktv.org:2095/live/zgr2553/zgr.dnm2/6601.ts
 #EXTINF:-1,ZEKİ METİN TV
 http://vip.torktv.org:2095/live/zgr2553/zgr.dnm2/6610.ts
-#EXTINF:-1,CEM YILMAZ TV
-http://firsttv.org:8080/live/hulya1903/7WuLCC9zSase/149133.ts
 #EXTINF:-1,TARIK AKAN TV
 http://vip.torktv.org:2095/live/zgr2553/zgr.dnm2/6606.ts
 #EXTINF:-1,İBRAHİM TATLISES TV
