@@ -1,8 +1,6 @@
 #EXTINF:
 #EXTINF:-1,KONYA OLAY TV
 http://olayhabertv42.ozelip.com:28008/olay/olay/playlist.m3u8
-#EXTINF:-1,YANSIMA SİNEMA TV HD
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/yansinematvs/chunklist_w1968217333.m3u8
 #EXTINF:-1,TİVİ TÜRK HD
 https://stream.tiviturk.de/live/tiviturk.m3u8
 #EXTINF:-1,SÜPER TÜRK TV
@@ -11,8 +9,6 @@ http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
 http://75.119.144.48/SUPERTURK_MAX_HD/index.m3u8
 #EXTINF:-1,SÜRPRİZ TV HD
 https://yayin30.haber100.com/live/surpriztv/chunklist_w499191500.m3u8
-#EXTINF:-1,TELEON TV
-https://live.euromediacenter.com/teleontv/index.m3u8
 #EXTINF:-1,KASTAMONU TV
 http://51.91.118.139:8080/kastamonutv/kastamonutv/3385
 #EXTINF:-1,HOCWAN TV
@@ -23,30 +19,20 @@ https://pazarciktv.ozelip.net:3962/hybrid/play.m3u8
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/chunks.m3u8
 #EXTINF:-1,DENİZ POSTASI TV
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
-#EXTINF:-1,AFYON TÜRK TV
-https://tv.digitalbox.xyz:19360/afyonturktv/afyonturktv.m3u8
 #EXTINF:-1,RİZE TÜRK TV
 https://yayin.rizeturk.com:3777/multi_web/play.m3u8
 #EXTINF:-1,DİZİ FİLM TV
 http://stream.tvcdn.net/eglence/dizi-film-tv.m3u8
 #EXTINF:-1,ESMA TV
 https://esmatv.interweb.com.tr:3928/stream/play.m3u8
-#EXTINF:-1,VRT HD
-https://vrttv.ozelip.com:3644/multi_web/play_1080.m3u8
 #EXTINF:-1,ULUSLARARASI TV
 http://stream.tvcdn.net/diger/uluslararasi-tv.m3u8
-#EXTINF:-1,KANAL 19
-https://live.euromediacenter.com/kanal19/tracks-v1a1/mono.m3u8
 #EXTINF:-1,AKTİF TV HD
 http://145.239.37.125:20458/aktif/aktif/chunklist.m3u8
 #EXTINF:-1,İSVİÇRE TV
 https://i41.ozelip.com:3269/hybrid/play.m3u8
 #EXTINF:-1,NATİVE TV
 https://nativetv.ozelip.com:3735/stream/play.m3u8
-#EXTINF:-1,SABAN TV
-https://goldtv.kesintisizyayin.com:3996/stream/play.m3u8
-#EXTINF:-1,SABAN TV 2
-https://koprulu.global.ssl.fastly.net/ythls?kanal_id=UCoIUysIrvGxoDw-GkdOGjRw.m3u8
 #EXTINF:-1,CENNET MAHALLESİ TV
 https://koprulu.global.ssl.fastly.net/ythls?video_id=lf1NxAexRAE.m3u8
 #EXTINF:-1,ALEMİN KIRALI TV
@@ -61,8 +47,6 @@ https://koprulu.global.ssl.fastly.net/ythls?video_id=904B4mRfAEc.m3u8
 https://cdn1-skyhabertv.yayin.com.tr/skyhabertv/skyhabertv/chunklist_w1126474240_b1996000.m3u8
 #EXTINF:-1,TH TÜRK HABER
 https://edge1.socialsmart.tv/turkhaber/bant1/chunks.m3u8
-#EXTINF:-1,BALKAN TÜRK TV
-https://live.euromediacenter.com/balkanturktv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,OLAY TÜRK TV
 https://helga.iptv2022.com/sh/OlayTurk_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,BELEM TÜRK TV
@@ -81,6 +65,8 @@ https://edge1.socialsmart.tv/kardelentv/bant1/playlist.m3u8
 http://duzguntv1616.ozelip.net:25192/duzguntv/duzguntv/playlist.m3u8
 #EXTINF:-1,KANAL 53
 https://kanal53.ozelip.com:3448/hybrid/play.m3u8
+#EXTINF:-1,KRAL ŞAKİR TV
+https://koprulu.global.ssl.fastly.net/ythls?video_id=5Whk9MVTpI4.m3u8
 #EXTINF:-1,VİYANA TV
 http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
 #EXTINF:-1,360 TV HD
@@ -93,14 +79,10 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 http://hw1.jemtv.com/app/a2hd/playlist.m3u8
 #EXTINF:-1,CLC MEDYA TV
 https://clcmediatv.ozelip.com:3192/stream/play.m3u8
-#EXTINF:-1,CİNE5 TV HD
-https://live.euromediacenter.com/cine5tv/tracks-v1a1/mono.m3u8
-#EXTINF:-1,CİNE5 TV 2
+#EXTINF:-1,CİNE5 TV
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist_w564654603.m3u8
 #EXTINF:-1,KOBİM TV
 http://cdn-kobimtv.yayin.com.tr/kobimtv/kobimtv/chunklist.m3u8
-#EXTINF:-1,YANSIMA MÜZİK TV HD
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/yansimapremiumtv/chunklist_w1448699434.m3u8
 #EXTINF:-1,KRAL POP TV HD
 https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
 #EXTINF:-1,TATLISES TV
@@ -114,9 +96,9 @@ http://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,KUZEY KIBRIS TV
 https://kuzeykibris.tv/m3u8/kktv.m3u8
 #EXTINF:-1,BLU TV PLAY 1
-https://15595674c0604ed6.mediapackage.eu-central-1.amazonaws.com/out/v1/dbc93664979b4b6db20d13f0d58f4b07/index_1.m3u8
+https://play1.blutv.com/blutv_play1/blutv_play1.smil/playlist.m3u8
 #EXTINF:-1,BLU TV PLAY 2
-https://15595674c0604ed6.mediapackage.eu-central-1.amazonaws.com/out/v1/f0134e8bd5cc4964bbdbc12aff9bf27e/index_1.m3u8
+https://play2.blutv.com/blutv_play2/blutv_play2.smil/playlist.m3u8
 #EXTINF:-1,BEİN BOX OFFİCE 1 HD
 http://vip.torktv.org:2095/live/zgr2553/zgr.dnm2/142318.ts
 #EXTINF:-1,BEİN BOX OFFİCE 2 HD
@@ -143,25 +125,23 @@ http://62.210.88.161/gin-trn09/gt-yesilcam-tv1/index.m3u8
 http://62.210.88.161/gin-trn09/gt-yesilcam-tv2/index.m3u8
 #EXTINF:-1,FİLM TV 4
 http://62.210.88.161/gin-trn09/gt-sinevizyon-1/index.m3u8
+#EXTINF:-1,YEŞİLÇAM TV
+https://ythls.kekikakademi.org/youtube/channel/UCUALYmnkEmx8vlxIbpr2gmw.m3u8
 #EXTINF:-1,KEMAL SUNAL TV 1
-http://firsttv.org:8080/live/hulya1903/7WuLCC9zSase/149123.ts
+https://koprulu.global.ssl.fastly.net/ythls?kanal_id=UCoIUysIrvGxoDw-GkdOGjRw.m3u8
 #EXTINF:-1,KEMAL SUNAL TV 2
-http://firsttv.org:8080/live/hulya1903/7WuLCC9zSase/149124.ts
+https://koprulu.global.ssl.fastly.net/ythls?video_id=hfx8H7YrmTw.m3u8
 #EXTINF:-1,KEMAL SUNAL TV 3
-http://firsttv.org:8080/live/hulya1903/7WuLCC9zSase/149125.ts
+https://koprulu.global.ssl.fastly.net/ythls?video_id=7A15B4g1ueQ.m3u8
 #EXTINF:-1,KEMAL SUNAL TV 4
 http://vip.torktv.org:2095/live/zgr2553/zgr.dnm2/6594.ts
 #EXTINF:-1,KEMAL SUNAL TV 5
 http://vip.torktv.org:2095/live/zgr2553/zgr.dnm2/6595.ts
 #EXTINF:-1,KEMAL SUNAL TV 6
 http://vip.torktv.org:2095/live/zgr2553/zgr.dnm2/6596.ts
-#EXTINF:-1,HABABAM SINIFI TV 1
-http://firsttv.org:8080/live/hulya1903/7WuLCC9zSase/149126.ts
-#EXTINF:-1,HABABAM SINIFI TV 2
+#EXTINF:-1,HABABAM SINIFI TV
 http://vip.torktv.org:2095/live/zgr2553/zgr.dnm2/6612.ts
-#EXTINF:-1,ŞENER ŞEN TV 1
-http://firsttv.org:8080/live/hulya1903/7WuLCC9zSase/149127.ts
-#EXTINF:-1,ŞENER ŞEN TV 2
+#EXTINF:-1,ŞENER ŞEN TV
 http://vip.torktv.org:2095/live/zgr2553/zgr.dnm2/6601.ts
 #EXTINF:-1,ZEKİ METİN TV
 http://vip.torktv.org:2095/live/zgr2553/zgr.dnm2/6610.ts
@@ -171,11 +151,7 @@ http://vip.torktv.org:2095/live/zgr2553/zgr.dnm2/6606.ts
 http://vip.torktv.org:2095/live/zgr2553/zgr.dnm2/6599.ts
 #EXTINF:-1,KÜÇÜK EMRAH TV
 http://vip.torktv.org:2095/live/zgr2553/zgr.dnm2/6611.ts
-#EXTINF:-1,CÜNEYT ARKIN TV 1
-http://firsttv.org:8080/live/hulya1903/7WuLCC9zSase/149128.ts
-#EXTINF:-1,CÜNEYT ARKIN TV 2
-http://firsttv.org:8080/live/hulya1903/7WuLCC9zSase/149129.ts
-#EXTINF:-1,CÜNEYT ARKIN TV 3
+#EXTINF:-1,CÜNEYT ARKIN TV
 http://vip.torktv.org:2095/live/zgr2553/zgr.dnm2/6597.ts
 #EXTINF:-1,SİNEMA TV HD
 http://vip.torktv.org:2095/live/zgr2553/zgr.dnm2/6467.ts
