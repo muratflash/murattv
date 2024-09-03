@@ -131,6 +131,8 @@ http://62.210.88.161/gin-trn09/gt-yesilcam-tv1/index.m3u8
 http://62.210.88.161/gin-trn09/gt-yesilcam-tv2/index.m3u8
 #EXTINF:-1,YEŞİLÇAM TV
 https://ythls.kekikakademi.org/youtube/channel/UCUALYmnkEmx8vlxIbpr2gmw.m3u8
+#EXTINF:-1,YEŞİLÇAM TV 2
+https://ythls.armelin.one/channel/UCmw7e_6j2TSWCKeaZALjyuA.m3u8
 #EXTINF:-1,KEMAL SUNAL TV 1
 https://koprulu.global.ssl.fastly.net/ythls?kanal_id=UCoIUysIrvGxoDw-GkdOGjRw.m3u8
 #EXTINF:-1,KEMAL SUNAL TV 2
