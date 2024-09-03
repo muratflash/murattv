@@ -21,6 +21,8 @@ https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/chunks.m3u8
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
 #EXTINF:-1,RİZE TÜRK TV
 https://yayin.rizeturk.com:3777/multi_web/play.m3u8
+#EXTINF:-1,MUĞLA TÜRK TV
+https://edge1.socialsmart.tv/muglaturk/bant1/chunks.m3u8
 #EXTINF:-1,DİZİ FİLM TV
 http://stream.tvcdn.net/eglence/dizi-film-tv.m3u8
 #EXTINF:-1,ESMA TV
@@ -59,8 +61,6 @@ https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
 https://live.artidijitalmedya.com/artidijital_birtv/birtv/chunks.m3u8
 #EXTINF:-1,TİVİ6 HD
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
-#EXTINF:-1,KARDELEN TV
-https://edge1.socialsmart.tv/kardelentv/bant1/playlist.m3u8
 #EXTINF:-1,DÜZGÜN TV HD
 http://duzguntv1616.ozelip.net:25192/duzguntv/duzguntv/playlist.m3u8
 #EXTINF:-1,KANAL 53
@@ -77,6 +77,8 @@ https://tv4.blutv.com/blutv_tv4/live.m3u8
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 #EXTINF:-1,A2 HD
 http://hw1.jemtv.com/app/a2hd/playlist.m3u8
+#EXTINF:-1,A2 FHD
+https://live.anystreamrectv3.live/live/a2.m3u8
 #EXTINF:-1,CLC MEDYA TV
 https://clcmediatv.ozelip.com:3192/stream/play.m3u8
 #EXTINF:-1,CİNE5 TV
@@ -118,13 +120,15 @@ http://vip.torktv.org:2095/live/zgr2553/zgr.dnm2/6461.ts
 #EXTINF:-1,MOVİE SMART CLASSİC HD
 http://vip.torktv.org:2095/live/zgr2553/zgr.dnm2/6458.ts
 #EXTINF:-1,FİLM TV 1
-http://62.210.88.161/gin-trn09/gt-sinevizyon-2/tracks-v1a1/mono.m3u8
-#EXTINF:-1,FİLM TV 2
-http://62.210.88.161/gin-trn09/gt-yesilcam-tv1/index.m3u8
-#EXTINF:-1,FİLM TV 3
-http://62.210.88.161/gin-trn09/gt-yesilcam-tv2/index.m3u8
-#EXTINF:-1,FİLM TV 4
 http://62.210.88.161/gin-trn09/gt-sinevizyon-1/index.m3u8
+#EXTINF:-1,FİLM TV 2
+http://62.210.88.161/gin-trn09/gt-sinevizyon-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1,FİLM TV 3
+http://162.212.179.32/gin-trn09/gt-sinevizyon-3/playlist.m3u8
+#EXTINF:-1,FİLM TV 4
+http://62.210.88.161/gin-trn09/gt-yesilcam-tv1/index.m3u8
+#EXTINF:-1,FİLM TV 5
+http://62.210.88.161/gin-trn09/gt-yesilcam-tv2/index.m3u8
 #EXTINF:-1,YEŞİLÇAM TV
 https://ythls.kekikakademi.org/youtube/channel/UCUALYmnkEmx8vlxIbpr2gmw.m3u8
 #EXTINF:-1,KEMAL SUNAL TV 1
@@ -210,13 +214,11 @@ https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/chunklist_b996000_sltur.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GS TV HD" tvg-logo="" group-title="Spor",GS TV HD
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="İDMAN TV HD" tvg-logo="" group-title="Spor",İDMAN TV HD
-http://4ab8dce6.edmonst.net/iptv/C7BFDN9L95DRB8/6840/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="İDMAN TV" tvg-logo="" group-title="Spor",İDMAN TV
-https://proxy.canlitvplayer.com/canlitvulusal2.xyz/live1/idmantv/index.m3u8
+http://162.212.179.32/gin-dvrfl05/gin-idmantv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CBC SPORT" tvg-logo="" group-title="Spor",CBC SPORT
 https://yayin8.canlitv.day/livetv/cbcsport.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CBC SPORT HD" tvg-logo="" group-title="Spor",CBC SPORT HD
-http://teos.black2.live:8080/aydin49/2212201949571/362962
+http://162.212.179.32/gin-dvrfl05/gin-cbc-sport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT RADYO 1" tvg-logo="" group-title="Radyo",TRT RADYO 1
 https://rd-trtradyo1.medya.trt.com.tr/master_128.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TGRT FM" tvg-logo="" group-title="Radyo",TGRT FM
