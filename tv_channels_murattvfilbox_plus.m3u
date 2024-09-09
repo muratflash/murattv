@@ -38,11 +38,11 @@ https://nativetv.ozelip.com:3735/stream/play.m3u8
 #EXTINF:-1,CENNET MAHALLESİ TV
 https://koprulu.global.ssl.fastly.net/ythls?video_id=lf1NxAexRAE.m3u8
 #EXTINF:-1,ALEMİN KIRALI TV
-https://ythls.armelin.one/channel/UC7X6WuvzdVTFtAAAly9ldcw.m3u8
+https://ythls.kekikakademi.org/youtube/channel/UC7X6WuvzdVTFtAAAly9ldcw.m3u8
 #EXTINF:-1,EN SON BABALAR DUYAR TV
 https://koprulu.global.ssl.fastly.net/ythls?video_id=kXAUBBh_h_s.m3u8
 #EXTINF:-1,ÇOCUKLAR DUYMASIN TV
-https://ythls.armelin.one/channel/UCHFxijaEOik8V6iH4rWoAYg.m3u8
+https://ythls.kekikakademi.org/youtube/channel/UCHFxijaEOik8V6iH4rWoAYg.m3u8
 #EXTINF:-1,KURTLAR VADİSİ PUSU TV
 https://koprulu.global.ssl.fastly.net/ythls?video_id=904B4mRfAEc.m3u8
 #EXTINF:-1,SKY HABER TV
@@ -132,7 +132,7 @@ http://62.210.88.161/gin-trn09/gt-yesilcam-tv2/index.m3u8
 #EXTINF:-1,YEŞİLÇAM TV
 https://ythls.kekikakademi.org/youtube/channel/UCUALYmnkEmx8vlxIbpr2gmw.m3u8
 #EXTINF:-1,YEŞİLÇAM TV 2
-https://ythls.armelin.one/channel/UCmw7e_6j2TSWCKeaZALjyuA.m3u8
+https://ythls.kekikakademi.org/youtube/channel/UCmw7e_6j2TSWCKeaZALjyuA.m3u8
 #EXTINF:-1,KEMAL SUNAL TV 1
 https://koprulu.global.ssl.fastly.net/ythls?kanal_id=UCoIUysIrvGxoDw-GkdOGjRw.m3u8
 #EXTINF:-1,KEMAL SUNAL TV 2
