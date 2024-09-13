@@ -15,6 +15,8 @@ http://51.91.118.139:8080/kastamonutv/kastamonutv/3385
 https://hocwantv.ozelip.com:3593/hybrid/play.m3u8
 #EXTINF:-1,PAZARCIK TV
 https://pazarciktv.ozelip.net:3962/hybrid/play.m3u8
+#EXTINF:-1,KANAL 19
+https://panel4.euromediacenter.com:3710/live/kanal19live.m3u8
 #EXTINF:-1,LİFE TV HD
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/chunks.m3u8
 #EXTINF:-1,DENİZ POSTASI TV
