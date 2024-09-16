@@ -263,7 +263,7 @@ http://officialbabaradyo.radyotvonline.net/babaofficial
 #EXTINF:-1 tvg-id="" tvg-name="BABA RADYO LİVE" tvg-logo="" group-title="Radyo",BABA RADYO LİVE
 https://koprulu.global.ssl.fastly.net/ythls?video_id=X338edtSw-M.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO 7" tvg-logo="" group-title="Radyo",RADYO 7
-https://koprulu.global.ssl.fastly.net/ythls?video_id=a5OTwdV7R08.m3u8
+https://moondigitaledge.radyotvonline.net/radyo7/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO 7 AKUSTİK TÜRKÜLER" tvg-logo="" group-title="Radyo",RADYO 7 AKUSTİK TÜRKÜLER
 https://moondigitaledge2.radyotvonline.net/radyo7turku/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO 7 ARABESK" tvg-logo="" group-title="Radyo",RADYO 7 ARABESK
@@ -271,6 +271,8 @@ https://moondigitaledge2.radyotvonline.net/radyo7arabesk/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO 7 MÜSLÜM FERDİ ORHAN" tvg-logo="" group-title="Radyo",RADYO 7 MÜSLÜM FERDİ ORHAN
 https://moondigitaledge2.radyotvonline.net/radyo7fmo/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO ARABESK" tvg-logo="" group-title="Radyo",RADYO ARABESK
+https://yayin.radyoarabesk.com.tr:8000/stream
+#EXTINF:-1 tvg-id="" tvg-name="RADYO ARABESK YT" tvg-logo="" group-title="Radyo",RADYO ARABESK YT
 https://koprulu.global.ssl.fastly.net/ythls?video_id=DTwq7CjBCH4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO DAMAR" tvg-logo="" group-title="Radyo",RADYO DAMAR
 https://koprulu.global.ssl.fastly.net/ythls?video_id=kHCuK6VjPUg.m3u8
@@ -292,8 +294,8 @@ https://live.sinirsizhost.com/8026/stream?/;stream.mp3
 https://moondigitaledge2.radyotvonline.net/radyo7arabesk/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO MEGASİTE" tvg-logo="" group-title="Radyo",RADYO MEGASİTE
 https://stream.netradyom.com/listen/megasite/radio.mp3/;stream.mp3
-#EXTINF:-1 tvg-id="" tvg-name="RADYO USTA" tvg-logo="" group-title="Radyo",RADYO USTA
-https://yayin.turkhosted.com/usta/stream/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="STAR FM" tvg-logo="" group-title="Radyo",STAR FM
+https://ritim.80.yayin.com.tr/;stream.mp3
 #EXTINF:-1 tvg-id="" tvg-name="SULTAN RADYO" tvg-logo="" group-title="Radyo",SULTAN RADYO
 https://yayin.turkhosted.com/sultanradyo/stream?/;stream.mp3
 #EXTINF:-1 tvg-id="" tvg-name="YOL ARKADAŞIM RADYO" tvg-logo="" group-title="Radyo",YOL ARKADAŞIM RADYO
