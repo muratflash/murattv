@@ -205,29 +205,15 @@ https://ythls.kekikakademi.org/youtube/channel/UCJElRTCNEmLemgirqvsW63Q.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HT SPOR HD" tvg-logo="" group-title="Spor",HT SPOR HD
 https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR HD" tvg-logo="" group-title="Spor",TİVİBU SPOR HD
-http://vip.torktv.org:2095/live/zgr2553/zgr.dnm2/100384.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPOR SMART HD" tvg-logo="" group-title="Spor",SPOR SMART HD
-http://vip.torktv.org:2095/live/zgr2553/zgr.dnm2/6396.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 HD" tvg-logo="" group-title="Spor",BEİN SPORTS 1 HD
-http://vip.torktv.org:2095/live/zgr2553/zgr.dnm2/5849.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 2 HD" tvg-logo="" group-title="Spor",BEİN SPORTS 2 HD
-http://vip.torktv.org:2095/live/zgr2553/zgr.dnm2/104794.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 3 HD" tvg-logo="" group-title="Spor",BEİN SPORTS 3 HD
-http://vip.torktv.org:2095/live/zgr2553/zgr.dnm2/5858.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 4 HD" tvg-logo="" group-title="Spor",BEİN SPORTS 4 HD
-http://vip.torktv.org:2095/live/zgr2553/zgr.dnm2/5861.ts
+http://vip.torktv.org:2095/live/grhn9626/gr00/100384.ts
 #EXTINF:-1 tvg-id="" tvg-name="TV 8.5" tvg-logo="" group-title="Spor",TV 8.5
 https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?app=tv8bucuk_web&ce=3
-#EXTINF:-1 tvg-id="" tvg-name="FB TV HD" tvg-logo="" group-title="Spor",FB TV HD
-https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/chunklist_b996000_sltur.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GS TV HD" tvg-logo="" group-title="Spor",GS TV HD
-https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="İDMAN TV HD" tvg-logo="" group-title="Spor",İDMAN TV HD
-http://162.212.179.32/gin-dvrfl05/gin-idmantv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CBC SPORT" tvg-logo="" group-title="Spor",CBC SPORT
-https://yayin8.canlitv.day/livetv/cbcsport.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CBC SPORT HD" tvg-logo="" group-title="Spor",CBC SPORT HD
-http://162.212.179.32/gin-dvrfl05/gin-cbc-sport/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPOR SMART HD" tvg-logo="" group-title="Spor",SPOR SMART HD
+http://vip.torktv.org:2095/live/grhn9626/gr00/6396.ts
+#EXTINF:-1 tvg-id="" tvg-name="S SPORT" tvg-logo="" group-title="Spor",S SPORT
+https://tv.anystreamrectv18.xyz/live/ss1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="S SPORT 2" tvg-logo="" group-title="Spor",S SPORT 2
+http://vip.torktv.org:2095/live/grhn9626/gr00/6389.ts
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1" tvg-logo="" group-title="Spor",BEİN SPORTS 1
 https://tv.anystreamrectv18.xyz/live/bs1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 ALTERNATİF" tvg-logo="" group-title="Spor",BEİN SPORTS 1 ALTERNATİF
@@ -238,10 +224,18 @@ https://tv.anystreamrectv18.xyz/live/bs2/index.m3u8
 https://tv.anystreamrectv18.xyz/live/bs3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 4" tvg-logo="" group-title="Spor",BEİN SPORTS 4
 https://tv.anystreamrectv18.xyz/live/bs4/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="S SPORT" tvg-logo="" group-title="Spor",S SPORT
-https://tv.anystreamrectv18.xyz/live/ss1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="S SPORT 2" tvg-logo="" group-title="Spor",S SPORT 2
-https://tv.anystreamrectv18.xyz/live/ss2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 HD" tvg-logo="" group-title="Spor",BEİN SPORTS 1 HD
+http://vip.torktv.org:2095/live/grhn9626/gr00/5849.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 2 HD" tvg-logo="" group-title="Spor",BEİN SPORTS 2 HD
+http://vip.torktv.org:2095/live/grhn9626/gr00/104794.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 3 HD" tvg-logo="" group-title="Spor",BEİN SPORTS 3 HD
+http://vip.torktv.org:2095/live/grhn9626/gr00/5858.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 4 HD" tvg-logo="" group-title="Spor",BEİN SPORTS 4 HD
+http://vip.torktv.org:2095/live/grhn9626/gr00/5861.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS MAX 1" tvg-logo="" group-title="Spor",BEİN SPORTS MAX 1
+http://vip.torktv.org:2095/live/grhn9626/gr00/5864.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS MAX 2" tvg-logo="" group-title="Spor",BEİN SPORTS MAX 2
+http://vip.torktv.org:2095/live/grhn9626/gr00/5865.ts
 #EXTINF:-1 tvg-id="" tvg-name="TABİİ SPOR" tvg-logo="" group-title="Spor",TABİİ SPOR
 https://gteo6wvqpfl05p5jb59q2g.medya.trt.com.tr/master_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TABİİ SPOR 1" tvg-logo="" group-title="Spor",TABİİ SPOR 1
@@ -256,6 +250,16 @@ https://m0clrNFlIaxMm69U1pjQ9w.medya.trt.com.tr/master_1080p.m3u8
 https://zTmN6RZ5z2LSCQvJ8nY9XQ.medya.trt.com.tr/master_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TABİİ SPOR 6" tvg-logo="" group-title="Spor",TABİİ SPOR 6
 http://QDzttCYaUBq_ZxcNUuBjCQ.medya.trt.com.tr/master_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FB TV HD" tvg-logo="" group-title="Spor",FB TV HD
+https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/chunklist_b996000_sltur.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GS TV HD" tvg-logo="" group-title="Spor",GS TV HD
+https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBC SPORT" tvg-logo="" group-title="Spor",CBC SPORT
+https://yayin8.canlitv.day/livetv/cbcsport.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBC SPORT HD" tvg-logo="" group-title="Spor",CBC SPORT HD
+http://162.212.179.32/gin-dvrfl05/gin-cbc-sport/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="İDMAN TV HD" tvg-logo="" group-title="Spor",İDMAN TV HD
+http://162.212.179.32/gin-dvrfl05/gin-idmantv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT RADYO 1" tvg-logo="" group-title="Radyo",TRT RADYO 1
 https://rd-trtradyo1.medya.trt.com.tr/master_128.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TGRT FM" tvg-logo="" group-title="Radyo",TGRT FM
