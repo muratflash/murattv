@@ -35,8 +35,6 @@ http://stream.tvcdn.net/diger/uluslararasi-tv.m3u8
 http://145.239.37.125:20458/aktif/aktif/chunklist.m3u8
 #EXTINF:-1,İSVİÇRE TV
 https://i41.ozelip.com:3269/hybrid/play.m3u8
-#EXTINF:-1,NATİVE TV
-https://nativetv.ozelip.com:3735/stream/play.m3u8
 #EXTINF:-1,CENNET MAHALLESİ TV
 https://koprulu.global.ssl.fastly.net/ythls?video_id=lf1NxAexRAE.m3u8
 #EXTINF:-1,ALEMİN KIRALI TV
@@ -59,7 +57,7 @@ https://cdn1-skyhabertv.yayin.com.tr/skyhabertv/skyhabertv/chunklist_w1126474240
 #EXTINF:-1,TH TÜRK HABER
 https://edge1.socialsmart.tv/turkhaber/bant1/chunks.m3u8
 #EXTINF:-1,LİDER HABER
-https://ythls.kekikakademi.org/youtube/video/VPQve5fwNXc.m3u8
+https://ip252.ozelip.com:22524/lidertv/lidertv/chunklist_w1993196315.m3u8
 #EXTINF:-1,OLAY TÜRK TV
 https://helga.iptv2022.com/sh/OlayTurk_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,BELEM TÜRK TV
@@ -244,18 +242,20 @@ https://tv.anystreamrectv18.xyz/live/bs4/index.m3u8
 https://tv.anystreamrectv18.xyz/live/ss1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="S SPORT 2" tvg-logo="" group-title="Spor",S SPORT 2
 https://tv.anystreamrectv18.xyz/live/ss2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TABİİ SPOR" tvg-logo="" group-title="Spor",TABİİ SPOR
+https://gteo6wvqpfl05p5jb59q2g.medya.trt.com.tr/master_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TABİİ SPOR 1" tvg-logo="" group-title="Spor",TABİİ SPOR 1
-https://tabii-spor.medya.trt.com.tr/master_1080p.m3u8
+https://gXh8UAvslIiLiwOXdgfPAg.medya.trt.com.tr/master_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TABİİ SPOR 2" tvg-logo="" group-title="Spor",TABİİ SPOR 2
-https://tabii-spor2.medya.trt.com.tr/master_1080p.m3u8
+https://79sPUEMRpKAKHmwjDyyklw.medya.trt.com.tr/master_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TABİİ SPOR 3" tvg-logo="" group-title="Spor",TABİİ SPOR 3
-https://tabii-spor3.medya.trt.com.tr/master_1080p.m3u8
+https://JcflHbdqESDF34nubfJS5w.medya.trt.com.tr/master_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TABİİ SPOR 4" tvg-logo="" group-title="Spor",TABİİ SPOR 4
-https://tabii-spor4.medya.trt.com.tr/master_1080p.m3u8
+https://m0clrNFlIaxMm69U1pjQ9w.medya.trt.com.tr/master_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TABİİ SPOR 5" tvg-logo="" group-title="Spor",TABİİ SPOR 5
-https://tabii-spor5.medya.trt.com.tr/master_1080p.m3u8
+https://zTmN6RZ5z2LSCQvJ8nY9XQ.medya.trt.com.tr/master_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TABİİ SPOR 6" tvg-logo="" group-title="Spor",TABİİ SPOR 6
-https://tabii-spor6.medya.trt.com.tr/master_1080p.m3u8
+http://QDzttCYaUBq_ZxcNUuBjCQ.medya.trt.com.tr/master_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT RADYO 1" tvg-logo="" group-title="Radyo",TRT RADYO 1
 https://rd-trtradyo1.medya.trt.com.tr/master_128.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TGRT FM" tvg-logo="" group-title="Radyo",TGRT FM
