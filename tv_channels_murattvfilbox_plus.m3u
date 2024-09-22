@@ -141,12 +141,14 @@ https://koprulu.global.ssl.fastly.net/ythls?video_id=hfx8H7YrmTw.m3u8
 #EXTINF:-1,KEMAL SUNAL TV 3
 https://koprulu.global.ssl.fastly.net/ythls?video_id=R6YSm0mkby0.m3u8
 #EXTINF:-1,KEMAL SUNAL TV 4
-http://vip.torktv.org:2095/live/grhn9626/gr00/163161.ts
+https://koprulu.global.ssl.fastly.net/ythls?video_id=kzXRrxtQ7oA.m3u8
 #EXTINF:-1,KEMAL SUNAL TV 5
-http://vip.torktv.org:2095/live/grhn9626/gr00/163175.ts
+http://vip.torktv.org:2095/live/grhn9626/gr00/163161.ts
 #EXTINF:-1,KEMAL SUNAL TV 6
-http://vip.torktv.org:2095/live/grhn9626/gr00/163151.ts
+http://vip.torktv.org:2095/live/grhn9626/gr00/163175.ts
 #EXTINF:-1,KEMAL SUNAL TV 7
+http://vip.torktv.org:2095/live/grhn9626/gr00/163151.ts
+#EXTINF:-1,KEMAL SUNAL TV 8
 http://vip.torktv.org:2095/live/grhn9626/gr00/163148.ts
 #EXTINF:-1,HABABAM SINIFI TV
 http://vip.torktv.org:2095/live/grhn9626/gr00/163170.ts
