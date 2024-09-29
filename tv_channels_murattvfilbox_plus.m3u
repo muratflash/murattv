@@ -304,24 +304,24 @@ https://turkmedya.radyotvonline.com/turkmedya/ligradyo.stream/playlist.m3u8
 https://moondigitaledge2.radyotvonline.net/radyod/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEST FM" tvg-logo="" group-title="Radyo",BEST FM
 http://officialbestfm.radyotvonline.net/bestfmofficial
-#EXTINF:-1 tvg-id="" tvg-name="BEST FM LİVE" tvg-logo="" group-title="Radyo",BEST FM LİVE
-https://koprulu.global.ssl.fastly.net/ythls?video_id=ExlWtnvFm5E.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SHOW RADYO" tvg-logo="" group-title="Radyo",SHOW RADYO
-https://koprulu.global.ssl.fastly.net/ythls?video_id=T0B2z2p8pDo.m3u8
+https://showradyo.radyotvonline.net/showradyoaac?/;stream.mp3
 #EXTINF:-1 tvg-id="" tvg-name="SÜPER FM" tvg-logo="" group-title="Radyo",SÜPER FM
 https://25633.live.streamtheworld.com/SUPER_FM128AAC.aac
 #EXTINF:-1 tvg-id="" tvg-name="ALEM FM" tvg-logo="" group-title="Radyo",ALEM FM
 https://edge1.radyotvonline.net/shoutcast/play/alemfm
+#EXTINF:-1 tvg-id="" tvg-name="POWER TÜRK FM" tvg-logo="" group-title="Radyo",POWER TÜRK FM
+https://koprulu.global.ssl.fastly.net/ythls?video_id=953M-4s6lBI.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DOKSANLAR FM" tvg-logo="" group-title="Radyo",DOKSANLAR FM
+https://moondigitaledge.radyotvonline.net/90lar/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KRAL FM" tvg-logo="" group-title="Radyo",KRAL FM
 https://dygedge2.radyotvonline.net/kralfm/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KRAL FM LİVE" tvg-logo="" group-title="Radyo",KRAL FM LİVE
+#EXTINF:-1 tvg-id="" tvg-name="KRAL FM YT" tvg-logo="" group-title="Radyo",KRAL FM YT
 https://koprulu.global.ssl.fastly.net/ythls?video_id=A49bKX8gb-8.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AŞK FM" tvg-logo="" group-title="Radyo",AŞK FM
 https://stream.netradyom.com/radio/8000/radio.mp3?/;stream.mp3
 #EXTINF:-1 tvg-id="" tvg-name="BABA RADYO" tvg-logo="" group-title="Radyo",BABA RADYO
 http://officialbabaradyo.radyotvonline.net/babaofficial
-#EXTINF:-1 tvg-id="" tvg-name="BABA RADYO LİVE" tvg-logo="" group-title="Radyo",BABA RADYO LİVE
-https://koprulu.global.ssl.fastly.net/ythls?video_id=X338edtSw-M.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO 7" tvg-logo="" group-title="Radyo",RADYO 7
 https://moondigitaledge.radyotvonline.net/radyo7/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO 7 AKUSTİK TÜRKÜLER" tvg-logo="" group-title="Radyo",RADYO 7 AKUSTİK TÜRKÜLER
@@ -333,9 +333,11 @@ https://moondigitaledge2.radyotvonline.net/radyo7fmo/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO ARABESK" tvg-logo="" group-title="Radyo",RADYO ARABESK
 https://yayin.radyoarabesk.com.tr:8000/stream
 #EXTINF:-1 tvg-id="" tvg-name="RADYO ARABESK YT" tvg-logo="" group-title="Radyo",RADYO ARABESK YT
-https://koprulu.global.ssl.fastly.net/ythls?video_id=DTwq7CjBCH4.m3u8
+https://koprulu.global.ssl.fastly.net/ythls?video_id=dJvjthqtfHc.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADYO ARABESK 7/24" tvg-logo="" group-title="Radyo",RADYO ARABESK 7/24
+https://koprulu.global.ssl.fastly.net/ythls?video_id=r9DQV3NvBdM.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO DAMAR" tvg-logo="" group-title="Radyo",RADYO DAMAR
-https://koprulu.global.ssl.fastly.net/ythls?video_id=kHCuK6VjPUg.m3u8
+https://koprulu.global.ssl.fastly.net/ythls?video_id=7Ex8ajKgjSc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO DRAM" tvg-logo="" group-title="Radyo",RADYO DRAM
 https://koprulu.global.ssl.fastly.net/ythls?video_id=v8s1tU-BecE.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO BAHARTÜRK" tvg-logo="" group-title="Radyo",RADYO BAHARTÜRK
@@ -366,12 +368,12 @@ https://moondigitaledge.radyotvonline.net/paldoga/playlist.m3u8
 https://ythls.kekikakademi.org/youtube/video/tWnr7YqZ8LI.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BAŞKA RADYO" tvg-logo="" group-title="Radyo",BAŞKA RADYO
 https://ythls.kekikakademi.org/youtube/video/m8qt4WUCOz0.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="POPÜLER FM" tvg-logo="" group-title="Radyo",POPÜLER FM
+https://ythls.kekikakademi.org/youtube/video/HFmOn8UCTIU.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO TÜRKÜ" tvg-logo="" group-title="Radyo",RADYO TÜRKÜ
 https://koprulu.global.ssl.fastly.net/ythls?video_id=Bto75pRPQNA.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EGE GOKKUSAGİ FM" tvg-logo="" group-title="Radyo",EGE GOKKUSAGİ FM
 http://stream.tvcdn.net/yerel/ege-live-tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADYO POP MİX" tvg-logo="" group-title="Radyo",RADYO POP MİX
-https://koprulu.global.ssl.fastly.net/ythls?video_id=oglLX7ticB0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO KULÜP" tvg-logo="" group-title="Radyo",RADYO KULÜP
 http://cdn-radyokulup.yayin.com.tr/radyokulup/radyokulup/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FON MÜZİKLERİ 7/24" tvg-logo="" group-title="Radyo",FON MÜZİKLERİ 7/24
