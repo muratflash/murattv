@@ -15,6 +15,8 @@ https://hocwantv.ozelip.com:3593/hybrid/play.m3u8
 https://pazarciktv.ozelip.net:3962/hybrid/play.m3u8
 #EXTINF:-1,KANAL 19
 https://live.euromediacenter.com/kanal19/tracks-v1a1/mono.m3u8
+#EXTINF:-1,TV 25
+https://cdn-tv25.yayin.com.tr/tv25/tv25/chunklist.m3u8
 #EXTINF:-1,TV 48
 https://ajansplay.com:5443/LiveApp/streams/tv48.m3u8
 #EXTINF:-1,RİZE TÜRK TV
@@ -48,8 +50,6 @@ https://koprulu.global.ssl.fastly.net/ythls?video_id=slT7aQuQukE.m3u8
 #EXTINF:-1,BİZİMKİLER TV
 https://koprulu.global.ssl.fastly.net/ythls?video_id=6qtUZDWaOjo.m3u8
 #EXTINF:-1,TRT NOSTALJİ
-https://ythls.kekikakademi.org/youtube/video/Im2hBwwMTHE.m3u8
-#EXTINF:-1,TRT NOSTALJİ 2
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
 #EXTINF:-1,EXXEN TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -74,8 +74,6 @@ https://live.artidijitalmedya.com/artidijital_birtv/birtv/chunks.m3u8
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
 #EXTINF:-1,DÜZGÜN TV HD
 http://duzguntv1616.ozelip.net:25192/duzguntv/duzguntv/playlist.m3u8
-#EXTINF:-1,KRAL ŞAKİR TV
-https://koprulu.global.ssl.fastly.net/ythls?video_id=5Whk9MVTpI4.m3u8
 #EXTINF:-1,VİYANA TV
 http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
 #EXTINF:-1,360 TV HD
@@ -104,6 +102,8 @@ https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/playlist.m3u
 http://stream.tvcdn.net/diger-muzik/pala-tv.m3u8
 #EXTINF:-1,SLOW KARADENİZ TV
 https://yayin.slowkaradeniztv.com:3390/multi_web/play.m3u8
+#EXTINF:-1,KRAL ŞAKİR TV
+https://koprulu.global.ssl.fastly.net/ythls?video_id=5Whk9MVTpI4.m3u8
 #EXTINF:-1,TRT DİYANET ÇOCUK
 http://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,KUZEY KIBRIS TV
@@ -113,7 +113,9 @@ https://play1.blutv.com/blutv_play1/blutv_play1.smil/playlist.m3u8
 #EXTINF:-1,BLU TV PLAY 2
 https://play2.blutv.com/blutv_play2/blutv_play2.smil/playlist.m3u8
 #EXTINF:-1,BEİN MOVİES ACTİON HD
-http://ege.vipsat.net:2086/live/sezerminks/17032017wgh/2492.ts
+http://extapk0711.xyz:8080/live/Hasan675/WPku9RbX8r3/6198.ts
+#EXTINF:-1,BEİN MOVİES ACTİON 2 HD
+http://extapk0711.xyz:8080/live/Hasan675/WPku9RbX8r3/6199.ts
 #EXTINF:-1,BEİN MOVİES PREMİERE HD
 http://vip.torktv.org:2095/live/grhn9626/gr00/6451.ts
 #EXTINF:-1,BEİN MOVİES STARS HD
