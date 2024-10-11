@@ -7,6 +7,8 @@ https://stream.tiviturk.de/live/tiviturk.m3u8
 http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
 #EXTINF:-1,SÜPER TÜRK MAX TV
 http://75.119.144.48/SUPERTURK_MAX_HD/index.m3u8
+#EXTINF:-1,KANAL 10 TV
+https://ssh101.bozztv.com/ssh101/yansinemaatv/chunks.m3u8
 #EXTINF:-1,KASTAMONU TV
 http://51.91.118.139:8080/kastamonutv/kastamonutv/3385
 #EXTINF:-1,HOCWAN TV
@@ -94,6 +96,8 @@ https://yayin30.haber100.com/live/surpriztv/chunklist_w499191500.m3u8
 https://kanal53.ozelip.com:3448/hybrid/play.m3u8
 #EXTINF:-1,KOBİM TV
 http://cdn-kobimtv.yayin.com.tr/kobimtv/kobimtv/chunklist.m3u8
+#EXTINF:-1,YANSIMA MÜZİK TV
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/YANSIMA_MUZIK_RT/chunklist_w1745154007.m3u8
 #EXTINF:-1,KRAL POP TV HD
 https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
 #EXTINF:-1,TATLISES TV
@@ -204,6 +208,22 @@ http://yasamtv787.xyz:80/live/yusufcaliskan/yusuf.1710/270754.ts
 http://yasamtv787.xyz:80/live/yusufcaliskan/yusuf.1710/270753.ts
 #EXTINF:-1,FİLM CLUB KOMEDİ
 http://yasamtv787.xyz:80/live/yusufcaliskan/yusuf.1710/270751.ts
+#EXTINF:-1,TEBER STAR 1
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/TBRT1/chunklist_w1062008132.m3u8
+#EXTINF:-1,TEBER STAR 2
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/TBRT_2/chunklist_w897275783.m3u8
+#EXTINF:-1,TEBER STAR 3
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/TBRT3/chunklist_w849353384.m3u8
+#EXTINF:-1,TEBER STAR 4
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/TBRT_4/chunklist_w693852459.m3u8
+#EXTINF:-1,TEBER STAR 5
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/TBRT_AVRASIA/chunklist_w1055405337.m3u8
+#EXTINF:-1,TEBER STAR 6
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/kral_teber/chunklist_w1746342561.m3u8
+#EXTINF:-1,TEBER STAR 7
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/Tezene_tv/chunklist_w1025349998.m3u8
+#EXTINF:-1,TEBER ON 9
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/tv19/chunklist_w1464246075.m3u8
 #EXTINF:-1,HALK TV
 https://halktv.blutv.com/blutv_halktv_live/live_720p2000000kbps/index.m3u8
 #EXTINF:-1,SÖZCÜ TV
