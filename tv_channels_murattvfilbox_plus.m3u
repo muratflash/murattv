@@ -35,6 +35,8 @@ https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/chunks.m3u8
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
 #EXTINF:-1,ESMA TV
 https://esmatv.interweb.com.tr:3928/stream/play.m3u8
+#EXTINF:-1,TTV SİNEMA
+https://ismayillitv7.interweb.com.tr:3436/hybrid/play.m3u8
 #EXTINF:-1,AKTİF TV HD
 http://145.239.37.125:20458/aktif/aktif/chunklist.m3u8
 #EXTINF:-1,İSVİÇRE TV
@@ -105,7 +107,7 @@ https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/playlist.m3u
 #EXTINF:-1,PALA TV
 http://stream.tvcdn.net/diger-muzik/pala-tv.m3u8
 #EXTINF:-1,SLOW KARADENİZ TV
-https://yayin.slowkaradeniztv.com:3390/multi_web/play.m3u8
+https://yayin.slowkaradeniztv.com:3390/hybrid/play.m3u8
 #EXTINF:-1,KRAL ŞAKİR TV
 https://koprulu.global.ssl.fastly.net/ythls?video_id=5Whk9MVTpI4.m3u8
 #EXTINF:-1,TRT DİYANET ÇOCUK
