@@ -369,7 +369,7 @@ https://koprulu.global.ssl.fastly.net/ythls?video_id=7Ex8ajKgjSc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO DRAM" tvg-logo="" group-title="Radyo",RADYO DRAM
 https://koprulu.global.ssl.fastly.net/ythls?video_id=wgzOnWm7F0Y.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO BAHARTÜRK" tvg-logo="" group-title="Radyo",RADYO BAHARTÜRK
-https://ythls.kekikakademi.org/youtube/video/hFLNjfa1I3E.m3u8
+https://koprulu.global.ssl.fastly.net/ythls?video_id=hFLNjfa1I3E.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VİVA ARABESK" tvg-logo="" group-title="Radyo",VİVA ARABESK
 https://koprulu.global.ssl.fastly.net/ythls?video_id=tLwCEsuPICM.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO 44 ARABESK" tvg-logo="" group-title="Radyo",RADYO 44 ARABESK
