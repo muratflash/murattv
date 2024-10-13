@@ -35,10 +35,7 @@ https://ondetv.ozelip.com.tr:3390/hybrid/play.m3u8
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/chunks.m3u8
 #EXTINF:-1,DENİZ POSTASI TV
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
-#EXTINF:-1,ESMA TV
-https://esmatv.interweb.com.tr:3928/stream/play.m3u8
-#EXTINF:-1,TTV SİNEMA
-https://ismayillitv7.interweb.com.tr:3436/hybrid/play.m3u8
+
 #EXTINF:-1,AKTİF TV HD
 http://145.239.37.125:20458/aktif/aktif/chunklist.m3u8
 #EXTINF:-1,İSVİÇRE TV
@@ -90,6 +87,22 @@ https://tv4.blutv.com/blutv_tv4/live.m3u8
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 #EXTINF:-1,A2 HD
 http://hw1.jemtv.com/app/a2hd/playlist.m3u8
+#EXTINF:-1,ESMA TV
+https://esmatv.interweb.com.tr:3928/stream/play.m3u8
+#EXTINF:-1,TTV SİNEMA
+https://ismayillitv7.interweb.com.tr:3436/hybrid/play.m3u8
+#EXTINF:-1,MEGA TV
+https://kanal65.interweb.com.tr:3669/hybrid/play.m3u8
+#EXTINF:-1,ULDUZ TV
+https://ulduztv.interweb.com.tr:3266/stream/play.m3u8
+#EXTINF:-1,FARRUK TV
+https://vsrv1.az-streamingserver.com:3833/live/ofhwiwudlive.m3u8
+#EXTINF:-1,HTV SİNEMA
+https://hasantv87.interweb.com.tr:3799/multi_web/play.m3u8
+#EXTINF:-1,ALVİN CHANNEL
+https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
+#EXTINF:-1,KONUL TV
+https://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
 #EXTINF:-1,CLC MEDYA TV
 https://clcmediatv.ozelip.com:3192/stream/play.m3u8
 #EXTINF:-1,CİNE5 TV
