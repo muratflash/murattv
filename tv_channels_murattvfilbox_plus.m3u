@@ -126,6 +126,8 @@ https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/playlist.m3u
 http://stream.tvcdn.net/diger-muzik/pala-tv.m3u8
 #EXTINF:-1,SLOW KARADENİZ TV
 https://yayin.slowkaradeniztv.com:3390/hybrid/play.m3u8
+#EXTINF:-1,OLTU TV
+https://oltutv.ozelip.com:3870/stream/play.m3u8
 #EXTINF:-1,KRAL ŞAKİR TV
 https://koprulu.global.ssl.fastly.net/ythls?video_id=5Whk9MVTpI4.m3u8
 #EXTINF:-1,TRT DİYANET ÇOCUK
