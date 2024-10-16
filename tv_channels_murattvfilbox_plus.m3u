@@ -7,6 +7,8 @@ https://stream.tiviturk.de/live/tiviturk.m3u8
 http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
 #EXTINF:-1,SÜPER TÜRK MAX TV
 http://75.119.144.48/SUPERTURK_MAX_HD/index.m3u8
+#EXTINF:-1,RİZE TÜRK TV
+https://yayin.rizeturk.com:3777/multi_web/play.m3u8
 #EXTINF:-1,KANAL 10 TV
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/Kanal10/chunklist_w1439322589.m3u8
 #EXTINF:-1,KANAL 10 TV HD
@@ -23,8 +25,6 @@ https://live.euromediacenter.com/kanal19/tracks-v1a1/mono.m3u8
 https://cdn-tv25.yayin.com.tr/tv25/tv25/chunklist.m3u8
 #EXTINF:-1,TV 48
 https://ajansplay.com:5443/LiveApp/streams/tv48.m3u8
-#EXTINF:-1,RİZE TÜRK TV
-https://yayin.rizeturk.com:3777/multi_web/play.m3u8
 #EXTINF:-1,MUĞLA TÜRK TV
 https://edge1.socialsmart.tv/muglaturk/bant1/chunks.m3u8
 #EXTINF:-1,ULUSLARARASI TV
@@ -39,22 +39,20 @@ https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m
 http://145.239.37.125:20458/aktif/aktif/chunklist.m3u8
 #EXTINF:-1,İSVİÇRE TV
 https://i41.ozelip.com:3269/hybrid/play.m3u8
+#EXTINF:-1,BİZİMKİLER TV
+https://koprulu.global.ssl.fastly.net/ythls?video_id=6qtUZDWaOjo.m3u8
 #EXTINF:-1,YEDİ NUMARA TV
 https://yt.ariev.workers.dev/ch/UC0GKelxahF1nHwKyGhfJVYA.m3u8
 #EXTINF:-1,CENNET MAHALLESİ TV
 https://koprulu.global.ssl.fastly.net/ythls?video_id=lf1NxAexRAE.m3u8
 #EXTINF:-1,ALEMİN KIRALI TV
 https://ythls.kekikakademi.org/youtube/channel/UC7X6WuvzdVTFtAAAly9ldcw.m3u8
-#EXTINF:-1,EN SON BABALAR DUYAR TV
-https://koprulu.global.ssl.fastly.net/ythls?video_id=kXAUBBh_h_s.m3u8
 #EXTINF:-1,ÇOCUKLAR DUYMASIN TV
 https://ythls.kekikakademi.org/youtube/channel/UCHFxijaEOik8V6iH4rWoAYg.m3u8
 #EXTINF:-1,ZENGİN KIZ FAKİR OĞLAN TV
 https://yt.ariev.workers.dev/ch/UCiT-eroqDoA3zct3OkzhEPA.m3u8
 #EXTINF:-1,KURTLAR VADİSİ PUSU TV
 https://koprulu.global.ssl.fastly.net/ythls?video_id=slT7aQuQukE.m3u8
-#EXTINF:-1,BİZİMKİLER TV
-https://koprulu.global.ssl.fastly.net/ythls?video_id=6qtUZDWaOjo.m3u8
 #EXTINF:-1,TRT NOSTALJİ
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
 #EXTINF:-1,EXXEN TV
@@ -139,7 +137,7 @@ https://play1.blutv.com/blutv_play1/blutv_play1.smil/playlist.m3u8
 #EXTINF:-1,BLU TV PLAY 2
 https://play2.blutv.com/blutv_play2/blutv_play2.smil/playlist.m3u8
 #EXTINF:-1,BEİN MOVİES ACTİON HD
-http://extapk0711.xyz:8080/live/Hasan675/WPku9RbX8r3/6198.ts
+http://219.korumasiz555.xyz:8080/live/elify2585/MfBFThzDczPL/106622.ts
 #EXTINF:-1,BEİN MOVİES ACTİON 2 HD
 http://extapk0711.xyz:8080/live/Hasan675/WPku9RbX8r3/6199.ts
 #EXTINF:-1,BEİN MOVİES PREMİERE HD
@@ -332,6 +330,92 @@ https://yayin8.canlitv.day/livetv/cbcsport.stream/playlist.m3u8
 http://162.212.179.32/gin-dvrfl05/gin-cbc-sport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="İDMAN TV HD" tvg-logo="" group-title="Spor",İDMAN TV HD
 http://162.212.179.32/gin-dvrfl05/gin-idmantv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEİN MOVİES ACTİON 1" tvg-logo="" group-title="Sinema",BEİN MOVİES ACTİON 1
+http://tvr.lol:80/live/peter/peter01/784.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEİN MOVİES ACTİON 2" tvg-logo="" group-title="Sinema",BEİN MOVİES ACTİON 2
+http://extapk0711.xyz:8080/live/Hasan675/WPku9RbX8r3/6199.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEİN MOVİES PREMİERE" tvg-logo="" group-title="Sinema",BEİN MOVİES PREMİERE
+http://vip.torktv.org:2095/live/grhn9626/gr00/6451.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEİN MOVİES STARS" tvg-logo="" group-title="Sinema",BEİN MOVİES STARS
+http://vip.torktv.org:2095/live/grhn9626/gr00/6453.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEİN MOVİES TÜRK" tvg-logo="" group-title="Sinema",BEİN MOVİES TÜRK
+http://vip.torktv.org:2095/live/grhn9626/gr00/6454.ts
+#EXTINF:-1 tvg-id="" tvg-name="MOVİE SMART TÜRK" tvg-logo="" group-title="Sinema",MOVİE SMART TÜRK
+http://vip.torktv.org:2095/live/grhn9626/gr00/6461.ts
+#EXTINF:-1 tvg-id="" tvg-name="MOVİE SMART CLASSİC" tvg-logo="" group-title="Sinema",MOVİE SMART CLASSİC
+http://vip.torktv.org:2095/live/grhn9626/gr00/6458.ts
+#EXTINF:-1 tvg-id="" tvg-name="FİL TV" tvg-logo="" group-title="Sinema",FİL TV
+http://yasamtv787.xyz:80/live/yusufcaliskan/yusuf.1710/270756.ts
+#EXTINF:-1 tvg-id="" tvg-name="FİLMAX" tvg-logo="" group-title="Sinema",FİLMAX
+http://yasamtv787.xyz:80/live/yusufcaliskan/yusuf.1710/270755.ts
+#EXTINF:-1 tvg-id="" tvg-name="FİLM CLUP" tvg-logo="" group-title="Sinema",FİLM CLUP
+http://yasamtv787.xyz:80/live/yusufcaliskan/yusuf.1710/270754.ts
+#EXTINF:-1 tvg-id="" tvg-name="FİLM CLUP AKSİYON" tvg-logo="" group-title="Sinema",FİLM CLUP AKSİYON
+http://yasamtv787.xyz:80/live/yusufcaliskan/yusuf.1710/270753.ts
+#EXTINF:-1 tvg-id="" tvg-name="FİLM CLUP KOMEDİ" tvg-logo="" group-title="Sinema",FİLM CLUP KOMEDİ
+http://yasamtv787.xyz:80/live/yusufcaliskan/yusuf.1710/270751.ts
+#EXTINF:-1 tvg-id="" tvg-name="SİNEMA TV" tvg-logo="" group-title="Sinema",SİNEMA TV
+http://vip.torktv.org:2095/live/grhn9626/gr00/6467.ts
+#EXTINF:-1 tvg-id="" tvg-name="SİNEMA AKSİYON" tvg-logo="" group-title="Sinema",SİNEMA AKSİYON
+http://vip.torktv.org:2095/live/grhn9626/gr00/6465.ts
+#EXTINF:-1 tvg-id="" tvg-name="FİLMBOX" tvg-logo="" group-title="Sinema",FİLMBOX
+http://vip.torktv.org:2095/live/grhn9626/gr00/99048.ts
+#EXTINF:-1 tvg-id="" tvg-name="GELECEĞE DÖNÜŞ TV" tvg-logo="" group-title="Sinema",GELECEĞE DÖNÜŞ TV
+http://vip.torktv.org:2095/live/grhn9626/gr00/130649.ts
+#EXTINF:-1 tvg-id="" tvg-name="ROCKY TV" tvg-logo="" group-title="Sinema",ROCKY TV
+http://vip.torktv.org:2095/live/grhn9626/gr00/131810.ts
+#EXTINF:-1 tvg-id="" tvg-name="TERMİNATÖR TV" tvg-logo="" group-title="Sinema",TERMİNATÖR TV
+http://vip.torktv.org:2095/live/grhn9626/gr00/130666.ts
+#EXTINF:-1 tvg-id="" tvg-name="VAN DAMME TV" tvg-logo="" group-title="Sinema",VAN DAMME TV
+http://vip.torktv.org:2095/live/grhn9626/gr00/5999.ts
+#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="" group-title="Sinema",FX
+http://vip.torktv.org:2095/live/grhn9626/gr00/6475.ts
+#EXTINF:-1 tvg-id="" tvg-name="BLU TV PLAY 1" tvg-logo="" group-title="Sinema",BLU TV PLAY 1
+https://play1.blutv.com/blutv_play1/blutv_play1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BLU TV PLAY 2" tvg-logo="" group-title="Sinema",BLU TV PLAY 2
+https://play2.blutv.com/blutv_play2/blutv_play2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TİVİ TÜRK" tvg-logo="" group-title="Sinema",TİVİ TÜRK
+https://stream.tiviturk.de/live/tiviturk.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SÜPER TÜRK TV" tvg-logo="" group-title="Sinema",SÜPER TÜRK TV
+http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RİZE TÜRK TV" tvg-logo="" group-title="Sinema",RİZE TÜRK TV
+https://yayin.rizeturk.com:3777/multi_web/play.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KANAL 10 TV" tvg-logo="" group-title="Sinema",KANAL 10 TV
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/Kanal10/chunklist_w1439322589.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KASTAMONU TV" tvg-logo="" group-title="Sinema",KASTAMONU TV
+http://51.91.118.139:8080/kastamonutv/kastamonutv/3385
+#EXTINF:-1 tvg-id="" tvg-name="HOCWAN TV" tvg-logo="" group-title="Sinema",HOCWAN TV
+https://hocwantv.ozelip.com:3593/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PAZARCIK TV" tvg-logo="" group-title="Sinema",PAZARCIK TV
+https://pazarciktv.ozelip.net:3962/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ULUSLARARASI TV" tvg-logo="" group-title="Sinema",ULUSLARARASI TV
+http://stream.tvcdn.net/diger/uluslararasi-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ONDE TV" tvg-logo="" group-title="Sinema",ONDE TV
+https://ondetv.ozelip.com.tr:3390/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KANAL 19" tvg-logo="" group-title="Sinema",KANAL 19
+https://live.euromediacenter.com/kanal19/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV 25" tvg-logo="" group-title="Sinema",TV 25
+https://cdn-tv25.yayin.com.tr/tv25/tv25/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV 48" tvg-logo="" group-title="Sinema",TV 48
+https://ajansplay.com:5443/LiveApp/streams/tv48.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DENİZ POSTASI" tvg-logo="" group-title="Sinema",DENİZ POSTASI
+https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="İSVİÇRE TV" tvg-logo="" group-title="Sinema",İSVİÇRE TV
+https://i41.ozelip.com:3269/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY HABER TV" tvg-logo="" group-title="Sinema",SKY HABER TV
+https://cdn1-skyhabertv.yayin.com.tr/skyhabertv/skyhabertv/chunklist_w1126474240_b1996000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CİNE 1 TV" tvg-logo="" group-title="Sinema",CİNE 1 TV
+https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BİR TV" tvg-logo="" group-title="Sinema",BİR TV
+https://live.artidijitalmedya.com/artidijital_birtv/birtv/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TİVİ6" tvg-logo="" group-title="Sinema",TİVİ6
+https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DÜZGÜN TV" tvg-logo="" group-title="Sinema",DÜZGÜN TV
+http://duzguntv1616.ozelip.net:25192/duzguntv/duzguntv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VİYANA TV" tvg-logo="" group-title="Sinema",VİYANA TV
+http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KUZEY KIBRIS TV" tvg-logo="" group-title="Sinema",KUZEY KIBRIS TV
+https://kuzeykibris.tv/m3u8/kktv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT RADYO 1" tvg-logo="" group-title="Radyo",TRT RADYO 1
 https://rd-trtradyo1.medya.trt.com.tr/master_128.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TGRT FM" tvg-logo="" group-title="Radyo",TGRT FM
@@ -407,7 +491,7 @@ https://ritim.80.yayin.com.tr/;stream.mp3
 #EXTINF:-1 tvg-id="" tvg-name="SULTAN RADYO" tvg-logo="" group-title="Radyo",SULTAN RADYO
 https://yayin.turkhosted.com/sultanradyo/stream?/;stream.mp3
 #EXTINF:-1 tvg-id="" tvg-name="YOL ARKADAŞIM RADYO" tvg-logo="" group-title="Radyo",YOL ARKADAŞIM RADYO
-https://22733.live.streamtheworld.com/SC022_SO1AAC.aac?/;stream.mp3
+https://20133.live.streamtheworld.com/SC022_SO1AAC.aac
 #EXTINF:-1 tvg-id="" tvg-name="PAL DOĞA RADYO" tvg-logo="" group-title="Radyo",PAL DOĞA RADYO
 https://moondigitaledge.radyotvonline.net/paldoga/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO OYUN HAVALARI" tvg-logo="" group-title="Radyo",RADYO OYUN HAVALARI
