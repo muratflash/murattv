@@ -41,6 +41,8 @@ http://145.239.37.125:20458/aktif/aktif/chunklist.m3u8
 https://i41.ozelip.com:3269/hybrid/play.m3u8
 #EXTINF:-1,BİZİMKİLER TV
 https://koprulu.global.ssl.fastly.net/ythls?video_id=6qtUZDWaOjo.m3u8
+#EXTINF:-1,ÇİÇEK TAKSİ TV
+http://tvr.lol:80/live/peter/peter01/1056.ts
 #EXTINF:-1,YEDİ NUMARA TV
 https://yt.ariev.workers.dev/ch/UC0GKelxahF1nHwKyGhfJVYA.m3u8
 #EXTINF:-1,CENNET MAHALLESİ TV
@@ -53,11 +55,15 @@ https://ythls.kekikakademi.org/youtube/channel/UCHFxijaEOik8V6iH4rWoAYg.m3u8
 https://yt.ariev.workers.dev/ch/UCiT-eroqDoA3zct3OkzhEPA.m3u8
 #EXTINF:-1,KURTLAR VADİSİ PUSU TV
 https://koprulu.global.ssl.fastly.net/ythls?video_id=slT7aQuQukE.m3u8
+#EXTINF:-1,ACI HAYAT TV
+http://tvr.lol:80/live/peter/peter01/1047.ts
 #EXTINF:-1,TRT NOSTALJİ
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
 #EXTINF:-1,EXXEN TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://tre.2b4a9bb526bd2acb.shop/i/exxen/4011/playlist.m3u8
+#EXTINF:-1,32.GÜN TV
+http://vip.torktv.org:2095/live/grhn9626/gr00/111302.ts
 #EXTINF:-1,SKY HABER TV
 https://cdn1-skyhabertv.yayin.com.tr/skyhabertv/skyhabertv/chunklist_w1126474240_b1996000.m3u8
 #EXTINF:-1,TH TÜRK HABER
@@ -70,7 +76,7 @@ https://helga.iptv2022.com/sh/OlayTurk_TV/tracks-v1a1/mono.m3u8
 https://edge1.socialsmart.tv/belemturktv/bant1/playlist.m3u8
 #EXTINF:-1,TRAKYA TÜRK TV
 https://live.artidijitalmedya.com/artidijital_trakyaturk/trakyaturk/chunks.m3u8
-#EXTINF:-1,CİNE1 TV
+#EXTINF:-1,CİNE 1 TV
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
 #EXTINF:-1,BİR TV HD
 https://live.artidijitalmedya.com/artidijital_birtv/birtv/chunks.m3u8
@@ -368,6 +374,10 @@ http://vip.torktv.org:2095/live/grhn9626/gr00/131810.ts
 http://vip.torktv.org:2095/live/grhn9626/gr00/130666.ts
 #EXTINF:-1 tvg-id="" tvg-name="VAN DAMME TV" tvg-logo="" group-title="Sinema",VAN DAMME TV
 http://vip.torktv.org:2095/live/grhn9626/gr00/5999.ts
+#EXTINF:-1 tvg-id="" tvg-name="ZOR ÖLÜM TV" tvg-logo="" group-title="Sinema",ZOR ÖLÜM TV
+http://vip.torktv.org:2095/live/grhn9626/gr00/130656.ts
+#EXTINF:-1 tvg-id="" tvg-name="DREAM KORKU" tvg-logo="" group-title="Sinema",DREAM KORKU
+http://tvr.lol:80/live/peter/peter01/898.ts
 #EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="" group-title="Sinema",FX
 http://vip.torktv.org:2095/live/grhn9626/gr00/6475.ts
 #EXTINF:-1 tvg-id="" tvg-name="BLU TV PLAY 1" tvg-logo="" group-title="Sinema",BLU TV PLAY 1
