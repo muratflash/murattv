@@ -445,11 +445,9 @@ http://officialbestfm.radyotvonline.net/bestfmofficial
 #EXTINF:-1 tvg-id="" tvg-name="SHOW RADYO" tvg-logo="" group-title="Radyo",SHOW RADYO
 https://showradyo.radyotvonline.net/showradyoaac?/;stream.mp3
 #EXTINF:-1 tvg-id="" tvg-name="SÜPER FM" tvg-logo="" group-title="Radyo",SÜPER FM
-https://25633.live.streamtheworld.com/SUPER_FM128AAC.aac
+https://28553.live.streamtheworld.com/SUPER_FM128AAC.aac
 #EXTINF:-1 tvg-id="" tvg-name="ALEM FM" tvg-logo="" group-title="Radyo",ALEM FM
 https://edge1.radyotvonline.net/shoutcast/play/alemfm
-#EXTINF:-1 tvg-id="" tvg-name="POWER TÜRK FM" tvg-logo="" group-title="Radyo",POWER TÜRK FM
-https://koprulu.global.ssl.fastly.net/ythls?video_id=953M-4s6lBI.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DOKSANLAR FM" tvg-logo="" group-title="Radyo",DOKSANLAR FM
 https://moondigitaledge.radyotvonline.net/90lar/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KRAL FM" tvg-logo="" group-title="Radyo",KRAL FM
@@ -507,7 +505,7 @@ https://moondigitaledge.radyotvonline.net/paldoga/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO OYUN HAVALARI" tvg-logo="" group-title="Radyo",RADYO OYUN HAVALARI
 https://ythls.kekikakademi.org/youtube/video/tWnr7YqZ8LI.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BAŞKA RADYO" tvg-logo="" group-title="Radyo",BAŞKA RADYO
-https://ythls.kekikakademi.org/youtube/video/P_csvjp0FbE.m3u8
+https://ythls.kekikakademi.org/youtube/video/WvKXe-8QCxE.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="POPÜLER FM" tvg-logo="" group-title="Radyo",POPÜLER FM
 https://ythls.kekikakademi.org/youtube/video/HFmOn8UCTIU.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO TÜRKÜ" tvg-logo="" group-title="Radyo",RADYO TÜRKÜ
