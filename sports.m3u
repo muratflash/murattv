@@ -1,0 +1,42 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="beIN SPORTS" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTS" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",beIN SPORTS
+#EXTVLCOPT:http-user-agent=Kodi/16.1 (Windows NT 10.0; WOW64) App_Bitness/32 Version/16.1-Git:20160424-c327c53
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:6E:2B:9D&stream=564724&extension=m3u8
+
+#EXTINF:-1 tvg-name="beIN SPORTS 2" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTS2" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/7uv6x71628799003.png" group-title="Spor",beIN SPORTS 2
+#EXTVLCOPT:http-user-agent=Kodi/16.1 (Windows NT 10.0; WOW64) App_Bitness/32 Version/16.1-Git:20160424-c327c53
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:AB:59:41&stream=425&extension=m3u8
+
+#EXTINF:-1 tvg-name="beIN SPORTS 3" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTS3" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/u3117i1628798857.png" group-title="Spor",beIN SPORTS 3
+#EXTVLCOPT:http-user-agent=Kodi/16.1 (Windows NT 10.0; WOW64) App_Bitness/32 Version/16.1-Git:20160424-c327c53
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:AB:59:41&stream=426&extension=m3u8
+
+#EXTINF:-1 tvg-name="beIN SPORTS 4" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTS4" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/2ktmcp1628798841.png" group-title="Spor",beIN SPORTS 4
+#EXTVLCOPT:http-user-agent=Kodi/16.1 (Windows NT 10.0; WOW64) App_Bitness/32 Version/16.1-Git:20160424-c327c53
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:AB:59:41&stream=427&extension=m3u8
+
+#EXTINF:-1 tvg-name="beIN SPORTS 5" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTS5" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/2ktmcp1628798841.png" group-title="Spor",beIN SPORTS 5
+#EXTVLCOPT:http-user-agent=Kodi/16.1 (Windows NT 10.0; WOW64) App_Bitness/32 Version/16.1-Git:20160424-c327c53
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:6E:2B:9D&stream=429&extension=m3u8
+
+#EXTINF:-1 ,BEİN SPORTS 1 FHD
+https://varsports.zortstream.shop/600/index.m3u8
+#EXTINF:-1 ,BEİN SPORTS 1 HD
+https://varsports.zortstream.shop/601/index.m3u8
+#EXTINF:-1 ,BEİN SPORTS 2 HD
+https://varsports.zortstream.shop/602/index.m3u8
+#EXTINF:-1 ,BEİN SPORTS 3 HD
+https://varsports.zortstream.shop/603/index.m3u8
+#EXTINF:-1 ,BEİN SPORTS 4 HD
+https://varsports.zortstream.shop/604/index.m3u8
+#EXTINF:-1 ,BEİN SPORTS 5 HD
+https://varsports.zortstream.shop/605/index.m3u8
+#EXTINF:-1 ,S SPORT HD
+https://varsports.zortstream.shop/607/index.m3u8
+#EXTINF:-1 ,S SPORT 2 HD
+https://varsports.zortstream.shop/608/index.m3u8
+#EXTINF:-1 ,SPOR SMART HD
+https://varsports.zortstream.shop/609/index.m3u8
+#EXTINF:-1 ,SPOR SMART 2 HD
+https://varsports.zortstream.shop/610/index.m3u8
