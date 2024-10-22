@@ -44,3 +44,19 @@ https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8
 http://vip.torktv.org:2095/live/grhn9626/gr00/100384.ts
 #EXTINF:-1 ,TV 8.5
 https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?app=tv8bucuk_web&ce=3
+#EXTINF:-1 ,TABİİ SPOR
+http://4kplus.org:80/live/stb14531071/cu3j91yeAL/146474.ts
+#EXTINF:-1 ,TABİİ SPOR 1
+http://4kplus.org:80/live/stb14531071/cu3j91yeAL/146476.ts
+#EXTINF:-1 ,TABİİ SPOR 2
+http://4kplus.org:80/live/stb14531071/cu3j91yeAL/141615.ts
+#EXTINF:-1 ,TABİİ SPOR 3
+http://4kplus.org:80/live/stb14531071/cu3j91yeAL/141617.ts
+#EXTINF:-1 ,TABİİ SPOR 4
+http://4kplus.org:80/live/stb14531071/cu3j91yeAL/141619.ts
+#EXTINF:-1 ,TABİİ SPOR 5
+http://4kplus.org:80/live/stb14531071/cu3j91yeAL/141621.ts
+#EXTINF:-1 ,TABİİ SPOR 6
+http://4kplus.org:80/live/stb14531071/cu3j91yeAL/141623.ts
+#EXTINF:-1 ,TV 8 HD
+https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
