@@ -158,26 +158,42 @@ https://5e06e5e8c2e27.streamlock.net:1936/videonow/kral_teber/chunklist_w1746342
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/Tezene_tv/chunklist_w1025349998.m3u8
 #EXTINF:-1,TEBER ON 9
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/tv19/chunklist_w1464246075.m3u8
-#EXTINF:-1,HALK TV
+#EXTINF:-1 tvg-id="" tvg-name="HALK TV" tvg-logo="" group-title="Haber",HALK TV
 https://halktv.blutv.com/blutv_halktv_live/live_720p2000000kbps/index.m3u8
-#EXTINF:-1,SÖZCÜ TV
+#EXTINF:-1 tvg-id="" tvg-name="HALK TV HD" tvg-logo="" group-title="Haber",HALK TV HD
+https://koprulu.global.ssl.fastly.net/ythls?video_id=-HJwrahoMsQ.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SÖZCÜ TV" tvg-logo="" group-title="Haber",SÖZCÜ TV
 https://szctvdvr.blutv.com/blutv_szctv_dvr/live_720p2000000kbps/index.m3u8
-#EXTINF:-1,TELE 1
+#EXTINF:-1 tvg-id="" tvg-name="SÖZCÜ TV HD" tvg-logo="" group-title="Haber",SÖZCÜ TV HD
+https://koprulu.global.ssl.fastly.net/ythls?video_id=ztmY_cCtUl0.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELE 1" tvg-logo="" group-title="Haber",TELE 1
 https://tele1dvr.blutv.com/blutv_tele1_dvr2/live_720p2000000kbps/index.m3u8
-#EXTINF:-1,KRT TV
+#EXTINF:-1 tvg-id="" tvg-name="TELE 1 HD" tvg-logo="" group-title="Haber",TELE 1 HD
+https://koprulu.global.ssl.fastly.net/ythls?video_id=z6ptLHwMvuM.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KRT TV" tvg-logo="" group-title="Haber",KRT TV
 https://krt.blutv.com/blutv_krt_live/live_720p2000000kbps/index.m3u8
-#EXTINF:-1,FLASH HABER
+#EXTINF:-1 tvg-id="" tvg-name="KRT TV HD" tvg-logo="" group-title="Haber",KRT TV HD
+https://koprulu.global.ssl.fastly.net/ythls?video_id=SAqEutS7qzU.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FLASH HABER" tvg-logo="" group-title="Haber",FLASH HABER
 https://flashtv.blutv.com/blutv_flashtv/live.m3u8
-#EXTINF:-1,CAN TV
+#EXTINF:-1 tvg-id="" tvg-name="FLASH HABER HD" tvg-logo="" group-title="Haber",FLASH HABER HD
+https://stream.guventechnology.com:19360/flashtv/1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAN TV" tvg-logo="" group-title="Haber",CAN TV
 http://canbroadcast.com:7000/canlican/tv.m3u8
-#EXTINF:-1,EKOL TV
-https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
-#EXTINF:-1,EKOL TV HD
-https://koprulu.global.ssl.fastly.net/ythls?kanal_id=UCccxXUKSuqOrlWQxweZBAQw.m3u8
-#EXTINF:-1,MC EU
+#EXTINF:-1 tvg-id="" tvg-name="MEDYA HABER" tvg-logo="" group-title="Haber",MEDYA HABER
+https://koprulu.global.ssl.fastly.net/ythls?video_id=p4BYeZADkgY.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MC EU" tvg-logo="" group-title="Haber",MC EU
 https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&type=live&service=wowza&protocol=https&output=playlist.m3u8
-#EXTINF:-1,MC EU WEB
+#EXTINF:-1 tvg-id="" tvg-name="MC EU WEB" tvg-logo="" group-title="Haber",MC EU WEB
 https://n2.burst.cdn.jetstre.am/session/450f4c594b612903b7d42d421fb93c21/sz/mceutv/wowza4/live/mc2/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TH TÜRK HABER" tvg-logo="" group-title="Haber",TH TÜRK HABER
+https://edge1.socialsmart.tv/turkhaber/bant1/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LİDER HABER" tvg-logo="" group-title="Haber",LİDER HABER
+https://ip252.ozelip.com:22524/lidertv/lidertv/chunklist_w1993196315.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EKOL TV" tvg-logo="" group-title="Haber",EKOL TV
+https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EKOL TV HD" tvg-logo="" group-title="Haber",EKOL TV HD
+https://koprulu.global.ssl.fastly.net/ythls?kanal_id=UCccxXUKSuqOrlWQxweZBAQw.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS HABER" tvg-logo="" group-title="Spor",BEİN SPORTS HABER
 https://koprulu.global.ssl.fastly.net/ythls?kanal_id=UCPe9vNjHF1kEExT5kHwc7aw.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT SPOR HD" tvg-logo="" group-title="Spor",TRT SPOR HD
