@@ -44,6 +44,7 @@ https://koprulu.global.ssl.fastly.net/ythls?video_id=6qtUZDWaOjo.m3u8
 #EXTINF:-1,ÇİÇEK TAKSİ TV
 http://tvr.lol:80/live/peter/peter01/1056.ts
 #EXTINF:-1,YEDİ NUMARA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://yt.ariev.workers.dev/ch/UC0GKelxahF1nHwKyGhfJVYA.m3u8
 #EXTINF:-1,CENNET MAHALLESİ TV
 https://koprulu.global.ssl.fastly.net/ythls?video_id=lf1NxAexRAE.m3u8
