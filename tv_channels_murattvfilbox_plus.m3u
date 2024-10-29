@@ -197,7 +197,7 @@ https://ythls.kekikakademi.org/youtube/channel/UCccxXUKSuqOrlWQxweZBAQw.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS HABER" tvg-logo="" group-title="Spor",BEİN SPORTS HABER
 https://ythls.kekikakademi.org/youtube/channel/UCPe9vNjHF1kEExT5kHwc7aw.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT SPOR HD" tvg-logo="" group-title="Spor",TRT SPOR HD
-https://tv-trtspor1.medya.trt.com.tr/master.m3u8
+https://trt.daioncdn.net/trtspor/master_1080p.m3u8?platform=trtspor&sid=6v658fcnyyrq&app=9b65474e-8197-4899-aabb-321fcf6dd9eb&ce=2
 #EXTINF:-1 tvg-id="" tvg-name="A SPOR" tvg-logo="" group-title="Spor",A SPOR
 http://hw1.jemtv.com/app/ASporHD/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A SPOR HD" tvg-logo="" group-title="Spor",A SPOR HD
