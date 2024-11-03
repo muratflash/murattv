@@ -181,7 +181,7 @@ https://stream.guventechnology.com:19360/flashtv/1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CAN TV" tvg-logo="" group-title="Haber",CAN TV
 http://canbroadcast.com:7000/canlican/tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MEDYA HABER" tvg-logo="" group-title="Haber",MEDYA HABER
-https://ythls.kekikakademi.org/youtube/video/p4BYeZADkgY.m3u8
+https://ythls.kekikakademi.org/youtube/channel/UC7V_iKHenrrXrrhhzOTDWkA.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MC EU" tvg-logo="" group-title="Haber",MC EU
 https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&type=live&service=wowza&protocol=https&output=playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MC EU WEB" tvg-logo="" group-title="Haber",MC EU WEB
