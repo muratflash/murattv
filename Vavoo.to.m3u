@@ -1,0 +1,1263 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="@iptvlinklerim3u" tvg-id="TRT1.tr" tvg-logo="" group-title="ULUSAL",@iptvlinklerim3u
+https://t.me/iptvlinklerim3u
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png" group-title="DeaTHLesS KRAL",TRT 1
+http://stream.tvcdn.net/ulusal/trt-1.m3u8
+#EXTINF:-1 tvg-id="ATV.tr" tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png" group-title="DeaTHLesS KRAL",atv
+http://stream.tvcdn.net/ulusal/atv.m3u8
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png" group-title="DeaTHLesS KRAL",Kanal D
+http://stream.tvcdn.net/ulusal/kanal-d.m3u8
+#EXTINF:-1 tvg-id="Now.tr" tvg-logo="http://assets.tvcdn.net/80eb8816-1855-41f5-9002-7a05cc93fe4f.png" group-title="DeaTHLesS KRAL",Now TV
+http://stream.tvcdn.net/ulusal/now-tv.m3u8
+#EXTINF:-1 tvg-id="showTV.tr" tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png" group-title="DeaTHLesS KRAL",show TV
+http://stream.tvcdn.net/ulusal/show-tv.m3u8
+#EXTINF:-1 tvg-id="BeyazTV.tr" tvg-logo="http://assets.tvcdn.net/60d7aaf4-817b-46be-bbab-68f8b30de8fb.png" group-title="DeaTHLesS KRAL",Beyaz TV
+http://stream.tvcdn.net/ulusal/beyaz-tv.m3u8
+#EXTINF:-1 tvg-id="Kanal7.tr" tvg-logo="http://assets.tvcdn.net/1125734c-3525-4390-b8ed-c50380c70e4d.png" group-title="DeaTHLesS KRAL",Kanal 7
+http://stream.tvcdn.net/ulusal/kanal-7.m3u8
+#EXTINF:-1 tvg-id="TV8.tr" tvg-logo="http://assets.tvcdn.net/f91342d2-bcae-4ee0-a6f8-76a8d32b891b.png" group-title="DeaTHLesS KRAL",TV8
+http://stream.tvcdn.net/ulusal/tv8.m3u8
+#EXTINF:-1 tvg-id="starTV.tr" tvg-logo="http://assets.tvcdn.net/0c5204fb-e613-4084-b300-8cdcc46309f9.png" group-title="DeaTHLesS KRAL",star TV
+http://stream.tvcdn.net/ulusal/star-tv.m3u8
+#EXTINF:-1 tvg-id="360.tr" tvg-logo="http://assets.tvcdn.net/e1c3f150-4f79-4ac4-a893-4cc1144eb2d5.png" group-title="DeaTHLesS KRAL",360 TV
+http://stream.tvcdn.net/ulusal/360-tv.m3u8
+#EXTINF:-1 tvg-id="TV100.tr" tvg-logo="http://assets.tvcdn.net/d7741078-ccce-47d8-ba1c-a041b659bad6.png" group-title="DeaTHLesS KRAL",TV 100
+http://stream.tvcdn.net/ulusal/tv-100.m3u8
+#EXTINF:-1 tvg-id="TRTTurk.tr" tvg-logo="http://assets.tvcdn.net/fbaaa75c-0a2d-4ed6-b498-d32a59ddb899.png" group-title="DeaTHLesS KRAL",TRT Turk
+http://stream.tvcdn.net/ulusal-yurt-disi/trt-turk.m3u8
+#EXTINF:-1 tvg-id="TRTAvaz.tr" tvg-logo="http://assets.tvcdn.net/53dd1d5f-aa72-4bea-91d0-8c2d00783367.png" group-title="DeaTHLesS KRAL",TRT Avaz
+http://stream.tvcdn.net/ulusal-yurt-disi/trt-avaz.m3u8
+#EXTINF:-1 tvg-id="ATVAvrupa.tr" tvg-logo="http://assets.tvcdn.net/6d19cf7f-9057-4055-9aa8-532fdd0bdab5.png" group-title="DeaTHLesS KRAL",ATV Avrupa
+http://stream.tvcdn.net/ulusal-yurt-disi/atv-avrupa.m3u8
+#EXTINF:-1 tvg-id="EuroD.tr" tvg-logo="http://assets.tvcdn.net/f4a83153-48c6-4ece-8082-1b370768f88a.png" group-title="DeaTHLesS KRAL",Euro D
+http://stream.tvcdn.net/ulusal-yurt-disi/euro-d.m3u8
+#EXTINF:-1 tvg-id="TGRTEu.tr" tvg-logo="http://assets.tvcdn.net/01032651-eac6-48ea-b6ef-78acf8e95daa.png" group-title="DeaTHLesS KRAL",TGRT Eu
+http://stream.tvcdn.net/ulusal-yurt-disi/tgrt-eu.m3u8
+#EXTINF:-1 tvg-id="showTurk.tr" tvg-logo="http://assets.tvcdn.net/d4d340ec-891e-4601-9776-e979a750b7e3.png" group-title="DeaTHLesS KRAL",show Turk
+http://stream.tvcdn.net/ulusal-yurt-disi/show-turk.m3u8
+#EXTINF:-1 tvg-id="Kanal7Avrupa.tr" tvg-logo="http://assets.tvcdn.net/d52bb3d8-b362-47c0-9b8e-bddc4ceb4fe5.png" group-title="DeaTHLesS KRAL",Kanal 7 Avrupa
+http://stream.tvcdn.net/ulusal-yurt-disi/kanal-7-avrupa.m3u8
+#EXTINF:-1 tvg-id="TV8International.tr" tvg-logo="http://assets.tvcdn.net/7f69ae6e-f799-42f5-916b-a22eccad421b.png" group-title="DeaTHLesS KRAL",TV8 Int
+http://stream.tvcdn.net/ulusal-yurt-disi/tv8-int.m3u8
+#EXTINF:-1 tvg-id="Eurostar.tr" tvg-logo="http://assets.tvcdn.net/4e308235-1cc2-4e7e-acb5-cba6c0766ee8.png" group-title="DeaTHLesS KRAL",Euro star
+http://stream.tvcdn.net/ulusal-yurt-disi/euro-star.m3u8
+#EXTINF:-1 tvg-id="TRTulusal.tr" tvg-logo="http://assets.tvcdn.net/ecbd3154-e8e7-44d7-bcbd-a9bcac9df4de.png" group-title="DeaTHLesS KRAL",TRT ulusal
+http://stream.tvcdn.net/ulusal/trt-ulusal.m3u8
+#EXTINF:-1 tvg-id="Aulusal.tr" tvg-logo="http://assets.tvcdn.net/06e7abd9-0fbb-441f-af63-b895513d3aaa.png" group-title="DeaTHLesS KRAL",A ulusal
+http://stream.tvcdn.net/ulusal/a-ulusal.m3u8
+#EXTINF:-1 tvg-id="CNNTurk.tr" tvg-logo="http://assets.tvcdn.net/db0e3f2f-3191-4af2-9cde-5345eb7543e4.png" group-title="DeaTHLesS KRAL",CNN Turk
+http://stream.tvcdn.net/ulusal/cnn-turk.m3u8
+#EXTINF:-1 tvg-id="TGRTulusal.tr" tvg-logo="http://assets.tvcdn.net/a4303694-1faa-4436-aa0f-c5f3ca2b157a.png" group-title="DeaTHLesS KRAL",TGRT ulusal
+http://stream.tvcdn.net/ulusal/tgrt-ulusal.m3u8
+#EXTINF:-1 tvg-id="ulusalturkTV.tr" tvg-logo="http://assets.tvcdn.net/9fbfa842-0fff-488a-aab7-d534dbbfe8a9.png" group-title="DeaTHLesS KRAL",ulusalturk
+http://stream.tvcdn.net/ulusal/ulusalturk.m3u8
+#EXTINF:-1 tvg-id="ulusalGlobal.tr" tvg-logo="http://assets.tvcdn.net/d7e11245-3318-4cfd-bd1c-bdbb03d4c76a.png" group-title="DeaTHLesS KRAL",ulusal Global
+http://stream.tvcdn.net/ulusal/ulusal-global.m3u8
+#EXTINF:-1 tvg-id="ulkeTV.tr" tvg-logo="http://assets.tvcdn.net/e20947de-9a22-4e53-9f88-b69cdf278be7.png" group-title="DeaTHLesS KRAL",ulke TV
+http://stream.tvcdn.net/ulusal/ulke-tv.m3u8
+#EXTINF:-1 tvg-id="HalkTV.tr" tvg-logo="http://assets.tvcdn.net/f0bcd016-8730-4700-9156-d6b678f8e554.png" group-title="DeaTHLesS KRAL",Halk TV
+http://stream.tvcdn.net/ulusal/halk-tv.m3u8
+#EXTINF:-1 tvg-id="NTV.tr" tvg-logo="http://assets.tvcdn.net/b2aa3114-53bd-4ff5-81ed-af75a28e651f.png" group-title="DeaTHLesS KRAL",NTV
+http://stream.tvcdn.net/ulusal/ntv.m3u8
+#EXTINF:-1 tvg-id="24TV.tr" tvg-logo="http://assets.tvcdn.net/49267a8f-6313-43f9-bab4-9d5f109bad1b.png" group-title="DeaTHLesS KRAL",24 TV
+http://stream.tvcdn.net/ulusal/24-tv.m3u8
+#EXTINF:-1 tvg-id="KRT.tr" tvg-logo="http://assets.tvcdn.net/0081c412-7701-4115-9d32-59f54dcc0eb5.png" group-title="DeaTHLesS KRAL",KRT TV
+http://stream.tvcdn.net/ulusal/krt-tv.m3u8
+#EXTINF:-1 tvg-id="AkitTV.tr" tvg-logo="http://assets.tvcdn.net/bf736fbe-8a9d-4444-adfd-99f3e7593ef9.png" group-title="DeaTHLesS KRAL",Akit TV
+http://stream.tvcdn.net/ulusal/akit-tv.m3u8
+#EXTINF:-1 tvg-id="sozcuTV.tr" tvg-logo="http://assets.tvcdn.net/491384df-7154-4404-8f97-2e7847655441.png" group-title="DeaTHLesS KRAL",sozcu TV
+http://stream.tvcdn.net/ulusal/sozcu-tv.m3u8
+#EXTINF:-1 tvg-id="Tele1.tr" tvg-logo="http://assets.tvcdn.net/c3a805dd-2d39-47a8-8b49-a8139bdbeeeb.png" group-title="DeaTHLesS KRAL",Tele 1
+http://stream.tvcdn.net/ulusal/tele-1.m3u8
+#EXTINF:-1 tvg-id="TVNET.tr" tvg-logo="http://assets.tvcdn.net/542d8afd-1bf7-44bd-8dfe-0b8e9ea2d3ec.png" group-title="DeaTHLesS KRAL",TVNET
+http://stream.tvcdn.net/ulusal/tvnet.m3u8
+#EXTINF:-1 tvg-id="FlashTV.tr" tvg-logo="http://assets.tvcdn.net/d609d4ce-df23-4042-8537-460dc6d4ae18.png" group-title="DeaTHLesS KRAL",Flash ulusal
+http://stream.tvcdn.net/ulusal/flash-ulusal.m3u8
+#EXTINF:-1 tvg-id="ulusalKanal.tr" tvg-logo="http://assets.tvcdn.net/1762dbd7-b2a4-497d-9cf0-3ecd075cf578.png" group-title="DeaTHLesS KRAL",ulusal Kanal
+http://stream.tvcdn.net/ulusal/ulusal-kanal.m3u8
+#EXTINF:-1 tvg-id="BenguturkTV.tr" tvg-logo="http://assets.tvcdn.net/a8fd43de-872a-4e58-9f07-ff22d21a6c24.png" group-title="DeaTHLesS KRAL",Benguturk TV
+http://stream.tvcdn.net/ulusal/benguturk-tv.m3u8
+#EXTINF:-1 tvg-id="YoLTV.de" tvg-logo="http://assets.tvcdn.net/0cebab34-cb48-48e3-81e0-a9a91a604b1e.png" group-title="DeaTHLesS KRAL",Yol TV
+http://stream.tvcdn.net/ulusal/yol-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/370c4e6f-8d30-400c-b298-c6a37b19e5dd.png" group-title="DeaTHLesS KRAL",TBMM TV
+http://stream.tvcdn.net/ulusal/tbmm-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/773ca7a4-b658-4d6d-8836-e13e582c4229.png" group-title="DeaTHLesS KRAL",DHA Canli 1
+http://stream.tvcdn.net/ulusal/dha-canli-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/773ca7a4-b658-4d6d-8836-e13e582c4229.png" group-title="DeaTHLesS KRAL",DHA Canli 2
+http://stream.tvcdn.net/ulusal/dha-canli-2.m3u8
+#EXTINF:-1 tvg-id="APara.tr" tvg-logo="http://assets.tvcdn.net/5aca3b8c-0c1b-41f7-96c0-b70f8a3f24fc.png" group-title="DeaTHLesS KRAL",A Para
+http://stream.tvcdn.net/ulusal/a-para.m3u8
+#EXTINF:-1 tvg-id="BloombergHT.tr" tvg-logo="http://assets.tvcdn.net/2a1808ad-733e-4223-a8b3-34be18ef21f9.png" group-title="DeaTHLesS KRAL",Bloomberg HT
+http://stream.tvcdn.net/ulusal/bloomberg-ht.m3u8
+#EXTINF:-1 tvg-id="Ekoturk.tr" tvg-logo="http://assets.tvcdn.net/99155348-56d9-49c6-a0be-50ec0ae790ec.png" group-title="DeaTHLesS KRAL",Ekoturk
+http://stream.tvcdn.net/ulusal/ekoturk.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/4e98253f-f791-42da-8497-51e821dde886.png" group-title="DeaTHLesS KRAL",Finans Turk
+http://stream.tvcdn.net/ulusal/finans-turk.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e87da323-5076-4ea7-a70a-5f2b1ebe00a4.png" group-title="DeaTHLesS KRAL",Expo Vizyon
+http://stream.tvcdn.net/ulusal/expo-vizyon.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/8a9bb676-fd2d-47c5-9332-804e2aae533b.jpeg" group-title="DeaTHLesS KRAL",Business Channel Turk
+http://stream.tvcdn.net/ulusal/business-channel-turk.m3u8
+#EXTINF:-1 tvg-id="CNBCe.tr" tvg-logo="http://assets.tvcdn.net/4371c426-66c5-4452-ba3e-439a0718a997.png" group-title="DeaTHLesS KRAL",CNBC-e
+http://stream.tvcdn.net/ulusal/cnbc-e.m3u8
+#EXTINF:-1 tvg-id="TRT2.tr" tvg-logo="http://assets.tvcdn.net/7bab6062-acec-4452-a419-345ab95f24e9.png" group-title="DeaTHLesS KRAL",TRT 2
+http://stream.tvcdn.net/eglence/trt-2.m3u8
+#EXTINF:-1 tvg-id="A2TV.tr" tvg-logo="http://assets.tvcdn.net/9db055df-4bc8-4a68-b0fd-766a5a3113bc.png" group-title="DeaTHLesS KRAL",a2
+http://stream.tvcdn.net/eglence/a2.m3u8
+#EXTINF:-1 tvg-id="Teve2.tr" tvg-logo="http://assets.tvcdn.net/4cad68c0-fa2c-4b84-a1c2-1f0704eca7a4.png" group-title="DeaTHLesS KRAL",teve2
+http://stream.tvcdn.net/eglence/teve2.m3u8
+#EXTINF:-1 tvg-id="showMax.tr" tvg-logo="http://assets.tvcdn.net/ec1c55f6-b525-4466-b41c-a935915a6962.png" group-title="DeaTHLesS KRAL",show Max
+http://stream.tvcdn.net/eglence/show-max.m3u8
+#EXTINF:-1 tvg-id="TV85.tr" tvg-logo="http://assets.tvcdn.net/be26f47c-18d7-4447-971c-ca4ba60ffb4c.png" group-title="DeaTHLesS KRAL",TV8.5
+http://stream.tvcdn.net/eglence/tv8-5.m3u8
+#EXTINF:-1 tvg-id="DMAX.tr" tvg-logo="http://assets.tvcdn.net/32da9e04-0514-4e3c-b8e1-854f1fc175ed.png" group-title="DeaTHLesS KRAL",DMAX
+http://stream.tvcdn.net/eglence/dmax.m3u8
+#EXTINF:-1 tvg-id="TLC.tr" tvg-logo="http://assets.tvcdn.net/9871d781-b961-45cc-a287-c304f02bef1d.png" group-title="DeaTHLesS KRAL",TLC
+http://stream.tvcdn.net/eglence/tlc.m3u8
+#EXTINF:-1 tvg-id="TV4.tr" tvg-logo="http://assets.tvcdn.net/8b16e995-ddb6-4201-8ba1-b33f7536ca50.png" group-title="DeaTHLesS KRAL",TV 4
+http://stream.tvcdn.net/eglence/tv-4.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/2b0e5b6e-3c75-4d34-b392-90330b629bbb.png" group-title="DeaTHLesS KRAL",Dizi Film TV
+http://stream.tvcdn.net/eglence/dizi-film-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/871add1b-5165-4aa1-9799-c93185f8841d.png" group-title="DeaTHLesS KRAL",Kultur sanat TV
+http://stream.tvcdn.net/eglence/kultur-sanat-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/6982e864-f429-4e6e-b3ba-d064ae84ff13.png" group-title="DeaTHLesS KRAL",Belgesel TV
+http://stream.tvcdn.net/eglence/belgesel-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/b46f11bf-bd55-4203-974c-ac36d14dc7d3.png" group-title="DeaTHLesS KRAL",sa�likli Gunler TV
+http://stream.tvcdn.net/eglence/saglikli-gunler-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/f438ceb7-c0a8-4b3c-9415-aea43a02b93e.png" group-title="DeaTHLesS KRAL",Tarih TV
+http://stream.tvcdn.net/eglence/tarih-tv.m3u8
+#EXTINF:-1 tvg-id="TRTspor.tr" tvg-logo="http://assets.tvcdn.net/98d69f74-e6dc-4d4a-95c6-666683834a28.png" group-title="DeaTHLesS KRAL",TRT spor
+http://stream.tvcdn.net/spor/trt-spor.m3u8
+#EXTINF:-1 tvg-id="TRTsporYildiz.tr" tvg-logo="http://assets.tvcdn.net/27f74187-ef2a-4928-9515-77422081119c.png" group-title="DeaTHLesS KRAL",TRT spor Yildiz
+http://stream.tvcdn.net/spor/trt-spor-yildiz.m3u8
+#EXTINF:-1 tvg-id="TRT3.tr" tvg-logo="http://assets.tvcdn.net/192450f9-3d32-4754-967f-7c8128934963.png" group-title="DeaTHLesS KRAL",TRT 3 spor
+http://stream.tvcdn.net/spor/trt-3-spor.m3u8
+#EXTINF:-1 tvg-id="Aspor.tr" tvg-logo="http://assets.tvcdn.net/14f4941c-00e7-4662-9a21-8203dc37b51a.png" group-title="DeaTHLesS KRAL",A spor
+http://stream.tvcdn.net/spor/a-spor.m3u8
+#EXTINF:-1 tvg-id="sportsTV.tr" tvg-logo="http://assets.tvcdn.net/96bc5554-741b-4e91-8b4f-7b3bcc1e4c1d.png" group-title="DeaTHLesS KRAL",sports TV
+http://stream.tvcdn.net/spor/sports-tv.m3u8
+#EXTINF:-1 tvg-id="beINsportsulusal.tr" tvg-logo="http://assets.tvcdn.net/9177b1f3-4eee-4215-b304-7c76ee2d0c7a.png" group-title="DeaTHLesS KRAL",beIN sports ulusal
+http://stream.tvcdn.net/spor/bein-sports-ulusal.m3u8
+#EXTINF:-1 tvg-id="Tivibuspor.tr" tvg-logo="http://assets.tvcdn.net/f771bddf-7354-4857-8d33-51be11bc7bdd.png" group-title="DeaTHLesS KRAL",Tivibu spor
+http://stream.tvcdn.net/spor/tivibu-spor.m3u8
+#EXTINF:-1 tvg-id="FBTV.tr" tvg-logo="http://assets.tvcdn.net/bf46ecf5-390b-42d0-8599-8b48b23f3bc8.png" group-title="DeaTHLesS KRAL",FB TV
+http://stream.tvcdn.net/spor/fb-tv.m3u8
+#EXTINF:-1 tvg-id="GsTV.tr" tvg-logo="http://assets.tvcdn.net/777501f0-ebb0-450b-913e-a3c1e2e977fe.png" group-title="DeaTHLesS KRAL",Gs TV
+http://stream.tvcdn.net/spor/gs-tv.m3u8
+#EXTINF:-1 tvg-id="TJKTV.tr" tvg-logo="http://assets.tvcdn.net/bcbd8593-677e-438a-9077-abe1cce5ffc2.png" group-title="DeaTHLesS KRAL",TJK TV
+http://stream.tvcdn.net/spor/tjk-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/bcbd8593-677e-438a-9077-abe1cce5ffc2.png" group-title="DeaTHLesS KRAL",TJK TV 2
+http://stream.tvcdn.net/spor/tjk-tv-2.m3u8
+#EXTINF:-1 tvg-id="TAYTV.tr" tvg-logo="http://assets.tvcdn.net/11ab0508-b919-4623-bd4d-08c46946cf8e.png" group-title="DeaTHLesS KRAL",Tay TV
+http://stream.tvcdn.net/spor/tay-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/a2dae974-7ee1-4a22-90ca-6dc9f06cb3a8.png" group-title="DeaTHLesS KRAL",ByHorses TV
+http://stream.tvcdn.net/spor/byhorses-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/2bc82127-7e38-496b-9854-10e6b4c1a9b2.png" group-title="DeaTHLesS KRAL",BriC ve satranC TV
+http://stream.tvcdn.net/spor/bric-ve-satranc-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/639df808-f325-4b05-8cdb-9ed151338087.png" group-title="DeaTHLesS KRAL",Fit Yasa TV
+http://stream.tvcdn.net/spor/fit-yasa-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/6f73f66b-d2d3-451d-9f56-5d1b27172abc.png" group-title="DeaTHLesS KRAL",Ziraat Turkiye Kupasi TV
+http://stream.tvcdn.net/spor/ziraat-turkiye-kupasi-tv.m3u8
+#EXTINF:-1 tvg-id="TRTMuzik.tr" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="DeaTHLesS KRAL",TRT Muzik
+http://stream.tvcdn.net/muzik/trt-muzik.m3u8
+#EXTINF:-1 tvg-id="DreamTurk.tr" tvg-logo="http://assets.tvcdn.net/b7ff7221-f255-439d-9ee9-0f73348005b8.png" group-title="DeaTHLesS KRAL",Dream Turk
+http://stream.tvcdn.net/muzik/dream-turk.m3u8
+#EXTINF:-1 tvg-id="PowerTurkTV.tr" tvg-logo="http://assets.tvcdn.net/c866b6f0-00bd-40b9-9583-8cbdbe6a503e.png" group-title="DeaTHLesS KRAL",Powerturk TV
+http://stream.tvcdn.net/muzik/powerturk-tv.m3u8
+#EXTINF:-1 tvg-id="PowerTV.tr" tvg-logo="http://assets.tvcdn.net/ccb54b98-472f-4c36-a48f-46431c84ab6a.png" group-title="DeaTHLesS KRAL",Power TV
+http://stream.tvcdn.net/muzik/power-tv.m3u8
+#EXTINF:-1 tvg-id="KralPopTV.tr" tvg-logo="http://assets.tvcdn.net/61431fea-4103-46a3-9f8c-aad1504b9776.png" group-title="DeaTHLesS KRAL",Kral Pop TV
+http://stream.tvcdn.net/muzik/kral-pop-tv.m3u8
+#EXTINF:-1 tvg-id="Number1TV.tr" tvg-logo="http://assets.tvcdn.net/c46cb81f-8075-442a-be24-d77a05f57921.png" group-title="DeaTHLesS KRAL",Number one TV
+http://stream.tvcdn.net/muzik/number-one-tv.m3u8
+#EXTINF:-1 tvg-id="Number1Turk.tr" tvg-logo="http://assets.tvcdn.net/8fdc5969-a87a-4067-a74a-65d88c131166.png" group-title="DeaTHLesS KRAL",Number one Turk
+http://stream.tvcdn.net/muzik/number-one-turk.m3u8
+#EXTINF:-1 tvg-id="MilyonTV.tr" tvg-logo="http://assets.tvcdn.net/ade59000-47db-4695-ab72-d26658094ec8.png" group-title="DeaTHLesS KRAL",Milyon TV
+http://stream.tvcdn.net/muzik/milyon-tv.m3u8
+#EXTINF:-1 tvg-id="TatlisesTV.tr" tvg-logo="http://assets.tvcdn.net/c65a05ac-96c4-4e80-b232-d27e88fc70c6.png" group-title="DeaTHLesS KRAL",Tatlises TV
+http://stream.tvcdn.net/muzik/tatlises-tv.m3u8
+#EXTINF:-1 tvg-id="TMB.tr" tvg-logo="http://assets.tvcdn.net/bff30a45-6e50-456c-af0e-62c62191c837.png" group-title="DeaTHLesS KRAL",TMB
+http://stream.tvcdn.net/muzik/tmb.m3u8
+#EXTINF:-1 tvg-id="PowerDance.tr" tvg-logo="http://assets.tvcdn.net/aca9e643-a4b0-4f01-abd5-66a5a2fc1042.png" group-title="DeaTHLesS KRAL",Power Dance
+http://stream.tvcdn.net/muzik/power-dance.m3u8
+#EXTINF:-1 tvg-id="PowerLove.tr" tvg-logo="http://assets.tvcdn.net/f755a1c1-097f-4692-a7a8-c804da8d1ed5.png" group-title="DeaTHLesS KRAL",Power Love
+http://stream.tvcdn.net/muzik/power-love.m3u8
+#EXTINF:-1 tvg-id="PowerTurkAkustik.tr" tvg-logo="http://assets.tvcdn.net/2005fd7a-ffe1-497a-a56b-ac60bcb3a2a2.png" group-title="DeaTHLesS KRAL",Powerturk Akustik
+http://stream.tvcdn.net/muzik/powerturk-akustik.m3u8
+#EXTINF:-1 tvg-id="PowerTurkslow.tr" tvg-logo="http://assets.tvcdn.net/fcec79e5-9d47-4812-86ac-00728538ad7f.png" group-title="DeaTHLesS KRAL",Powerturk slow
+http://stream.tvcdn.net/muzik/powerturk-slow.m3u8
+#EXTINF:-1 tvg-id="PowerTurkTaptaze.tr" tvg-logo="http://assets.tvcdn.net/ebb82c5c-86ac-4dc5-ba78-b26e536cebf7.png" group-title="DeaTHLesS KRAL",Powerturk Taptaze
+http://stream.tvcdn.net/muzik/powerturk-taptaze.m3u8
+#EXTINF:-1 tvg-id="Number1Ask.tr" tvg-logo="http://assets.tvcdn.net/a93b01d9-2c8f-4406-b5f9-abdf2f600e79.png" group-title="DeaTHLesS KRAL",Number 1 Ask
+http://stream.tvcdn.net/muzik/number-1-ask.m3u8
+#EXTINF:-1 tvg-id="Number1Damar.tr" tvg-logo="http://assets.tvcdn.net/2330eb6b-5e83-44ed-a2c5-028417f4cb67.png" group-title="DeaTHLesS KRAL",Number 1 Damar
+http://stream.tvcdn.net/muzik/number-1-damar.m3u8
+#EXTINF:-1 tvg-id="Number1Dance.tr" tvg-logo="http://assets.tvcdn.net/45eb173b-8b68-4caa-a5d3-65dc044b08e9.png" group-title="DeaTHLesS KRAL",Number 1 Dance
+http://stream.tvcdn.net/muzik/number-1-dance.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/f50d76a9-885f-4659-8dae-ea125469d25a.png" group-title="DeaTHLesS KRAL",Muzik TV
+http://stream.tvcdn.net/muzik/muzik-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/972fe810-96d7-4cad-8918-fe0c28a45e7d.png" group-title="DeaTHLesS KRAL",Chill TV
+http://stream.tvcdn.net/muzik/chill-tv.m3u8
+#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-logo="http://assets.tvcdn.net/1da7293b-5598-4e00-a5f8-3bd327af9467.png" group-title="DeaTHLesS KRAL",TRT Belgesel
+http://stream.tvcdn.net/belgesel/trt-belgesel.m3u8
+#EXTINF:-1 tvg-id="TGRTBelgesel.tr" tvg-logo="http://assets.tvcdn.net/c6c727a2-b2be-4d9b-a32c-48ffa778cbb6.png" group-title="DeaTHLesS KRAL",TGRT Belgesel
+http://stream.tvcdn.net/belgesel/tgrt-belgesel.m3u8
+#EXTINF:-1 tvg-id="Yaban.tr" tvg-logo="http://assets.tvcdn.net/808e5d06-f9a6-4989-ac8c-63f686e61ea0.png" group-title="DeaTHLesS KRAL",Yaban TV
+http://stream.tvcdn.net/belgesel/yaban-tv.m3u8
+#EXTINF:-1 tvg-id="AgroTV.tr" tvg-logo="http://assets.tvcdn.net/dbbbce1c-9d67-4d5a-9616-fc2458305329.png" group-title="DeaTHLesS KRAL",Agro TV
+http://stream.tvcdn.net/belgesel/agro-tv.m3u8
+#EXTINF:-1 tvg-id="CiftciTV.tr" tvg-logo="http://assets.tvcdn.net/0ddba95e-9ad0-4d8a-9527-b562e173da80.png" group-title="DeaTHLesS KRAL",CiftCi TV
+http://stream.tvcdn.net/belgesel/ciftci-tv.m3u8
+#EXTINF:-1 tvg-id="TarimTV.tr" tvg-logo="http://assets.tvcdn.net/2038e897-1bbf-4744-8028-975e32561396.png" group-title="DeaTHLesS KRAL",Tarim TV
+http://stream.tvcdn.net/belgesel/tarim-tv.m3u8
+#EXTINF:-1 tvg-id="KoyTV.tr" tvg-logo="http://assets.tvcdn.net/6014fb29-bf4c-4e83-8982-949179e6bd8e.png" group-title="DeaTHLesS KRAL",Koy TV
+http://stream.tvcdn.net/belgesel/koy-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/2998d78b-5098-4e5a-8450-b2f7148ff817.png" group-title="DeaTHLesS KRAL",Toprak TV
+http://stream.tvcdn.net/belgesel/toprak-tv.m3u8
+#EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-logo="http://assets.tvcdn.net/18ae3d9c-711b-40e5-8602-8eada4748df2.png" group-title="DeaTHLesS KRAL",TRT Cocuk
+http://stream.tvcdn.net/cocuk-egitim/trt-cocuk.m3u8
+#EXTINF:-1 tvg-id="EBATVortaokul.tr" tvg-logo="http://assets.tvcdn.net/a80dd610-3836-4d80-9968-70a8f32165bc.png" group-title="DeaTHLesS KRAL",TRT EBA
+http://stream.tvcdn.net/cocuk-egitim/trt-eba.m3u8
+#EXTINF:-1 tvg-id="TRTDiyanetCocuk.tr" tvg-logo="http://assets.tvcdn.net/dba05bf2-9d24-4d20-bc6c-f54a2b60ef7f.png" group-title="DeaTHLesS KRAL",TRT Diyanet Cocuk
+http://stream.tvcdn.net/cocuk-egitim/trt-diyanet-cocuk.m3u8
+#EXTINF:-1 tvg-id="MinikaCocuk.tr" tvg-logo="http://assets.tvcdn.net/1921ea76-bace-4b4a-9ba9-cba09175d07a.png" group-title="DeaTHLesS KRAL",Minika Cocuk
+http://stream.tvcdn.net/cocuk-egitim/minika-cocuk.m3u8
+#EXTINF:-1 tvg-id="MinikaGo.tr" tvg-logo="http://assets.tvcdn.net/3db397dc-01a9-436f-8de8-68edeba8a1b1.png" group-title="DeaTHLesS KRAL",Minika Go
+http://stream.tvcdn.net/cocuk-egitim/minika-go.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.tr" tvg-logo="http://assets.tvcdn.net/9cf2fc0e-278f-4007-b1a1-8fb22d4990eb.png" group-title="DeaTHLesS KRAL",Cartoon Network
+http://stream.tvcdn.net/cocuk-egitim/cartoon-network.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/255087c9-0b06-471a-8c46-502c825a4797.jpg" group-title="DeaTHLesS KRAL",Bilsem Bizim TV
+http://stream.tvcdn.net/cocuk-egitim/bilsem-bizim-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98504028-b6b2-4651-9d10-1437ef368f5f.png" group-title="DeaTHLesS KRAL",Diyanet Cocuk
+http://stream.tvcdn.net/cocuk-egitim/diyanet-cocuk.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/222d7e52-2895-46a1-92a2-93e2ce1c8317.png" group-title="DeaTHLesS KRAL",Cocuklara Özel TV
+http://stream.tvcdn.net/cocuk-egitim/cocuklara-ozel-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/320542d3-bc8c-4e63-ba97-3b89426dda8c.png" group-title="DeaTHLesS KRAL",Cizgi Film TV
+http://stream.tvcdn.net/cocuk-egitim/cizgi-film-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/11f87958-d4f4-4c66-8701-5b8f967f3e8b.jpeg" group-title="DeaTHLesS KRAL",Konusan Tom ve Arkadaslari
+http://stream.tvcdn.net/cocuk-egitim/konusan-tom-ve-arkadaslari.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/5bc78cad-9532-427d-91c2-683ea2b63318.jpeg" group-title="DeaTHLesS KRAL",Mutlu Cocuk
+http://stream.tvcdn.net/cocuk-egitim/mutlu-cocuk.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/7e5a471b-d773-4b32-9866-e0f1672bfafb.png" group-title="DeaTHLesS KRAL",Kukuli
+http://stream.tvcdn.net/cocuk-egitim/kukuli.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/de5a4b3e-2d06-4ab4-a081-5009cd4c1396.jpeg" group-title="DeaTHLesS KRAL",Furkis TV
+http://stream.tvcdn.net/cocuk-egitim/furkis-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/15e32d50-4058-4fa6-a6e2-3e1dbc35c70c.jpeg" group-title="DeaTHLesS KRAL",Cumburlop TV
+http://stream.tvcdn.net/cocuk-egitim/cumburlop-tv.m3u8
+#EXTINF:-1 tvg-id="DiyanetTV.tr" tvg-logo="http://assets.tvcdn.net/4314e627-e051-4e11-9dbe-cc3eab17a571.png" group-title="DeaTHLesS KRAL",Diyanet TV
+http://stream.tvcdn.net/dini/diyanet-tv.m3u8
+#EXTINF:-1 tvg-id="VavTV.tr" tvg-logo="http://assets.tvcdn.net/0769611d-315b-4b02-a3c3-cb643e6fe872.png" group-title="DeaTHLesS KRAL",Vav TV
+http://stream.tvcdn.net/dini/vav-tv.m3u8
+#EXTINF:-1 tvg-id="semerkandTV.tr" tvg-logo="http://assets.tvcdn.net/6c704c42-f7de-40d3-8b8b-19579387d446.png" group-title="DeaTHLesS KRAL",semerkand TV
+http://stream.tvcdn.net/dini/semerkand-tv.m3u8
+#EXTINF:-1 tvg-id="semerkandWay.tr" tvg-logo="http://assets.tvcdn.net/01b74bf2-a065-4d30-9ad6-a4213eb88cfa.png" group-title="DeaTHLesS KRAL",semerkand Way
+http://stream.tvcdn.net/dini/semerkand-way.m3u8
+#EXTINF:-1 tvg-id="DostTV.tr" tvg-logo="http://assets.tvcdn.net/95e2b9a5-991b-4eda-bd0f-ec3c570d9147.png" group-title="DeaTHLesS KRAL",Dost TV
+http://stream.tvcdn.net/dini/dost-tv.m3u8
+#EXTINF:-1 tvg-id="MeltemTV.tr" tvg-logo="http://assets.tvcdn.net/61b5c17b-e0dd-4702-bb9b-689097e4648f.png" group-title="DeaTHLesS KRAL",Meltem TV
+http://stream.tvcdn.net/dini/meltem-tv.m3u8
+#EXTINF:-1 tvg-id="TV5.tr" tvg-logo="http://assets.tvcdn.net/3df2642a-042c-45b6-b292-01600c5590cd.png" group-title="DeaTHLesS KRAL",TV 5
+http://stream.tvcdn.net/dini/tv-5.m3u8
+#EXTINF:-1 tvg-id="BeratTV.tr" tvg-logo="http://assets.tvcdn.net/f7b0b63d-1952-4374-9fa6-c980680731e4.png" group-title="DeaTHLesS KRAL",Berat TV
+http://stream.tvcdn.net/dini/berat-tv.m3u8
+#EXTINF:-1 tvg-id="DiyarTV.tr" tvg-logo="http://assets.tvcdn.net/ea4fe219-8fe0-4476-b636-3242ae8d2bf5.png" group-title="DeaTHLesS KRAL",Diyar TV
+http://stream.tvcdn.net/dini/diyar-tv.m3u8
+#EXTINF:-1 tvg-id="GoncaTV.tr" tvg-logo="http://assets.tvcdn.net/1e57f122-68ae-4bd2-8aa1-ad5cdd7e5000.png" group-title="DeaTHLesS KRAL",Gonca TV
+http://stream.tvcdn.net/dini/gonca-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/58500568-8b50-4b69-8b43-d303c933ca61.png" group-title="DeaTHLesS KRAL",iLK TV
+http://stream.tvcdn.net/dini/ilk-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/2c5ca955-eefe-4c69-81fa-007da1d9d18f.png" group-title="DeaTHLesS KRAL",Kudus TV
+http://stream.tvcdn.net/dini/kudus-tv.m3u8
+#EXTINF:-1 tvg-id="LalegulTV.tr" tvg-logo="http://assets.tvcdn.net/97578c5d-493f-4a99-ab6b-aedc02609cf0.png" group-title="DeaTHLesS KRAL",Lalegul TV
+http://stream.tvcdn.net/dini/lalegul-tv.m3u8
+#EXTINF:-1 tvg-id="on4TV.tr" tvg-logo="http://assets.tvcdn.net/6023b7ab-402a-4f5f-aefa-210d9f97b562.png" group-title="DeaTHLesS KRAL",on4 TV
+http://stream.tvcdn.net/dini/on4-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/cbf5e44c-689a-42d4-bee5-83f6cf5f8939.png" group-title="DeaTHLesS KRAL",Rehber TV
+http://stream.tvcdn.net/dini/rehber-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/bfe4289b-7785-46f4-ba62-8bbf4a188d45.png" group-title="DeaTHLesS KRAL",Mihrap TV
+http://stream.tvcdn.net/dini/mihrap-tv.m3u8
+#EXTINF:-1 tvg-id="NurTV.tr" tvg-logo="http://assets.tvcdn.net/0699afb8-64bd-4007-b328-a358c249187f.png" group-title="DeaTHLesS KRAL",Nur TV
+http://stream.tvcdn.net/dini/nur-tv.m3u8
+#EXTINF:-1 tvg-id="MPLTV.tr" tvg-logo="http://assets.tvcdn.net/07498f27-5266-401f-8baf-c3b731fb19b7.png" group-title="DeaTHLesS KRAL",MPL TV
+http://stream.tvcdn.net/dini/mpl-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/6e6dcb66-3dd2-4ef8-9b2b-9c470844c047.png" group-title="DeaTHLesS KRAL",Kanal 12
+http://stream.tvcdn.net/dini/kanal-12.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/4ca28592-03c0-44cb-85c5-29216afb1bf4.png" group-title="DeaTHLesS KRAL",Aile TV
+http://stream.tvcdn.net/dini/aile-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/8d763e76-e879-4e05-a451-8d39b77838e0.png" group-title="DeaTHLesS KRAL",Asr-i serif TV
+http://stream.tvcdn.net/dini/asr-i-serif-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/425981cf-189f-45c1-ad8d-6b0ccd2a12d5.png" group-title="DeaTHLesS KRAL",Kuran-i Kerim Dersleri
+http://stream.tvcdn.net/dini/kuran-i-kerim-dersleri.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/0a36c783-1a76-448d-b0d9-98add4aeab2d.png" group-title="DeaTHLesS KRAL",islam TV
+http://stream.tvcdn.net/dini/islam-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/62afff37-79e9-441b-a63e-f1fba2c22182.png" group-title="DeaTHLesS KRAL",ilmihal TV
+http://stream.tvcdn.net/dini/ilmihal-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/cfd07412-b7c1-4a85-84f5-ac743f8f1a84.png" group-title="DeaTHLesS KRAL",Asr-i saadet TV
+http://stream.tvcdn.net/dini/asr-i-saadet-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/51a438e2-9c50-45fc-afd3-2764cc8714a8.png" group-title="DeaTHLesS KRAL",ilahiler TV
+http://stream.tvcdn.net/dini/ilahiler-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/19a58ffe-437d-4272-9ccc-34bb839634e1.png" group-title="DeaTHLesS KRAL",Vaaz TV
+http://stream.tvcdn.net/dini/vaaz-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/c2efb51d-645d-41e2-bb9e-7068e41325b7.png" group-title="DeaTHLesS KRAL",Hadi TV TurkCe
+http://stream.tvcdn.net/dini/hadi-tv-turkce.m3u8
+#EXTINF:-1 tvg-id="sat7Turk.cy" tvg-logo="http://assets.tvcdn.net/ca0a924f-a0ee-44a4-b590-b500ceb3e42b.png" group-title="DeaTHLesS KRAL",sat 7 Turk
+http://stream.tvcdn.net/dini/sat-7-turk.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/f0ca3918-8cbd-4607-b9d0-6a27d6f29425.png" group-title="DeaTHLesS KRAL",Kanal Hayat
+http://stream.tvcdn.net/dini/kanal-hayat.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/19146761-32ae-46ad-a0f0-2862c2f887e9.png" group-title="DeaTHLesS KRAL",ABN Turkey
+http://stream.tvcdn.net/dini/abn-turkey.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/2a887c58-7e53-416d-a7d2-d34a13045813.png" group-title="DeaTHLesS KRAL",Ask-i Neva
+http://stream.tvcdn.net/dini/ask-i-neva.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/23b391ac-5edb-4e37-8664-27da64fb0785.png" group-title="DeaTHLesS KRAL",Mukabele TV
+http://stream.tvcdn.net/dini/mukabele-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/580ec706-821b-4a03-ba0c-a12108c3e7aa.png" group-title="DeaTHLesS KRAL",ABB TV
+http://stream.tvcdn.net/kurumlar/abb-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/1012ecd1-2b9a-421f-bb59-2b4e96cb4e52.png" group-title="DeaTHLesS KRAL",Angara TV (KeCioren Belediyesi)
+http://stream.tvcdn.net/kurumlar/angara-tv-kecioren-belediyesi.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/d3d061ac-30c5-4268-9dc1-16f612f74243.png" group-title="DeaTHLesS KRAL",Besiktas Web TV
+http://stream.tvcdn.net/kurumlar/besiktas-web-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/b694fd40-7fb1-4ee7-bb9c-f143b4b54f93.jpeg" group-title="DeaTHLesS KRAL",Cekmekoy Web TV
+http://stream.tvcdn.net/kurumlar/cekmekoy-web-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/d2c0564b-1b54-4309-bcdd-431f17f66e8d.jpg" group-title="DeaTHLesS KRAL",Esenler sehir Ekrani
+http://stream.tvcdn.net/kurumlar/esenler-sehir-ekrani.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/2255cdee-75ad-4908-87f7-56c3ec9a7732.png" group-title="DeaTHLesS KRAL",iBB TV
+http://stream.tvcdn.net/kurumlar/ibb-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/dcde5345-2b03-4146-9952-06bc60ef5238.png" group-title="DeaTHLesS KRAL",ordu BB TV
+http://stream.tvcdn.net/kurumlar/ordu-bb-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/ee74d3a6-0294-45da-9b8e-54017a9812c9.png" group-title="DeaTHLesS KRAL",sariyer TV
+http://stream.tvcdn.net/kurumlar/sariyer-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/639a7d49-f927-4c75-9713-7429b5bbc9c8.png" group-title="DeaTHLesS KRAL",Yozgat Belediyesi TV
+http://stream.tvcdn.net/kurumlar/yozgat-belediyesi-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/1d64ef11-847f-4ca0-83b8-75987078d363.png" group-title="DeaTHLesS KRAL",Yusufeli Belediyesi TV
+http://stream.tvcdn.net/kurumlar/yusufeli-belediyesi-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/380c3daa-63c1-4c76-b4e2-012dbd5e6705.png" group-title="DeaTHLesS KRAL",EBs TV
+http://stream.tvcdn.net/kurumlar/ebs-tv.m3u8
+#EXTINF:-1 tvg-id="TursabTV.tr" tvg-logo="http://assets.tvcdn.net/c0eec52b-8ee8-491c-8d0d-cdb93549ef82.png" group-title="DeaTHLesS KRAL",TuRsAB TV
+http://stream.tvcdn.net/kurumlar/tursab-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/df4f5ccd-96f4-4301-980b-27499dc72ead.jpg" group-title="DeaTHLesS KRAL",uskudar universitesi TV 1
+http://stream.tvcdn.net/kurumlar/uskudar-universitesi-tv-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/0ea0f8e7-86af-4ed8-b749-7c7663071d42.jpg" group-title="DeaTHLesS KRAL",uskudar universitesi TV 2
+http://stream.tvcdn.net/kurumlar/uskudar-universitesi-tv-2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/78fb444f-0b3b-446f-bc1e-052fd1b52f8a.png" group-title="DeaTHLesS KRAL",Milli Piyango TV
+http://stream.tvcdn.net/kurumlar/milli-piyango-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/f84b8f2d-8200-4341-9c9a-7c0885450871.png" group-title="DeaTHLesS KRAL",intisad TV
+http://stream.tvcdn.net/kurumlar/intisad-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/ba0dcbdf-1582-4e3e-8877-b1b9e5d7b2cd.png" group-title="DeaTHLesS KRAL",oKKu TV
+http://stream.tvcdn.net/kurumlar/okku-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/c66ed7a4-24d2-4c23-aa1e-61e6fc26fa8e.png" group-title="DeaTHLesS KRAL",5 ocak TV
+http://stream.tvcdn.net/yerel/5-ocak-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/46440f5d-d89a-4a36-9f9c-c0bb473d8bba.png" group-title="DeaTHLesS KRAL",A 52 TV
+http://stream.tvcdn.net/yerel/a-52-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/33d410a7-764e-405d-8633-4b63dd73790e.png" group-title="DeaTHLesS KRAL",AGRT
+http://stream.tvcdn.net/yerel/agrt.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/3b96e507-5036-4b92-939a-d5b516d2ddd4.png" group-title="DeaTHLesS KRAL",Ahi TV
+http://stream.tvcdn.net/yerel/ahi-tv.m3u8
+#EXTINF:-1 tvg-id="AksuTV.tr" tvg-logo="http://assets.tvcdn.net/d81bdb8a-5ba3-4eb9-bbae-f3b323c79f60.png" group-title="DeaTHLesS KRAL",Aksu TV
+http://stream.tvcdn.net/yerel/aksu-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e1e20ac4-fc50-4c80-87a8-c85f100f5cfb.png" group-title="DeaTHLesS KRAL",Alanya Posta TV
+http://stream.tvcdn.net/yerel/alanya-posta-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/0b006053-533a-485c-9b31-f159ab832c5e.png" group-title="DeaTHLesS KRAL",Alanya TV
+http://stream.tvcdn.net/yerel/alanya-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/472809ea-d9ac-4d73-8d17-0474528384a0.png" group-title="DeaTHLesS KRAL",Anadolu Dost TV
+http://stream.tvcdn.net/yerel/anadolu-dost-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/2befe401-b51c-42f5-b750-a8e4d8b085a4.png" group-title="DeaTHLesS KRAL",Anadolu Net TV
+http://stream.tvcdn.net/yerel/anadolu-net-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/a8d92984-feab-4408-803e-014ec5829d66.png" group-title="DeaTHLesS KRAL",Anadolu TV
+http://stream.tvcdn.net/yerel/anadolu-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/f300230c-4870-4323-8a1e-df767ae280f6.png" group-title="DeaTHLesS KRAL",Aras TV
+http://stream.tvcdn.net/yerel/aras-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/0605466d-2bd1-450a-9182-8ccb12567b8b.png" group-title="DeaTHLesS KRAL",ART Amasya
+http://stream.tvcdn.net/yerel/art-amasya.m3u8
+#EXTINF:-1 tvg-id="AsTV.tr" tvg-logo="http://assets.tvcdn.net/448471a0-f688-4ac5-a279-1771f384b6de.png" group-title="DeaTHLesS KRAL",As TV
+http://stream.tvcdn.net/yerel/as-tv.m3u8
+#EXTINF:-1 tvg-id="" group-title="DeaTHLesS KRAL",Balkan Turk
+http://stream.tvcdn.net/yerel/balkan-turk.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/848da551-eb89-4032-936e-c9c6b77b8653.png" group-title="DeaTHLesS KRAL",Bartin TV
+http://stream.tvcdn.net/yerel/bartin-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/82ea9645-e22d-4968-a544-659ca6b88eb8.png" group-title="DeaTHLesS KRAL",Belem Turk TV
+http://stream.tvcdn.net/yerel/belem-turk-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/2c328b60-0d49-4bfd-b5df-a7528957ae6c.png" group-title="DeaTHLesS KRAL",Bir TV
+http://stream.tvcdn.net/yerel/bir-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/5fad5824-c64a-4cf0-9c9d-b03e6bc269c5.png" group-title="DeaTHLesS KRAL",Birlik ulusal Ajansi
+http://stream.tvcdn.net/yerel/birlik-ulusal-ajansi.m3u8
+#EXTINF:-1 tvg-id="" group-title="DeaTHLesS KRAL",Bizim ocak TV
+http://stream.tvcdn.net/yerel/bizim-ocak-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/f32e47e7-916c-40c7-a8a6-83d9e459e53a.png" group-title="DeaTHLesS KRAL",Bodrum Kent TV
+http://stream.tvcdn.net/yerel/bodrum-kent-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/5702a0f6-7b78-4645-bacf-516f63fed0b7.png" group-title="DeaTHLesS KRAL",BRTV Karabuk
+http://stream.tvcdn.net/yerel/brtv-karabuk.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/39c7429f-db66-4eb7-869d-af7c28a9aa86.png" group-title="DeaTHLesS KRAL",Bruksel Turk TV
+http://stream.tvcdn.net/yerel/bruksel-turk-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/7c0f5047-0f57-4281-a76e-f794e83b1824.jpeg" group-title="DeaTHLesS KRAL",Bul Turk TV
+http://stream.tvcdn.net/yerel/bul-turk-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/57a6028b-7ad4-467f-85a8-48dbef52116b.png" group-title="DeaTHLesS KRAL",Cankiri TV
+http://stream.tvcdn.net/yerel/cankiri-tv.m3u8
+#EXTINF:-1 tvg-id="CayTV.tr" tvg-logo="http://assets.tvcdn.net/0539d847-8740-42dc-be86-8e1fe7bc5aa2.png" group-title="DeaTHLesS KRAL",Cay TV
+http://stream.tvcdn.net/yerel/cay-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/7dcf6e33-022d-4b8b-bb71-6a6d31a43c54.png" group-title="DeaTHLesS KRAL",Deha TV
+http://stream.tvcdn.net/yerel/deha-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/29c01584-57d8-440c-a7af-dbea29d19c35.png" group-title="DeaTHLesS KRAL",Derin TV Karabuk
+http://stream.tvcdn.net/yerel/derin-tv-karabuk.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/6ee40646-97e2-41cb-8e8d-d6b422b2954b.jpg" group-title="DeaTHLesS KRAL",Develi Ca�ri TV
+http://stream.tvcdn.net/yerel/develi-cagri-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/ce326dc3-6050-4712-a4cd-d056e835b1c7.png" group-title="DeaTHLesS KRAL",Dim TV
+http://stream.tvcdn.net/yerel/dim-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/88553157-968b-4284-b82b-f86773c3ef2e.png" group-title="DeaTHLesS KRAL",Duzce TV
+http://stream.tvcdn.net/yerel/duzce-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/498a97e1-d327-4478-b243-62c3b20209f6.png" group-title="DeaTHLesS KRAL",Edirne TV
+http://stream.tvcdn.net/yerel/edirne-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/340b9448-0386-40be-becf-378a308c361e.jpg" group-title="DeaTHLesS KRAL",Efes Dost TV
+http://stream.tvcdn.net/yerel/efes-dost-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/3203c05c-4224-42be-9507-f274ef26a3a3.png" group-title="DeaTHLesS KRAL",Ege Live TV
+http://stream.tvcdn.net/yerel/ege-live-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/647d5a6c-242e-4431-a8b2-9b8ff27c01ae.png" group-title="DeaTHLesS KRAL",Ekol TV
+http://stream.tvcdn.net/yerel/ekol-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/36a4345c-047d-4228-b243-9104456bd2e4.png" group-title="DeaTHLesS KRAL",Elmas TV
+http://stream.tvcdn.net/yerel/elmas-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/0611b1aa-aa79-4dcb-ad05-7166dde05c94.png" group-title="DeaTHLesS KRAL",Ercis TV
+http://stream.tvcdn.net/yerel/ercis-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/8cbd6897-e2bd-479d-adbc-dca66071adea.PNG" group-title="DeaTHLesS KRAL",Erciyes TV
+http://stream.tvcdn.net/yerel/erciyes-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/0796ea62-8920-4048-8fea-13f0e029b4a7.png" group-title="DeaTHLesS KRAL",ER TV Malatya
+http://stream.tvcdn.net/yerel/er-tv-malatya.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/1dfac191-0690-45a8-8696-ae9117cb3cb4.png" group-title="DeaTHLesS KRAL",ERT Erbaa
+http://stream.tvcdn.net/yerel/ert-erbaa.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/aa47edbe-2f8d-4db2-ba25-cdbe46d6fef8.png" group-title="DeaTHLesS KRAL",Erzurum Web TV
+http://stream.tvcdn.net/yerel/erzurum-web-tv.m3u8
+#EXTINF:-1 tvg-id="EsTV.tr" tvg-logo="http://assets.tvcdn.net/b72fcc30-33ee-4b0f-a941-74a2c3502fb9.png" group-title="DeaTHLesS KRAL",Es TV
+http://stream.tvcdn.net/yerel/es-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/537bd1f7-01d3-4afc-93ea-819a4ee26393.png" group-title="DeaTHLesS KRAL",ETV Kayseri
+http://stream.tvcdn.net/yerel/etv-kayseri.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/215cb110-1ffa-4f64-923f-b3969e482ced.png" group-title="DeaTHLesS KRAL",ETV Manisa
+http://stream.tvcdn.net/yerel/etv-manisa.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/fdd32b72-e1c5-4d16-8530-d6705a2d57b8.png" group-title="DeaTHLesS KRAL",FRT Fethiye
+http://stream.tvcdn.net/yerel/frt-fethiye.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/9b067b0d-7ada-4315-bcbe-8699a396b27d.png" group-title="DeaTHLesS KRAL",Gokkusa�i TV
+http://stream.tvcdn.net/yerel/gokkusagi-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/500bc153-53d1-4b1c-ba42-cfba58855946.png" group-title="DeaTHLesS KRAL",Gozde TV
+http://stream.tvcdn.net/yerel/gozde-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/8364e951-2aa7-4e58-9579-69eac7d56cd2.png" group-title="DeaTHLesS KRAL",GRT Gaziantep
+http://stream.tvcdn.net/yerel/grt-gaziantep.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/b5e4826b-9330-49ed-b3b3-2bc653497c77.png" group-title="DeaTHLesS KRAL",GTV Guneydo�u
+http://stream.tvcdn.net/yerel/gtv-guneydogu.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/b7ecbf31-2fc5-48db-bc59-2fb920c731be.png" group-title="DeaTHLesS KRAL",Gurbet 24 TV
+http://stream.tvcdn.net/yerel/gurbet-24-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/7c1fdf17-691a-49f7-8f0c-3728446eaea9.png" group-title="DeaTHLesS KRAL",Guney TV
+http://stream.tvcdn.net/yerel/guney-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/d1369b16-75de-49dd-893f-8a197d7b1130.png" group-title="DeaTHLesS KRAL",ulusal 61 TV
+http://stream.tvcdn.net/yerel/ulusal-61-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/3ab34df2-5bd2-48ce-a0ad-e1bb1eb7d02e.png" group-title="DeaTHLesS KRAL",HRT Akdeniz
+http://stream.tvcdn.net/yerel/hrt-akdeniz.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/107b5f4f-3336-4d15-8dba-1a4529e40301.webp" group-title="DeaTHLesS KRAL",Hunat TV
+http://stream.tvcdn.net/yerel/hunat-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/ac49e4a5-d9c2-435d-a1f2-9e9eb06f86b6.png" group-title="DeaTHLesS KRAL",Hur Turk TV
+http://stream.tvcdn.net/yerel/hur-turk-tv.m3u8
+#EXTINF:-1 tvg-id="" group-title="DeaTHLesS KRAL",Hur TV
+http://stream.tvcdn.net/yerel/hur-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/7213d1c6-5110-4d15-908a-ae917d76418a.jpg" group-title="DeaTHLesS KRAL",iCel TV
+http://stream.tvcdn.net/yerel/icel-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/bb28dc1a-2368-4482-ab3a-020bb953fae9.png" group-title="DeaTHLesS KRAL",ilke TV
+http://stream.tvcdn.net/yerel/ilke-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/557c3d07-ac1f-49ec-95ab-8171f782580f.png" group-title="DeaTHLesS KRAL",izmir Time 35
+http://stream.tvcdn.net/yerel/izmir-time-35.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/19285013-5be8-4ab9-ac8d-416069631556.png" group-title="DeaTHLesS KRAL",izmir Turk TV
+http://stream.tvcdn.net/yerel/izmir-turk-tv.m3u8
+#EXTINF:-1 tvg-id="KadirgaTV.tr" tvg-logo="http://assets.tvcdn.net/95c8dd60-0b13-4561-8c10-be311756b016.png" group-title="DeaTHLesS KRAL",Kadirga TV
+http://stream.tvcdn.net/yerel/kadirga-tv.m3u8
+#EXTINF:-1 tvg-id="Kanal3.tr" tvg-logo="http://assets.tvcdn.net/56083fc6-468c-4fdd-bb0c-5fbc65316124.png" group-title="DeaTHLesS KRAL",Kanal 3
+http://stream.tvcdn.net/yerel/kanal-3.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/ea2ab414-c071-4c1d-a792-3fbc582e81a8.png" group-title="DeaTHLesS KRAL",Kanal 5
+http://stream.tvcdn.net/yerel/kanal-5.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/906cf95e-e70e-4fb2-b03c-fee6f0d292ad.png" group-title="DeaTHLesS KRAL",Kanal 15
+http://stream.tvcdn.net/yerel/kanal-15.m3u8
+#EXTINF:-1 tvg-id="Kanal23.tr" tvg-logo="http://assets.tvcdn.net/4ef4336c-ddd3-4de6-acda-9ce6f474902a.png" group-title="DeaTHLesS KRAL",Kanal 23
+http://stream.tvcdn.net/yerel/kanal-23.m3u8
+#EXTINF:-1 tvg-id="Kanal26.tr" tvg-logo="http://assets.tvcdn.net/fc74dba3-be84-48bd-a1fc-06a06e7037cc.png" group-title="DeaTHLesS KRAL",Kanal 26
+http://stream.tvcdn.net/yerel/kanal-26.m3u8
+#EXTINF:-1 tvg-id="Kanal28.tr" tvg-logo="http://assets.tvcdn.net/5b89a44c-768f-4723-b534-fc995cf8f1a6.png" group-title="DeaTHLesS KRAL",Kanal 28
+http://stream.tvcdn.net/yerel/kanal-28.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/8f937d9e-b63c-4110-b734-fc6cfc11a6e8.png" group-title="DeaTHLesS KRAL",Kanal 32
+http://stream.tvcdn.net/yerel/kanal-32.m3u8
+#EXTINF:-1 tvg-id="Kanal33.tr" tvg-logo="http://assets.tvcdn.net/3045a8ca-99c6-45ac-835f-44e99e3f0e6b.png" group-title="DeaTHLesS KRAL",Kanal 33
+http://stream.tvcdn.net/yerel/kanal-33.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/dd542b6c-6472-4661-90af-016c86db6aca.png" group-title="DeaTHLesS KRAL",Kanal 34
+http://stream.tvcdn.net/yerel/kanal-34.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/10f62bce-0a0b-4caa-aa69-8d44a037d731.png" group-title="DeaTHLesS KRAL",Kanal 38
+http://stream.tvcdn.net/yerel/kanal-38.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/9eb1d0e2-2e57-468d-ae02-c208d98d55d9.png" group-title="DeaTHLesS KRAL",Kanal 53
+http://stream.tvcdn.net/yerel/kanal-53.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/ce06f021-06c2-4512-b476-dd14a68171ab.png" group-title="DeaTHLesS KRAL",Kanal 56
+http://stream.tvcdn.net/yerel/kanal-56.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/61ca9d01-b1cc-4163-8ceb-4e51ad1d4f70.png" group-title="DeaTHLesS KRAL",Kanal 58
+http://stream.tvcdn.net/yerel/kanal-58.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/157dc591-f4ab-4694-9dfc-d18e5eb7e2bb.png" group-title="DeaTHLesS KRAL",Kanal 60
+http://stream.tvcdn.net/yerel/kanal-60.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/4dbccb66-328c-41b2-ae3e-ad3b3475dc49.png" group-title="DeaTHLesS KRAL",Kanal 68
+http://stream.tvcdn.net/yerel/kanal-68.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/5cbdd199-9ed1-4f2d-a106-a6d9c53227c4.png" group-title="DeaTHLesS KRAL",Kanal Ada
+http://stream.tvcdn.net/yerel/kanal-ada.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/60c8ebf4-c5f6-4cb8-bab7-aae682e074dc.png" group-title="DeaTHLesS KRAL",Kanal Avrupa
+http://stream.tvcdn.net/yerel/kanal-avrupa.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/9753aeed-7056-4bc7-9216-661bf6844702.png" group-title="DeaTHLesS KRAL",Kanal Ege
+http://stream.tvcdn.net/yerel/kanal-ege.m3u8
+#EXTINF:-1 tvg-id="KanalFirat.tr" tvg-logo="http://assets.tvcdn.net/f00f1472-e8e7-4f30-b9e3-fb4376a43aac.png" group-title="DeaTHLesS KRAL",Kanal Firat
+http://stream.tvcdn.net/yerel/kanal-firat.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/904d01fa-01cb-4f2d-9b8e-784061c29d00.png" group-title="DeaTHLesS KRAL",Kanal G
+http://stream.tvcdn.net/yerel/kanal-g.m3u8
+#EXTINF:-1 tvg-id="Kanals.tr" tvg-logo="http://assets.tvcdn.net/1d2b5e56-806f-43b7-b303-d5d96ebe257c.png" group-title="DeaTHLesS KRAL",Kanal s
+http://stream.tvcdn.net/yerel/kanal-s.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/8ef995b2-0b34-4541-b396-bfe826d4f271.png" group-title="DeaTHLesS KRAL",Kanal urfa
+http://stream.tvcdn.net/yerel/kanal-urfa.m3u8
+#EXTINF:-1 tvg-id="KanalV.tr" tvg-logo="http://assets.tvcdn.net/0c455b18-ce0f-435f-be77-4416d112918e.png" group-title="DeaTHLesS KRAL",Kanal V
+http://stream.tvcdn.net/yerel/kanal-v.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/3d865e9c-e84e-4746-8b87-0ba91eb3af4e.png" group-title="DeaTHLesS KRAL",Kanal Z
+http://stream.tvcdn.net/yerel/kanal-z.m3u8
+#EXTINF:-1 tvg-id="KardelenTV.tr" tvg-logo="http://assets.tvcdn.net/8e755f51-988a-4f41-aae3-9acbccee8c7d.png" group-title="DeaTHLesS KRAL",Kardelen TV
+http://stream.tvcdn.net/yerel/kardelen-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e1691c16-f79f-415b-9c7e-6a27a6b5763c.png" group-title="DeaTHLesS KRAL",Kastamonu TV
+http://stream.tvcdn.net/yerel/kastamonu-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/c9bb4b89-2609-45ca-9f3b-01c66084a559.png" group-title="DeaTHLesS KRAL",Kay TV
+http://stream.tvcdn.net/yerel/kay-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/b80ee8ad-5cd5-4a12-885d-0def48c0ebfb.png" group-title="DeaTHLesS KRAL",Kent Turk
+http://stream.tvcdn.net/yerel/kent-turk.m3u8
+#EXTINF:-1 tvg-id="KocaeliTV.tr" tvg-logo="http://assets.tvcdn.net/af084b20-c036-4884-91ff-3ca3accec3ab.png" group-title="DeaTHLesS KRAL",Kocaeli TV
+http://stream.tvcdn.net/yerel/kocaeli-tv.m3u8
+#EXTINF:-1 tvg-id="KonTV.tr" tvg-logo="http://assets.tvcdn.net/59e2f69f-f34d-419e-bbbc-0e5ac81889ab.png" group-title="DeaTHLesS KRAL",Kon TV
+http://stream.tvcdn.net/yerel/kon-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/fda805fb-82ec-493a-9d92-6b7cc6eaeb48.jpg" group-title="DeaTHLesS KRAL",Konya olay TV
+http://stream.tvcdn.net/yerel/konya-olay-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/0d4a4a3d-8385-4d6a-8447-a440af2d8364.jpg" group-title="DeaTHLesS KRAL",Konya un TV
+http://stream.tvcdn.net/yerel/konya-un-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/f88b7dbb-f8c6-4f97-b790-8863504802c4.png" group-title="DeaTHLesS KRAL",Kuzey TV
+http://stream.tvcdn.net/yerel/kuzey-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/9a5fc361-21cb-40f8-afa9-bf3ca70a5caf.png" group-title="DeaTHLesS KRAL",Life TV Kayseri
+http://stream.tvcdn.net/yerel/life-tv-kayseri.m3u8
+#EXTINF:-1 tvg-id="LineTV.tr" tvg-logo="http://assets.tvcdn.net/bf3f550c-2235-4bb1-a842-6d0a38df0a90.png" group-title="DeaTHLesS KRAL",Line TV Bursa
+http://stream.tvcdn.net/yerel/line-tv-bursa.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/6c8deaff-d8cb-478d-82df-8335dd66ddf8.png" group-title="DeaTHLesS KRAL",Malatya Vuslat TV
+http://stream.tvcdn.net/yerel/malatya-vuslat-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/33a233f4-6fde-4dd4-bc5b-b99d33b3346d.png" group-title="DeaTHLesS KRAL",Marmara TV
+http://stream.tvcdn.net/yerel/marmara-tv.m3u8
+#EXTINF:-1 tvg-id="MaviKaradenizTV.tr" tvg-logo="http://assets.tvcdn.net/5175fea1-0cc0-485d-9b66-01fe886b0f64.png" group-title="DeaTHLesS KRAL",Mavi Karadeniz
+http://stream.tvcdn.net/yerel/mavi-karadeniz.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/acbd241d-4a57-47b0-997c-d82e6f869e98.png" group-title="DeaTHLesS KRAL",Mercan TV
+http://stream.tvcdn.net/yerel/mercan-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/f704dc84-6442-47d5-ab97-c244c0a25cc0.png" group-title="DeaTHLesS KRAL",Merkez TV Mu�la
+http://stream.tvcdn.net/yerel/merkez-tv-mugla.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/4201374b-528e-4f2b-b4ee-5b13091766b6.png" group-title="DeaTHLesS KRAL",Metropol TV
+http://stream.tvcdn.net/yerel/metropol-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/47deb27a-c05d-42b1-9622-4cfed00f6f9b.png" group-title="DeaTHLesS KRAL",Mu�la Turk TV
+http://stream.tvcdn.net/yerel/mugla-turk-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/ac1b532c-7bfc-446e-a82c-b8742e7b87f2.jpeg" group-title="DeaTHLesS KRAL",NE ulusal 24
+http://stream.tvcdn.net/yerel/ne-ulusal-24.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/afe78c1d-bead-4f39-84a9-3474996840ba.png" group-title="DeaTHLesS KRAL",Nil RTV
+http://stream.tvcdn.net/yerel/nil-rtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/44997a5b-348d-4116-8be6-107b6535f905.png" group-title="DeaTHLesS KRAL",Nora TV
+http://stream.tvcdn.net/yerel/nora-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/09fcf4bc-3d12-41eb-a416-68aa6bd74599.png" group-title="DeaTHLesS KRAL",ogun TV
+http://stream.tvcdn.net/yerel/ogun-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/50ce8374-a8fe-477a-8bb0-d9001967148a.png" group-title="DeaTHLesS KRAL",olay Turk
+http://stream.tvcdn.net/yerel/olay-turk.m3u8
+#EXTINF:-1 tvg-id="on6.tr" tvg-logo="http://assets.tvcdn.net/2472316c-0f07-4277-9955-fd81d49e8b9b.png" group-title="DeaTHLesS KRAL",on6
+http://stream.tvcdn.net/yerel/on6.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e1fd5c94-16c7-4e29-a02c-a07378f2edb2.png" group-title="DeaTHLesS KRAL",Pazarcik TV
+http://stream.tvcdn.net/yerel/pazarcik-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/3ffb891c-b700-4d7a-8c47-b9aaa732caa5.jpeg" group-title="DeaTHLesS KRAL",Rize Turk
+http://stream.tvcdn.net/yerel/rize-turk.m3u8
+#EXTINF:-1 tvg-id="RumeliTV.tr" tvg-logo="http://assets.tvcdn.net/42d14653-3a07-4663-bbcc-03b286ca76b7.png" group-title="DeaTHLesS KRAL",Rumeli TV
+http://stream.tvcdn.net/yerel/rumeli-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/1891a8de-1262-4cb4-994b-7bbf00575c0e.png" group-title="DeaTHLesS KRAL",sinop Yildiz TV
+http://stream.tvcdn.net/yerel/sinop-yildiz-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/10066a0e-6a6c-460f-a8aa-18dd3605268a.png" group-title="DeaTHLesS KRAL",sun RTV
+http://stream.tvcdn.net/yerel/sun-rtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/bdc5ba66-e446-4a25-8e5c-e7a7f306abca.png" group-title="DeaTHLesS KRAL",super Kanal
+http://stream.tvcdn.net/yerel/super-kanal.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/3d6fdb74-0ee8-4110-af0a-24d461926780.jpg" group-title="DeaTHLesS KRAL",Tas TV
+http://stream.tvcdn.net/yerel/tas-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/25ef5555-706d-45bc-8cf3-e2606b12d9a9.png" group-title="DeaTHLesS KRAL",Tek Rumeli TV
+http://stream.tvcdn.net/yerel/tek-rumeli-tv.m3u8
+#EXTINF:-1 tvg-id="Tivi6.tr" tvg-logo="http://assets.tvcdn.net/9c64876c-5e36-402c-86eb-e3b179072d21.png" group-title="DeaTHLesS KRAL",Tivi6
+http://stream.tvcdn.net/yerel/tivi6.m3u8
+#EXTINF:-1 tvg-id="TrakyaTurkTV.tr" tvg-logo="http://assets.tvcdn.net/2cab54cd-868f-478a-8c5b-4fb0c4f4fa4c.png" group-title="DeaTHLesS KRAL",Trakya Turk TV
+http://stream.tvcdn.net/yerel/trakya-turk-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/fed5c4b0-7c09-4199-9baf-6334206d424f.png" group-title="DeaTHLesS KRAL",TR ses TV
+http://stream.tvcdn.net/yerel/tr-ses-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/783364fa-298e-4a56-a602-ba34f50392e6.png" group-title="DeaTHLesS KRAL",Ton TV Canakkale
+http://stream.tvcdn.net/yerel/ton-tv-canakkale.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/c54b76b9-1c52-44e1-86b3-86aa44dc6468.png" group-title="DeaTHLesS KRAL",Tokat Web TV
+http://stream.tvcdn.net/yerel/tokat-web-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/27885d5b-6c49-4257-bd09-f20f63489090.png" group-title="DeaTHLesS KRAL",Turhal super TV
+http://stream.tvcdn.net/yerel/turhal-super-tv.m3u8
+#EXTINF:-1 tvg-id="TurkulusalTV.tr" tvg-logo="http://assets.tvcdn.net/7b8dbf43-064f-4458-9c93-71089eaf493b.png" group-title="DeaTHLesS KRAL",Turk ulusal
+http://stream.tvcdn.net/yerel/turk-ulusal.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/81f002fb-a59f-480e-9aa0-91b096ab491e.png" group-title="DeaTHLesS KRAL",TV 25
+http://stream.tvcdn.net/yerel/tv-25.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/d7296b88-706a-423b-85a1-54c09d9197eb.png" group-title="DeaTHLesS KRAL",TV 264
+http://stream.tvcdn.net/yerel/tv-264.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/21c47acc-3f31-454c-89b9-abf622b80404.png" group-title="DeaTHLesS KRAL",TV 38
+http://stream.tvcdn.net/yerel/tv-38.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/de6c8885-b1ca-41d8-8e96-67e32cc7a881.png" group-title="DeaTHLesS KRAL",TV 41
+http://stream.tvcdn.net/yerel/tv-41.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/da621b46-9ced-4d17-90ff-90c116ab0018.png" group-title="DeaTHLesS KRAL",TV 48
+http://stream.tvcdn.net/yerel/tv-48.m3u8
+#EXTINF:-1 tvg-id="TV52.tr" tvg-logo="http://assets.tvcdn.net/1c27dd5e-0bd9-4928-8b1e-20c5da6118c3.png" group-title="DeaTHLesS KRAL",TV 52
+http://stream.tvcdn.net/yerel/tv-52.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/0d3de4c3-5086-4917-9b25-969292858a8e.png" group-title="DeaTHLesS KRAL",TV A
+http://stream.tvcdn.net/yerel/tv-a.m3u8
+#EXTINF:-1 tvg-id="TVDen.tr" tvg-logo="http://assets.tvcdn.net/d2435c44-27b1-4673-a846-8eb815c332d1.png" group-title="DeaTHLesS KRAL",TV DEN
+http://stream.tvcdn.net/yerel/tv-den.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/b9fd9a9a-849c-4d83-8f99-34402e15c52a.png" group-title="DeaTHLesS KRAL",TV Kayseri
+http://stream.tvcdn.net/yerel/tv-kayseri.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/78f2cadd-f396-4242-ae19-fd24a6d47e1b.png" group-title="DeaTHLesS KRAL",TV sen 1 ordusun
+http://stream.tvcdn.net/yerel/tv-sen-1-ordusun.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/232aa8e5-a3c8-49b3-b54d-2a4a21ef04d1.png" group-title="DeaTHLesS KRAL",urfanatik TV
+http://stream.tvcdn.net/yerel/urfanatik-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/0fe5c0ed-a08b-4694-9463-4930505c654c.png" group-title="DeaTHLesS KRAL",urfa ulusal TV
+http://stream.tvcdn.net/yerel/urfa-ulusal-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/5dbf43d2-4de3-4de5-bbd9-860243f56b5e.png" group-title="DeaTHLesS KRAL",Van TV
+http://stream.tvcdn.net/yerel/van-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/563b6c56-aa50-4c1b-a202-8024c43d5ed1.png" group-title="DeaTHLesS KRAL",Vangolu TV
+http://stream.tvcdn.net/yerel/vangolu-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/91735481-57ae-4f0e-b03a-6a5734ac447f.png" group-title="DeaTHLesS KRAL",VTV Turk
+http://stream.tvcdn.net/yerel/vtv-turk.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/bb19d4f4-1846-451d-ab79-7343e0944590.png" group-title="DeaTHLesS KRAL",World Turk
+http://stream.tvcdn.net/yerel/world-turk.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/07ad58c8-f914-4aba-9ecb-3cdbca94961d.png" group-title="DeaTHLesS KRAL",Yarimada TV
+http://stream.tvcdn.net/yerel/yarimada-tv.m3u8
+#EXTINF:-1 tvg-id="BRT1.cy" tvg-logo="http://assets.tvcdn.net/6fe98a89-47d1-47ff-9c9f-818a5bd5059c.png" group-title="DeaTHLesS KRAL",BRT 1
+http://stream.tvcdn.net/kibris/brt-1.m3u8
+#EXTINF:-1 tvg-id="BRT2.cy" tvg-logo="http://assets.tvcdn.net/84f563c9-83e5-4b75-ac6f-4fdc2b9596b2.png" group-title="DeaTHLesS KRAL",BRT 2
+http://stream.tvcdn.net/kibris/brt-2.m3u8
+#EXTINF:-1 tvg-id="AdaTV.cy" tvg-logo="http://assets.tvcdn.net/82d236a1-6b78-4929-90dd-489edd6c4240.png" group-title="DeaTHLesS KRAL",Kibris Ada TV
+http://stream.tvcdn.net/kibris/kibris-ada-tv.m3u8
+#EXTINF:-1 tvg-id="Kanalsim.cy" tvg-logo="http://assets.tvcdn.net/ad763e2a-457e-41ee-9c1e-ed498aefbb88.png" group-title="DeaTHLesS KRAL",Kanal sim
+http://stream.tvcdn.net/kibris/kanal-sim.m3u8
+#EXTINF:-1 tvg-id="KibrisGencTV.cy" tvg-logo="http://assets.tvcdn.net/1be58505-bf6a-43cc-a15b-aa01b31f4824.png" group-title="DeaTHLesS KRAL",Kibris GenC TV
+http://stream.tvcdn.net/kibris/kibris-genc-tv.m3u8
+#EXTINF:-1 tvg-id="KibrisKanalT.cy" tvg-logo="http://assets.tvcdn.net/5277f06b-9eb9-4678-b377-48cb69417e83.png" group-title="DeaTHLesS KRAL",Kibris Kanal T
+http://stream.tvcdn.net/kibris/kibris-kanal-t.m3u8
+#EXTINF:-1 tvg-id="KibrisTV.cy" tvg-logo="http://assets.tvcdn.net/fd232c5f-8831-4109-ac8e-bbf773919349.png" group-title="DeaTHLesS KRAL",Kibris TV
+http://stream.tvcdn.net/kibris/kibris-tv.m3u8
+#EXTINF:-1 tvg-id="TV2020.cy" tvg-logo="http://assets.tvcdn.net/59f65c5e-2660-46b3-b41f-f1fdc4fc4ad4.png" group-title="DeaTHLesS KRAL",TV 2020
+http://stream.tvcdn.net/kibris/tv-2020.m3u8
+#EXTINF:-1 tvg-id="TVGunes.cy" tvg-logo="http://assets.tvcdn.net/93582e6d-bc23-4ba9-8270-4b2d51cca77b.png" group-title="DeaTHLesS KRAL",Gunes TV
+http://stream.tvcdn.net/kibris/gunes-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/cc1364ce-becb-43de-be34-216ef55f8fea.png" group-title="DeaTHLesS KRAL",Kuzey Kibris TV
+http://stream.tvcdn.net/kibris/kuzey-kibris-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/c8b09a02-18e2-4952-8ba3-5a5f8b2c5f2e.png" group-title="DeaTHLesS KRAL",Cennet Mahallesi
+http://stream.tvcdn.net/dizi-youtube/cennet-mahallesi.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/842192cc-760c-41d6-ba34-78cf50bb6d14.png" group-title="DeaTHLesS KRAL",Behzat C.
+http://stream.tvcdn.net/dizi-youtube/behzat-c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/7f29a6f5-5ae4-4bcb-a9d6-26a11b781dd9.png" group-title="DeaTHLesS KRAL",Guldur Guldur
+http://stream.tvcdn.net/dizi-youtube/guldur-guldur.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/3ea14170-18a5-4953-9601-dacfdaf70a13.png" group-title="DeaTHLesS KRAL",Emret Komutanim
+http://stream.tvcdn.net/dizi-youtube/emret-komutanim.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/c9893fec-8914-49a5-9b85-e17a5ac9cbc9.png" group-title="DeaTHLesS KRAL",Kiralik Ask
+http://stream.tvcdn.net/dizi-youtube/kiralik-ask.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/8ae6bd1c-9cb4-4ecf-921e-1e42a1e9f623.png" group-title="DeaTHLesS KRAL",Kizilcik serbeti
+http://stream.tvcdn.net/dizi-youtube/kizilcik-serbeti.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/157fe298-94c4-4ed4-b679-e3ecbd1ba845.png" group-title="DeaTHLesS KRAL",Avlu
+http://stream.tvcdn.net/dizi-youtube/avlu.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/af6fb332-4553-495c-9f50-323681f9940b.png" group-title="DeaTHLesS KRAL",Dila Hanim
+http://stream.tvcdn.net/dizi-youtube/dila-hanim.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/3ab5538f-f870-4e6f-b8c5-4cb9cfd57e61.png" group-title="DeaTHLesS KRAL",Kurt seyit ve sura
+http://stream.tvcdn.net/dizi-youtube/kurt-seyit-ve-sura.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/8bcaa15a-cde7-4f7d-a5c2-a681caa664b8.png" group-title="DeaTHLesS KRAL",Ariza
+http://stream.tvcdn.net/dizi-youtube/ariza.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/a8b27d2d-5937-4f30-84a4-0062ad73c473.jpg" group-title="DeaTHLesS KRAL",Fazilet Hanim ve Kizlari
+http://stream.tvcdn.net/dizi-youtube/fazilet-hanim-ve-kizlari.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/cf695d77-9ea2-44f2-8508-c4c2ce9117f9.jpg" group-title="DeaTHLesS KRAL",GoC Zamani
+http://stream.tvcdn.net/dizi-youtube/goc-zamani.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/309fcce8-bac0-445b-8bf9-73bc427827fc.jpeg" group-title="DeaTHLesS KRAL",Hanim Koylu
+http://stream.tvcdn.net/dizi-youtube/hanim-koylu.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/7f69aa54-6bc1-403c-88e2-455ccb3e3662.jpeg" group-title="DeaTHLesS KRAL",Hayat Bazen Tatlidir
+http://stream.tvcdn.net/dizi-youtube/hayat-bazen-tatlidir.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/3d0ed3af-6d73-41ba-bdf9-8c2a23dd64ee.jpg" group-title="DeaTHLesS KRAL",Kalbimin sultani
+http://stream.tvcdn.net/dizi-youtube/kalbimin-sultani.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/005904e3-22a9-472b-b39e-d183b8e56e8f.png" group-title="DeaTHLesS KRAL",Kuzey Yildizi: ilk Ask
+http://stream.tvcdn.net/dizi-youtube/kuzey-yildizi-ilk-ask.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/bebad468-4a36-4543-9c9e-32d915390d3f.jpeg" group-title="DeaTHLesS KRAL",sihirli Annem
+http://stream.tvcdn.net/dizi-youtube/sihirli-annem.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/ce570c18-78f1-4844-a650-f38a59e36d42.png" group-title="DeaTHLesS KRAL",Yeni Gelin
+http://stream.tvcdn.net/dizi-youtube/yeni-gelin.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/c22b5e28-b221-4aa2-b5d6-c590f3d0f57c.jpeg" group-title="DeaTHLesS KRAL",Zemheri
+http://stream.tvcdn.net/dizi-youtube/zemheri.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/2931c3f7-f069-49ee-ab5d-ffd6a4a8fad7.jpg" group-title="DeaTHLesS KRAL",Zalim istanbul
+http://stream.tvcdn.net/dizi-youtube/zalim-istanbul.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/0b243603-d4a4-4318-bf26-e0e9d89e91cb.jpg" group-title="DeaTHLesS KRAL",siyah Beyaz Ask
+http://stream.tvcdn.net/dizi-youtube/siyah-beyaz-ask.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/66321b58-16e7-444e-a56a-422e8c6878a7.jpg" group-title="DeaTHLesS KRAL",Tatli intikam
+http://stream.tvcdn.net/dizi-youtube/tatli-intikam.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/be60bef3-a276-4975-9e49-dcf3bcb8cf17.jpg" group-title="DeaTHLesS KRAL",Akademik Bakis
+http://stream.tvcdn.net/diger/akademik-bakis.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/a9be367d-4c38-47eb-a8ea-ddf55598c208.png" group-title="DeaTHLesS KRAL",Ajans Express
+http://stream.tvcdn.net/diger/ajans-express.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/0e2d6141-3d4e-441e-af18-812b0fc1dc8c.png" group-title="DeaTHLesS KRAL",AVM TV
+http://stream.tvcdn.net/diger/avm-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/48f27124-9154-491f-bfdf-ccfff0bdd5fc.jpg" group-title="DeaTHLesS KRAL",Birgun TV
+http://stream.tvcdn.net/diger/birgun-tv.m3u8
+#EXTINF:-1 tvg-id="CanTV.tr" tvg-logo="http://assets.tvcdn.net/f648574b-3fcd-4e1e-b1ea-22c65e4906a9.png" group-title="DeaTHLesS KRAL",Can TV
+http://stream.tvcdn.net/diger/can-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/2a12835f-37b9-438b-9167-f588a759bf7e.png" group-title="DeaTHLesS KRAL",CLC Medya TV
+http://stream.tvcdn.net/diger/clc-medya-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/46eba33a-e14c-44f0-8423-a05cfe0f695b.png" group-title="DeaTHLesS KRAL",Duzgun TV
+http://stream.tvcdn.net/diger/duzgun-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/aee18023-d4a7-4a75-88d2-0fba2357bede.png" group-title="DeaTHLesS KRAL",Ekin Turk TV
+http://stream.tvcdn.net/diger/ekin-turk-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/5cb9e931-5fbc-4d24-aedb-b7465226515f.jpg" group-title="DeaTHLesS KRAL",Euro 34 TV
+http://stream.tvcdn.net/diger/euro-34-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/424a3ef8-fa7b-489a-8057-27af0f0e2d01.jpg" group-title="DeaTHLesS KRAL",Eva TV
+http://stream.tvcdn.net/diger/eva-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/a2000f30-bb7a-47da-8209-5598d85b0265.png" group-title="DeaTHLesS KRAL",Fortuna TV
+http://stream.tvcdn.net/diger/fortuna-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/2fe84a35-3bb8-4c92-832d-bd0dafdfba1b.jpeg" group-title="DeaTHLesS KRAL",Gurme TV
+http://stream.tvcdn.net/diger/gurme-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/6b43b504-cad3-47ad-8206-39a9f54f420a.png" group-title="DeaTHLesS KRAL",HP TV
+http://stream.tvcdn.net/diger/hp-tv.m3u8
+#EXTINF:-1 tvg-id="KanalB.tr" tvg-logo="http://assets.tvcdn.net/855d4cc7-027f-4c11-9e06-2471764dfc30.png" group-title="DeaTHLesS KRAL",Kanal B
+http://stream.tvcdn.net/diger/kanal-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/df871497-2f43-48ea-9635-8e1a18f7dda9.png" group-title="DeaTHLesS KRAL",Lebih TV
+http://stream.tvcdn.net/diger/lebih-tv.m3u8
+#EXTINF:-1 tvg-id="Liderulusal.tr" tvg-logo="http://assets.tvcdn.net/0e7781ec-13ea-4dc4-963c-fa1925b5d965.png" group-title="DeaTHLesS KRAL",Lider ulusal
+http://stream.tvcdn.net/diger/lider-ulusal.m3u8
+#EXTINF:-1 tvg-id="LuysTV.tr" tvg-logo="http://assets.tvcdn.net/e876bf88-411c-4a9c-ad29-e449e651f7ae.png" group-title="DeaTHLesS KRAL",Luys TV
+http://stream.tvcdn.net/diger/luys-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/761a811e-7a9f-4861-ab73-f5b9ea792d5d.png" group-title="DeaTHLesS KRAL",Moda Magazin TV
+http://stream.tvcdn.net/diger/moda-magazin-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/0c93ed36-4504-4cad-83b5-8a32a7d76256.png" group-title="DeaTHLesS KRAL",sDM TV
+http://stream.tvcdn.net/diger/sdm-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/ce391a09-3e27-4782-a2d3-1fa7fed0974e.png" group-title="DeaTHLesS KRAL",TV Mor
+http://stream.tvcdn.net/diger/tv-mor.m3u8
+#EXTINF:-1 tvg-id="TurkmeneliTV.iq" tvg-logo="http://assets.tvcdn.net/aaa2df8e-7690-490c-a31e-71619d93e803.png" group-title="DeaTHLesS KRAL",Turkmeneli TV
+http://stream.tvcdn.net/diger/turkmeneli-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/d1f14d94-0c2a-4c89-8364-a04f9a382a17.jpg" group-title="DeaTHLesS KRAL",uluslararasi TV
+http://stream.tvcdn.net/diger/uluslararasi-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/a54a02d6-094c-4923-91d9-9c21c7503aa1.png" group-title="DeaTHLesS KRAL",uni TV
+http://stream.tvcdn.net/diger/uni-tv.m3u8
+#EXTINF:-1 tvg-id="WomanTV.tr" tvg-logo="http://assets.tvcdn.net/f85e5a28-5d65-405e-a079-be0a7893b8bd.png" group-title="DeaTHLesS KRAL",Woman TV
+http://stream.tvcdn.net/diger/woman-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/bfd91450-80c7-4952-b87b-1745d31bbf28.png" group-title="DeaTHLesS KRAL",World Plus TV
+http://stream.tvcdn.net/diger/world-plus-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/ff9bad51-26ca-40cb-8c05-071f1c775546.png" group-title="DeaTHLesS KRAL",Damar Web TV
+http://stream.tvcdn.net/diger-muzik/damar-web-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/372149bf-3045-43ea-9794-dfea243bfb0e.png" group-title="DeaTHLesS KRAL",Arabesk Web TV
+http://stream.tvcdn.net/diger-muzik/arabesk-web-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/21718aa9-5ff3-4620-acd8-68fbc544508d.png" group-title="DeaTHLesS KRAL",Zeyno
+http://stream.tvcdn.net/diger-muzik/zeyno.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/f8af5ed8-4d05-4c2f-aa71-7d8e45ec19c2.png" group-title="DeaTHLesS KRAL",Dost Web TV
+http://stream.tvcdn.net/diger-muzik/dost-web-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/4a8468ec-c134-4db1-93ef-699f15e1522b.png" group-title="DeaTHLesS KRAL",Toppop TV
+http://stream.tvcdn.net/diger-muzik/toppop-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/fc1e5546-cc3e-4c7e-b379-f16052c81901.png" group-title="DeaTHLesS KRAL",GenC sMs TV
+http://stream.tvcdn.net/diger-muzik/genc-sms-tv.m3u8
+#EXTINF:-1 tvg-id="FinestTV.de" tvg-logo="http://assets.tvcdn.net/63a00e4e-eb16-4c55-9917-d1d2053f8b8b.png" group-title="DeaTHLesS KRAL",Finest TV
+http://stream.tvcdn.net/diger-muzik/finest-tv.m3u8
+#EXTINF:-1 tvg-id="TempoTV.tr" tvg-logo="http://assets.tvcdn.net/09eddd54-7c9e-4036-8f9f-07d3c60c867c.png" group-title="DeaTHLesS KRAL",Tempo TV
+http://stream.tvcdn.net/diger-muzik/tempo-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/c8bba93e-76e5-426a-8d4a-8b545559be59.png" group-title="DeaTHLesS KRAL",slow Karadeniz TV
+http://stream.tvcdn.net/diger-muzik/slow-karadeniz-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/0d968d1e-6164-4b8a-b8d5-98d24e318a55.jpg" group-title="DeaTHLesS KRAL",Demirci TV
+http://stream.tvcdn.net/diger-muzik/demirci-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/9e0d7b87-1ba4-4b1f-b769-4406a38a9851.jpeg" group-title="DeaTHLesS KRAL",Fora Muzik
+http://stream.tvcdn.net/diger-muzik/fora-muzik.m3u8
+#EXTINF:-1 tvg-id="GencKrallarTV.tr" tvg-logo="http://assets.tvcdn.net/6b1d3b33-8f67-40fe-90e8-3d57db6c6318.jpg" group-title="DeaTHLesS KRAL",GenC Kral TV
+http://stream.tvcdn.net/diger-muzik/genc-kral-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/caaac704-e0c2-4e8a-ada7-565e4a68a46e.jpg" group-title="DeaTHLesS KRAL",Mega TV iskenderun
+http://stream.tvcdn.net/diger-muzik/mega-tv-iskenderun.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/139a7fd3-7e5a-4bef-90f4-73d8500794c0.png" group-title="DeaTHLesS KRAL",Demo TV
+http://stream.tvcdn.net/diger-muzik/demo-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/af0ff1ad-7d20-4b05-a12b-f069aaf365ee.jpg" group-title="DeaTHLesS KRAL",seda TV
+http://stream.tvcdn.net/diger-muzik/seda-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/c998c2a7-19e2-4363-af98-e6e7b40774d7.png" group-title="DeaTHLesS KRAL",Ceyhan TV
+http://stream.tvcdn.net/diger-muzik/ceyhan-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/b013c3ce-79f1-4a67-b960-6f6f34b363e5.jpeg" group-title="DeaTHLesS KRAL",Ya�murlu TV
+http://stream.tvcdn.net/diger-muzik/yagmurlu-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e167f3b3-b68b-46a2-ab53-a56a7e2b7ab6.png" group-title="DeaTHLesS KRAL",Kardes TV
+http://stream.tvcdn.net/diger-muzik/kardes-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/b8a8f825-a737-4dc1-b429-5fa2ce9460f5.png" group-title="DeaTHLesS KRAL",Just Vogue TV
+http://stream.tvcdn.net/diger-muzik/just-vogue-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/650531c8-fd21-406d-9295-e9772b1aa0bd.jpeg" group-title="DeaTHLesS KRAL",Yesil Karadeniz TV
+http://stream.tvcdn.net/diger-muzik/yesil-karadeniz-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e1779c8e-b1e4-48c8-a205-161811d2b034.png" group-title="DeaTHLesS KRAL",Nef TV
+http://stream.tvcdn.net/diger-muzik/nef-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/bd3b49c4-ed93-40a2-9187-88f1b6e94064.png" group-title="DeaTHLesS KRAL",solakli TV
+http://stream.tvcdn.net/diger-muzik/solakli-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/559756c0-d9b8-4ff6-8ff9-d4bb087b6167.png" group-title="DeaTHLesS KRAL",Pala TV
+http://stream.tvcdn.net/diger-muzik/pala-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/3decc6cb-6bfb-4699-bc3a-3c84e2a3879b.png" group-title="DeaTHLesS KRAL",Karadeniz Akustik
+http://stream.tvcdn.net/diger-muzik/karadeniz-akustik.m3u8
+#EXTINF:-1 tvg-id="" group-title="DeaTHLesS KRAL",GenC KraliCe TV
+http://stream.tvcdn.net/diger-muzik/genc-kralice-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/0c036e8f-a671-446a-9224-ba0aad2d692d.png" group-title="DeaTHLesS KRAL",Ayz TV
+http://stream.tvcdn.net/diger-muzik/ayz-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e7578e04-aeb6-494f-bef5-672c6efef128.png" group-title="DeaTHLesS KRAL",sonmez TV
+http://stream.tvcdn.net/diger-muzik/sonmez-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/bac5987e-f340-4e36-b1fb-9b8b61d5b9a0.png" group-title="DeaTHLesS KRAL",superTurk TV
+http://stream.tvcdn.net/diger-eglence/superturk-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/2a7833de-376e-4900-a8eb-523162f00502.png" group-title="DeaTHLesS KRAL",superTurk Max
+http://stream.tvcdn.net/diger-eglence/superturk-max.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/6feda6ce-a6e0-40db-acf4-9620a7e4dde5.png" group-title="DeaTHLesS KRAL",Aktif TV
+http://stream.tvcdn.net/diger-eglence/aktif-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/95cfe22b-0373-4601-9b30-83788ee0d5e3.jpg" group-title="DeaTHLesS KRAL",Aldosa TV
+http://stream.tvcdn.net/diger-eglence/aldosa-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/57fd67c8-f4e4-4516-a2de-68325d438b1a.png" group-title="DeaTHLesS KRAL",Almanya TV
+http://stream.tvcdn.net/diger-eglence/almanya-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/764b33ea-66a0-4715-81b0-73cc1aba3729.png" group-title="DeaTHLesS KRAL",Cansuyu TV
+http://stream.tvcdn.net/diger-eglence/cansuyu-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/f9cd2889-605a-4f77-ab14-9425570a8bac.png" group-title="DeaTHLesS KRAL",Cine 1
+http://stream.tvcdn.net/diger-eglence/cine-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/735db609-c6b4-46aa-8347-3e4a4b0e4ee4.png" group-title="DeaTHLesS KRAL",Cine5 TV
+http://stream.tvcdn.net/diger-eglence/cine5-tv.m3u8
+#EXTINF:-1 tvg-id="CagriTV.tr" tvg-logo="http://assets.tvcdn.net/3ac45b9f-5daf-4c45-b748-fb522296f432.jpg" group-title="DeaTHLesS KRAL",Ca�ri TV
+http://stream.tvcdn.net/diger-eglence/cagri-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/a26c3736-672a-45df-a3d8-8c00330b5f04.png" group-title="DeaTHLesS KRAL",Deniz Postasi TV
+http://stream.tvcdn.net/diger-eglence/deniz-postasi-tv.m3u8
+#EXTINF:-1 tvg-id="FarkTurkTV.tr" tvg-logo="http://assets.tvcdn.net/aa738840-bc02-41ec-80e5-188681441c4e.jpeg" group-title="DeaTHLesS KRAL",Fark Turk TV
+http://stream.tvcdn.net/diger-eglence/fark-turk-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/95971854-97bc-45cb-86cd-fd991296d189.jpg" group-title="DeaTHLesS KRAL",Gopsen TV
+http://stream.tvcdn.net/diger-eglence/gopsen-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/8e85fa7f-571e-4f55-bf56-22eb3ab59620.jpg" group-title="DeaTHLesS KRAL",ilkgun TV
+http://stream.tvcdn.net/diger-eglence/ilkgun-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/a72d22fe-9e79-4cac-ad75-67635e6b68c9.png" group-title="DeaTHLesS KRAL",isviCre TV
+http://stream.tvcdn.net/diger-eglence/isvicre-tv.m3u8
+#EXTINF:-1 tvg-id="" group-title="DeaTHLesS KRAL",Kanal 65
+http://stream.tvcdn.net/diger-eglence/kanal-65.m3u8
+#EXTINF:-1 tvg-id="LugatTV.tr" tvg-logo="http://assets.tvcdn.net/50cd1375-3639-4b25-97a6-e99dd39f26be.png" group-title="DeaTHLesS KRAL",Lugat TV
+http://stream.tvcdn.net/diger-eglence/lugat-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/d471fb03-10ce-47e0-bc25-e2b3f5feba98.png" group-title="DeaTHLesS KRAL",sinema TV 1
+http://stream.tvcdn.net/diger-eglence/sinema-tv-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/d471fb03-10ce-47e0-bc25-e2b3f5feba98.png" group-title="DeaTHLesS KRAL",sinema TV 2
+http://stream.tvcdn.net/diger-eglence/sinema-tv-2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/1f23a3b4-a964-4c8f-8234-373ed11b2c17.png" group-title="DeaTHLesS KRAL",sky ulusal TV
+http://stream.tvcdn.net/diger-eglence/sky-ulusal-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/3c0af333-a0c5-456f-a7fe-b491f63b30c7.png" group-title="DeaTHLesS KRAL",sudura�i TV
+http://stream.tvcdn.net/diger-eglence/suduragi-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/94505dd8-b52d-4b4d-b1e4-9fda2829ed57.png" group-title="DeaTHLesS KRAL",super 7 TV
+http://stream.tvcdn.net/diger-eglence/super-7-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/6ec6e894-25f3-4432-8cb3-dbd2ff783842.png" group-title="DeaTHLesS KRAL",saban TV 2 (Arzu Film)
+http://stream.tvcdn.net/diger-eglence/saban-tv-2-arzu-film.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/6ec6e894-25f3-4432-8cb3-dbd2ff783842.png" group-title="DeaTHLesS KRAL",saban TV 3 (Gulsah Film)
+http://stream.tvcdn.net/diger-eglence/saban-tv-3-gulsah-film.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/6ec6e894-25f3-4432-8cb3-dbd2ff783842.png" group-title="DeaTHLesS KRAL",saban TV 4 (Gulsah Film 2)
+http://stream.tvcdn.net/diger-eglence/saban-tv-4-gulsah-film-2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/9138c7f6-e52d-4511-9aa2-90c315a2b6ed.png" group-title="DeaTHLesS KRAL",Teleon
+http://stream.tvcdn.net/diger-eglence/teleon.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/917ae8e7-cebb-4647-9fe7-8e9529088d73.png" group-title="DeaTHLesS KRAL",Tivi Turk
+http://stream.tvcdn.net/diger-eglence/tivi-turk.m3u8
+#EXTINF:-1 tvg-id="" group-title="DeaTHLesS KRAL",TV 70
+http://stream.tvcdn.net/diger-eglence/tv-70.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/795f7c0b-6ae9-452a-b8e7-995423827498.jpg" group-title="DeaTHLesS KRAL",TV 90
+http://stream.tvcdn.net/diger-eglence/tv-90.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/9e6ed485-fb7d-4d86-a76c-91f7d8149f22.png" group-title="DeaTHLesS KRAL",Viyana TV
+http://stream.tvcdn.net/diger-eglence/viyana-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/190e5de4-240c-4394-b364-acf1be7ca010.png" group-title="DeaTHLesS KRAL",VRT TV
+http://stream.tvcdn.net/diger-eglence/vrt-tv.m3u8
+#EXTINF:-1 group-title="DeaTHLesS KRAL",star
+http://162.212.179.32/gin-trn09/gin-startv/playlist.m3u8
+#EXTINF:-1 group-title="DeaTHLesS KRAL",eurostar
+http://162.212.179.32/trn03/gt-eurostar/playlist.m3u8
+#EXTINF:-1 group-title="DeaTHLesS KRAL",fox
+http://162.212.179.32/gin-trn09/gin-turkfoxtv/playlist.m3u8
+#EXTINF:-1 group-title="DeaTHLesS KRAL",atv
+http://162.212.179.32/gin-trn09/gin-atvv/playlist.m3u8
+#EXTINF:-1 group-title="DeaTHLesS KRAL",atv avrupa
+http://162.212.179.32/gin-dvrfl05/gin-atvavrupa/playlist.m3u8
+#EXTINF:-1 group-title="DeaTHLesS KRAL",tv8
+http://162.212.179.32/gin-36bay4/gt-tv8tv-3/playlist.m3u8
+#EXTINF:-1 group-title="DeaTHLesS KRAL",tv8 int
+http://162.212.179.32/gin-dvrfl05/gin-tv8int/playlist.m3u8
+#EXTINF:-1 group-title="DeaTHLesS KRAL",kanald
+http://162.212.179.32/gin-36bay4/gt-kanald-2/playlist.m3u8
+#EXTINF:-1 group-title="DeaTHLesS KRAL",eurod
+http://162.212.179.32/gin-dvrfl05/gin-eurod/playlist.m3u8
+#EXTINF:-1 group-title="DeaTHLesS KRAL",showtv
+http://162.212.179.32/gin-trn09/gin-showtv/playlist.m3u8
+#EXTINF:-1 group-title="DeaTHLesS KRAL",show turk
+http://162.212.179.32/gin-dvrfl05/gin-showtvturk/playlist.m3u8
+#EXTINF:-1 group-title="DeaTHLesS KRAL",trt 1
+http://162.212.179.32/gin-dvrfl05/gin-trt1eu/playlist.m3u8
+#EXTINF:-1 group-title="DeaTHLesS KRAL",flash
+http://162.212.179.32/gin-dvrfl05/gin-flashtv/playlist.m3u8
+#EXTINF:-1 group-title="DeaTHLesS KRAL",tv100
+http://162.212.179.32/trn03/gin-tv100turk/playlist.m3u8
+#EXTINF:-1 group-title="DeaTHLesS KRAL",beyaz
+http://162.212.179.32/gin-dvrfl05/gin-beyaztv/playlist.m3u8
+#EXTINF:-1 group-title="DeaTHLesS KRAL",kanal7
+http://162.212.179.32/gin-dvrfl05/gin-kanal7/playlist.m3u8
+#EXTINF:-1 group-title="DeaTHLesS KRAL",ulketv
+http://162.212.179.32/gin-dvrfl05/gt-ulketv/playlist.m3u8
+#EXTINF:-1 group-title="DeaTHLesS KRAL",360
+http://162.212.179.32/gin-dvrfl05/gin-sky360/playlist.m3u8
+#EXTINF:-1 group-title="DeaTHLesS KRAL",tgrt eu
+http://162.212.179.32/gin-dvrfl05/gin-tgrteu/playlist.m3u8
+#EXTINF:-1 group-title="DeaTHLesS KRAL",teve2
+http://162.212.179.32/gin-dvrfl05/gin-tv2tv/playlist.m3u8
+#EXTINF:-1 group-title="DeaTHLesS KRAL",ntv
+http://162.212.179.32/gin-dvrfl05/gin-ntvtv/playlist.m3u8
+#EXTINF:-1 group-title="DeaTHLesS KRAL",cnn turk
+http://162.212.179.32/gin-dvrfl05/gin-cnnturk/playlist.m3u8
+#EXTINF:-1 group-title="DeaTHLesS KRAL",halktv
+http://162.212.179.32/gin-dvrfl05/gin-halktv/playlist.m3u8
+#EXTINF:-1 group-title="DeaTHLesS KRAL",haber turk
+http://162.212.179.32/gin-dvrfl05/gin-haberturk/playlist.m3u8
+#EXTINF:-1 group-title="DeaTHLesS KRAL",kibriskrttv
+http://162.212.179.32/gin-36bay3/gt-kibriskrttv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="DeaTHLesS KRAL",haber global
+http://162.212.179.32/gin-36bay3/gt-haberglobal/playlist.m3u8
+#EXTINF:-1 group-title="DeaTHLesS KRAL",tele 1
+http://162.212.179.32/gin-dvrfl05/gin-tele1/playlist.m3u8
+#EXTINF:-1 group-title="DeaTHLesS KRAL",ahaber
+http://162.212.179.32/gin-dvrfl05/gin-ahaber/playlist.m3u8
+#EXTINF:-1 group-title="DeaTHLesS KRAL",tgrt haber
+http://162.212.179.32/gin-dvrfl05/gin-tgrthaber/playlist.m3u8
+#EXTINF:-1 group-title="DeaTHLesS KRAL",trt haber
+http://162.212.179.32/gin-dvrfl05/gin-trthaber/playlist.m3u8
+#EXTINF:-1 group-title="DeaTHLesS KRAL",trt turk
+http://162.212.179.32/gin-dvrfl05/gin-trtturk/playlist.m3u8
+#EXTINF:-1 group-title="DeaTHLesS KRAL",trt 2
+http://162.212.179.32/gin-36bay3/gt-trt2/playlist.m3u8
+#EXTINF:-1 group-title="DeaTHLesS KRAL",trt spor
+http://162.212.179.32/gin-dvrfl05/gin-trtspor/playlist.m3u8
+#EXTINF:-1 group-title="DeaTHLesS KRAL",trt spor 2
+http://162.212.179.32/gin-dvrfl05/gin-trtspor2/playlist.m3u8
+#EXTINF:-1 group-title="DeaTHLesS KRAL",trt spor 3
+http://162.212.179.32/gin-dvrfl05/gin-trtspor3/playlist.m3u8
+#EXTINF:-1 group-title="DeaTHLesS KRAL",aspor
+http://162.212.179.32/gin-dvrfl05/gin-aspor/playlist.m3u8
+#EXTINF:-1 group-title="DeaTHLesS KRAL",beinsport haber
+http://162.212.179.32/gin-dvrfl05/gin-beinsportshaber/playlist.m3u8
+#EXTINF:-1 group-title="DeaTHLesS KRAL",sinevizyon 1
+http://162.212.179.32/gin-trn09/gt-sinevizyon-1/playlist.m3u8
+#EXTINF:-1 group-title="DeaTHLesS KRAL",sinevizyon 2
+http://162.212.179.32/gin-trn09/gt-sinevizyon-2/playlist.m3u8
+#EXTINF:-1 group-title="DeaTHLesS KRAL",sinevizyon 3
+http://162.212.179.32/gin-trn09/gt-sinevizyon-3/playlist.m3u8
+#EXTINF:-1 group-title="DeaTHLesS KRAL",yesilcam 1
+http://162.212.179.32/gin-trn09/gt-yesilcam-tv1/playlist.m3u8
+#EXTINF:-1 group-title="DeaTHLesS KRAL",yesilcam 2
+http://162.212.179.32/gin-trn09/gt-yesilcam-tv2/playlist.m3u8
+#EXTINF:-1 group-title="DeaTHLesS KRAL",yesilcam 3
+http://162.212.179.32/gin-trn09/gt-yesilcam-tv3/playlist.m3u8
+#EXTINF:-1 group-title="DeaTHLesS KRAL",power turk
+http://162.212.179.32/gin-dvrfl05/gin-powerturk/playlist.m3u8
+#EXTINF:-1 group-title="DeaTHLesS KRAL",kral pop
+http://162.212.179.32/gin-dvrfl05/gin-kralpop/playlist.m3u8
+#EXTINF:-1 group-title="DeaTHLesS KRAL",power hd
+http://bozztv.com/gin-dvrfl05/gin-powerhd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="DeaTHLesS KRAL",mavi karadeniz
+http://162.212.179.32/gin-36bay3/gt-mavikaradeniz/playlist.m3u8
+#EXTINF:-1 group-title="DeaTHLesS KRAL",altastv
+http://162.212.179.32/gin-dvrfl05/gin-altastv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="DeaTHLesS KRAL",trt belgesel
+http://162.212.179.32/gin-dvrfl05/gin-trtbelgesel/playlist.m3u8
+#EXTINF:-1 group-title="DeaTHLesS KRAL",tgrt belgesel
+http://162.212.179.32/gin-dvrfl05/gin-tgrtbelgesel/playlist.m3u8
+#EXTINF:-1 group-title="DeaTHLesS KRAL",trt arapca
+http://162.212.179.32/gin-dvrfl05/gin-trtarapca/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="DeaTHLesS KRAL",trt kurdi
+http://162.212.179.32/gin-dvrfl05/gin-trtkurdi/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="DeaTHLesS KRAL",idman tv
+http://162.212.179.32/gin-dvrfl05/gin-idmantv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="DeaTHLesS KRAL",cbc sport
+http://162.212.179.32/gin-dvrfl05/gin-cbc-sport/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="DeaTHLesS KRAL",atv az ad
+http://162.212.179.32/gin-36bay3/gin-atvazad/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="DeaTHLesS KRAL",az tv
+http://162.212.179.32/gin-dvrfl05/gin-aztvhd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="DeaTHLesS KRAL",dunya
+http://162.212.179.32/gin-dvrfl05/gin-dunya/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="DeaTHLesS KRAL",cbc az
+http://162.212.179.32/gin-dvrfl05/gin-cbctvaz/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",BEIN SPORTS 8K FEED |D CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIxMTM0NjIzOTg0M2RkZWRlOGZhYmM=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",BEIN SPORTS 1 50 FPS |D CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEzNTI0MjEwNTMwNDIwMzA5MGM1ZWI=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",BEIN SPORTS 4K FEED(KUTU) |D CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI2NzEwNTg4OTI0NTkxMDNkZTc3YQ==
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",BEIN SPORTS 4K FEED(UYDU) |D CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE1MzY3MzA2MjdlMzcwYTkxYThjM2Y=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",BEIN SPORTS 720P FEED |D CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQ5OTQ4NTQ5NzRkZjA5MTY5ZWE1MA==
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",BEIN SPORTS FEED (OZEL FEED YAYIN) |D CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE0NTM2OTIzMTQyMzc3MWI1OTUyODk=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",BEIN SPORTS 1 (720P) |D CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM4NDA0NzU2NTNjMDM3Nzg3ZjYwYzE=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",BEIN SPORTS 1 [LIVE DURING EVENTS ONLY] |H CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM0Mjg5ODQ3MDM0NGYyODhmNGUyMWQ=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",BEIN SPORTS 1 HD |D CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzY2MjE3OTYyMGNjNmI4NzBjMDY0NQ==
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",BEIN SPORTS 1 (720PFEED) |D CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIyMzMwNjY0MzMzY2FhODFhZjYwZjQ=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",BEIN SPORTS 1 |E CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMwMDExMzM5NGM1NGQ1MDg4MjVjOQ==
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",BEIN SPORTS 1 H265 |D CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI0MDM0MjUwMzE4NzNhNDMwMGQxZTQ=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",BEIN SPORTS 1 HD (TURKEY) |D CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzU5MzQ5Mzg2MDQxODk1MDY1YjExYg==
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",BEIN SPORTS 1 SD |D CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE0MzIzOTUzNTJmNDAwNjJmZTk0Yg==
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",BEIN SPORTS 2 UHD |D CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM2OTQ2NjI0NzU2NTVmZmNiYTZiNDc=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",BEIN SPORTS 2 |E CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE0NDcyNDE1MDZlNzNjZTY2NzM1NTU=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",BEIN SPORTS 2 |H CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI1MDk0NjYxOTEzNjRiMjRkOWU2OGQ=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",BEIN SPORTS 2 HD |D CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI4NTE1MzkxNDNiYjI0MThlNTc4YzQ=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",BEIN SPORTS 2 SD |D CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMyMzYzNjI5MTE2MjQ1ZGU0NzllNDI=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",BEIN SPORTS 3 UHD |D CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM0MTAxNjc1NjBmZDdiMmY0ZjQ2YmI=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",BEIN SPORTS 3 |E CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE3OTc0NTk2MDJjNmMzZmIzNjAwYzQ=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",BEIN SPORTS 3 |H CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI4MzQ1MTQ5NDNhODRjNTc4OTY5MWU=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",BEIN SPORTS 3 SD |D CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIwNjM3MTMyOTMyNWM1OGRjMzFhMA==
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",BEIN SPORTS 4 UHD |D CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI5MzgyNjgzNTM3YmVlZGJiYzBiNGM=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",BEIN SPORTS 4 |E CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM2NDA5MDYzNzA2NDE3ZDJmOTc5MWU=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",BEIN SPORTS 4 |H CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQ1MDA3NjY1NTVjZjFjOTE1MWJjOQ==
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",BEIN SPORTS 4 HD |D CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE4NzIyMzI3NjhjZDJhZGJlOGM1MjY=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",BEIN SPORTS 5 (MATCH TIME) |H CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEyMzA0NDgxOTJhNzRhNTk5M2E3Njk=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",BEIN SPORTS 5 |E CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM4MzE3NTc2MThmMjJiY2FjY2ZlOTI=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",BEIN SPORTS 5 FHD |D CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQwMDAzMTU2MDEyYjkzOTg5OTIwODk=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",BEIN SPORTS 5 HD |D CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI3Mzc5NjM0ODZkODJlYzUwYWQ5OTI=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",S SPORT |D CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIxMjMyNzM1OThmM2VhODMyMTk1MTY=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",S SPORT |E CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMzNDY1NDk3MjI5MDE5ODI2MzNmM2E=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",S SPORT |H CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM3MTgzMzYyOTUxODRjMWYzMTE3YWE=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",S SPORT 2 |E CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEzMTM3Njg1MTZiYWFhN2NkZTEzNDc=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",S-SPORT 1 SD |D CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMyMDI5MDUyMzdiZTQ2ZTUzN2U2Yg==
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",S-SPORT HD |D CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzkxOTk5MzE2ODE1ZmJhNDFhYjAwZA==
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",S-SPORT 1 UHD |D CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM1MzE3NjIxOTU0NDkwYTQ5ZDRiZDU=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",S-SPORT PLUS FHD |D CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQwMzYwNDYyMTkzM2RkNDdkN2U5YTE=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",S SPORT 2 |H CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEyMzQ2MDQ4ODA2YTFhNWM0MTM3YzE=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",S SPORT 2 |D CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzkzNjkwODI3NDlmNmE4NmY4NTBjMQ==
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",S SPORT+3 MAC SAATI |D CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMyNjkzNzIzMjY4ZWMxNjY3Y2ZjMWE=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",S SPORT+4 MAC SAATI |D CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE1MDc4Mjk0MzYwYWUxYTk2OGVlNDU=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",S SPORT+5 MAC SAATI |D CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM3NjA0ODc3NjQzMzQ4YjlmNWM2M2E=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",S-SPORT 2 HD |D CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzExODM0MDk0NTJlYTY0NTdhMWRkMDg=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",S-SPORT 2 UHD |D CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM5NDM2NTEwMzAyZGRlYjRhZjVmYzY=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",S-SPORT+1 MAC SAATI |D CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI1NTk3NTY3OTFiZjVhNDMzMjBhNzQ=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",S-SPORT+2 MAC SAATI |D CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIzMTQxODM1NjYwMTdlYTNlMGE5N2M=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",S-SPORT 2 SD |D CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI2NDM5OTkwMzIzM2YxNGU3ODE3MjE=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",EDGE SPORT |D CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM3MTQ4NjY1NjhjNmRiNTQyZmY0NjI=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",EUROSPORT 1 HD |D CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIwNzg4NjI5MzcxN2VkZDQ2MTY1NGY=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",EUROSPORT 2 HD |D CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQxMTcyMjc5NjI1NDAwZDQxZTJiYmU=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",SPORTS TV HD |D CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI0MjkyOTg3OThhZGRkNDBjOTU3Yzg=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",A SPOR HEVC |D CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI4ODA1MjkyMDg1YmJjYWEzMGVjZGY=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",FILBOX SPOR 1 MACZAMANI |D CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQwNzYxMjI2NzMyMTllYzVkZjY4YQ==
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",FILBOX SPOR 2 MACZAMANI |D CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE1NDU4MzMxNGJmMDM4NzhlN2UzOA==
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",FILBOX SPOR 3 MACZAMANI |D CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI5NjYyMzE4MDI2MTM5YmQ3MDQyNjU=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",A SPOR HD |D CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE3NzExMzc1Mzk0OTZlNTIzZmZiOGU=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",TRT SPOR HD |D CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIyNjI5Njk5MzhhMGE4MDM3MDZhMTM=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",TRT SPOR YILDIZ |D CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI3NTA1MDcwODM3YTk2ZjlkOTI4ZWQ=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",A SPOR |E CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzgxOTI3MjY5NjNiYTUzMjkyMjAyMQ==
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",A SPOR |H CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE1NjE5NTg5NzE5YmJkMmVmZTE3MmM=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",A SPOR FHD |D CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzkxMTgzNjUwNmQ4Y2I5NjI0ZTc3Mw==
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",A SPOR RAW |D CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI3NzcxMjEwNTNiNDgyOTY2ZTJiYzI=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",BEIN SPORTS HABER |E CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzExOTczMzYwMDAxMGUyNzU3N2E4YmI=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",BEIN SPORTS HABER |H CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI4MDYwNzk2MTIxYmRlOWNiNTE5YmI=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",BEIN SPORTS HABER HD |D CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM5ODk5OTU1MzMxMjMzNGZlNTE5NmM=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",BEIN SPORTS HABER RAW |D CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE2NDY2MzI4MjU0ZGJjYjYxNmMxZGI=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",BEIN SPORTS MAX 1 |E CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEyMjE1ODcwNjdhNzc2MDUzNjdiNTQ=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",BEIN SPORTS MAX 1 |H CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI4MzI0MzA1MzViYTQ0MDhkZjI4NmE=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",BEIN SPORTS MAX 1 FHD |D CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQwNzE0NzQ3NDMyMzIyNzQ3ZTlhZmI=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",BEIN SPORTS MAX 1 HD |D CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIyNTI4MTQyMzU5NTg1Y2Y5NWFiOQ==
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",BEIN SPORTS MAX 2 |E CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI1ODk2ODIzNWEwZjFjMmI3NDYxZQ==
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",BEIN SPORTS MAX 2 |H CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQwMTcyOTUxMjcwMmI5NzY5MTc5NDM=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",BEIN SPORTS MAX 2 FHD |D CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM0MDc5MzYyNDI4YjQ0MGNiYmMwYjI=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",EUROSPORT 1 |E CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM0NTg2MzE0NjFjYmU1YjU4MGExNTk=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",EUROSPORT 1 |H CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMyNzEzMjg4NDMzNTEyZDBlMmViYjA=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",EUROSPORT 2 [LIVE DURING EVENTS ONLY] |H CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEzMDk3Nzg2NzQxNzYzYjJiMjNjODc=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",EUROSPORT 2 |E CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIzMDczMjU0Mjk1MzExYWYwNTI0N2I=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",EUROSPORT1 HD |D CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM3OTMyMDA2NDQyODlkZTA3YTI5YjA=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",EUROSPORT2 HD |D CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE4MjE5NDIyNDdjNzExMmVmZDNlM2Y=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",EXXEN SPOR 1 SD |D CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIwMjQ1Njg5ODIwOTFlOWYxODFmOWE=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",EXXEN SPORTS 1 |H CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE4NDIwMTgyNTIyMjU1MTRhOWIwMWM=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",EXXEN SPORTS 2 |E CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI0MzIwOTYyOWEyYTc2Njc0ZGEx
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",EXXEN SPORTS 2 |H CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzcxMTYyNjAxMmYzOGRlOGY1MWMwOA==
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",EXXEN SPORTS 3 [LIVE DURING EVENTS ONLY] |H CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM4MDc5Mzk0NTNiZDRiNDNlNjBhNzY=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",EXXEN SPORTS 4 |H CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI3NzEwMjQwNjBhOWQ5NTM0MWE1MWI=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",EXXEN SPORTS 5 |H CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI1NTUwMDcyNDRiODlhYjgzMjkxZDQ=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",EXXEN SPORTS 7 |H CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM4MDA2OTU0MDRhOTUzOGRlM2IzYzU=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",EXXEN SPORTS 8 |H CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE2MjQ5Mzc5MTc2MDVhMmVhNzg2MDA=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",EXXEN TV |E CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI0MjYwOTc2NTlmZDAyZWNmNzliMjM=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",EXXEN TV SPOR 1 |D CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEyMDgzNjk5OTVjZjFhMmZmMTQ5NzE=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",EXXEN TV SPOR 1 720P |D CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMzMzM5MDI4NjcyMjU2MzJiM2U5MzM=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",EXXEN TV SPOR 1 FEED |D CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEwOTE0MDM5MTI1NTk2NWNlM2NiMDc=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",EXXEN TV SPOR 1 HD |D CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEyMDQyMDA4MDE2OTFlMDg5Nzk2YmE=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",EXXEN TV SPOR 1 UHD |D CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM4MTQ5MjUzNzE4MTQwYTRlYTJkOWE=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",EXXEN TV SPOR 2 HD |D CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMzNzcwNDYxNDYwNzkyOThmY2ZjYmI=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",EXXEN TV SPOR 2 UHD |D CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM2NzMwMzcwNTQwZDc3MjNlMjhiNDQ=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",EXXEN TV SPOR 3 |D CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5Lzg1MTg0MTA2NzQwYTNlYjgwZDM4MA==
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",EXXEN TV SPOR 4 |D CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIxNjI2MDkyMTE0OGMxMmViZTAzZjA=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",EXXEN TV SPOR 5 |D CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMxNzk3MzQ0MTEzMjQyMTI1ZTI3ZmI=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",EXXEN TV SPOR 6 |D CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQxOTY4MzUxNjMzYjU5MzFkNDM4OTA=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",EXXEN TV SPOR 7 |D CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMzNDMzMDAzMzEwYjQwYWUzNDI2NzI=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",EXXEN TV SPOR 8 |D CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzExNTkwNzgyMDJjMTAzMzZjNjYxZDI=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",FB TV |D CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI1MTIzNDA1NTg4YzA5MjIzM2JmZmI=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",FB TV |E CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzYxNTMwODYwMTM0ZDNhOTkzZjc4NQ==
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",FB TV |H CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE1NDA3NDg1Mzk0NTk4YTJiYjMxMzc=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",SARAN SPORT 1 |H CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM5NjI5NzIzNTJhZGQ4MDM1ZGE0MzM=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",SARAN SPORT 2 |H CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI4Nzg3NTUzNDQ0MjhiOTkyMGZiZGY=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",SPOR SMART 1 |H CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQxMzc5NjIwNjIwOGE5MDAwNjM0OTQ=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",SPOR SMART |E CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE3NzE1MTEzOTdhOGYzZWZmMTBiY2I=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",SPOR SMART 2 |E CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzkwNzE2NTA5NWJiMGVkNzdkNDg0MQ==
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",SPOR SMART FHD |D CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM3NjM5MzE1MjAyZTdhNmJlNTZiNmY=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",SPOR SMART HD |D CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEzMTM1NjMzNTAwYTBmYTgxZmFhNDM=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",SPOR SMART HEVC |D CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM0NDU3MDg5MjY3ZDE2NGU2N2FhNzg=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",SPOR SMART SD |D CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzY2MDI0NjY3MDU3ZTkyOThiYzk2Mw==
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",SPOR SMART 2 HD |D CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzkxNjUzODg4OTI5Yjc4YjJlMmY1Mw==
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",SPORTSTV |E CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM0MjI4Mjc5ODU5ZTE2ZTQxOGQxZjA=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",SPORTSTV HD |D CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI2MTEyOTY5ODEwY2EzNTMyMWVlYWY=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",TIVIBU SPOR 1 |E CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI1NjU5NzIzMzg0MTlkZDY0ZDNjMWE=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",TIVIBU SPOR 1 |H CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE1Mjg5NDk3OTFkMDk5MzRjNmJiNzg=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",TIVIBU SPOR 2 |E CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM3NDY2ODM4MTBkZGIxZDliYTdlMGQ=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",TIVIBU SPOR 2 |H CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQ3ODI1NDc5OWQ1NGQwYjdjYzg0ZA==
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",TIVIBU SPOR 3 |E CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM3OTQ5MjQwNTA0YTNiMDU0ZTEyN2U=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",TIVIBU SPOR 3 |H CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzU2ODQ0Mjc1MWY5MWZlN2VhOGZmNw==
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",TIVIBU SPOR 4 |E CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEzNDMzMDMxNzAyN2U0Yzk4M2MzMjY=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",TIVIBU SPOR 4 HD |D CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMzMDcwNjI3MDQ1YzNjMDI5ZTFiMDg=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",TIVIBU SPOR 5 HD |D CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE2MzAzODUxMDJhYzAzYzU2N2MxZQ==
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",TIVIBU SPOR RAW |D CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE0MDYyNjIxMTg1ZmZjMWViNmQ2Njk=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",TIVIBUSPOR 1 FHD |D CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI4OTY2NTg3NDRjY2UzYjRlYTJhNjg=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",TIVIBUSPOR 1 HD |D CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM2NTQ1MTgwMDdmZDAxZjNmMDM1NjM=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",TIVIBUSPOR 2 FHD |D CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI1MDI2MDYzMzMxNDU4YzYyOTg1NjE=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",TIVIBUSPOR 2 HD |D CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE0NjU2ODA2NjA5M2JjMTAzN2Q4ZWE=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",TIVIBUSPOR 3 FHD |D CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIxODYzODk5NTBhNjNiNTczZDQ2ZmU=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",TIVIBUSPOR 3 HD |D CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI2MTY2MjQwMTA2MjQ0NjZmNGFjOGE=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",TIVIBUSPOR HD |D CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM2NTM1MTU4NThiNTYzMDQ5MDY3YmI=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",TRT SPOR |E CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzcxOTY2NDcyMzUxZmI3Mjg3OTMyZQ==
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",TRT SPOR |E CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIxMTQzMzU0MjRkNDZhMjBjODg2MzY=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",TRT SPOR |H CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI3ODE0MjkyNjc2YjVjNTQzYWY5MWY=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",TRT SPOR FHD |D CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI5NTI4MjgyNDU2OTYxOGZjYjNkOGY=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",TRT SPOR HD |D CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMxMjkwNDYxNGNhNzdlNjk5OGY0MA==
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",TRT SPOR RAW |D CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzYwMTc4ODY5MDUwY2YzMjM1NzA5OA==
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",TRT SPOR YILDIZ |E CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzkzMDU0MjAyZTkyOWRlMGU2N2Rl
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",TRT SPOR YILDIZ |H CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIwODE1Nzc0MTdkOTNkMmFlYjkwOTY=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",TRT SPOR YILDIZ HD |D CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE0MjM4NDU4MDkyNzljMjdlMDQwNmQ=
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",TRT SPOR YILDIZ HEVC |D CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzExNDUwMTUyM2Y1OGUzYTRiOGRkZA==
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="DeaTHLesS KRAL",TRT SPOR YILDIZ RAW |D CANLI
+https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI2ODkyOTc1MjdlMjJjNmM0ZDJhZjU=
