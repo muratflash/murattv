@@ -10,6 +10,8 @@ https://cdn.srectv1.xyz/live/bs3/index.m3u8
 https://cdn.srectv1.xyz/live/bs4/index.m3u8
 #EXTINF:-1 ,S SPORT
 https://cdn.srectv1.xyz/live/ss1/index.m3u8
+#EXTINF:-1 ,BEİN SPORTS 1 UHD
+https://jyayintv91.site/cdn/bein_sports_1_hd/main.m3u8
 #EXTINF:-1 ,BEİN SPORTS 1 SELCUK
 https://cinque.ea2b640d592bd041.click/p/www.selcuksportshd1393.xyz/2/a.cf-worker-2b1a3eb6a8c05e92.workers.dev/chunklist_hd.m3u8
 #EXTINF:-1 ,BEİN SPORTS 1 ALPER
@@ -74,6 +76,28 @@ http://65.21.85.175:8000/play/a036/index.m3u8?token=livetv
 http://65.21.85.175:8000/play/a037/index.m3u8?token=livetv
 #EXTINF:-1,Bein Sports Haber
 http://65.21.85.175:8000/play/a033/index.m3u8?token=livetv
+#EXTINF:-1,Bein Sports 1 STREAM
+https://sei.c6db67cffaaefebe.click/i/neden/601/playlist.m3u8
+#EXTINF:-1,Bein Sports 2 STREAM
+https://sei.c6db67cffaaefebe.click/i/neden/602/playlist.m3u8
+#EXTINF:-1,Bein Sports 3 STREAM
+https://sei.c6db67cffaaefebe.click/i/neden/603/playlist.m3u8
+#EXTINF:-1,Bein Sports 4 STREAM
+https://sei.c6db67cffaaefebe.click/i/neden/604/playlist.m3u8
+#EXTINF:-1,TİVİBU SPOR 1
+https://sei.c6db67cffaaefebe.click/i/neden/605/playlist.m3u8
+#EXTINF:-1,TİVİBU SPOR 1 HD
+https://sei.c6db67cffaaefebe.click/i/neden/606/playlist.m3u8
+#EXTINF:-1,TİVİBU SPOR 2
+https://sei.c6db67cffaaefebe.click/i/neden/607/playlist.m3u8
+#EXTINF:-1 ,BEİN SPORTS 1 A
+https://s1.bunnycdn200.xyz/cdn/b1.m3u8
+#EXTINF:-1 ,BEİN SPORTS 2 A
+https://s1.bunnycdn200.xyz/cdn/b2.m3u8
+#EXTINF:-1 ,BEİN SPORTS 3 A
+https://s1.bunnycdn200.xyz/cdn/b3.m3u8
+#EXTINF:-1 ,BEİN SPORTS 4 A
+https://s1.bunnycdn200.xyz/cdn/b4.m3u8
 #EXTINF:-1,Beyaz
 http://65.21.85.175:8000/play/a021/index.m3u8?token=livetv
 #EXTINF:-1,CARTOON NETWORK
