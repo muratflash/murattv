@@ -152,14 +152,16 @@ https://5e06e5e8c2e27.streamlock.net:1936/videonow/TBRT_2/chunklist_w897275783.m
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/TBRT3/chunklist_w849353384.m3u8
 #EXTINF:-1,TEBER STAR 4
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/TBRT_4/chunklist_w693852459.m3u8
-#EXTINF:-1,TEBER STAR 5
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/TBRT_AVRASIA/chunklist_w1055405337.m3u8
-#EXTINF:-1,TEBER STAR 6
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/kral_teber/chunklist_w1746342561.m3u8
-#EXTINF:-1,TEBER STAR 7
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/Tezene_tv/chunklist_w1025349998.m3u8
-#EXTINF:-1,TEBER ON 9
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/tv19/chunklist_w1464246075.m3u8
+#EXTINF:-1,TEBER EM TV
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/tv19/chunklist_w1457378755.m3u8
+#EXTINF:-1,TEBER DİZİ
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/flash_teber_24saat_dizi/chunklist_w226454185.m3u8
+#EXTINF:-1,CİNE6 TEBER TV
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/Egemenlik_Milletin_tv/chunklist_w2101860091.m3u8
+#EXTINF:-1,TEBER TEZENE V
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/Tezene_tv/chunklist_w1029155624.m3u8
+#EXTINF:-1,TEBER SAFARİ TV
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/teber_wild_tv/chunklist_w457052643.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HALK TV" tvg-logo="" group-title="Haber",HALK TV
 https://halktv.blutv.com/blutv_halktv_live/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HALK TV HD" tvg-logo="" group-title="Haber",HALK TV HD
@@ -363,11 +365,13 @@ https://5e06e5e8c2e27.streamlock.net:1936/videonow/TBRT_2/chunklist_w897275783.m
 #EXTINF:-1 tvg-id="" tvg-name="TEBER STAR 3" tvg-logo="" group-title="Sinema",TEBER STAR 3
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/TBRT3/chunklist_w849353384.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TEBER STAR 4" tvg-logo="" group-title="Sinema",TEBER STAR 4
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/TBRT_AVRASIA/chunklist_w1055405337.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TEBER STAR 5" tvg-logo="" group-title="Sinema",TEBER STAR 5
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/kral_teber/chunklist_w1746342561.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TEBER ON 9" tvg-logo="" group-title="Sinema",TEBER ON 9
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/tv19/chunklist_w1464246075.m3u8
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/TBRT_4/chunklist_w693852459.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TEBER EM TV" tvg-logo="" group-title="Sinema",TEBER EM TV
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/tv19/chunklist_w1457378755.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TEBER DİZİ" tvg-logo="" group-title="Sinema",TEBER DİZİ
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/flash_teber_24saat_dizi/chunklist_w226454185.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CİNE6 TEBER TV" tvg-logo="" group-title="Sinema",CİNE6 TEBER TV
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/Egemenlik_Milletin_tv/chunklist_w2101860091.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FİLM TV 1" tvg-logo="" group-title="Sinema",FİLM TV 1
 http://62.210.88.161/gin-trn09/gt-sinevizyon-1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FİLM TV 2" tvg-logo="" group-title="Sinema",FİLM TV 2
