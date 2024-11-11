@@ -483,7 +483,7 @@ https://moondigitaledge2.radyotvonline.net/radyo7fmo/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO ARABESK" tvg-logo="" group-title="Radyo",RADYO ARABESK
 https://yayin.radyoarabesk.com.tr:8000/stream
 #EXTINF:-1 tvg-id="" tvg-name="RADYO ARABESK YT" tvg-logo="" group-title="Radyo",RADYO ARABESK YT
-https://ythls.kekikakademi.org/youtube/video/iSLfqrsVY-8.m3u8
+https://ythls.kekikakademi.org/youtube/video/GTiSZ-fG-0s.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO ARABESK YT 2" tvg-logo="" group-title="Radyo",RADYO ARABESK YT 2
 https://ythls.kekikakademi.org/youtube/video/AIye_2fHBqQ.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO ARABESK 7/24" tvg-logo="" group-title="Radyo",RADYO ARABESK 7/24
@@ -517,13 +517,15 @@ https://yayin.turkhosted.com/sultanradyo/stream?/;stream.mp3
 #EXTINF:-1 tvg-id="" tvg-name="PAL DOĞA RADYO" tvg-logo="" group-title="Radyo",PAL DOĞA RADYO
 https://moondigitaledge.radyotvonline.net/paldoga/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO OYUN HAVALARI" tvg-logo="" group-title="Radyo",RADYO OYUN HAVALARI
-https://ythls.kekikakademi.org/youtube/video/tWnr7YqZ8LI.m3u8
+https://ythls.kekikakademi.org/youtube/video/dYbc2KMYXy0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BAŞKA RADYO" tvg-logo="" group-title="Radyo",BAŞKA RADYO
 https://ythls.kekikakademi.org/youtube/channel/UCCLd00Kz65v5_8n8Wxu1jDw.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="POPÜLER FM" tvg-logo="" group-title="Radyo",POPÜLER FM
 https://ythls.kekikakademi.org/youtube/video/HFmOn8UCTIU.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADYO TÜRKÜ" tvg-logo="" group-title="Radyo",RADYO TÜRKÜ
+#EXTINF:-1 tvg-id="" tvg-name="RADYO BAHARTÜRK" tvg-logo="" group-title="Radyo",RADYO TÜRKÜ
 https://ythls.kekikakademi.org/youtube/video/Bto75pRPQNA.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADYO TÜRKÜ" tvg-logo="" group-title="Radyo",RADYO BAHARTÜRK
+https://ythls.kekikakademi.org/youtube/channel/UCcYy5-lJOuj-6QrfkUxVGTQ.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EGE GOKKUSAGİ FM" tvg-logo="" group-title="Radyo",EGE GOKKUSAGİ FM
 http://stream.tvcdn.net/yerel/ege-live-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO KULÜP" tvg-logo="" group-title="Radyo",RADYO KULÜP
