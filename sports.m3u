@@ -8,6 +8,12 @@ https://cdn.srectv1.xyz/live/bs2/index.m3u8
 https://cdn.srectv1.xyz/live/bs3/index.m3u8
 #EXTINF:-1 ,BEİN SPORTS 4
 https://cdn.srectv1.xyz/live/bs4/index.m3u8
+#EXTINF:-1 ,BEİN SPORTS 5
+https://cdn.srectv1.xyz/live/bs5/index.m3u8
+#EXTINF:-1 ,BEİN SPORTS MAX 1 
+https://cdn.srectv1.xyz/live/bsmax1/index.m3u8
+#EXTINF:-1 ,BEİN SPORTS MAX 2
+https://cdn.srectv1.xyz/live/bsmax2/index.m3u8
 #EXTINF:-1 ,S SPORT
 https://cdn.srectv1.xyz/live/ss1/index.m3u8
 #EXTINF:-1 ,BEİN SPORTS 1 UHD
