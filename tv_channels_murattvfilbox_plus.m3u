@@ -59,6 +59,8 @@ https://ythls.kekikakademi.org/youtube/channel/UCHFxijaEOik8V6iH4rWoAYg.m3u8
 https://ythls.kekikakademi.org/youtube/channel/UCiT-eroqDoA3zct3OkzhEPA.m3u8
 #EXTINF:-1,SEKSENLER TV
 https://ythls.kekikakademi.org/youtube/channel/UCYRPB4TbD2RYHlIQdLgEeYA.m3u8
+#EXTINF:-1,YEŞİL DENİZ TV
+https://ythls.kekikakademi.org/youtube/channel/UCPUpDCqAbk0F7_occqwOBTA.m3u8
 #EXTINF:-1,KURTLAR VADİSİ PUSU TV
 https://ythls.kekikakademi.org/youtube/channel/UCz1UfNp9VFp9R1HEFn5PY5A.m3u8
 #EXTINF:-1,ACI HAYAT TV
@@ -372,8 +374,6 @@ https://i41.ozelip.com:3269/hybrid/play.m3u8
 https://cdn1-skyhabertv.yayin.com.tr/skyhabertv/skyhabertv/chunklist_w1126474240_b1996000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CİNE 1 TV" tvg-logo="" group-title="Sinema",CİNE 1 TV
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BİR TV" tvg-logo="" group-title="Sinema",BİR TV
-https://live.artidijitalmedya.com/artidijital_birtv/birtv/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TİVİ6" tvg-logo="" group-title="Sinema",TİVİ6
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DÜZGÜN TV" tvg-logo="" group-title="Sinema",DÜZGÜN TV
@@ -406,6 +406,8 @@ http://162.212.179.32/gin-trn09/gt-sinevizyon-3/playlist.m3u8
 http://62.210.88.161/gin-trn09/gt-yesilcam-tv1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FİLM TV 5" tvg-logo="" group-title="Sinema",FİLM TV 5
 http://62.210.88.161/gin-trn09/gt-yesilcam-tv2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SİNEMA KULÜBÜ TV" tvg-logo="" group-title="Sinema",SİNEMA KULÜBÜ TV
+https://ythls.kekikakademi.org/youtube/channel/UChb7kIKlWiDCfwXg4LSMCjg.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="YEŞİLÇAM TV" tvg-logo="" group-title="Sinema",YEŞİLÇAM TV
 https://ythls.kekikakademi.org/youtube/channel/UCUALYmnkEmx8vlxIbpr2gmw.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="YEŞİLÇAM TV 2" tvg-logo="" group-title="Sinema",YEŞİLÇAM TV 2
