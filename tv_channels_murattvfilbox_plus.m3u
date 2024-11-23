@@ -86,8 +86,6 @@ https://edge1.socialsmart.tv/belemturktv/bant1/playlist.m3u8
 https://live.artidijitalmedya.com/artidijital_trakyaturk/trakyaturk/chunks.m3u8
 #EXTINF:-1,CİNE 1 TV
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
-#EXTINF:-1,BİR TV HD
-https://live.artidijitalmedya.com/artidijital_birtv/birtv/chunks.m3u8
 #EXTINF:-1,TİVİ6 HD
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
 #EXTINF:-1,DÜZGÜN TV HD
@@ -142,8 +140,6 @@ https://yayin.slowkaradeniztv.com:3390/hybrid/play.m3u8
 https://oltutv.ozelip.com:3870/stream/play.m3u8
 #EXTINF:-1,SİTELER TV
 https://tvturkiyem.ozelip.com:3534/stream/play.m3u8?autoplay=1
-#EXTINF:-1,KRAL ŞAKİR TV
-https://ythls.kekikakademi.org/youtube/channel/UCehmwSZGPod7JFbHJspmxzQ.m3u8
 #EXTINF:-1,TRT DİYANET ÇOCUK
 http://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,KUZEY KIBRIS TV
@@ -183,11 +179,11 @@ https://ythls.kekikakademi.org/youtube/video/ztmY_cCtUl0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TELE 1" tvg-logo="" group-title="Haber",TELE 1
 https://tele1dvr.blutv.com/blutv_tele1_dvr2/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TELE 1 HD" tvg-logo="" group-title="Haber",TELE 1 HD
-https://ythls.kekikakademi.org/youtube/video/z6ptLHwMvuM.m3u8
+https://ythls.kekikakademi.org/youtube/video/Ah0q95CJqHM.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KRT TV" tvg-logo="" group-title="Haber",KRT TV
 https://krt.blutv.com/blutv_krt_live/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KRT TV HD" tvg-logo="" group-title="Haber",KRT TV HD
-https://ythls.kekikakademi.org/youtube/video/SAqEutS7qzU.m3u8
+https://ythls.kekikakademi.org/youtube/video/w5jlONGqxd4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FLASH HABER" tvg-logo="" group-title="Haber",FLASH HABER
 https://flashtv.blutv.com/blutv_flashtv/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FLASH HABER HD" tvg-logo="" group-title="Haber",FLASH HABER HD
