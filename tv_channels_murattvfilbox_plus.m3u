@@ -291,9 +291,9 @@ http://tvr.lol:80/live/p3Uj2sSuZ5Ec/kygVTXF2nYJz/784.ts
 #EXTINF:-1 tvg-id="" tvg-name="BEİN MOVİES ACTİON 2" tvg-logo="" group-title="Sinema",BEİN MOVİES ACTİON 2
 http://zr0811.xyz:8080/live/Hasan675/WPku9RbX8r3/6199.ts
 #EXTINF:-1 tvg-id="" tvg-name="BEİN MOVİES PREMİERE" tvg-logo="" group-title="Sinema",BEİN MOVİES PREMİERE
-http://vip.torktv.org:2095/live/grhn9626/gr00/6451.ts
+https://lives.anystreamrectv3.live/live/bspremier1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN MOVİES STARS" tvg-logo="" group-title="Sinema",BEİN MOVİES STARS
-http://vip.torktv.org:2095/live/grhn9626/gr00/6453.ts
+https://lives.anystreamrectv3.live/live/bsstars.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN MOVİES TÜRK" tvg-logo="" group-title="Sinema",BEİN MOVİES TÜRK
 http://vip.torktv.org:2095/live/grhn9626/gr00/6454.ts
 #EXTINF:-1 tvg-id="" tvg-name="MOVİE SMART TÜRK" tvg-logo="" group-title="Sinema",MOVİE SMART TÜRK
@@ -393,15 +393,15 @@ https://5e06e5e8c2e27.streamlock.net:1936/videonow/flash_teber_24saat_dizi/chunk
 #EXTINF:-1 tvg-id="" tvg-name="CİNE6 TEBER TV" tvg-logo="" group-title="Sinema",CİNE6 TEBER TV
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/Egemenlik_Milletin_tv/chunklist_w2101860091.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FİLM TV 1" tvg-logo="" group-title="Sinema",FİLM TV 1
-http://62.210.88.161/gin-trn09/gt-sinevizyon-1/index.m3u8
+https://lives.anystreamrectv3.live/live/yer5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FİLM TV 2" tvg-logo="" group-title="Sinema",FİLM TV 2
-http://62.210.88.161/gin-trn09/gt-sinevizyon-2/tracks-v1a1/mono.m3u8
+https://lives.anystreamrectv3.live/live/kom3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FİLM TV 3" tvg-logo="" group-title="Sinema",FİLM TV 3
-http://162.212.179.32/gin-trn09/gt-sinevizyon-3/playlist.m3u8
+https://lives.anystreamrectv3.live/live/kor1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FİLM TV 4" tvg-logo="" group-title="Sinema",FİLM TV 4
-http://62.210.88.161/gin-trn09/gt-yesilcam-tv1/index.m3u8
+https://lives.anystreamrectv3.live/live/kor2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FİLM TV 5" tvg-logo="" group-title="Sinema",FİLM TV 5
-http://62.210.88.161/gin-trn09/gt-yesilcam-tv2/index.m3u8
+https://lives.anystreamrectv3.live/live/aks1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SİNEMA KULÜBÜ TV" tvg-logo="" group-title="Sinema",SİNEMA KULÜBÜ TV
 https://ythls.kekikakademi.org/youtube/channel/UChb7kIKlWiDCfwXg4LSMCjg.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="YEŞİLÇAM TV" tvg-logo="" group-title="Sinema",YEŞİLÇAM TV
