@@ -540,7 +540,9 @@ https://stream.netradyom.com/listen/megasite/radio.mp3/;stream.mp3
 https://ritim.80.yayin.com.tr/;stream.mp3
 #EXTINF:-1 tvg-id="" tvg-name="SULTAN RADYO" tvg-logo="" group-title="Radyo",SULTAN RADYO
 https://yayin.turkhosted.com/sultanradyo/stream?/;stream.mp3
-#EXTINF:-1 tvg-id="" tvg-name="PAL DOĞA RADYO" tvg-logo="" group-title="Radyo",PAL DOĞA RADYO
+#EXTINF:-1 tvg-id="" tvg-name="PAL NOSTALJİ" tvg-logo="" group-title="Radyo",PAL NOSTALJİ
+https://moondigitaledge.radyotvonline.net/palnostalji/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PAL DOĞA" tvg-logo="" group-title="Radyo",PAL DOĞA
 https://moondigitaledge.radyotvonline.net/paldoga/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO OYUN HAVALARI" tvg-logo="" group-title="Radyo",RADYO OYUN HAVALARI
 https://ythls.kekikakademi.org/youtube/video/dYbc2KMYXy0.m3u8
