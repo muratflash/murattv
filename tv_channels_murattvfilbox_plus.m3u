@@ -84,6 +84,8 @@ https://helga.iptv2022.com/sh/OlayTurk_TV/tracks-v1a1/mono.m3u8
 https://edge1.socialsmart.tv/belemturktv/bant1/playlist.m3u8
 #EXTINF:-1,TRAKYA TÜRK TV
 https://live.artidijitalmedya.com/artidijital_trakyaturk/trakyaturk/chunks.m3u8
+#EXTINF:-1,GZT TV
+https://ythls.kekikakademi.org/youtube/channel/UClWewRX7n_IY3mBbxmttR5Q.m3u8
 #EXTINF:-1,CİNE 1 TV
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
 #EXTINF:-1,TİVİ6 HD
@@ -250,6 +252,8 @@ http://vip.torktv.org:2095/live/grhn9626/gr00/5861.ts
 http://vip.torktv.org:2095/live/grhn9626/gr00/5864.ts
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS MAX 2" tvg-logo="" group-title="Spor",BEİN SPORTS MAX 2
 http://vip.torktv.org:2095/live/grhn9626/gr00/5865.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS ARŞİV" tvg-logo="" group-title="Spor",BEİN SPORTS ARŞİV
+https://ythls.kekikakademi.org/youtube/channel/UCNopxUNUMinlK3ybMGlpbGQ.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TABİİ SPOR" tvg-logo="" group-title="Spor",TABİİ SPOR
 https://100.zortstream.shop/tabii/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TABİİ SPOR 1" tvg-logo="" group-title="Spor",TABİİ SPOR 1
