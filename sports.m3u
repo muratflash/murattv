@@ -13,9 +13,9 @@ https://wooxangel05.shop:8443/704/mono.m3u8
 #EXTINF:-1 ,BEİN SPORTS 5
 https://cdn.srectv1.xyz/live/bs5/index.m3u8
 #EXTINF:-1 ,BEİN SPORTS MAX 1 
-https://cdn.srectv1.xyz/live/bsmax1/index.m3u8
+http://dmtn.tv:8080/GEN-broLINE/mfYMHgu/394631
 #EXTINF:-1 ,BEİN SPORTS MAX 2
-https://cdn.srectv1.xyz/live/bsmax2/index.m3u8
+http://dmtn.tv:8080/GEN-broLINE/mfYMHgu/394632
 #EXTINF:-1 ,S SPORT
 https://wooxangel05.shop:8443/705/mono.m3u8
 #EXTINF:-1 ,SPOR SMART
@@ -46,6 +46,14 @@ https://us-cdn-1.varsportscdn1.lol/608/index.m3u8
 https://us-cdn-1.varsportscdn1.lol/609/index.m3u8
 #EXTINF:-1 ,SPOR SMART 2 HD
 https://us-cdn-1.varsportscdn1.lol/610/index.m3u8
+#EXTINF:-1 ,S SPORT REFLEX
+http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/155.ts
+#EXTINF:-1 ,S SPORT 2 REFLEX
+http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/156.ts
+
+
+
+
 #EXTINF:-1 ,BEİN SPORTS HABER
 https://ythls.kekikakademi.org/youtube/channel/UCPe9vNjHF1kEExT5kHwc7aw.m3u8
 #EXTINF:-1 ,TRT SPOR
@@ -60,6 +68,16 @@ http://1mhvipss.eu:80/live/gokaykaplanci12/22.09.2020/213602.ts
 https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?app=tv8bucuk_web&ce=3
 #EXTINF:-1 ,BEİN SPORTS ARŞİV
 https://ythls.kekikakademi.org/youtube/channel/UCNopxUNUMinlK3ybMGlpbGQ.m3u8
+#EXTINF:-1 ,BEİN SPORTS 1 DMTN
+http://dmtn.tv:8080/GEN-broLINE/mfYMHgu/394619
+#EXTINF:-1 ,BEİN SPORTS 1 DMTN VİP
+http://dmtn.tv:8080/GEN-broLINE/mfYMHgu/394657
+#EXTINF:-1 ,BEİN SPORTS 2 DMTN
+http://dmtn.tv:8080/GEN-broLINE/mfYMHgu/394623
+#EXTINF:-1 ,BEİN SPORTS 3 DMTN
+http://dmtn.tv:8080/GEN-broLINE/mfYMHgu/394625
+#EXTINF:-1 ,BEİN SPORTS 4 DMTN
+http://dmtn.tv:8080/GEN-broLINE/mfYMHgu/394628
 #EXTINF:-1 ,BEİN SPORTS 1 LİVE
 https://101.zortstream.shop/601/index.m3u8
 #EXTINF:-1 ,BEİN SPORTS 2 LİVE
@@ -100,8 +118,6 @@ https://zTmN6RZ5z2LSCQvJ8nY9XQ.medya.trt.com.tr/master_1080p.m3u8
 http://QDzttCYaUBq_ZxcNUuBjCQ.medya.trt.com.tr/master_1080p.m3u8
 #EXTINF:-1 ,TV 8 HD
 https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
-#EXTINF:-1,A2_TR
-http://65.21.85.175:8000/play/a00f/index.m3u8?token=livetv
 #EXTINF:-1,Bein Sports 1 HD
 http://65.21.85.175:8000/play/a034/index.m3u8?token=livetv
 #EXTINF:-1,Bein Sports 2 HD
@@ -134,6 +150,14 @@ https://s1.bunnycdn200.xyz/cdn/b2.m3u8
 https://s1.bunnycdn200.xyz/cdn/b3.m3u8
 #EXTINF:-1 ,BEİN SPORTS 4 A
 https://s1.bunnycdn200.xyz/cdn/b4.m3u8
+#EXTINF:-1 ,NBA TV HD
+http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/165.ts
+#EXTINF:-1 ,AUTOMOTO HD
+http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/166.ts
+#EXTINF:-1 ,EUROSPORT 1
+http://xtream-ie.org:80/live/r8E7WzEjY/LLJwdV9mB/190.ts
+#EXTINF:-1 ,EUROSPORT 2
+http://xtream-ie.org:80/live/r8E7WzEjY/LLJwdV9mB/191.ts
 #EXTINF:-1 tvg-id="" tvg-name="HALK TV" tvg-logo="" group-title="Haber",HALK TV
 https://halktv.blutv.com/blutv_halktv_live/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HALK TV HD" tvg-logo="" group-title="Haber",HALK TV HD
