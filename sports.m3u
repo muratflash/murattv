@@ -1,7 +1,7 @@
 #EXTINF:-1 ,BEİN SPORTS 1 4K
 https://us-cdn-1.varsportscdn1.lol/600/index.m3u8
 #EXTINF:-1 ,BEİN SPORTS 1 
-https://cdn.srectv1.xyz/live/bs11/index.m3u8
+https://it-cdn-1.varsportscdn1.lol/600/index.m3u8
 #EXTINF:-1 ,BEİN SPORTS 1 ALTERNATİF
 https://cdn.srectv1.xyz/live/bs11/index.m3u8
 #EXTINF:-1 ,BEİN SPORTS 2
@@ -134,33 +134,39 @@ https://s1.bunnycdn200.xyz/cdn/b2.m3u8
 https://s1.bunnycdn200.xyz/cdn/b3.m3u8
 #EXTINF:-1 ,BEİN SPORTS 4 A
 https://s1.bunnycdn200.xyz/cdn/b4.m3u8
-#EXTINF:-1,Beyaz
-http://65.21.85.175:8000/play/a021/index.m3u8?token=livetv
-#EXTINF:-1,CARTOON NETWORK
-http://65.21.85.175:8000/play/a00i/index.m3u8?token=livetv
-#EXTINF:-1,Discovery TR
-http://65.21.85.175:8000/play/a02u/index.m3u8?token=livetv
-#EXTINF:-1,DİZİ PREMIUM HD TR
-http://65.21.85.175:8000/play/a02j/index.m3u8?token=livetv
-#EXTINF:-1,DİZİSMART MAX HD TR
-http://65.21.85.175:8000/play/a02l/index.m3u8?token=livetv
-#EXTINF:-1,Haber Global
-http://65.21.85.175:8000/play/a025/index.m3u8?token=livetv
-#EXTINF:-1,History
-http://65.21.85.175:8000/play/a01s/index.m3u8?token=livetv
-#EXTINF:-1,SHOW MAX
-http://65.21.85.175:8000/play/a02d/index.m3u8?token=livetv
-#EXTINF:-1,Sinema Aile
-http://65.21.85.175:8000/play/a01v/index.m3u8?token=livetv
-#EXTINF:-1,Sinema Aile - 2
-http://65.21.85.175:8000/play/a01w/index.m3u8?token=livetv
-#EXTINF:-1,Sinema Aile -3
-http://65.21.85.175:8000/play/a01x/index.m3u8?token=livetv
-#EXTINF:-1,Sinema Aksion
-http://65.21.85.175:8000/play/a01y/index.m3u8?token=livetv
-#EXTINF:-1,Sinema TR
-http://65.21.85.175:8000/play/a02i/index.m3u8?token=livetv
-#EXTINF:-1,Sinema kanal
-http://65.21.85.175:8000/play/a01z/index.m3u8?token=livetv
-#EXTINF:-1,TV-4
-http://65.21.85.175:8000/play/a022/index.m3u8?token=livetv
+#EXTINF:-1 tvg-id="" tvg-name="HALK TV" tvg-logo="" group-title="Haber",HALK TV
+https://halktv.blutv.com/blutv_halktv_live/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HALK TV HD" tvg-logo="" group-title="Haber",HALK TV HD
+https://ythls.kekikakademi.org/youtube/video/-HJwrahoMsQ.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SÖZCÜ TV" tvg-logo="" group-title="Haber",SÖZCÜ TV
+https://szctvdvr.blutv.com/blutv_szctv_dvr/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SÖZCÜ TV HD" tvg-logo="" group-title="Haber",SÖZCÜ TV HD
+https://ythls.kekikakademi.org/youtube/video/ztmY_cCtUl0.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELE 1" tvg-logo="" group-title="Haber",TELE 1
+https://tele1dvr.blutv.com/blutv_tele1_dvr2/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELE 1 HD" tvg-logo="" group-title="Haber",TELE 1 HD
+https://ythls.kekikakademi.org/youtube/video/Ah0q95CJqHM.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KRT TV" tvg-logo="" group-title="Haber",KRT TV
+https://krt.blutv.com/blutv_krt_live/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KRT TV HD" tvg-logo="" group-title="Haber",KRT TV HD
+https://ythls.kekikakademi.org/youtube/video/w5jlONGqxd4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FLASH HABER" tvg-logo="" group-title="Haber",FLASH HABER
+https://flashtv.blutv.com/blutv_flashtv/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FLASH HABER HD" tvg-logo="" group-title="Haber",FLASH HABER HD
+https://stream.guventechnology.com:19360/flashtv/1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAN TV" tvg-logo="" group-title="Haber",CAN TV
+http://canbroadcast.com:7000/canlican/tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MEDYA HABER" tvg-logo="" group-title="Haber",MEDYA HABER
+https://ythls.kekikakademi.org/youtube/channel/UC7V_iKHenrrXrrhhzOTDWkA.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MC EU" tvg-logo="" group-title="Haber",MC EU
+https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&type=live&service=wowza&protocol=https&output=playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MC EU WEB" tvg-logo="" group-title="Haber",MC EU WEB
+https://n2.burst.cdn.jetstre.am/session/450f4c594b612903b7d42d421fb93c21/sz/mceutv/wowza4/live/mc2/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TH TÜRK HABER" tvg-logo="" group-title="Haber",TH TÜRK HABER
+https://edge1.socialsmart.tv/turkhaber/bant1/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LİDER HABER" tvg-logo="" group-title="Haber",LİDER HABER
+https://ip252.ozelip.com:22524/lidertv/lidertv/chunklist_w1993196315.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EKOL TV" tvg-logo="" group-title="Haber",EKOL TV
+https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EKOL TV HD" tvg-logo="" group-title="Haber",EKOL TV HD
+https://ythls.kekikakademi.org/youtube/channel/UCccxXUKSuqOrlWQxweZBAQw.m3u8
