@@ -208,3 +208,99 @@ https://ip252.ozelip.com:22524/lidertv/lidertv/chunklist_w1993196315.m3u8
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EKOL TV HD" tvg-logo="" group-title="Haber",EKOL TV HD
 https://ythls.kekikakademi.org/youtube/channel/UCccxXUKSuqOrlWQxweZBAQw.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT RADYO 1" tvg-logo="" group-title="Radyo",TRT RADYO 1
+https://rd-trtradyo1.medya.trt.com.tr/master_128.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TGRT FM" tvg-logo="" group-title="Radyo",TGRT FM
+https://canli1.ihlasdigitalassets.com/tgrtfm.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADYO HUZUR PINARI" tvg-logo="" group-title="Radyo",RADYO HUZUR PINARI
+https://radyo.huzurpinari.com/listen/huzurpinari_radyo/radio.mp3
+#EXTINF:-1 tvg-id="" tvg-name="RADYO SPOR" tvg-logo="" group-title="Radyo",RADYO SPOR
+https://wowza1.radyotvonline.com/saran/radyospor.stream/chunklist_w959732395.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADYO GOL" tvg-logo="" group-title="Radyo",RADYO GOL
+https://wowza1.radyotvonline.com/unitedmedia/radyogol.stream/chunklist_w510741187.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LİG RADYO" tvg-logo="" group-title="Radyo",LİG RADYO
+https://turkmedya.radyotvonline.com/turkmedya/ligradyo.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADYO D" tvg-logo="" group-title="Radyo",RADYO D
+https://moondigitaledge2.radyotvonline.net/radyod/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEST FM" tvg-logo="" group-title="Radyo",BEST FM
+http://officialbestfm.radyotvonline.net/bestfmofficial
+#EXTINF:-1 tvg-id="" tvg-name="SHOW RADYO" tvg-logo="" group-title="Radyo",SHOW RADYO
+https://showradyo.radyotvonline.net/showradyoaac?/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="SÜPER FM" tvg-logo="" group-title="Radyo",SÜPER FM
+https://28553.live.streamtheworld.com/SUPER_FM128AAC.aac
+#EXTINF:-1 tvg-id="" tvg-name="ALEM FM" tvg-logo="" group-title="Radyo",ALEM FM
+https://edge1.radyotvonline.net/shoutcast/play/alemfm
+#EXTINF:-1 tvg-id="" tvg-name="DOKSANLAR FM" tvg-logo="" group-title="Radyo",DOKSANLAR FM
+https://moondigitaledge.radyotvonline.net/90lar/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KRAL FM" tvg-logo="" group-title="Radyo",KRAL FM
+https://dygedge2.radyotvonline.net/kralfm/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KRAL FM YT" tvg-logo="" group-title="Radyo",KRAL FM YT
+https://ythls.kekikakademi.org/youtube/video/A49bKX8gb-8.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AŞK FM" tvg-logo="" group-title="Radyo",AŞK FM
+https://stream.netradyom.com/radio/8000/radio.mp3?/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="BABA RADYO" tvg-logo="" group-title="Radyo",BABA RADYO
+http://officialbabaradyo.radyotvonline.net/babaofficial
+#EXTINF:-1 tvg-id="" tvg-name="RADYO 7" tvg-logo="" group-title="Radyo",RADYO 7
+https://moondigitaledge.radyotvonline.net/radyo7/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADYO 7 AKUSTİK TÜRKÜLER" tvg-logo="" group-title="Radyo",RADYO 7 AKUSTİK TÜRKÜLER
+https://moondigitaledge2.radyotvonline.net/radyo7turku/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADYO 7 ARABESK" tvg-logo="" group-title="Radyo",RADYO 7 ARABESK
+https://moondigitaledge2.radyotvonline.net/radyo7arabesk/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADYO 7 MÜSLÜM FERDİ ORHAN" tvg-logo="" group-title="Radyo",RADYO 7 MÜSLÜM FERDİ ORHAN
+https://moondigitaledge2.radyotvonline.net/radyo7fmo/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADYO ARABESK" tvg-logo="" group-title="Radyo",RADYO ARABESK
+https://yayin.radyoarabesk.com.tr:8000/stream
+#EXTINF:-1 tvg-id="" tvg-name="RADYO ARABESK YT" tvg-logo="" group-title="Radyo",RADYO ARABESK YT
+https://ythls.kekikakademi.org/youtube/video/TbfxFo8ODb8.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADYO ARABESK YT 2" tvg-logo="" group-title="Radyo",RADYO ARABESK YT 2
+https://ythls.kekikakademi.org/youtube/video/7Zlx_KWVgcY.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADYO ARABESK 7/24" tvg-logo="" group-title="Radyo",RADYO ARABESK 7/24
+https://ythls.kekikakademi.org/youtube/video/r9DQV3NvBdM.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADYO AYYÜZLÜM" tvg-logo="" group-title="Radyo",RADYO AYYÜZLÜM
+https://ythls.kekikakademi.org/youtube/video/xL1CZFaliHY.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADYO DAMAR" tvg-logo="" group-title="Radyo",RADYO DAMAR
+https://ythls.kekikakademi.org/youtube/video/7Ex8ajKgjSc.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADYO DRAM" tvg-logo="" group-title="Radyo",RADYO DRAM
+https://ythls.kekikakademi.org/youtube/video/wgzOnWm7F0Y.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="YAPRAK DÖKÜMÜ FM" tvg-logo="" group-title="Radyo",YAPRAK DÖKÜMÜ FM
+https://ythls.kekikakademi.org/youtube/video/dB5pDSWsDsM.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VİVA ARABESK" tvg-logo="" group-title="Radyo",VİVA ARABESK
+https://ythls.kekikakademi.org/youtube/video/tLwCEsuPICM.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADYO 44 ARABESK" tvg-logo="" group-title="Radyo",RADYO 44 ARABESK
+https://ythls.kekikakademi.org/youtube/video/gSBZcx5YbH4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADYO 44 AKUSTİK TÜRKÜ" tvg-logo="" group-title="Radyo",RADYO 44 AKUSTİK TÜRKÜ
+https://ythls.kekikakademi.org/youtube/video/gsD3xoM8v3k.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADYO EFSANE 4LU" tvg-logo="" group-title="Radyo",RADYO EFSANE 4LU
+https://moondigitaledge.radyotvonline.net/efsane4lu/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADYO NEŞTER" tvg-logo="" group-title="Radyo",RADYO NEŞTER
+https://live.sinirsizhost.com/8026/stream?/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="DAMAR FM" tvg-logo="" group-title="Radyo",DAMAR FM
+https://moondigitaledge2.radyotvonline.net/radyo7arabesk/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADYO MEGASİTE" tvg-logo="" group-title="Radyo",RADYO MEGASİTE
+https://stream.netradyom.com/listen/megasite/radio.mp3/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="STAR FM" tvg-logo="" group-title="Radyo",STAR FM
+https://ritim.80.yayin.com.tr/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="SULTAN RADYO" tvg-logo="" group-title="Radyo",SULTAN RADYO
+https://yayin.turkhosted.com/sultanradyo/stream?/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="PAL NOSTALJİ" tvg-logo="" group-title="Radyo",PAL NOSTALJİ
+https://moondigitaledge.radyotvonline.net/palnostalji/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PAL DOĞA" tvg-logo="" group-title="Radyo",PAL DOĞA
+https://moondigitaledge.radyotvonline.net/paldoga/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADYO OYUN HAVALARI" tvg-logo="" group-title="Radyo",RADYO OYUN HAVALARI
+https://ythls.kekikakademi.org/youtube/video/dYbc2KMYXy0.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BAŞKA RADYO" tvg-logo="" group-title="Radyo",BAŞKA RADYO
+https://ythls.kekikakademi.org/youtube/channel/UC_QmeKo2eLwP0bayo2X6g2Q.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="POPÜLER FM" tvg-logo="" group-title="Radyo",POPÜLER FM
+https://ythls.kekikakademi.org/youtube/video/HFmOn8UCTIU.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADYO TÜRKÜ" tvg-logo="" group-title="Radyo",RADYO TÜRKÜ
+https://ythls.kekikakademi.org/youtube/video/Bto75pRPQNA.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADYO DİGİTAL" tvg-logo="" group-title="Radyo",RADYO DİGİTAL
+https://ythls.kekikakademi.org/youtube/channel/UCfhDYnv9rIMzO9AhKUV_ozQ.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADYO BAHARTÜRK" tvg-logo="" group-title="Radyo",RADYO BAHARTÜRK
+https://ythls.kekikakademi.org/youtube/channel/UCcYy5-lJOuj-6QrfkUxVGTQ.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EGE GOKKUSAGİ FM" tvg-logo="" group-title="Radyo",EGE GOKKUSAGİ FM
+http://stream.tvcdn.net/yerel/ege-live-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADYO KULÜP" tvg-logo="" group-title="Radyo",RADYO KULÜP
+http://cdn-radyokulup.yayin.com.tr/radyokulup/radyokulup/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FON MÜZİKLERİ 7/24" tvg-logo="" group-title="Radyo",FON MÜZİKLERİ 7/24
+https://ythls.kekikakademi.org/youtube/video/EmdtE7sRMSY.m3u8
