@@ -1,43 +1,93 @@
-#EXTINF:-1 ,BEİN SPORTS 1 4K
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 4K" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 1 4K
 https://us-cdn-1.varsportscdn1.lol/600/index.m3u8
-#EXTINF:-1 ,BEİN SPORTS 1 
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 DMTN" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 1 DMTN
+http://dmtn.tv:8080/GEN-broLINE/mfYMHgu/394619
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 DMTN VİP" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 1 DMTN VİP
+http://dmtn.tv:8080/GEN-broLINE/mfYMHgu/394657
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 2 DMTN" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 2 DMTN
+http://dmtn.tv:8080/GEN-broLINE/mfYMHgu/394623
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 3 DMTN" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 3 DMTN
+http://dmtn.tv:8080/GEN-broLINE/mfYMHgu/394625
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 4 DMTN" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 4 DMTN
+http://dmtn.tv:8080/GEN-broLINE/mfYMHgu/394628
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 1
 https://it-cdn-1.varsportscdn1.lol/600/index.m3u8
-#EXTINF:-1 ,BEİN SPORTS 1 ALTERNATİF
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 ALTERNATİF" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 1 ALTERNATİF
 https://cdn.srectv1.xyz/live/bs11/index.m3u8
-#EXTINF:-1 ,BEİN SPORTS 2
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 2" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 2
 https://wooxangel05.shop:8443/702/mono.m3u8
-#EXTINF:-1 ,BEİN SPORTS 3
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 3" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 3
 https://wooxangel05.shop:8443/703/mono.m3u8
-#EXTINF:-1 ,BEİN SPORTS 4
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 4" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 4
 https://wooxangel05.shop:8443/704/mono.m3u8
-#EXTINF:-1 ,BEİN SPORTS 5
-https://cdn.srectv1.xyz/live/bs5/index.m3u8
-#EXTINF:-1 ,BEİN SPORTS MAX 1 
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 5" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 5
+https://us-cdn-1.varsportscdn1.lol/605/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS MAX 1" tvg-logo="" group-title="Bein Sports",BEİN SPORTS MAX 1
 http://dmtn.tv:8080/GEN-broLINE/mfYMHgu/394631
-#EXTINF:-1 ,BEİN SPORTS MAX 2
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS MAX 2" tvg-logo="" group-title="Bein Sports",BEİN SPORTS MAX 2
 http://dmtn.tv:8080/GEN-broLINE/mfYMHgu/394632
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 UHD" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 1 UHD
+https://jyayintv91.site/cdn/bein_sports_1_hd/main.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 VİP" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 1 VİP
+https://wooxangel05.shop:8443/700/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 REC" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 1 REC
+https://m3withered-water-9ef7.ahmedisess18.workers.dev/live/bs1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 2 REC" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 2 REC
+https://m3withered-water-9ef7.ahmedisess18.workers.dev/live/bs2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 HD" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 1 HD
+https://us-cdn-1.varsportscdn1.lol/601/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 2 HD" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 2 HD
+https://us-cdn-1.varsportscdn1.lol/602/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 3 HD" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 3 HD
+https://us-cdn-1.varsportscdn1.lol/603/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 4 HD" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 4 HD
+https://us-cdn-1.varsportscdn1.lol/604/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 5 HD" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 5 HD
+https://cdn.srectv1.xyz/live/bs5/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 LİVE" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 1 LİVE
+https://101.zortstream.shop/601/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 2 LİVE" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 2 LİVE
+https://101.zortstream.shop/602/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 3 LİVE" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 3 LİVE
+https://101.zortstream.shop/603/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 4 LİVE" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 4 LİVE
+https://101.zortstream.shop/604/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 5 LİVE" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 5 LİVE
+https://101.zortstream.shop/605/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 FHD" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 1 FHD
+http://65.21.85.175:8000/play/a034/index.m3u8?token=livetv
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 2 FHD" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 2 FHD
+http://65.21.85.175:8000/play/a035/index.m3u8?token=livetv
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 3 FHD" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 3 FHD
+http://65.21.85.175:8000/play/a036/index.m3u8?token=livetv
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 4 FHD" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 4 FHD
+http://65.21.85.175:8000/play/a037/index.m3u8?token=livetv
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 STREAM" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 1 STREAM
+https://sei.c6db67cffaaefebe.click/i/neden/601/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 2 STREAM" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 2 STREAM
+https://sei.c6db67cffaaefebe.click/i/neden/602/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 3 STREAM" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 3 STREAM
+https://sei.c6db67cffaaefebe.click/i/neden/603/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 4 STREAM" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 4 STREAM
+https://sei.c6db67cffaaefebe.click/i/neden/604/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 RAW" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 1 RAW
+https://s1.bunnycdn200.xyz/cdn/b1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 2 RAW" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 2 RAW
+https://s1.bunnycdn200.xyz/cdn/b2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 3 RAW" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 3 RAW
+https://s1.bunnycdn200.xyz/cdn/b3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 4 RAW" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 4 RAW
+https://s1.bunnycdn200.xyz/cdn/b4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS HABER HD" tvg-logo="" group-title="Bein Sports",BEİN SPORTS HABER HD
+https://ythls.kekikakademi.org/youtube/channel/UCPe9vNjHF1kEExT5kHwc7aw.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS HABER" tvg-logo="" group-title="Bein Sports",BEİN SPORTS HABER
+http://65.21.85.175:8000/play/a033/index.m3u8?token=livetv
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS ARŞİV" tvg-logo="" group-title="Bein Sports",BEİN SPORTS ARŞİV
+https://ythls.kekikakademi.org/youtube/channel/UCNopxUNUMinlK3ybMGlpbGQ.m3u8
 #EXTINF:-1 ,S SPORT
 https://wooxangel05.shop:8443/705/mono.m3u8
 #EXTINF:-1 ,SPOR SMART
 https://wooxangel05.shop:8443/707/mono.m3u8
-#EXTINF:-1 ,BEİN SPORTS 1 UHD
-https://jyayintv91.site/cdn/bein_sports_1_hd/main.m3u8
-#EXTINF:-1 ,BEİN SPORTS 1 SELCUK
-https://wooxangel05.shop:8443/700/mono.m3u8
-#EXTINF:-1 ,BEİN SPORTS 1 PARS
-https://m3withered-water-9ef7.ahmedisess18.workers.dev/live/bs1/index.m3u8
-#EXTINF:-1 ,BEİN SPORTS 2 PARS
-https://m3withered-water-9ef7.ahmedisess18.workers.dev/live/bs2/index.m3u8
-#EXTINF:-1 ,BEİN SPORTS 1 HD
-https://us-cdn-1.varsportscdn1.lol/601/index.m3u8
-#EXTINF:-1 ,BEİN SPORTS 2 HD
-https://us-cdn-1.varsportscdn1.lol/602/index.m3u8
-#EXTINF:-1 ,BEİN SPORTS 3 HD
-https://us-cdn-1.varsportscdn1.lol/603/index.m3u8
-#EXTINF:-1 ,BEİN SPORTS 4 HD
-https://us-cdn-1.varsportscdn1.lol/604/index.m3u8
-#EXTINF:-1 ,BEİN SPORTS 5 HD
-https://us-cdn-1.varsportscdn1.lol/605/index.m3u8
 #EXTINF:-1 ,S SPORT HD
 https://us-cdn-1.varsportscdn1.lol/607/index.m3u8
 #EXTINF:-1 ,S SPORT 2 HD
@@ -50,10 +100,6 @@ https://us-cdn-1.varsportscdn1.lol/610/index.m3u8
 http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/155.ts
 #EXTINF:-1 ,S SPORT 2 REFLEX
 http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/156.ts
-
-
-
-
 #EXTINF:-1 ,BEİN SPORTS HABER
 https://ythls.kekikakademi.org/youtube/channel/UCPe9vNjHF1kEExT5kHwc7aw.m3u8
 #EXTINF:-1 ,TRT SPOR
@@ -68,26 +114,6 @@ http://1mhvipss.eu:80/live/gokaykaplanci12/22.09.2020/213602.ts
 https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?app=tv8bucuk_web&ce=3
 #EXTINF:-1 ,BEİN SPORTS ARŞİV
 https://ythls.kekikakademi.org/youtube/channel/UCNopxUNUMinlK3ybMGlpbGQ.m3u8
-#EXTINF:-1 ,BEİN SPORTS 1 DMTN
-http://dmtn.tv:8080/GEN-broLINE/mfYMHgu/394619
-#EXTINF:-1 ,BEİN SPORTS 1 DMTN VİP
-http://dmtn.tv:8080/GEN-broLINE/mfYMHgu/394657
-#EXTINF:-1 ,BEİN SPORTS 2 DMTN
-http://dmtn.tv:8080/GEN-broLINE/mfYMHgu/394623
-#EXTINF:-1 ,BEİN SPORTS 3 DMTN
-http://dmtn.tv:8080/GEN-broLINE/mfYMHgu/394625
-#EXTINF:-1 ,BEİN SPORTS 4 DMTN
-http://dmtn.tv:8080/GEN-broLINE/mfYMHgu/394628
-#EXTINF:-1 ,BEİN SPORTS 1 LİVE
-https://101.zortstream.shop/601/index.m3u8
-#EXTINF:-1 ,BEİN SPORTS 2 LİVE
-https://101.zortstream.shop/602/index.m3u8
-#EXTINF:-1 ,BEİN SPORTS 3 LİVE
-https://101.zortstream.shop/603/index.m3u8
-#EXTINF:-1 ,BEİN SPORTS 4 LİVE
-https://101.zortstream.shop/604/index.m3u8
-#EXTINF:-1 ,BEİN SPORTS 5 LİVE
-https://101.zortstream.shop/605/index.m3u8
 #EXTINF:-1 ,TABİİ SPOR
 https://fr-cdn-1.varsportscdn1.lol/tabii/index.m3u8
 #EXTINF:-1 ,TABİİ SPOR 1
@@ -118,38 +144,12 @@ https://zTmN6RZ5z2LSCQvJ8nY9XQ.medya.trt.com.tr/master_1080p.m3u8
 http://QDzttCYaUBq_ZxcNUuBjCQ.medya.trt.com.tr/master_1080p.m3u8
 #EXTINF:-1 ,TV 8 HD
 https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
-#EXTINF:-1,Bein Sports 1 HD
-http://65.21.85.175:8000/play/a034/index.m3u8?token=livetv
-#EXTINF:-1,Bein Sports 2 HD
-http://65.21.85.175:8000/play/a035/index.m3u8?token=livetv
-#EXTINF:-1,Bein Sports 3 HD
-http://65.21.85.175:8000/play/a036/index.m3u8?token=livetv
-#EXTINF:-1,Bein Sports 4 HD
-http://65.21.85.175:8000/play/a037/index.m3u8?token=livetv
-#EXTINF:-1,Bein Sports Haber
-http://65.21.85.175:8000/play/a033/index.m3u8?token=livetv
-#EXTINF:-1,Bein Sports 1 STREAM
-https://sei.c6db67cffaaefebe.click/i/neden/601/playlist.m3u8
-#EXTINF:-1,Bein Sports 2 STREAM
-https://sei.c6db67cffaaefebe.click/i/neden/602/playlist.m3u8
-#EXTINF:-1,Bein Sports 3 STREAM
-https://sei.c6db67cffaaefebe.click/i/neden/603/playlist.m3u8
-#EXTINF:-1,Bein Sports 4 STREAM
-https://sei.c6db67cffaaefebe.click/i/neden/604/playlist.m3u8
 #EXTINF:-1,TİVİBU SPOR 1
 https://sei.c6db67cffaaefebe.click/i/neden/605/playlist.m3u8
 #EXTINF:-1,TİVİBU SPOR 1 HD
 https://sei.c6db67cffaaefebe.click/i/neden/606/playlist.m3u8
 #EXTINF:-1,TİVİBU SPOR 2
 https://sei.c6db67cffaaefebe.click/i/neden/607/playlist.m3u8
-#EXTINF:-1 ,BEİN SPORTS 1 A
-https://s1.bunnycdn200.xyz/cdn/b1.m3u8
-#EXTINF:-1 ,BEİN SPORTS 2 A
-https://s1.bunnycdn200.xyz/cdn/b2.m3u8
-#EXTINF:-1 ,BEİN SPORTS 3 A
-https://s1.bunnycdn200.xyz/cdn/b3.m3u8
-#EXTINF:-1 ,BEİN SPORTS 4 A
-https://s1.bunnycdn200.xyz/cdn/b4.m3u8
 #EXTINF:-1 ,NBA TV HD
 http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/165.ts
 #EXTINF:-1 ,AUTOMOTO HD
