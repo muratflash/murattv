@@ -300,6 +300,8 @@ https://ythls.kekikakademi.org/youtube/video/Bto75pRPQNA.m3u8
 https://ythls.kekikakademi.org/youtube/channel/UCfhDYnv9rIMzO9AhKUV_ozQ.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO BAHARTÜRK" tvg-logo="" group-title="Radyo",RADYO BAHARTÜRK
 https://ythls.kekikakademi.org/youtube/channel/UCcYy5-lJOuj-6QrfkUxVGTQ.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DOĞUŞ FM" tvg-logo="" group-title="Radyo",DOĞUŞ FM
+https://ythls.kekikakademi.org/youtube/channel/UC2XcxJNX_NeQqAi1FEh-5Aw.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EGE GOKKUSAGİ FM" tvg-logo="" group-title="Radyo",EGE GOKKUSAGİ FM
 http://stream.tvcdn.net/yerel/ege-live-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO KULÜP" tvg-logo="" group-title="Radyo",RADYO KULÜP
