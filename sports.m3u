@@ -128,6 +128,74 @@ https://fr-cdn-1.varsportscdn1.lol/tabii4/index.m3u8
 https://fr-cdn-1.varsportscdn1.lol/tabii5/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TABİİ SPOR 6" tvg-logo="" group-title="Tabii Spor",TABİİ SPOR 6
 https://fr-cdn-1.varsportscdn1.lol/tabii6/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 1 HD" tvg-logo="" group-title="Exxen Spor",EXXEN SPOR 1 HD
+http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/167.ts
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 2 HD" tvg-logo="" group-title="Exxen Spor",EXXEN SPOR 2 HD
+http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/168.ts
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 3 HD" tvg-logo="" group-title="Exxen Spor",EXXEN SPOR 3 HD
+http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/169.ts
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 4 HD" tvg-logo="" group-title="Exxen Spor",EXXEN SPOR 4 HD
+http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/170.ts
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 5 HD" tvg-logo="" group-title="Exxen Spor",EXXEN SPOR 5 HD
+http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/171.ts
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 6 HD" tvg-logo="" group-title="Exxen Spor",EXXEN SPOR 6 HD
+http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/172.ts
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 7 HD" tvg-logo="" group-title="Exxen Spor",EXXEN SPOR 7 HD
+http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/173.ts
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 8 HD" tvg-logo="" group-title="Exxen Spor",EXXEN SPOR 8 HD
+http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/174.ts
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 1 FHD DMTN" tvg-logo="" group-title="Exxen Spor",EXXEN SPOR 1 FHD DMTN
+http://dmtn.tv:8080/GEN-broLINE/mfYMHgu/503257
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 1 HD DMTN" tvg-logo="" group-title="Exxen Spor",EXXEN SPOR 1 HD DMTN
+http://dmtn.tv:8080/GEN-broLINE/mfYMHgu/503259
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 1 DMTN" tvg-logo="" group-title="Exxen Spor",EXXEN SPOR 1 DMTN
+http://dmtn.tv:8080/GEN-broLINE/mfYMHgu/503258
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 2 FHD DMTN" tvg-logo="" group-title="Exxen Spor",EXXEN SPOR 2 FHD DMTN
+http://dmtn.tv:8080/GEN-broLINE/mfYMHgu/503260
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 2 HD DMTN" tvg-logo="" group-title="Exxen Spor",EXXEN SPOR 2 HD DMTN
+http://dmtn.tv:8080/GEN-broLINE/mfYMHgu/503261
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 3 FHD DMTN" tvg-logo="" group-title="Exxen Spor",EXXEN SPOR 3 FHD DMTN
+http://dmtn.tv:8080/GEN-broLINE/mfYMHgu/503262
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 3 HD DMTN" tvg-logo="" group-title="Exxen Spor",EXXEN SPOR 3 HD DMTN
+http://dmtn.tv:8080/GEN-broLINE/mfYMHgu/503263
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 4 FHD DMTN" tvg-logo="" group-title="Exxen Spor",EXXEN SPOR 4 FHD DMTN
+http://dmtn.tv:8080/GEN-broLINE/mfYMHgu/503265
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 5 FHD DMTN" tvg-logo="" group-title="Exxen Spor",EXXEN SPOR 5 FHD DMTN
+http://dmtn.tv:8080/GEN-broLINE/mfYMHgu/503267
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 6 FHD DMTN" tvg-logo="" group-title="Exxen Spor",EXXEN SPOR 6 FHD DMTN
+http://dmtn.tv:8080/GEN-broLINE/mfYMHgu/503269
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 7 FHD DMTN" tvg-logo="" group-title="Exxen Spor",EXXEN SPOR 7 FHD DMTN
+http://dmtn.tv:8080/GEN-broLINE/mfYMHgu/503271
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 8 FHD DMTN" tvg-logo="" group-title="Exxen Spor",EXXEN SPOR 8 FHD DMTN
+http://dmtn.tv:8080/GEN-broLINE/mfYMHgu/503273
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 9 FHD DMTN" tvg-logo="" group-title="Exxen Spor",EXXEN SPOR 9 FHD DMTN
+http://dmtn.tv:8080/GEN-broLINE/mfYMHgu/503274
+#EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR FHD" tvg-logo="" group-title="Tivibu Spor",TİVİBU SPOR FHD
+http://1mhvipss.eu:80/live/gokaykaplanci12/22.09.2020/213602.ts
+#EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR 1 FHD" tvg-logo="" group-title="Tivibu Spor",TİVİBU SPOR 1 FHD
+http://1mhvipss.eu:80/live/gokaykaplanci12/22.09.2020/812.ts
+#EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR 2 FHD" tvg-logo="" group-title="Tivibu Spor",TİVİBU SPOR 2 FHD
+http://1mhvipss.eu:80/live/gokaykaplanci12/22.09.2020/811.ts
+#EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR 3 FHD" tvg-logo="" group-title="Tivibu Spor",TİVİBU SPOR 3 FHD
+http://1mhvipss.eu:80/live/gokaykaplanci12/22.09.2020/810.ts
+#EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR 4 FHD" tvg-logo="" group-title="Tivibu Spor",TİVİBU SPOR 4 FHD
+http://1mhvipss.eu:80/live/gokaykaplanci12/22.09.2020/129749.ts
+#EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR 1" tvg-logo="" group-title="Tivibu Spor",TİVİBU SPOR 1
+http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/161.ts
+#EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR 2" tvg-logo="" group-title="Tivibu Spor",TİVİBU SPOR 2
+http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/162.ts
+#EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR 3" tvg-logo="" group-title="Tivibu Spor",TİVİBU SPOR 3
+http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/163.ts
+#EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR 1 HD" tvg-logo="" group-title="Tivibu Spor",TİVİBU SPOR 1 HD
+https://sei.c6db67cffaaefebe.click/i/neden/605/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR 1 HD ALTERNATİF" tvg-logo="" group-title="Tivibu Spor",TİVİBU SPOR 1 HD ALTERNATİF
+https://sei.c6db67cffaaefebe.click/i/neden/606/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR 2 HD" tvg-logo="" group-title="Tivibu Spor",TİVİBU SPOR 2 HD
+https://sei.c6db67cffaaefebe.click/i/neden/607/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR 3 HD" tvg-logo="" group-title="Tivibu Spor",TİVİBU SPOR 3 HD
+https://sei.c6db67cffaaefebe.click/i/neden/608/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR 4 HD" tvg-logo="" group-title="Tivibu Spor",TİVİBU SPOR 4 HD
+https://sei.c6db67cffaaefebe.click/i/neden/609/playlist.m3u8
 #EXTINF:-1 ,S SPORT
 https://wooxangel05.shop:8443/705/mono.m3u8
 #EXTINF:-1 ,SPOR SMART
@@ -160,12 +228,6 @@ https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?app=tv8bucuk_web&ce=3
 https://ythls.kekikakademi.org/youtube/channel/UCNopxUNUMinlK3ybMGlpbGQ.m3u8
 #EXTINF:-1 ,TV 8 HD
 https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
-#EXTINF:-1,TİVİBU SPOR 1
-https://sei.c6db67cffaaefebe.click/i/neden/605/playlist.m3u8
-#EXTINF:-1,TİVİBU SPOR 1 HD
-https://sei.c6db67cffaaefebe.click/i/neden/606/playlist.m3u8
-#EXTINF:-1,TİVİBU SPOR 2
-https://sei.c6db67cffaaefebe.click/i/neden/607/playlist.m3u8
 #EXTINF:-1 ,NBA TV HD
 http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/165.ts
 #EXTINF:-1 ,AUTOMOTO HD
