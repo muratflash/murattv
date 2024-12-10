@@ -37,8 +37,8 @@ https://ondetv.ozelip.com.tr:3390/hybrid/play.m3u8
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/chunks.m3u8
 #EXTINF:-1,DENİZ POSTASI TV
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
-#EXTINF:-1,AKTİF TV HD
-http://145.239.37.125:20458/aktif/aktif/chunklist.m3u8
+#EXTINF:-1,TABİİ TV
+https://playlist.fasttvcdn.com/pl/0ijezatwsvi5a5khny0rka/tabii-Turkcell-2/playlist/0.m3u8
 #EXTINF:-1,İSVİÇRE TV
 https://i41.ozelip.com:3269/hybrid/play.m3u8
 #EXTINF:-1,BİZİMKİLER TV
