@@ -134,6 +134,8 @@ https://5e06e5e8c2e27.streamlock.net:1936/videonow/YANSIMA_MUZIK_RT/chunklist_w1
 https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
 #EXTINF:-1,TATLISES TV
 https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/playlist.m3u8
+#EXTINF:-1,SDM TV MÜZİK
+https://host.onlineradyotv.net:8081/sdmtv2/tracks-v1a1/mono.m3u8
 #EXTINF:-1,PALA TV
 http://stream.tvcdn.net/diger-muzik/pala-tv.m3u8
 #EXTINF:-1,SLOW KARADENİZ TV
@@ -142,6 +144,8 @@ https://yayin.slowkaradeniztv.com:3390/hybrid/play.m3u8
 https://oltutv.ozelip.com:3870/stream/play.m3u8
 #EXTINF:-1,SİTELER TV
 https://tvturkiyem.ozelip.com:3534/stream/play.m3u8?autoplay=1
+#EXTINF:-1,SDM TV ÇİZGİ FİLM
+https://host.onlineradyotv.net:8081/sdmtv4/tracks-v1a1/mono.m3u8
 #EXTINF:-1,TRT DİYANET ÇOCUK
 http://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,KUZEY KIBRIS TV
