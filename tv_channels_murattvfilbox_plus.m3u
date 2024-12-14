@@ -104,32 +104,24 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 http://hw1.jemtv.com/app/a2hd/playlist.m3u8
 #EXTINF:-1,ESMA TV
 https://esmatv.interweb.com.tr:3928/stream/play.m3u8
-#EXTINF:-1,TTV SİNEMA
+#EXTINF:-1,İSMAYİLLİ TV SİNEMA
 https://ismayillitv7.interweb.com.tr:3436/hybrid/play.m3u8
-#EXTINF:-1,MEGA TV
-https://kanal65.interweb.com.tr:3669/hybrid/play.m3u8
-#EXTINF:-1,ULDUZ TV
-https://ulduztv.interweb.com.tr:3266/stream/play.m3u8
 #EXTINF:-1,FARRUK TV
 https://vsrv1.az-streamingserver.com:3833/live/ofhwiwudlive.m3u8
-#EXTINF:-1,HTV SİNEMA
-https://hasantv87.interweb.com.tr:3799/multi_web/play.m3u8
 #EXTINF:-1,ALVİN CHANNEL
 https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
 #EXTINF:-1,KONUL TV
 https://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
-#EXTINF:-1,CLC MEDYA TV
-https://clcmediatv.ozelip.com:3192/stream/play.m3u8
-#EXTINF:-1,CİNE5 TV
-https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist_w564654603.m3u8
+#EXTINF:-1,OLTU TV
+https://oltutv.ozelip.com:3870/stream/play.m3u8
 #EXTINF:-1,SÜRPRİZ TV HD
 https://yayin30.haber100.com/live/surpriztv/chunklist_w499191500.m3u8
-#EXTINF:-1,KANAL 53
-https://kanal53.ozelip.com:3448/hybrid/play.m3u8
+#EXTINF:-1,CİNE5 TV
+https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist_w564654603.m3u8
 #EXTINF:-1,KOBİM TV
 http://cdn-kobimtv.yayin.com.tr/kobimtv/kobimtv/chunklist.m3u8
-#EXTINF:-1,YANSIMA MÜZİK TV
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/YANSIMA_MUZIK_RT/chunklist_w1745154007.m3u8
+#EXTINF:-1,KANAL 53
+https://kanal53.ozelip.com:3448/hybrid/play.m3u8
 #EXTINF:-1,KRAL POP TV HD
 https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
 #EXTINF:-1,TATLISES TV
@@ -140,8 +132,6 @@ https://host.onlineradyotv.net:8081/sdmtv2/tracks-v1a1/mono.m3u8
 http://stream.tvcdn.net/diger-muzik/pala-tv.m3u8
 #EXTINF:-1,SLOW KARADENİZ TV
 https://yayin.slowkaradeniztv.com:3390/hybrid/play.m3u8
-#EXTINF:-1,OLTU TV
-https://oltutv.ozelip.com:3870/stream/play.m3u8
 #EXTINF:-1,SİTELER TV
 https://tvturkiyem.ozelip.com:3534/stream/play.m3u8?autoplay=1
 #EXTINF:-1,SDM TV ÇİZGİ FİLM
@@ -187,7 +177,7 @@ https://ythls.kekikakademi.org/youtube/video/Ah0q95CJqHM.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KRT TV" tvg-logo="" group-title="Haber",KRT TV
 https://krt.blutv.com/blutv_krt_live/live_720p4350000kbps/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KRT TV HD" tvg-logo="" group-title="Haber",KRT TV HD
-https://ythls.kekikakademi.org/youtube/video/w5jlONGqxd4.m3u8
+https://ythls.kekikakademi.org/youtube/channel/UCVKWwHoLwUMMa80cu_1uapA.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FLASH HABER" tvg-logo="" group-title="Haber",FLASH HABER
 https://flashtv.blutv.com/blutv_flashtv/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FLASH HABER HD" tvg-logo="" group-title="Haber",FLASH HABER HD
@@ -283,11 +273,11 @@ http://162.212.179.32/gin-dvrfl05/gin-idmantv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN MOVİES ACTİON 1" tvg-logo="" group-title="Sinema",BEİN MOVİES ACTİON 1
 http://tvr.lol:80/live/p3Uj2sSuZ5Ec/kygVTXF2nYJz/784.ts
 #EXTINF:-1 tvg-id="" tvg-name="BEİN MOVİES ACTİON 2" tvg-logo="" group-title="Sinema",BEİN MOVİES ACTİON 2
-http://zr0811.xyz:8080/live/Hasan675/WPku9RbX8r3/6199.ts
+http://relaxsrv.xyz:8080/live/Hasan675/WPku9RbX8r3/6199.ts
 #EXTINF:-1 tvg-id="" tvg-name="BEİN MOVİES PREMİERE" tvg-logo="" group-title="Sinema",BEİN MOVİES PREMİERE
-https://lives.anystreamrectv3.live/live/bspremier1.m3u8
+http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/6451.ts
 #EXTINF:-1 tvg-id="" tvg-name="BEİN MOVİES STARS" tvg-logo="" group-title="Sinema",BEİN MOVİES STARS
-https://lives.anystreamrectv3.live/live/bsstars.m3u8
+http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/6453.ts
 #EXTINF:-1 tvg-id="" tvg-name="BEİN MOVİES TÜRK" tvg-logo="" group-title="Sinema",BEİN MOVİES TÜRK
 http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/6454.ts
 #EXTINF:-1 tvg-id="" tvg-name="MOVİE SMART TÜRK" tvg-logo="" group-title="Sinema",MOVİE SMART TÜRK
@@ -295,15 +285,15 @@ http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/6461.ts
 #EXTINF:-1 tvg-id="" tvg-name="MOVİE SMART CLASSİC" tvg-logo="" group-title="Sinema",MOVİE SMART CLASSİC
 http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/6458.ts
 #EXTINF:-1 tvg-id="" tvg-name="FİL TV" tvg-logo="" group-title="Sinema",FİL TV
-http://izlesstvrs.xyz:80/live/erhan.yalcin/rKMkE4Zyat/270756.ts
+http://izlesstvrs.xyz:80/live/urar139/24022022erd/270756.ts
 #EXTINF:-1 tvg-id="" tvg-name="FİLMAX" tvg-logo="" group-title="Sinema",FİLMAX
-http://izlesstvrs.xyz:80/live/erhan.yalcin/rKMkE4Zyat/270755.ts
+http://izlesstvrs.xyz:80/live/urar139/24022022erd/270755.ts
 #EXTINF:-1 tvg-id="" tvg-name="FİLM CLUP" tvg-logo="" group-title="Sinema",FİLM CLUP
-http://izlesstvrs.xyz:80/live/erhan.yalcin/rKMkE4Zyat/270754.ts
+http://izlesstvrs.xyz:80/live/urar139/24022022erd/270754.ts
 #EXTINF:-1 tvg-id="" tvg-name="FİLM CLUP AKSİYON" tvg-logo="" group-title="Sinema",FİLM CLUP AKSİYON
-http://izlesstvrs.xyz:80/live/erhan.yalcin/rKMkE4Zyat/270753.ts
+http://izlesstvrs.xyz:80/live/urar139/24022022erd/270753.ts
 #EXTINF:-1 tvg-id="" tvg-name="FİLM CLUP KOMEDİ" tvg-logo="" group-title="Sinema",FİLM CLUP KOMEDİ
-http://izlesstvrs.xyz:80/live/erhan.yalcin/rKMkE4Zyat/270751.ts
+http://izlesstvrs.xyz:80/live/urar139/24022022erd/270751.ts
 #EXTINF:-1 tvg-id="" tvg-name="SİNEMA TV" tvg-logo="" group-title="Sinema",SİNEMA TV
 http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/6467.ts
 #EXTINF:-1 tvg-id="" tvg-name="SİNEMA AKSİYON" tvg-logo="" group-title="Sinema",SİNEMA AKSİYON
@@ -444,22 +434,14 @@ http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/163176.ts
 http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/163150.ts
 #EXTINF:-1 tvg-id="" tvg-name="ESMA TV" tvg-logo="" group-title="Sinema",ESMA TV
 https://esmatv.interweb.com.tr:3928/stream/play.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TTV SİNEMA" tvg-logo="" group-title="Sinema",TTV SİNEMA
+#EXTINF:-1 tvg-id="" tvg-name="İSMAYİLLİ TV SİNEMA" tvg-logo="" group-title="Sinema",İSMAYİLLİ TV SİNEMA
 https://ismayillitv7.interweb.com.tr:3436/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MEGA TV" tvg-logo="" group-title="Sinema",MEGA TV
-https://kanal65.interweb.com.tr:3669/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ULDUZ TV" tvg-logo="" group-title="Sinema",ULDUZ TV
-https://ulduztv.interweb.com.tr:3266/stream/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FARRUK TV" tvg-logo="" group-title="Sinema",FARRUK TV
 https://vsrv1.az-streamingserver.com:3833/live/ofhwiwudlive.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HTV SİNEMA" tvg-logo="" group-title="Sinema",HTV SİNEMA
-https://hasantv87.interweb.com.tr:3799/multi_web/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ALVİN CHANNEL" tvg-logo="" group-title="Sinema",ALVİN CHANNEL
 https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KONUL TV" tvg-logo="" group-title="Sinema",KONUL TV
 https://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CLC MEDYA TV" tvg-logo="" group-title="Sinema",CLC MEDYA TV
-https://clcmediatv.ozelip.com:3192/stream/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT RADYO 1" tvg-logo="" group-title="Radyo",TRT RADYO 1
 https://rd-trtradyo1.medya.trt.com.tr/master_128.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TGRT FM" tvg-logo="" group-title="Radyo",TGRT FM
@@ -503,9 +485,9 @@ https://moondigitaledge2.radyotvonline.net/radyo7fmo/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO ARABESK" tvg-logo="" group-title="Radyo",RADYO ARABESK
 https://yayin.radyoarabesk.com.tr:8000/stream
 #EXTINF:-1 tvg-id="" tvg-name="RADYO ARABESK YT" tvg-logo="" group-title="Radyo",RADYO ARABESK YT
-https://ythls.kekikakademi.org/youtube/video/TbfxFo8ODb8.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADYO ARABESK YT 2" tvg-logo="" group-title="Radyo",RADYO ARABESK YT 2
-https://ythls.kekikakademi.org/youtube/video/7Zlx_KWVgcY.m3u8
+https://ythls.kekikakademi.org/youtube/channel/UCfhDYnv9rIMzO9AhKUV_ozQ.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADYO BAHARTÜRK ARABESK" tvg-logo="" group-title="Radyo",RADYO BAHARTÜRK ARABESK
+https://ythls.kekikakademi.org/youtube/channel/UCQxsdKbuO0JNDK8NAtgB7qA.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO ARABESK 7/24" tvg-logo="" group-title="Radyo",RADYO ARABESK 7/24
 https://ythls.kekikakademi.org/youtube/video/r9DQV3NvBdM.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO AYYÜZLÜM" tvg-logo="" group-title="Radyo",RADYO AYYÜZLÜM
