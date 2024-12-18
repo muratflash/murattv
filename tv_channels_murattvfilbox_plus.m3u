@@ -101,7 +101,7 @@ https://tv4.blutv.com/blutv_tv4/live.m3u8
 #EXTINF:-1,BEYAZ TV HD
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 #EXTINF:-1,A2 HD
-http://hw1.jemtv.com/app/a2hd/playlist.m3u8
+http://89.187.191.41/A2-HD-TR/video.m3u8
 #EXTINF:-1,ESMA TV
 https://esmatv.interweb.com.tr:3928/stream/play.m3u8
 #EXTINF:-1,İSMAYİLLİ TV SİNEMA
@@ -203,7 +203,7 @@ https://ythls.kekikakademi.org/youtube/channel/UCPe9vNjHF1kEExT5kHwc7aw.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT SPOR HD" tvg-logo="" group-title="Spor",TRT SPOR HD
 https://trt.daioncdn.net/trtspor/master_1080p.m3u8?platform=trtspor&sid=6v658fcnyyrq&app=9b65474e-8197-4899-aabb-321fcf6dd9eb&ce=2
 #EXTINF:-1 tvg-id="" tvg-name="A SPOR" tvg-logo="" group-title="Spor",A SPOR
-http://hw1.jemtv.com/app/ASporHD/playlist.m3u8
+http://50.7.144.122:1935/livetv/aspor.stream/sec-f5-v1-a1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A SPOR HD" tvg-logo="" group-title="Spor",A SPOR HD
 https://ythls.kekikakademi.org/youtube/video/7uBpwcn2ZZ0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HT SPOR HD" tvg-logo="" group-title="Spor",HT SPOR HD
