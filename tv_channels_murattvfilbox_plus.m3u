@@ -88,6 +88,8 @@ https://live.artidijitalmedya.com/artidijital_trakyaturk/trakyaturk/chunks.m3u8
 https://ythls.kekikakademi.org/youtube/channel/UClWewRX7n_IY3mBbxmttR5Q.m3u8
 #EXTINF:-1,CİNE 1 TV
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
+#EXTINF:-1,BİR TV
+http://xtream-ie.org:80/live/r8E7WzEjY/LLJwdV9mB/265.ts
 #EXTINF:-1,TİVİ6 HD
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
 #EXTINF:-1,DÜZGÜN TV HD
