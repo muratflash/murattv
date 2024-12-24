@@ -15,6 +15,8 @@ https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 https://live-hz-6.livepush.io/live/emiFZhZfWujqXe8_/chunks.m3u8
 #EXTINF:-1,MEGA TV SİNEMA
 https://tv208.radyotelekom.com.tr:3580/hybrid/play.m3u8
+#EXTINF:-1,MEGA TV ŞABAN
+https://tv208.radyotelekom.com.tr:3417/stream/play.m3u8
 #EXTINF:-1,KASTAMONU TV
 http://51.91.118.139:8080/kastamonutv/kastamonutv/3385
 #EXTINF:-1,HOCWAN TV
@@ -110,8 +112,6 @@ https://tv4.blutv.com/blutv_tv4/live.m3u8
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 #EXTINF:-1,A2 HD
 http://89.187.191.41/A2-HD-TR/video.m3u8
-#EXTINF:-1,ESMA TV
-https://esmatv.interweb.com.tr:3928/stream/play.m3u8
 #EXTINF:-1,İSMAYİLLİ TV SİNEMA
 https://ismayillitv7.interweb.com.tr:3436/hybrid/play.m3u8
 #EXTINF:-1,FARRUK TV
@@ -120,8 +120,6 @@ https://vsrv1.az-streamingserver.com:3833/live/ofhwiwudlive.m3u8
 https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
 #EXTINF:-1,KONUL TV
 https://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
-#EXTINF:-1,MEGA TV ŞABAN
-https://tv208.radyotelekom.com.tr:3417/stream/play.m3u8
 #EXTINF:-1,OLTU TV
 https://oltutv.ozelip.com:3870/stream/play.m3u8
 #EXTINF:-1,TAŞ TV
