@@ -13,6 +13,8 @@ https://yayin.rizeturk.com:3777/hybrid/play.m3u8
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,TELEON TV
 https://live-hz-6.livepush.io/live/emiFZhZfWujqXe8_/chunks.m3u8
+#EXTINF:-1,SİRİUS SAT TV
+https://tv208.radyotelekom.com.tr:3493/hybrid/play.m3u8
 #EXTINF:-1,MEGA TV SİNEMA
 https://tv208.radyotelekom.com.tr:3580/hybrid/play.m3u8
 #EXTINF:-1,MEGA TV ŞABAN
@@ -21,10 +23,14 @@ https://tv208.radyotelekom.com.tr:3417/stream/play.m3u8
 http://51.91.118.139:8080/kastamonutv/kastamonutv/3385
 #EXTINF:-1,HOCWAN TV
 https://hocwantv.ozelip.com:3593/hybrid/play.m3u8
+#EXTINF:-1,KADER TV
+https://tv208.radyotelekom.com.tr:3694/hybrid/play.m3u8
 #EXTINF:-1,ALMANYA TV
 https://almanyatv.ozelip.net:3130/multi_web/play_720.m3u8
 #EXTINF:-1,PAZARCIK TV
 https://pazarciktv.ozelip.net:3962/hybrid/play.m3u8
+#EXTINF:-1,YAĞMUR TV
+http://palatv34.ozelip.com:22372/yagmur/yagmur/chunklist_w1134329993.m3u8
 #EXTINF:-1,KANAL 19
 https://live.euromediacenter.com/kanal19/tracks-v1a1/mono.m3u8
 #EXTINF:-1,TV 25
@@ -144,6 +150,8 @@ http://stream.tvcdn.net/diger-muzik/pala-tv.m3u8
 https://yayin.slowkaradeniztv.com:3390/hybrid/play.m3u8
 #EXTINF:-1,AYAZ TV
 http://164.132.23.92:22372/ayztv/ayztv/playlist.m3u8
+#EXTINF:-1,NEF TV
+http://palatv34.ozelip.com:22372/neftv/neftv/chunklist_w1082325426.m3u8
 #EXTINF:-1,MEGA TV MÜZİK
 https://tv208.radyotelekom.com.tr:3513/hybrid/play.m3u8
 #EXTINF:-1,SİTELER TV
@@ -344,6 +352,8 @@ https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/Kanal10/chunklist_w1439322589.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TELEON TV" tvg-logo="" group-title="Sinema",TELEON TV
 https://live-hz-6.livepush.io/live/emiFZhZfWujqXe8_/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SİRİUS SAT TV" tvg-logo="" group-title="Sinema",SİRİUS SAT TV
+https://tv208.radyotelekom.com.tr:3493/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MEGA TV SİNEMA" tvg-logo="" group-title="Sinema",MEGA TV SİNEMA
 https://tv208.radyotelekom.com.tr:3580/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KASTAMONU TV" tvg-logo="" group-title="Sinema",KASTAMONU TV
@@ -354,6 +364,10 @@ https://hocwantv.ozelip.com:3593/hybrid/play.m3u8
 https://almanyatv.ozelip.net:3130/multi_web/play_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PAZARCIK TV" tvg-logo="" group-title="Sinema",PAZARCIK TV
 https://pazarciktv.ozelip.net:3962/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KADER TV" tvg-logo="" group-title="Sinema",KADER TV
+https://tv208.radyotelekom.com.tr:3694/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="YAĞMUR TV" tvg-logo="" group-title="Sinema",YAĞMUR TV
+http://palatv34.ozelip.com:22372/yagmur/yagmur/chunklist_w1134329993.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ULUSLARARASI TV" tvg-logo="" group-title="Sinema",ULUSLARARASI TV
 http://stream.tvcdn.net/diger/uluslararasi-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ONDE TV" tvg-logo="" group-title="Sinema",ONDE TV
