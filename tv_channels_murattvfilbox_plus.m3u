@@ -15,6 +15,8 @@ https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 https://live-hz-6.livepush.io/live/emiFZhZfWujqXe8_/chunks.m3u8
 #EXTINF:-1,SİRİUS SAT TV
 https://tv208.radyotelekom.com.tr:3493/hybrid/play.m3u8
+#EXTINF:-1,ALİGOSHGAR TV
+https://live.yayingold.com.tr/aligoshgartv/index.m3u8
 #EXTINF:-1,MEGA TV SİNEMA
 https://tv208.radyotelekom.com.tr:3580/hybrid/play.m3u8
 #EXTINF:-1,MEGA TV ŞABAN
@@ -358,6 +360,8 @@ https://5e06e5e8c2e27.streamlock.net:1936/videonow/Kanal10/chunklist_w1439322589
 https://live-hz-6.livepush.io/live/emiFZhZfWujqXe8_/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SİRİUS SAT TV" tvg-logo="" group-title="Sinema",SİRİUS SAT TV
 https://tv208.radyotelekom.com.tr:3493/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ALİGOSHGAR TV" tvg-logo="" group-title="Sinema",ALİGOSHGAR TV
+https://live.yayingold.com.tr/aligoshgartv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MEGA TV SİNEMA" tvg-logo="" group-title="Sinema",MEGA TV SİNEMA
 https://tv208.radyotelekom.com.tr:3580/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KASTAMONU TV" tvg-logo="" group-title="Sinema",KASTAMONU TV
