@@ -13,8 +13,8 @@ https://yayin.rizeturk.com:3777/hybrid/play.m3u8
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,TELEON TV
 https://live-hz-6.livepush.io/live/emiFZhZfWujqXe8_/chunks.m3u8
-#EXTINF:-1,SİRİUS SAT TV
-https://tv208.radyotelekom.com.tr:3493/hybrid/play.m3u8
+#EXTINF:-1,KANAL 10 TV
+https://stream-cdn-iad2.vaughnsoft.net/play/live_knl10tv.flv
 #EXTINF:-1,ALİGOSHGAR TV
 https://live.yayingold.com.tr/aligoshgartv/index.m3u8
 #EXTINF:-1,MEGA TV SİNEMA
@@ -156,6 +156,8 @@ https://yayin.slowkaradeniztv.com:3390/hybrid/play.m3u8
 http://164.132.23.92:22372/ayztv/ayztv/playlist.m3u8
 #EXTINF:-1,NEF TV
 http://palatv34.ozelip.com:22372/neftv/neftv/chunklist_w1082325426.m3u8
+#EXTINF:-1,YANSIMA MÜZİK TV
+https://stream-cdn-iad2.vaughnsoft.net/play/live_yansimamuziktv.flv
 #EXTINF:-1,MEGA TV MÜZİK
 https://tv208.radyotelekom.com.tr:3513/hybrid/play.m3u8
 #EXTINF:-1,SİTELER TV
@@ -170,22 +172,24 @@ https://kuzeykibris.tv/m3u8/kktv.m3u8
 https://play1.blutv.com/blutv_play1/blutv_play1.smil/playlist.m3u8
 #EXTINF:-1,BLU TV PLAY 2
 https://play2.blutv.com/blutv_play2/blutv_play2.smil/playlist.m3u8
-#EXTINF:-1,İNTER TEBER STAR
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/inter_teber-star/chunklist_w1032043134.m3u8
 #EXTINF:-1,TEBER STAR 1
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/Teber-star1/chunklist_w1724944669.m3u8
+https://stream-cdn-iad2.vaughnsoft.net/play/live_teber_star1.flv
 #EXTINF:-1,TEBER STAR 2
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/Teber_star_tv2/chunklist_w1125163502.m3u8
+https://stream-cdn-iad.vaughnsoft.net/play/live_teber_star2.flv
 #EXTINF:-1,TEBER STAR 3
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/Teber_star3/chunklist_w1973184369.m3u8
+https://stream-cdn-iad.vaughnsoft.net/play/live_teber_star3.flv
+#EXTINF:-1,TEBER STAR 4
+https://stream-cdn-iad.vaughnsoft.net/play/live_teber_star4.flv
+#EXTINF:-1,TEBER TELE 5
+https://stream-cdn-iad.vaughnsoft.net/play/live_tele5_tr.flv
 #EXTINF:-1,TEBER CİNE 6
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/CINE_6/chunklist_w69494222.m3u8
+https://stream-cdn-iad.vaughnsoft.net/play/live_tbrt.flv
 #EXTINF:-1,TEBER MEDYA ON
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/Teber_medya_ON/chunklist_w696861653.m3u8
+https://stream-cdn-iad.vaughnsoft.net/play/live_tbr_medya_on.flv
 #EXTINF:-1,TEBER MEDYA FLASH
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/teberflash/chunklist_w677388659.m3u8
+https://stream-cdn-iad2.vaughnsoft.net/play/live_teber_dizi_flash.flv
 #EXTINF:-1,TEBER MEDYA SAFARİ
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/Teber_Safari_tv/chunklist_w1575595097.m3u8
+https://stream-cdn-iad2.vaughnsoft.net/play/live_teber_safari_tv.flv
 #EXTINF:-1,SDM TV BELGESEL
 https://host.onlineradyotv.net:8081/sdmtv3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HALK TV" tvg-logo="" group-title="Haber",HALK TV
@@ -355,7 +359,7 @@ https://yayin.rizeturk.com:3777/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SDM TV SİNEMA" tvg-logo="" group-title="Sinema",SDM TV SİNEMA
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KANAL 10 TV" tvg-logo="" group-title="Sinema",KANAL 10 TV
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/Kanal10/chunklist_w1439322589.m3u8
+https://stream-cdn-iad2.vaughnsoft.net/play/live_knl10tv.flv
 #EXTINF:-1 tvg-id="" tvg-name="TELEON TV" tvg-logo="" group-title="Sinema",TELEON TV
 https://live-hz-6.livepush.io/live/emiFZhZfWujqXe8_/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SİRİUS SAT TV" tvg-logo="" group-title="Sinema",SİRİUS SAT TV
@@ -402,22 +406,22 @@ https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
 http://duzguntv1616.ozelip.net:25192/duzguntv/duzguntv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VİYANA TV" tvg-logo="" group-title="Sinema",VİYANA TV
 http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KUZEY KIBRIS TV" tvg-logo="" group-title="Sinema",KUZEY KIBRIS TV
-https://kuzeykibris.tv/m3u8/kktv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="İNTER TEBER STAR" tvg-logo="" group-title="Sinema",İNTER TEBER STAR
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/inter_teber-star/chunklist_w1032043134.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TEBER STAR 1" tvg-logo="" group-title="Sinema",TEBER STAR 1
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/Teber-star1/chunklist_w1724944669.m3u8
+https://stream-cdn-iad2.vaughnsoft.net/play/live_teber_star1.flv
 #EXTINF:-1 tvg-id="" tvg-name="TEBER STAR 2" tvg-logo="" group-title="Sinema",TEBER STAR 2
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/Teber_star_tv2/chunklist_w1125163502.m3u8
+https://stream-cdn-iad.vaughnsoft.net/play/live_teber_star2.flv
 #EXTINF:-1 tvg-id="" tvg-name="TEBER STAR 3" tvg-logo="" group-title="Sinema",TEBER STAR 3
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/Teber_star3/chunklist_w1973184369.m3u8
+https://stream-cdn-iad.vaughnsoft.net/play/live_teber_star3.flv
+#EXTINF:-1 tvg-id="" tvg-name="TEBER STAR 4" tvg-logo="" group-title="Sinema",TEBER STAR 4
+https://stream-cdn-iad.vaughnsoft.net/play/live_teber_star4.flv
+#EXTINF:-1 tvg-id="" tvg-name="TEBER TELE 5" tvg-logo="" group-title="Sinema",TEBER TELE 5
+https://stream-cdn-iad.vaughnsoft.net/play/live_tele5_tr.flv
 #EXTINF:-1 tvg-id="" tvg-name="TEBER CİNE 6" tvg-logo="" group-title="Sinema",TEBER CİNE 6
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/CINE_6/chunklist_w69494222.m3u8
+https://stream-cdn-iad.vaughnsoft.net/play/live_tbrt.flv
 #EXTINF:-1 tvg-id="" tvg-name="TEBER MEDYA ON" tvg-logo="" group-title="Sinema",TEBER MEDYA ON
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/Teber_medya_ON/chunklist_w696861653.m3u8
+https://stream-cdn-iad.vaughnsoft.net/play/live_tbr_medya_on.flv
 #EXTINF:-1 tvg-id="" tvg-name="TEBER MEDYA FLASH" tvg-logo="" group-title="Sinema",TEBER MEDYA FLASH
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/teberflash/chunklist_w677388659.m3u8
+https://stream-cdn-iad2.vaughnsoft.net/play/live_teber_dizi_flash.flv
 #EXTINF:-1 tvg-id="" tvg-name="FİLM TV 1" tvg-logo="" group-title="Sinema",FİLM TV 1
 https://lives.anystreamrectv3.live/live/yer5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FİLM TV 2" tvg-logo="" group-title="Sinema",FİLM TV 2
