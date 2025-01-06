@@ -438,6 +438,8 @@ https://ythls.kekikakademi.org/youtube/channel/UChb7kIKlWiDCfwXg4LSMCjg.m3u8
 https://ythls.kekikakademi.org/youtube/channel/UCUALYmnkEmx8vlxIbpr2gmw.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="YEŞİLÇAM TV 2" tvg-logo="" group-title="Sinema",YEŞİLÇAM TV 2
 https://ythls.kekikakademi.org/youtube/channel/UCmw7e_6j2TSWCKeaZALjyuA.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAV FİLM TV" tvg-logo="" group-title="Sinema",LAV FİLM TV
+https://ythls.kekikakademi.org/youtube/channel/UCq2sXHHjY9AYkxN93SWtzMQ.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MEGA TV ŞABAN" tvg-logo="" group-title="Sinema",MEGA TV ŞABAN
 https://tv208.radyotelekom.com.tr:3417/stream/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KEMAL SUNAL TV 1" tvg-logo="" group-title="Sinema",KEMAL SUNAL TV 1
@@ -472,6 +474,8 @@ http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/163156.ts
 http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/163160.ts
 #EXTINF:-1 tvg-id="" tvg-name="KÜÇÜK EMRAH TV" tvg-logo="" group-title="Sinema",KÜÇÜK EMRAH TV
 http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/163182.ts
+#EXTINF:-1 tvg-id="" tvg-name="FERDİ TAYFUR TV" tvg-logo="" group-title="Sinema",FERDİ TAYFUR TV
+https://ythls.kekikakademi.org/youtube/channel/UCAJcU9SesgVqsJ8M0l7zYrA.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CÜNEYT ARKIN TV 1" tvg-logo="" group-title="Sinema",CÜNEYT ARKIN TV 1
 http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/6597.ts
 #EXTINF:-1 tvg-id="" tvg-name="CÜNEYT ARKIN TV 2" tvg-logo="" group-title="Sinema",CÜNEYT ARKIN TV 2
