@@ -251,15 +251,15 @@ https://ythls.kekikakademi.org/youtube/channel/UCoHnRpOS5rL62jTmSDO5Npw.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KRT TV" tvg-logo="" group-title="Haber",KRT TV
 https://krt.blutv.com/blutv_krt_live/live_720p4350000kbps/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KRT TV HD" tvg-logo="" group-title="Haber",KRT TV HD
-https://ythls.kekikakademi.org/youtube/video/w5jlONGqxd4.m3u8
+https://ythls.kekikakademi.org/youtube/channel/UCVKWwHoLwUMMa80cu_1uapA.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FLASH HABER" tvg-logo="" group-title="Haber",FLASH HABER
 https://flashtv.blutv.com/blutv_flashtv/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FLASH HABER HD" tvg-logo="" group-title="Haber",FLASH HABER HD
-https://internettv.guventechnology.com:19360/flashhabertv/720p.m3u8
+https://internettv.guventechnology.com:19360/flashhabertv/1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CAN TV" tvg-logo="" group-title="Haber",CAN TV
 http://canbroadcast.com:7000/canlican/tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MEDYA HABER" tvg-logo="" group-title="Haber",MEDYA HABER
-https://ythls.kekikakademi.org/youtube/channel/UC7V_iKHenrrXrrhhzOTDWkA.m3u8
+https://ythls.kekikakademi.org/youtube/channel/UCe-OsPTyV_2o9svX9zRfHNg.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MC EU" tvg-logo="" group-title="Haber",MC EU
 https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&type=live&service=wowza&protocol=https&output=playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MC EU WEB" tvg-logo="" group-title="Haber",MC EU WEB
