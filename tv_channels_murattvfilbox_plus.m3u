@@ -12,7 +12,7 @@ https://yayin.rizeturk.com:3777/hybrid/play.m3u8
 #EXTINF:-1,SDM TV SİNEMA
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,TELEON TV
-https://live-hz-6.livepush.io/live/emiFZhZfWujqXe8_/chunks.m3u8
+https://live-hz-6.livepush.io/live/emtHo7vrk_iB0e3p/chunks.m3u8
 #EXTINF:-1,KANAL 10 TV
 https://stream-cdn-iad2.vaughnsoft.net/play/live_knl10tv.flv
 #EXTINF:-1,ALİGOSHGAR TV
@@ -249,7 +249,7 @@ http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/6396.ts
 #EXTINF:-1 tvg-id="" tvg-name="SPOR SMART" tvg-logo="" group-title="Spor",SPOR SMART
 https://tv.arectv3.xyz/live/smart1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="S SPORT" tvg-logo="" group-title="Spor",S SPORT
-https://tv.arectv3.xyz/live/ssport.m3u8
+https://tv.prectv5.sbs/live/ssport.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="S SPORT 2" tvg-logo="" group-title="Spor",S SPORT 2
 http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/6389.ts
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1" tvg-logo="" group-title="Spor",BEİN SPORTS 1
@@ -314,22 +314,10 @@ http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/6454.ts
 http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/6461.ts
 #EXTINF:-1 tvg-id="" tvg-name="MOVİE SMART CLASSİC" tvg-logo="" group-title="Sinema",MOVİE SMART CLASSİC
 http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/6458.ts
-#EXTINF:-1 tvg-id="" tvg-name="FİL TV" tvg-logo="" group-title="Sinema",FİL TV
-http://izlesstvrs.xyz:80/live/urar139/24022022erd/270756.ts
-#EXTINF:-1 tvg-id="" tvg-name="FİLMAX" tvg-logo="" group-title="Sinema",FİLMAX
-http://izlesstvrs.xyz:80/live/urar139/24022022erd/270755.ts
-#EXTINF:-1 tvg-id="" tvg-name="FİLM CLUP" tvg-logo="" group-title="Sinema",FİLM CLUP
-http://izlesstvrs.xyz:80/live/urar139/24022022erd/270754.ts
-#EXTINF:-1 tvg-id="" tvg-name="FİLM CLUP AKSİYON" tvg-logo="" group-title="Sinema",FİLM CLUP AKSİYON
-http://izlesstvrs.xyz:80/live/urar139/24022022erd/270753.ts
-#EXTINF:-1 tvg-id="" tvg-name="FİLM CLUP KOMEDİ" tvg-logo="" group-title="Sinema",FİLM CLUP KOMEDİ
-http://izlesstvrs.xyz:80/live/urar139/24022022erd/270751.ts
 #EXTINF:-1 tvg-id="" tvg-name="SİNEMA TV" tvg-logo="" group-title="Sinema",SİNEMA TV
 http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/6467.ts
 #EXTINF:-1 tvg-id="" tvg-name="SİNEMA AKSİYON" tvg-logo="" group-title="Sinema",SİNEMA AKSİYON
 http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/6465.ts
-#EXTINF:-1 tvg-id="" tvg-name="FİLMBOX" tvg-logo="" group-title="Sinema",FİLMBOX
-http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/99048.ts
 #EXTINF:-1 tvg-id="" tvg-name="GELECEĞE DÖNÜŞ TV" tvg-logo="" group-title="Sinema",GELECEĞE DÖNÜŞ TV
 http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/130649.ts
 #EXTINF:-1 tvg-id="" tvg-name="ROCKY TV" tvg-logo="" group-title="Sinema",ROCKY TV
@@ -344,6 +332,32 @@ http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/130656.ts
 http://tvr.lol:80/live/uweeniste/mr9nwSZF99Wd/898.ts
 #EXTINF:-1 tvg-id="" tvg-name="BEST İMDB SİNEMA" tvg-logo="" group-title="Sinema",BEST İMDB SİNEMA
 http://g0tv.site:80/live/uweeniste/mr9nwSZF99Wd/906.ts
+#EXTINF:-1 tvg-id="" tvg-name="FİLMBOX" tvg-logo="" group-title="Sinema",FİLMBOX
+http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/99048.ts
+#EXTINF:-1 tvg-id="" tvg-name="FİL TV" tvg-logo="" group-title="Sinema",FİL TV
+http://izlesstvrs.xyz:80/live/urar139/24022022erd/270756.ts
+#EXTINF:-1 tvg-id="" tvg-name="FİLMAX" tvg-logo="" group-title="Sinema",FİLMAX
+http://izlesstvrs.xyz:80/live/urar139/24022022erd/270755.ts
+#EXTINF:-1 tvg-id="" tvg-name="FİLM CLUP" tvg-logo="" group-title="Sinema",FİLM CLUP
+http://izlesstvrs.xyz:80/live/urar139/24022022erd/270754.ts
+#EXTINF:-1 tvg-id="" tvg-name="FİLM CLUP AKSİYON" tvg-logo="" group-title="Sinema",FİLM CLUP AKSİYON
+http://izlesstvrs.xyz:80/live/urar139/24022022erd/270753.ts
+#EXTINF:-1 tvg-id="" tvg-name="FİLM CLUP KOMEDİ" tvg-logo="" group-title="Sinema",FİLM CLUP KOMEDİ
+http://izlesstvrs.xyz:80/live/urar139/24022022erd/270751.ts
+#EXTINF:-1 tvg-id="" tvg-name="FİLM CLUP FAMİLY" tvg-logo="" group-title="Sinema",FİLM CLUP FAMİLY
+http://izlesstvrs.xyz/live/urar139/24022022erd/270752.ts
+#EXTINF:-1 tvg-id="" tvg-name="FİLMBOX ACTİON" tvg-logo="" group-title="Sinema",FİLMBOX ACTİON
+http://izlesstvrs.xyz/live/urar139/24022022erd/270741.ts
+#EXTINF:-1 tvg-id="" tvg-name="FİLMBOX HORROR" tvg-logo="" group-title="Sinema",FİLMBOX HORROR
+http://izlesstvrs.xyz/live/urar139/24022022erd/270745.ts
+#EXTINF:-1 tvg-id="" tvg-name="FİLMBOX COMEDY" tvg-logo="" group-title="Sinema",FİLMBOX COMEDY
+http://izlesstvrs.xyz/live/urar139/24022022erd/270746.ts
+#EXTINF:-1 tvg-id="" tvg-name="FİLMBOX PREMİER" tvg-logo="" group-title="Sinema",FİLMBOX PREMİER
+http://izlesstvrs.xyz/live/urar139/24022022erd/270740.ts
+#EXTINF:-1 tvg-id="" tvg-name="FİLMBOX DRAMA" tvg-logo="" group-title="Sinema",FİLMBOX DRAMA
+http://izlesstvrs.xyz/live/urar139/24022022erd/270744.ts
+#EXTINF:-1 tvg-id="" tvg-name="FİLMBOX YERLİ" tvg-logo="" group-title="Sinema",FİLMBOX YERLİ
+http://izlesstvrs.xyz/live/urar139/24022022erd/270790.ts
 #EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="" group-title="Sinema",FX
 http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/6475.ts
 #EXTINF:-1 tvg-id="" tvg-name="BLU TV PLAY 1" tvg-logo="" group-title="Sinema",BLU TV PLAY 1
@@ -361,9 +375,7 @@ https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KANAL 10 TV" tvg-logo="" group-title="Sinema",KANAL 10 TV
 https://stream-cdn-iad2.vaughnsoft.net/play/live_knl10tv.flv
 #EXTINF:-1 tvg-id="" tvg-name="TELEON TV" tvg-logo="" group-title="Sinema",TELEON TV
-https://live-hz-6.livepush.io/live/emiFZhZfWujqXe8_/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SİRİUS SAT TV" tvg-logo="" group-title="Sinema",SİRİUS SAT TV
-https://tv208.radyotelekom.com.tr:3493/hybrid/play.m3u8
+https://live-hz-6.livepush.io/live/emtHo7vrk_iB0e3p/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ALİGOSHGAR TV" tvg-logo="" group-title="Sinema",ALİGOSHGAR TV
 https://live.yayingold.com.tr/aligoshgartv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MEGA TV SİNEMA" tvg-logo="" group-title="Sinema",MEGA TV SİNEMA
@@ -422,16 +434,6 @@ https://stream-cdn-iad.vaughnsoft.net/play/live_tbrt.flv
 https://stream-cdn-iad.vaughnsoft.net/play/live_tbr_medya_on.flv
 #EXTINF:-1 tvg-id="" tvg-name="TEBER MEDYA FLASH" tvg-logo="" group-title="Sinema",TEBER MEDYA FLASH
 https://stream-cdn-iad2.vaughnsoft.net/play/live_teber_dizi_flash.flv
-#EXTINF:-1 tvg-id="" tvg-name="FİLM TV 1" tvg-logo="" group-title="Sinema",FİLM TV 1
-https://lives.anystreamrectv3.live/live/yer5.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FİLM TV 2" tvg-logo="" group-title="Sinema",FİLM TV 2
-https://lives.anystreamrectv3.live/live/kom3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FİLM TV 3" tvg-logo="" group-title="Sinema",FİLM TV 3
-https://lives.anystreamrectv3.live/live/kor1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FİLM TV 4" tvg-logo="" group-title="Sinema",FİLM TV 4
-https://lives.anystreamrectv3.live/live/kor2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FİLM TV 5" tvg-logo="" group-title="Sinema",FİLM TV 5
-https://lives.anystreamrectv3.live/live/aks1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SİNEMA KULÜBÜ TV" tvg-logo="" group-title="Sinema",SİNEMA KULÜBÜ TV
 https://ythls.kekikakademi.org/youtube/channel/UChb7kIKlWiDCfwXg4LSMCjg.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="YEŞİLÇAM TV" tvg-logo="" group-title="Sinema",YEŞİLÇAM TV
