@@ -166,8 +166,12 @@ https://tvturkiyem.ozelip.com:3534/stream/play.m3u8?autoplay=1
 https://host.onlineradyotv.net:8081/sdmtv4/tracks-v1a1/mono.m3u8
 #EXTINF:-1,TRT DİYANET ÇOCUK
 http://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1,KIBRIS TV
+https://spor.kuzeykibris.tv/m3u8/tv_ktv.m3u8
 #EXTINF:-1,KUZEY KIBRIS TV
-https://kuzeykibris.tv/m3u8/kktv.m3u8
+https://old.kuzeykibris.tv/m3u8/kktv.m3u8
+#EXTINF:-1,KUZEY KIBRIS TV 2
+https://spor.kuzeykibris.tv/m3u8/kktv.m3u8
 #EXTINF:-1,BLU TV PLAY 1
 https://play1.blutv.com/blutv_play1/blutv_play1.smil/playlist.m3u8
 #EXTINF:-1,BLU TV PLAY 2
