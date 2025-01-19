@@ -3,7 +3,8 @@ https://ythls.kekikakademi.org/youtube/video/EmdtE7sRMSY.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 4K" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 1 4K
 https://p09ow1rkanxmo3axqcd8rywcdrmxylct.zortstream.shop/601/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 DMTN" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 1 DMTN
-https://inat-minat-yarragimi-yesin-mithat.varsportscdn1.lol/601/index.m3u8
+#EXTVLCOPT:http-referrer=https://popcdn.day/
+https://garaveli.serv00.net/Freeshot?ID=bein-sports-1-turkey/158.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 DMTN VİP" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 1 DMTN VİP
 https://arda-abi-eee-eee-waka-waka-eee.varsportscdn1.lol/601/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 2 DMTN" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 2 DMTN
