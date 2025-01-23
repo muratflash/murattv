@@ -198,9 +198,9 @@ https://sei.c6db67cffaaefebe.click/i/neden/608/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR 4 HD" tvg-logo="" group-title="Tivibu Spor",TİVİBU SPOR 4 HD
 https://sei.c6db67cffaaefebe.click/i/neden/609/playlist.m3u8
 #EXTINF:-1 ,S SPORT
-https://0dx50qwkvlp4mh4rff5lrkmx3rzdgsbj.zortstream.shop/607/index.m3u8
+https://tprpr.cxn.genwcdn.live/e/3030.m3u8
 #EXTINF:-1 ,S SPORT 2
-https://0dx50qwkvlp4mh4rff5lrkmx3rzdgsbj.zortstream.shop/608/index.m3u8
+https://tprpr.cxn.genwcdn.live/e/3031.m3u8
 #EXTINF:-1 ,SPOR SMART
 https://0dx50qwkvlp4mh4rff5lrkmx3rzdgsbj.zortstream.shop/609/index.m3u8
 #EXTINF:-1 ,SPOR SMART 2
@@ -213,6 +213,10 @@ https://us-cdn-1.varsportscdn1.lol/608/index.m3u8
 https://us-cdn-1.varsportscdn1.lol/609/index.m3u8
 #EXTINF:-1 ,SPOR SMART 2 HD
 https://us-cdn-1.varsportscdn1.lol/610/index.m3u8
+#EXTINF:-1 ,S SPORT FHD
+https://bcovlive-a.akamaihd.net/540fcb034b144b848e7ff887f61a293a/eu-central-1/6415845530001/playlist.m3u8
+#EXTINF:-1 ,S SPORT 2 FHD
+https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/playlist.m3u8
 #EXTINF:-1 ,S SPORT REFLEX
 http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/155.ts
 #EXTINF:-1 ,S SPORT 2 REFLEX
