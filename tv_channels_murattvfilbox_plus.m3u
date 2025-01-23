@@ -15,8 +15,6 @@ https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 https://tinyurl.com/reflexteleontv
 #EXTINF:-1,KANAL 10 TV
 https://stream-cdn-iad2.vaughnsoft.net/play/live_knl10tv.flv
-#EXTINF:-1,ALİGOSHGAR TV
-https://live.yayingold.com.tr/aligoshgartv/index.m3u8
 #EXTINF:-1,MEGA TV SİNEMA
 https://tv208.radyotelekom.com.tr:3580/hybrid/play.m3u8
 #EXTINF:-1,MEGA TV ŞABAN
@@ -25,14 +23,10 @@ https://tv208.radyotelekom.com.tr:3417/stream/play.m3u8
 http://51.91.118.139:8080/kastamonutv/kastamonutv/3385
 #EXTINF:-1,HOCWAN TV
 https://hocwantv.ozelip.com:3593/hybrid/play.m3u8
-#EXTINF:-1,KADER TV
-https://tv208.radyotelekom.com.tr:3694/hybrid/play.m3u8
 #EXTINF:-1,ALMANYA TV
 https://almanyatv.ozelip.net:3130/multi_web/play_720.m3u8
 #EXTINF:-1,PAZARCIK TV
 https://pazarciktv.ozelip.net:3962/hybrid/play.m3u8
-#EXTINF:-1,YAĞMUR TV
-http://palatv34.ozelip.com:22372/yagmur/yagmur/chunklist_w1134329993.m3u8
 #EXTINF:-1,KANAL 19
 https://live.euromediacenter.com/kanal19/tracks-v1a1/mono.m3u8
 #EXTINF:-1,TV 25
@@ -49,15 +43,11 @@ https://ondetv.ozelip.com.tr:3390/hybrid/play.m3u8
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/chunks.m3u8
 #EXTINF:-1,DENİZ POSTASI TV
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
-#EXTINF:-1,TABİİ TV
-https://playlist.fasttvcdn.com/pl/0ijezatwsvi5a5khny0rka/tabii-Turkcell-2/playlist.m3u8
 #EXTINF:-1,İSVİÇRE TV
 https://i41.ozelip.com:3269/hybrid/play.m3u8
 #EXTINF:-1,BİZİMKİLER TV
 https://ythls.kekikakademi.org/youtube/video/6qtUZDWaOjo.m3u8
 #EXTINF:-1,ÇİÇEK TAKSİ TV
-http://tvr.lol/live/uweeniste/mr9nwSZF99Wd/1056.ts
-#EXTINF:-1,ÇİÇEK TAKSİ TV 2
 https://ythls.kekikakademi.org/youtube/channel/UCYWwhdgFmZR0uWwaS-GURyg.m3u8
 #EXTINF:-1,YEDİ NUMARA TV
 https://ythls.kekikakademi.org/youtube/channel/UC0GKelxahF1nHwKyGhfJVYA.m3u8
@@ -75,21 +65,29 @@ https://ythls.kekikakademi.org/youtube/channel/UCYRPB4TbD2RYHlIQdLgEeYA.m3u8
 https://ythls.kekikakademi.org/youtube/channel/UCPUpDCqAbk0F7_occqwOBTA.m3u8
 #EXTINF:-1,KURTLAR VADİSİ PUSU TV
 https://ythls.kekikakademi.org/youtube/channel/UCz1UfNp9VFp9R1HEFn5PY5A.m3u8
-#EXTINF:-1,ACI HAYAT TV
-http://tvr.lol/live/uweeniste/mr9nwSZF99Wd/1047.ts
+#EXTINF:-1,DİZİ TV
+https://tivi240.ozelip.com:3745/stream/play.m3u8
+#EXTINF:-1,DİZİ TV 2
+http://194.158.222.36:6086/
 #EXTINF:-1,TRT NOSTALJİ
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
-#EXTINF:-1,BABALA TV
-http://germanyqdns.com:8080/cefucefu/rhMKRZOk/90460.ts
+#EXTINF:-1,TABİİ TV
+https://playlist.fasttvcdn.com/pl/0ijezatwsvi5a5khny0rka/tabii-Turkcell-2/playlist.m3u8
 #EXTINF:-1,EXXEN TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://tre.2b4a9bb526bd2acb.shop/i/exxen/4011/playlist.m3u8
+#EXTINF:-1,BABALA TV
+http://germanyqdns.com:8080/cefucefu/rhMKRZOk/90460.ts
 #EXTINF:-1,SKY HABER TV
 https://skyhabertv.ozelip.com:3100/hybrid/play.m3u8
 #EXTINF:-1,TH TÜRK HABER
 https://edge1.socialsmart.tv/turkhaber/bant1/chunks.m3u8
 #EXTINF:-1,LİDER HABER
 https://ip252.ozelip.com:22524/lidertv/lidertv/chunklist_w1993196315.m3u8
+#EXTINF:-1,BRÜKSEL TÜRK TV
+https://live.euromediacenter.com/brukselturk/index.m3u8
+#EXTINF:-1,BALKAN TÜRK TV
+https://live.euromediacenter.com/balkanturktv/index.m3u8
 #EXTINF:-1,HÜR TV
 https://live.euromediacenter.com/hurtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,GZT TV
@@ -107,7 +105,7 @@ https://helga.iptv2022.com/sh/TokatsuperTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,CİNE 1 TV
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
 #EXTINF:-1,BİR TV
-http://xtream-ie.org:80/live/r8E7WzEjY/LLJwdV9mB/265.ts
+https://edge1.socialsmart.tv/birtv/bant1/playlist.m3u8
 #EXTINF:-1,TİVİ6 HD
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
 #EXTINF:-1,DÜZGÜN TV HD
@@ -134,34 +132,6 @@ https://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/p
 https://oltutv.ozelip.com:3870/stream/play.m3u8
 #EXTINF:-1,TAŞ TV
 http://palatv34.ozelip.com:22372/tastv/tastv/chunklist.m3u8
-#EXTINF:-1,SÜRPRİZ TV HD
-https://yayin30.haber100.com/live/surpriztv/chunklist_w499191500.m3u8
-#EXTINF:-1,CİNE5 TV
-https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist_w564654603.m3u8
-#EXTINF:-1,KOBİM TV
-http://cdn-kobimtv.yayin.com.tr/kobimtv/kobimtv/chunklist.m3u8
-#EXTINF:-1,KANAL 53
-https://kanal53.ozelip.com:3448/hybrid/play.m3u8
-#EXTINF:-1,KRAL POP TV HD
-https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
-#EXTINF:-1,TATLISES TV
-https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/playlist.m3u8
-#EXTINF:-1,SDM TV MÜZİK
-https://host.onlineradyotv.net:8081/sdmtv2/tracks-v1a1/mono.m3u8
-#EXTINF:-1,PALA TV
-http://stream.tvcdn.net/diger-muzik/pala-tv.m3u8
-#EXTINF:-1,SLOW KARADENİZ TV
-https://yayin.slowkaradeniztv.com:3390/hybrid/play.m3u8
-#EXTINF:-1,AYAZ TV
-http://164.132.23.92:22372/ayztv/ayztv/playlist.m3u8
-#EXTINF:-1,NEF TV
-http://palatv34.ozelip.com:22372/neftv/neftv/chunklist_w1082325426.m3u8
-#EXTINF:-1,YANSIMA MÜZİK TV
-https://stream-cdn-iad2.vaughnsoft.net/play/live_yansimamuziktv.flv
-#EXTINF:-1,MEGA TV MÜZİK
-https://tv208.radyotelekom.com.tr:3513/hybrid/play.m3u8
-#EXTINF:-1,SİTELER TV
-https://tvturkiyem.ozelip.com:3534/stream/play.m3u8?autoplay=1
 #EXTINF:-1,SDM TV ÇİZGİ FİLM
 https://host.onlineradyotv.net:8081/sdmtv4/tracks-v1a1/mono.m3u8
 #EXTINF:-1,TRT DİYANET ÇOCUK
@@ -196,6 +166,34 @@ https://stream-cdn-iad2.vaughnsoft.net/play/live_teber_dizi_flash.flv
 https://stream-cdn-iad2.vaughnsoft.net/play/live_teber_safari_tv.flv
 #EXTINF:-1,SDM TV BELGESEL
 https://host.onlineradyotv.net:8081/sdmtv3/tracks-v1a1/mono.m3u8
+#EXTINF:-1,YAĞMUR TV
+http://palatv34.ozelip.com:22372/yagmur/yagmur/chunklist_w1134329993.m3u8
+#EXTINF:-1,KOBİM TV
+http://cdn-kobimtv.yayin.com.tr/kobimtv/kobimtv/chunklist.m3u8
+#EXTINF:-1,CİNE5 TV
+https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist_w564654603.m3u8
+#EXTINF:-1,KANAL 53
+https://kanal53.ozelip.com:3448/hybrid/play.m3u8
+#EXTINF:-1,KRAL POP TV HD
+https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
+#EXTINF:-1,TATLISES TV
+https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/playlist.m3u8
+#EXTINF:-1,SDM TV MÜZİK
+https://host.onlineradyotv.net:8081/sdmtv2/tracks-v1a1/mono.m3u8
+#EXTINF:-1,PALA TV
+http://stream.tvcdn.net/diger-muzik/pala-tv.m3u8
+#EXTINF:-1,SLOW KARADENİZ TV
+https://yayin.slowkaradeniztv.com:3390/hybrid/play.m3u8
+#EXTINF:-1,AYAZ TV
+http://164.132.23.92:22372/ayztv/ayztv/playlist.m3u8
+#EXTINF:-1,NEF TV
+http://palatv34.ozelip.com:22372/neftv/neftv/chunklist_w1082325426.m3u8
+#EXTINF:-1,YANSIMA MÜZİK TV
+https://stream-cdn-iad2.vaughnsoft.net/play/live_yansimamuziktv.flv
+#EXTINF:-1,MEGA TV MÜZİK
+https://tv208.radyotelekom.com.tr:3513/hybrid/play.m3u8
+#EXTINF:-1,SİTELER TV
+https://tvturkiyem.ozelip.com:3534/stream/play.m3u8?autoplay=1
 #EXTINF:-1 tvg-id="" tvg-name="HALK TV" tvg-logo="" group-title="Haber",HALK TV
 https://halktv.blutv.com/blutv_halktv_live/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HALK TV HD" tvg-logo="" group-title="Haber",HALK TV HD
