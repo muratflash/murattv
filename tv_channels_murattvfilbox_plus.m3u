@@ -16,7 +16,7 @@ https://tinyurl.com/reflexteleontv
 #EXTINF:-1,KANAL 10 TV
 https://stream-cdn-iad2.vaughnsoft.net/play/live_knl10tv.flv
 #EXTINF:-1,MEGA TV SİNEMA
-https://tv208.radyotelekom.com.tr:3580/hybrid/play.m3u8
+https://a8.radyotelekom.com.tr:3580/hybrid/play.m3u8
 #EXTINF:-1,MEGA TV KORKU
 https://a8.radyotelekom.com.tr:3420/stream/play.m3u8
 #EXTINF:-1,MEGA TV ŞABAN
@@ -78,7 +78,7 @@ http://194.158.222.36:6086/
 #EXTINF:-1,TRT NOSTALJİ
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
 #EXTINF:-1,TABİİ TV
-https://playlist.fasttvcdn.com/pl/0ijezatwsvi5a5khny0rka/tabii-Turkcell-2/playlist.m3u8
+https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
 #EXTINF:-1,EXXEN TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://tre.2b4a9bb526bd2acb.shop/i/exxen/4011/playlist.m3u8
@@ -128,6 +128,10 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8
 #EXTINF:-1,KANAL 65 CİNEMA
 https://live.yayingold.com.tr/kanal65azlive/tracks-v1a1/mono.m3u8
+#EXTINF:-1,CHD MOVİES
+https://live.yayingold.com.tr/chdmovieslive/index.m3u8
+#EXTINF:-1,CHD KORKU
+https://live.yayingold.com.tr/chdkorku/index.m3u8
 #EXTINF:-1,FARRUK TV
 https://vsrv1.az-streamingserver.com:3833/live/ofhwiwudlive.m3u8
 #EXTINF:-1,ALVİN CHANNEL
