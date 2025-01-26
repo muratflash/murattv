@@ -425,11 +425,11 @@ https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m
 #EXTINF:-1 tvg-id="" tvg-name="İSVİÇRE TV" tvg-logo="" group-title="Sinema",İSVİÇRE TV
 https://i41.ozelip.com:3269/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SKY HABER TV" tvg-logo="" group-title="Sinema",SKY HABER TV
-https://skyhabertv.ozelip.com:3100/hybrid/play.m3u8
+https://skyhabertv.ozelip.com:3280/stream/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CİNE 1 TV" tvg-logo="" group-title="Sinema",CİNE 1 TV
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BİR TV" tvg-logo="" group-title="Sinema",BİR TV
-http://xtream-ie.org:80/live/r8E7WzEjY/LLJwdV9mB/265.ts
+https://edge1.socialsmart.tv/birtv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TİVİ6" tvg-logo="" group-title="Sinema",TİVİ6
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DÜZGÜN TV" tvg-logo="" group-title="Sinema",DÜZGÜN TV
@@ -471,43 +471,45 @@ https://ythls.kekikakademi.org/youtube/video/hdDqh5CIQ_8.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KEMAL SUNAL TV 4" tvg-logo="" group-title="Sinema",KEMAL SUNAL TV 4
 https://ythls.kekikakademi.org/youtube/video/kzXRrxtQ7oA.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KEMAL SUNAL TV 5" tvg-logo="" group-title="Sinema",KEMAL SUNAL TV 5
-http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/163161.ts
+http://vip.torktv.org:2095/live/vlkn2282/vlk.56/163161.ts
 #EXTINF:-1 tvg-id="" tvg-name="KEMAL SUNAL TV 6" tvg-logo="" group-title="Sinema",KEMAL SUNAL TV 6
-http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/163175.ts
+http://vip.torktv.org:2095/live/vlkn2282/vlk.56/163175.ts
 #EXTINF:-1 tvg-id="" tvg-name="KEMAL SUNAL TV 7" tvg-logo="" group-title="Sinema",KEMAL SUNAL TV 7
-http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/163151.ts
+http://vip.torktv.org:2095/live/vlkn2282/vlk.56/163151.ts
 #EXTINF:-1 tvg-id="" tvg-name="KEMAL SUNAL TV 8" tvg-logo="" group-title="Sinema",KEMAL SUNAL TV 8
-http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/163148.ts
+http://vip.torktv.org:2095/live/vlkn2282/vlk.56/163148.ts
 #EXTINF:-1 tvg-id="" tvg-name="HABABAM SINIFI TV" tvg-logo="" group-title="Sinema",HABABAM SINIFI TV
-http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/163170.ts
+http://vip.torktv.org:2095/live/vlkn2282/vlk.56/163170.ts
 #EXTINF:-1 tvg-id="" tvg-name="ŞENER ŞEN TV" tvg-logo="" group-title="Sinema",ŞENER ŞEN TV
-http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/163147.ts
+http://vip.torktv.org:2095/live/vlkn2282/vlk.56/163147.ts
 #EXTINF:-1 tvg-id="" tvg-name="ŞENER ŞEN TV 2" tvg-logo="" group-title="Sinema",ŞENER ŞEN TV 2
-http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/163172.ts
+http://vip.torktv.org:2095/live/vlkn2282/vlk.56/163172.ts
 #EXTINF:-1 tvg-id="" tvg-name="ZEKİ METİN TV" tvg-logo="" group-title="Sinema",ZEKİ METİN TV
-http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/163181.ts
+http://vip.torktv.org:2095/live/vlkn2282/vlk.56/163181.ts
 #EXTINF:-1 tvg-id="" tvg-name="TARIK AKAN TV" tvg-logo="" group-title="Sinema",TARIK AKAN TV
-http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/6606.ts
+http://vip.torktv.org:2095/live/vlkn2282/vlk.56/6606.ts
 #EXTINF:-1 tvg-id="" tvg-name="KELOĞLAN TV" tvg-logo="" group-title="Sinema",KELOĞLAN TV
-http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/163156.ts
+http://vip.torktv.org:2095/live/vlkn2282/vlk.56/163156.ts
 #EXTINF:-1 tvg-id="" tvg-name="İBRAHİM TATLISES TV" tvg-logo="" group-title="Sinema",İBRAHİM TATLISES TV
-http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/163160.ts
+http://vip.torktv.org:2095/live/vlkn2282/vlk.56/163160.ts
 #EXTINF:-1 tvg-id="" tvg-name="KÜÇÜK EMRAH TV" tvg-logo="" group-title="Sinema",KÜÇÜK EMRAH TV
-http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/163182.ts
+http://vip.torktv.org:2095/live/vlkn2282/vlk.56/163182.ts
 #EXTINF:-1 tvg-id="" tvg-name="FERDİ TAYFUR TV" tvg-logo="" group-title="Sinema",FERDİ TAYFUR TV
 https://ythls.kekikakademi.org/youtube/channel/UCAJcU9SesgVqsJ8M0l7zYrA.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CÜNEYT ARKIN TV 1" tvg-logo="" group-title="Sinema",CÜNEYT ARKIN TV 1
-http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/6597.ts
+http://vip.torktv.org:2095/live/vlkn2282/vlk.56/6597.ts
 #EXTINF:-1 tvg-id="" tvg-name="CÜNEYT ARKIN TV 2" tvg-logo="" group-title="Sinema",CÜNEYT ARKIN TV 2
-http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/163178.ts
+http://vip.torktv.org:2095/live/vlkn2282/vlk.56/163178.ts
 #EXTINF:-1 tvg-id="" tvg-name="CÜNEYT ARKIN TV 3" tvg-logo="" group-title="Sinema",CÜNEYT ARKIN TV 3
-http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/163176.ts
+http://vip.torktv.org:2095/live/vlkn2282/vlk.56/163176.ts
 #EXTINF:-1 tvg-id="" tvg-name="CÜNEYT ARKIN TV 4" tvg-logo="" group-title="Sinema",CÜNEYT ARKIN TV 4
-http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/163150.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESMA TV" tvg-logo="" group-title="Sinema",ESMA TV
-https://esmatv.interweb.com.tr:3928/stream/play.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="İSMAYİLLİ TV SİNEMA" tvg-logo="" group-title="Sinema",İSMAYİLLİ TV SİNEMA
-https://ismayillitv7.interweb.com.tr:3436/hybrid/play.m3u8
+http://vip.torktv.org:2095/live/vlkn2282/vlk.56/163150.ts
+#EXTINF:-1 tvg-id="" tvg-name="KANAL 65 CİNEMA" tvg-logo="" group-title="Sinema",KANAL 65 CİNEMA
+https://live.yayingold.com.tr/kanal65azlive/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CHD MOVİES" tvg-logo="" group-title="Sinema",CHD MOVİES
+https://live.yayingold.com.tr/chdmovieslive/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CHD KORKU" tvg-logo="" group-title="Sinema",CHD KORKU
+https://live.yayingold.com.tr/chdkorku/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FARRUK TV" tvg-logo="" group-title="Sinema",FARRUK TV
 https://vsrv1.az-streamingserver.com:3833/live/ofhwiwudlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ALVİN CHANNEL" tvg-logo="" group-title="Sinema",ALVİN CHANNEL
