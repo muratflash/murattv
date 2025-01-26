@@ -261,7 +261,7 @@ https://krt.blutv.com/blutv_krt_live/live_720p4350000kbps/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KRT TV HD" tvg-logo="" group-title="Haber",KRT TV HD
 https://ythls.kekikakademi.org/youtube/channel/UCVKWwHoLwUMMa80cu_1uapA.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FLASH HABER" tvg-logo="" group-title="Haber",FLASH HABER
-https://flashtv.blutv.com/blutv_flashtv/live.m3u8
+http://50.7.144.122:1935/livetv/flashtv.stream/sec-f5-v1-a1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FLASH HABER HD" tvg-logo="" group-title="Haber",FLASH HABER HD
 https://internettv.guventechnology.com:19360/flashhabertv/1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CAN TV" tvg-logo="" group-title="Haber",CAN TV
@@ -378,3 +378,5 @@ http://stream.tvcdn.net/yerel/ege-live-tv.m3u8
 http://cdn-radyokulup.yayin.com.tr/radyokulup/radyokulup/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FON MÜZİKLERİ 7/24" tvg-logo="" group-title="Radyo",FON MÜZİKLERİ 7/24
 https://ythls.kekikakademi.org/youtube/video/EmdtE7sRMSY.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FON MÜZİKLERİ 7/24" tvg-logo="" group-title="Radyo",KANUN FON MÜZİKLERİ 7/24
+https://ythls.kekikakademi.org/youtube/video/n5CBQTdLkLA.m3u8
