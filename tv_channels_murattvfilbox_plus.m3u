@@ -71,6 +71,8 @@ https://ythls.kekikakademi.org/youtube/channel/UCYRPB4TbD2RYHlIQdLgEeYA.m3u8
 https://ythls.kekikakademi.org/youtube/channel/UCPUpDCqAbk0F7_occqwOBTA.m3u8
 #EXTINF:-1,KURTLAR VADİSİ PUSU TV
 https://ythls.kekikakademi.org/youtube/channel/UCz1UfNp9VFp9R1HEFn5PY5A.m3u8
+#EXTINF:-1,DİRİLİŞ ERTUĞRUL TV
+https://ythls.kekikakademi.org/youtube/channel/UCrr2fV8yd6r8k-FZKGxDr9Q.m3u8
 #EXTINF:-1,DİZİ TV
 https://tivi240.ozelip.com:3745/stream/play.m3u8
 #EXTINF:-1,DİZİ TV 2
@@ -458,8 +460,6 @@ https://ythls.kekikakademi.org/youtube/channel/UChb7kIKlWiDCfwXg4LSMCjg.m3u8
 https://ythls.kekikakademi.org/youtube/channel/UCUALYmnkEmx8vlxIbpr2gmw.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="YEŞİLÇAM TV 2" tvg-logo="" group-title="Sinema",YEŞİLÇAM TV 2
 https://ythls.kekikakademi.org/youtube/channel/UCmw7e_6j2TSWCKeaZALjyuA.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LAV FİLM TV" tvg-logo="" group-title="Sinema",LAV FİLM TV
-https://ythls.kekikakademi.org/youtube/channel/UCq2sXHHjY9AYkxN93SWtzMQ.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MEGA TV ŞABAN" tvg-logo="" group-title="Sinema",MEGA TV ŞABAN
 https://tv208.radyotelekom.com.tr:3417/stream/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KEMAL SUNAL TV 1" tvg-logo="" group-title="Sinema",KEMAL SUNAL TV 1
@@ -467,16 +467,14 @@ https://ythls.kekikakademi.org/youtube/channel/UCoIUysIrvGxoDw-GkdOGjRw.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KEMAL SUNAL TV 2" tvg-logo="" group-title="Sinema",KEMAL SUNAL TV 2
 https://ythls.kekikakademi.org/youtube/video/hfx8H7YrmTw.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KEMAL SUNAL TV 3" tvg-logo="" group-title="Sinema",KEMAL SUNAL TV 3
-https://ythls.kekikakademi.org/youtube/video/hdDqh5CIQ_8.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KEMAL SUNAL TV 4" tvg-logo="" group-title="Sinema",KEMAL SUNAL TV 4
-https://ythls.kekikakademi.org/youtube/video/kzXRrxtQ7oA.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KEMAL SUNAL TV 5" tvg-logo="" group-title="Sinema",KEMAL SUNAL TV 5
+https://ythls.kekikakademi.org/youtube/channel/UCulg-mlXf314L1pemPqCVng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KEMAL SUNAL TV 5" tvg-logo="" group-title="Sinema",KEMAL SUNAL TV 4
 http://vip.torktv.org:2095/live/vlkn2282/vlk.56/163161.ts
-#EXTINF:-1 tvg-id="" tvg-name="KEMAL SUNAL TV 6" tvg-logo="" group-title="Sinema",KEMAL SUNAL TV 6
+#EXTINF:-1 tvg-id="" tvg-name="KEMAL SUNAL TV 6" tvg-logo="" group-title="Sinema",KEMAL SUNAL TV 5
 http://vip.torktv.org:2095/live/vlkn2282/vlk.56/163175.ts
-#EXTINF:-1 tvg-id="" tvg-name="KEMAL SUNAL TV 7" tvg-logo="" group-title="Sinema",KEMAL SUNAL TV 7
+#EXTINF:-1 tvg-id="" tvg-name="KEMAL SUNAL TV 7" tvg-logo="" group-title="Sinema",KEMAL SUNAL TV 6
 http://vip.torktv.org:2095/live/vlkn2282/vlk.56/163151.ts
-#EXTINF:-1 tvg-id="" tvg-name="KEMAL SUNAL TV 8" tvg-logo="" group-title="Sinema",KEMAL SUNAL TV 8
+#EXTINF:-1 tvg-id="" tvg-name="KEMAL SUNAL TV 8" tvg-logo="" group-title="Sinema",KEMAL SUNAL TV 7
 http://vip.torktv.org:2095/live/vlkn2282/vlk.56/163148.ts
 #EXTINF:-1 tvg-id="" tvg-name="HABABAM SINIFI TV" tvg-logo="" group-title="Sinema",HABABAM SINIFI TV
 http://vip.torktv.org:2095/live/vlkn2282/vlk.56/163170.ts
