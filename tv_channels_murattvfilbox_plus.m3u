@@ -102,14 +102,10 @@ https://live.euromediacenter.com/hurtv/tracks-v1a1/mono.m3u8
 https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
 #EXTINF:-1,CEYHAN TV
 http://palatv34.ozelip.com:22372/ceyhantv/ceyhantv/chunklist_w1781786446.m3u8
-#EXTINF:-1,OLAY TÜRK TV
-https://helga.iptv2022.com/sh/OlayTurk_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,BELEM TÜRK TV
 https://edge1.socialsmart.tv/belemturktv/bant1/playlist.m3u8
 #EXTINF:-1,TRAKYA TÜRK TV
 https://live.artidijitalmedya.com/artidijital_trakyaturk/trakyaturk/chunks.m3u8
-#EXTINF:-1,TOKAT SÜPER TV
-https://helga.iptv2022.com/sh/TokatsuperTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,CİNE 1 TV
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
 #EXTINF:-1,BİR TV
@@ -344,10 +340,6 @@ http://vip.torktv.org:2095/live/vlkn2282/vlk.56/130666.ts
 http://vip.torktv.org:2095/live/vlkn2282/vlk.56/5999.ts
 #EXTINF:-1 tvg-id="" tvg-name="ZOR ÖLÜM TV" tvg-logo="" group-title="Sinema",ZOR ÖLÜM TV
 http://vip.torktv.org:2095/live/vlkn2282/vlk.56/130656.ts
-#EXTINF:-1 tvg-id="" tvg-name="DREAM KORKU" tvg-logo="" group-title="Sinema",DREAM KORKU
-http://tvr.lol:80/live/vedatyilmaz27/yilmaz@27/898.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEST İMDB SİNEMA" tvg-logo="" group-title="Sinema",BEST İMDB SİNEMA
-http://g0tv.site:80/live/vedatyilmaz27/yilmaz@27/906.ts
 #EXTINF:-1 tvg-id="" tvg-name="FİLMBOX" tvg-logo="" group-title="Sinema",FİLMBOX
 http://vip.torktv.org:2095/live/vlkn2282/vlk.56/99048.ts
 #EXTINF:-1 tvg-id="" tvg-name="FİL TV" tvg-logo="" group-title="Sinema",FİL TV
