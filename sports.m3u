@@ -129,13 +129,13 @@ https://fr-cdn-1.varsportscdn1.lol/tabii5/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TABİİ SPOR 6" tvg-logo="" group-title="Tabii Spor",TABİİ SPOR 6
 https://fr-cdn-1.varsportscdn1.lol/tabii6/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 1 HD" tvg-logo="" group-title="Exxen Spor",EXXEN SPOR 1 HD
-http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/167.ts
+https://bcovlive-a.akamaihd.net/88affc2b8d9845d9adb0f4a22db27653/eu-central-1/6415845530001/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 2 HD" tvg-logo="" group-title="Exxen Spor",EXXEN SPOR 2 HD
-http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/168.ts
+https://bcovlive-a.akamaihd.net/446cfea025a440c492201835dd88f74a/eu-central-1/6415845530001/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 3 HD" tvg-logo="" group-title="Exxen Spor",EXXEN SPOR 3 HD
-http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/169.ts
+https://bcovlive-a.akamaihd.net/11d43931fe8741b286897fd8488a1a2b/eu-central-1/6415845530001/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 4 HD" tvg-logo="" group-title="Exxen Spor",EXXEN SPOR 4 HD
-http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/170.ts
+https://bcovlive-a.akamaihd.net/764299a9db4b429aa9250edc9e791156/eu-central-1/6415845530001/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 5 HD" tvg-logo="" group-title="Exxen Spor",EXXEN SPOR 5 HD
 http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/171.ts
 #EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 6 HD" tvg-logo="" group-title="Exxen Spor",EXXEN SPOR 6 HD
@@ -144,32 +144,30 @@ http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/172.ts
 http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/173.ts
 #EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 8 HD" tvg-logo="" group-title="Exxen Spor",EXXEN SPOR 8 HD
 http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/174.ts
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 1 FHD DMTN" tvg-logo="" group-title="Exxen Spor",EXXEN SPOR 1 FHD DMTN
-http://dmtn.tv:8080/GEN-broLINE/mfYMHgu/503257
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 1 HD DMTN" tvg-logo="" group-title="Exxen Spor",EXXEN SPOR 1 HD DMTN
-http://dmtn.tv:8080/GEN-broLINE/mfYMHgu/503259
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 1 DMTN" tvg-logo="" group-title="Exxen Spor",EXXEN SPOR 1 DMTN
-http://dmtn.tv:8080/GEN-broLINE/mfYMHgu/503258
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 2 FHD DMTN" tvg-logo="" group-title="Exxen Spor",EXXEN SPOR 2 FHD DMTN
-http://dmtn.tv:8080/GEN-broLINE/mfYMHgu/503260
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 1 FHD DMTN" tvg-logo="" group-title="Exxen Spor",EXXEN SPOR 1 HD
+http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/167.ts
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 1 HD DMTN" tvg-logo="" group-title="Exxen Spor",EXXEN SPOR 1 FHD
+http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/167.ts
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 2 FHD DMTN" tvg-logo="" group-title="Exxen Spor",EXXEN SPOR 2 FHD
+http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/168.ts
 #EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 2 HD DMTN" tvg-logo="" group-title="Exxen Spor",EXXEN SPOR 2 HD DMTN
-http://dmtn.tv:8080/GEN-broLINE/mfYMHgu/503261
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 3 FHD DMTN" tvg-logo="" group-title="Exxen Spor",EXXEN SPOR 3 FHD DMTN
-http://dmtn.tv:8080/GEN-broLINE/mfYMHgu/503262
+http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/168.ts
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 3 FHD DMTN" tvg-logo="" group-title="Exxen Spor",EXXEN SPOR 3 FHD
+http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/169.ts
 #EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 3 HD DMTN" tvg-logo="" group-title="Exxen Spor",EXXEN SPOR 3 HD DMTN
-http://dmtn.tv:8080/GEN-broLINE/mfYMHgu/503263
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 4 FHD DMTN" tvg-logo="" group-title="Exxen Spor",EXXEN SPOR 4 FHD DMTN
-http://dmtn.tv:8080/GEN-broLINE/mfYMHgu/503265
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 5 FHD DMTN" tvg-logo="" group-title="Exxen Spor",EXXEN SPOR 5 FHD DMTN
-http://dmtn.tv:8080/GEN-broLINE/mfYMHgu/503267
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 6 FHD DMTN" tvg-logo="" group-title="Exxen Spor",EXXEN SPOR 6 FHD DMTN
-http://dmtn.tv:8080/GEN-broLINE/mfYMHgu/503269
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 7 FHD DMTN" tvg-logo="" group-title="Exxen Spor",EXXEN SPOR 7 FHD DMTN
-http://dmtn.tv:8080/GEN-broLINE/mfYMHgu/503271
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 8 FHD DMTN" tvg-logo="" group-title="Exxen Spor",EXXEN SPOR 8 FHD DMTN
-http://dmtn.tv:8080/GEN-broLINE/mfYMHgu/503273
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 9 FHD DMTN" tvg-logo="" group-title="Exxen Spor",EXXEN SPOR 9 FHD DMTN
-http://dmtn.tv:8080/GEN-broLINE/mfYMHgu/503274
+http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/169.ts
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 4 FHD DMTN" tvg-logo="" group-title="Exxen Spor",EXXEN SPOR 4 FHD
+http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/170.ts
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 5 FHD DMTN" tvg-logo="" group-title="Exxen Spor",EXXEN SPOR 5 FHD
+http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/171.ts
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 6 FHD DMTN" tvg-logo="" group-title="Exxen Spor",EXXEN SPOR 6 FHD
+http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/172.ts
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 7 FHD DMTN" tvg-logo="" group-title="Exxen Spor",EXXEN SPOR 7 FHD
+http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/173.ts
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 8 FHD DMTN" tvg-logo="" group-title="Exxen Spor",EXXEN SPOR 8 FHD
+http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/174.ts
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 9 FHD DMTN" tvg-logo="" group-title="Exxen Spor",EXXEN SPOR 9 FHD
+http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/174.ts
 #EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR FHD" tvg-logo="" group-title="Tivibu Spor",TİVİBU SPOR FHD
 http://1mhvipss.eu:80/live/gokaykaplanci12/22.09.2020/213602.ts
 #EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR 1 FHD" tvg-logo="" group-title="Tivibu Spor",TİVİBU SPOR 1 FHD
