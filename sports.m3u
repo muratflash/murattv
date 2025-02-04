@@ -199,8 +199,10 @@ https://bcovlive-a.akamaihd.net/540fcb034b144b848e7ff887f61a293a/eu-central-1/64
 #EXTINF:-1 tvg-id="" tvg-name="S SPORT 2 FHD" tvg-logo="" group-title="S Sport",S SPORT 2 FHD
 https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="S SPORT HD" tvg-logo="" group-title="S Sport",S SPORT HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://sei.29d0b51b213115a0.click/p/limontv.xyz/3450/a.cf-worker-4e1da3ddd26870a5.workers.dev/chunklist_hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="S SPORT 2 HD" tvg-logo="" group-title="S Sport",S SPORT 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://sei.29d0b51b213115a0.click/p/limontv.xyz/3451/a.cf-worker-4e1da3ddd26870a5.workers.dev/chunklist_hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="S SPORT" tvg-logo="" group-title="S Sport",S SPORT
 http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/155.ts
