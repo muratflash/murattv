@@ -200,14 +200,19 @@ http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/162.ts
 #EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR 3" tvg-logo="" group-title="Tivibu Spor",TİVİBU SPOR 3
 http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/163.ts
 #EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR 1 HD" tvg-logo="" group-title="Tivibu Spor",TİVİBU SPOR 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://sei.c6db67cffaaefebe.click/i/neden/605/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR 1 HD ALTERNATİF" tvg-logo="" group-title="Tivibu Spor",TİVİBU SPOR 1 HD ALTERNATİF
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://sei.c6db67cffaaefebe.click/i/neden/606/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR 2 HD" tvg-logo="" group-title="Tivibu Spor",TİVİBU SPOR 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://sei.c6db67cffaaefebe.click/i/neden/607/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR 3 HD" tvg-logo="" group-title="Tivibu Spor",TİVİBU SPOR 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://sei.c6db67cffaaefebe.click/i/neden/608/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR 4 HD" tvg-logo="" group-title="Tivibu Spor",TİVİBU SPOR 4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://sei.c6db67cffaaefebe.click/i/neden/609/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="S SPORT FHD" tvg-logo="" group-title="S Sport",S SPORT FHD
 https://bcovlive-a.akamaihd.net/540fcb034b144b848e7ff887f61a293a/eu-central-1/6415845530001/playlist.m3u8
