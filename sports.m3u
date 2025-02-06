@@ -4,22 +4,66 @@ https://ythls.kekikakademi.org/youtube/video/EmdtE7sRMSY.m3u8
 https://ythls.kekikakademi.org/youtube/video/n5CBQTdLkLA.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 4K" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 1 4K
 https://mobil.92test.cfd/yayint24.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 DMTN" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 1 DMTN
-https://mobil.92test.cfd/yayint24.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 DMTN VİP" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 1 DMTN VİP
-http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/146.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 2 DMTN" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 2 DMTN
-http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/149.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 3 DMTN" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 3 DMTN
-http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/150.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 4 DMTN" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 4 DMTN
-http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/151.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 1
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 DMTN" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 1 VİP
+http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/147.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 DMTN VİP" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 1 UHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://sei.78c56a395e57b9134a.click/p/beceriksizler.net/601/a.cf-worker-6cb610636d9f0d43.workers.dev/chunklist_hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 2 DMTN" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 2 UHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://nove.78c56a395e57b9134a.click/p/beceriksizler.net/602/a.cf-worker-6cb610636d9f0d43.workers.dev/chunklist_hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 3 DMTN" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 3 UHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://cinque.78c56a395e57b9134a.click/p/beceriksizler.net/603/a.cf-worker-6cb610636d9f0d43.workers.dev/chunklist_hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 4 DMTN" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 4 UHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://nove.78c56a395e57b9134a.click/p/beceriksizler.net/604/a.cf-worker-6cb610636d9f0d43.workers.dev/chunklist_hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 5 UHD" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 5 UHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://sei.78c56a395e57b9134a.click/p/beceriksizler.net/705/a.cf-worker-6cb610636d9f0d43.workers.dev/chunklist_hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS MAX 1 UHD" tvg-logo="" group-title="Bein Sports",BEİN SPORTS MAX 1 UHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://sette.78c56a395e57b9134a.click/p/beceriksizler.net/805/a.cf-worker-6cb610636d9f0d43.workers.dev/chunklist_hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS MAX 2 UHD" tvg-logo="" group-title="Bein Sports",BEİN SPORTS MAX 2 UHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://sette.78c56a395e57b9134a.click/p/beceriksizler.net/806/a.cf-worker-6cb610636d9f0d43.workers.dev/chunklist_hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 FHD" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 1 FHD
+http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/146.ts
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 ALTERNATİF" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 1 ALTERNATİF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://nove.78c56a395e57b9134a.click/i/selcuksportshd1630.xyz/601/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 2 FHD" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 2 FHD
+http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/149.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 3 FHD" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 3 FHD
+http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/150.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 4 FHD" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 4 FHD
+http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/151.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 5 FHD" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 5 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://sei.78c56a395e57b9134a.click/p/beceriksizler.net/705/a.cf-worker-6cb610636d9f0d43.workers.dev/chunklist_hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS MAX 1 FHD" tvg-logo="" group-title="Bein Sports",BEİN SPORTS MAX 1 FHD
+http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/152.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS MAX 2 FHD" tvg-logo="" group-title="Bein Sports",BEİN SPORTS MAX 2 FHD
+http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/153.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 HD" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://sei.c6db67cffaaefebe.click/i/neden/601/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 2 HD" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://sei.c6db67cffaaefebe.click/i/neden/602/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 3 HD" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://sei.c6db67cffaaefebe.click/i/neden/603/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 4 HD" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://sei.c6db67cffaaefebe.click/i/neden/604/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 5 HD" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 5 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://sei.c6db67cffaaefebe.click/i/neden/705/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 1
+http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/147.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 TOD" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 1 TOD
+http://raalbatros.serv00.net/Freeshot.php?ID=bein-sports-1-turkey/158
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 2" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://nove.78c56a395e57b9134a.click/i/selcuksportshd1630.xyz/602/playlist.m3u8
@@ -30,32 +74,9 @@ https://nove.78c56a395e57b9134a.click/i/selcuksportshd1630.xyz/603/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://nove.78c56a395e57b9134a.click/i/selcuksportshd1630.xyz/604/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 5" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://sei.78c56a395e57b9134a.click/p/beceriksizler.net/705/a.cf-worker-6cb610636d9f0d43.workers.dev/chunklist_hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS MAX 1" tvg-logo="" group-title="Bein Sports",BEİN SPORTS MAX 1
-http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/152.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS MAX 2" tvg-logo="" group-title="Bein Sports",BEİN SPORTS MAX 2
-http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/153.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 UHD" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 1 UHD
-https://jyayintv91.site/cdn/bein_sports_1_hd/main.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 VİP" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 1 VİP
-http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/147.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 REC" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 1 REC
-https://due.b7021e57df9f3d9b.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 2 REC" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 2 REC
-https://m3withered-water-9ef7.ahmedisess18.workers.dev/live/bs2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 HD" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 1 HD
-http://raalbatros.serv00.net/Freeshot.php?ID=bein-sports-1-turkey/158
-#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 2 HD" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 2 HD
-https://us-cdn-1.varsportscdn1.lol/602/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 3 HD" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 3 HD
-https://us-cdn-1.varsportscdn1.lol/603/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 4 HD" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 4 HD
-https://us-cdn-1.varsportscdn1.lol/604/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 5 HD" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 5 HD
 https://cdn.srectv1.xyz/live/bs5/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 LİVE" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 1 LİVE
-https://jtvdhh.site/cdn/bein_sports_1_hd/main.m3u8
+https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=b1
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 2 LİVE" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 2 LİVE
 https://101.zortstream.shop/602/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 3 LİVE" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 3 LİVE
@@ -64,14 +85,6 @@ https://101.zortstream.shop/603/index.m3u8
 https://101.zortstream.shop/604/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 5 LİVE" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 5 LİVE
 https://101.zortstream.shop/605/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 FHD" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 1 FHD
-http://65.21.85.175:8000/play/a034/index.m3u8?token=livetv
-#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 2 FHD" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 2 FHD
-http://65.21.85.175:8000/play/a035/index.m3u8?token=livetv
-#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 3 FHD" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 3 FHD
-http://65.21.85.175:8000/play/a036/index.m3u8?token=livetv
-#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 4 FHD" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 4 FHD
-http://65.21.85.175:8000/play/a037/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 STREAM" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 1 STREAM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://sei.c6db67cffaaefebe.click/i/neden/601/playlist.m3u8
@@ -85,46 +98,60 @@ https://sei.c6db67cffaaefebe.click/i/neden/603/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://sei.c6db67cffaaefebe.click/i/neden/604/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 RAW" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 1 RAW
-https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=b1
+https://jtvdhh.site/cdn/bein_sports_1_hd/main.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 2 RAW" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 2 RAW
 https://s1.bunnycdn200.xyz/cdn/b2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 3 RAW" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 3 RAW
 https://s1.bunnycdn200.xyz/cdn/b3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 4 RAW" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 4 RAW
 https://s1.bunnycdn200.xyz/cdn/b4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 REC" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 1 REC
+https://due.b7021e57df9f3d9b.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 2 REC" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 2 REC
+https://m3withered-water-9ef7.ahmedisess18.workers.dev/live/bs2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 HD+" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 1 HD+
+https://jyayintv91.site/cdn/bein_sports_1_hd/main.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 DESSİ" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 1 DESSİ
+http://65.21.85.175:8000/play/a034/index.m3u8?token=livetv
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 2 DESSİ" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 2 DESSİ
+http://65.21.85.175:8000/play/a035/index.m3u8?token=livetv
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 3 DESİ" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 3 DESSİ
+http://65.21.85.175:8000/play/a036/index.m3u8?token=livetv
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 4 DESSİ" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 4 DESSİ
+http://65.21.85.175:8000/play/a037/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS HABER HD" tvg-logo="" group-title="Bein Sports",BEİN SPORTS HABER HD
 https://ythls.kekikakademi.org/youtube/channel/UCPe9vNjHF1kEExT5kHwc7aw.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS HABER" tvg-logo="" group-title="Bein Sports",BEİN SPORTS HABER
 http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/154.ts
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS ARŞİV" tvg-logo="" group-title="Bein Sports",BEİN SPORTS ARŞİV
 https://ythls.kekikakademi.org/youtube/channel/UCNopxUNUMinlK3ybMGlpbGQ.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TABİİ SPOR HD" tvg-logo="" group-title="Tabii Spor",TABİİ SPOR HD
+#EXTINF:-1 tvg-id="" tvg-name="TABİİ SPOR FHD" tvg-logo="" group-title="Tabii Spor",TABİİ SPOR FHD
 https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8?app=web
-#EXTINF:-1 tvg-id="" tvg-name="TABİİ SPOR 1 HD" tvg-logo="" group-title="Tabii Spor",TABİİ SPOR 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="TABİİ SPOR 1 FHD" tvg-logo="" group-title="Tabii Spor",TABİİ SPOR 1 FHD
 https://iaqzu4szhtzeqd0edpsayinle.medya.trt.com.tr/master_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TABİİ SPOR 2 HD" tvg-logo="" group-title="Tabii Spor",TABİİ SPOR 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="TABİİ SPOR 2 FHD" tvg-logo="" group-title="Tabii Spor",TABİİ SPOR 2 FHD
 https://klublsslubcgyiz7zqt5bz8il.medya.trt.com.tr/master_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TABİİ SPOR 3 HD" tvg-logo="" group-title="Tabii Spor",TABİİ SPOR 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="TABİİ SPOR 3 FHD" tvg-logo="" group-title="Tabii Spor",TABİİ SPOR 3 FHD
 https://ujnf69op16x2fiiywxcnx41q8.medya.trt.com.tr/master_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TABİİ SPOR 4 HD" tvg-logo="" group-title="Tabii Spor",TABİİ SPOR 4 HD 
+#EXTINF:-1 tvg-id="" tvg-name="TABİİ SPOR 4 FHD" tvg-logo="" group-title="Tabii Spor",TABİİ SPOR 4 FHD 
 https://bfxy3jgeydpbphtk8qfqwm3hr.medya.trt.com.tr/master_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TABİİ SPOR 5 HD" tvg-logo="" group-title="Tabii Spor",TABİİ SPOR 5 HD
+#EXTINF:-1 tvg-id="" tvg-name="TABİİ SPOR 5 FHD" tvg-logo="" group-title="Tabii Spor",TABİİ SPOR 5 FHD
 https://z3mmimwz148csv0vaxtphqspf.medya.trt.com.tr/master_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TABİİ SPOR 6 HD" tvg-logo="" group-title="Tabii Spor",TABİİ SPOR 6 HD
+#EXTINF:-1 tvg-id="" tvg-name="TABİİ SPOR 6 FHD" tvg-logo="" group-title="Tabii Spor",TABİİ SPOR 6 FHD
 https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TABİİ SPOR HD DMTN" tvg-logo="" group-title="Tabii Spor",TABİİ SPOR HD DMTN
+#EXTINF:-1 tvg-id="" tvg-name="TABİİ SPOR HD" tvg-logo="" group-title="Tabii Spor",TABİİ SPOR HD
 https://gesbd8syvu.zortspor1.online/tabii/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TABİİ SPOR 1 HD DMTN" tvg-logo="" group-title="Tabii Spor",TABİİ SPOR 1 HD DMTN
+#EXTINF:-1 tvg-id="" tvg-name="TABİİ SPOR 1 HD" tvg-logo="" group-title="Tabii Spor",TABİİ SPOR 1 HD
 https://gesbd8syvu.zortspor1.online/tabii1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TABİİ SPOR 2 HD DMTN" tvg-logo="" group-title="Tabii Spor",TABİİ SPOR 2 HD DMTN
+#EXTINF:-1 tvg-id="" tvg-name="TABİİ SPOR 2 HD" tvg-logo="" group-title="Tabii Spor",TABİİ SPOR 2 HD
 https://gesbd8syvu.zortspor1.online/tabii2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TABİİ SPOR 3 HD DMTN" tvg-logo="" group-title="Tabii Spor",TABİİ SPOR 3 HD DMTN
+#EXTINF:-1 tvg-id="" tvg-name="TABİİ SPOR 3 HD" tvg-logo="" group-title="Tabii Spor",TABİİ SPOR 3 HD
 https://gesbd8syvu.zortspor1.online/tabii3/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TABİİ SPOR 4 HD DMTN" tvg-logo="" group-title="Tabii Spor",TABİİ SPOR 4 HD DMTN
+#EXTINF:-1 tvg-id="" tvg-name="TABİİ SPOR 4 HD" tvg-logo="" group-title="Tabii Spor",TABİİ SPOR 4 HD
 https://gesbd8syvu.zortspor1.online/tabii4/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TABİİ SPOR 5 HD DMTN" tvg-logo="" group-title="Tabii Spor",TABİİ SPOR 5 HD DMTN
+#EXTINF:-1 tvg-id="" tvg-name="TABİİ SPOR 5 HD" tvg-logo="" group-title="Tabii Spor",TABİİ SPOR 5 HD
 https://gesbd8syvu.zortspor1.online/tabii5/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TABİİ SPOR 6 HD DMTN" tvg-logo="" group-title="Tabii Spor",TABİİ SPOR 6 HD DMTN
+#EXTINF:-1 tvg-id="" tvg-name="TABİİ SPOR 6 HD" tvg-logo="" group-title="Tabii Spor",TABİİ SPOR 6 HD
 https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TABİİ SPOR" tvg-logo="" group-title="Tabii Spor",TABİİ SPOR
 https://fr-cdn-1.varsportscdn1.lol/tabii/index.m3u8
@@ -569,7 +596,7 @@ https://ythls.kekikakademi.org/youtube/channel/UCxwxsjK57Xjzpwkdqb90pXg.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO TÜRKÜ" tvg-logo="" group-title="Radyo",RADYO TÜRKÜ
 https://ythls.kekikakademi.org/youtube/video/Bto75pRPQNA.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SLOW FM" tvg-logo="" group-title="Radyo",SLOW FM
-https://ythls.kekikakademi.org/youtube/channel/UC1I1QZNcHFcUaJsMRdil6Gw.m3u8
+https://ythls.kekikakademi.org/youtube/video/YKI6tm5wPxQ.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO BAHARTÜRK ARABESK" tvg-logo="" group-title="Radyo",RADYO BAHARTÜRK ARABESK
 https://ythls.kekikakademi.org/youtube/video/NWKmpIYVJOg.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO BAHARTÜRK POP" tvg-logo="" group-title="Radyo",RADYO BAHARTÜRK POP
