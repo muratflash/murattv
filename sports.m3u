@@ -13,17 +13,23 @@ http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/150.ts
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 4 DMTN" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 4 DMTN
 http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/151.ts
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 1
-https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=b1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://sei.78c56a395e57b9134a.click/p/beceriksizler.net/601/a.cf-worker-6cb610636d9f0d43.workers.dev/chunklist_hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 ALTERNATİF" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 1 ALTERNATİF
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://nove.78c56a395e57b9134a.click/i/selcuksportshd1630.xyz/601/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 2" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://nove.78c56a395e57b9134a.click/i/selcuksportshd1630.xyz/602/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 3" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://nove.78c56a395e57b9134a.click/i/selcuksportshd1630.xyz/603/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 4" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://nove.78c56a395e57b9134a.click/i/selcuksportshd1630.xyz/604/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 5" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 5
-https://0dx50qwkvlp4mh4rff5lrkmx3rzdgsbj.zortstream.shop/605/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://sei.78c56a395e57b9134a.click/p/beceriksizler.net/705/a.cf-worker-6cb610636d9f0d43.workers.dev/chunklist_hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS MAX 1" tvg-logo="" group-title="Bein Sports",BEİN SPORTS MAX 1
 http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/152.ts
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS MAX 2" tvg-logo="" group-title="Bein Sports",BEİN SPORTS MAX 2
@@ -65,15 +71,19 @@ http://65.21.85.175:8000/play/a036/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 4 FHD" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 4 FHD
 http://65.21.85.175:8000/play/a037/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 STREAM" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 1 STREAM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://sei.c6db67cffaaefebe.click/i/neden/601/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 2 STREAM" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 2 STREAM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://sei.c6db67cffaaefebe.click/i/neden/602/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 3 STREAM" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 3 STREAM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://sei.c6db67cffaaefebe.click/i/neden/603/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 4 STREAM" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 4 STREAM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://sei.c6db67cffaaefebe.click/i/neden/604/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 RAW" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 1 RAW
-https://us-cdn-1.varsportscdn1.lol/601/index.m3u8
+https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=b1
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 2 RAW" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 2 RAW
 https://s1.bunnycdn200.xyz/cdn/b2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 3 RAW" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 3 RAW
@@ -169,14 +179,19 @@ http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/174.ts
 #EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 9 FHD DMTN" tvg-logo="" group-title="Exxen Spor",EXXEN SPOR 9 FHD
 http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/174.ts
 #EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR FHD" tvg-logo="" group-title="Tivibu Spor",TİVİBU SPOR FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://nove.78c56a395e57b9134a.click/i/selcuksportshd1630.xyz/605/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR 1 FHD" tvg-logo="" group-title="Tivibu Spor",TİVİBU SPOR 1 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://nove.78c56a395e57b9134a.click/i/selcuksportshd1630.xyz/606/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR 2 FHD" tvg-logo="" group-title="Tivibu Spor",TİVİBU SPOR 2 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://nove.78c56a395e57b9134a.click/i/selcuksportshd1630.xyz/607/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR 3 FHD" tvg-logo="" group-title="Tivibu Spor",TİVİBU SPOR 3 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://nove.78c56a395e57b9134a.click/i/selcuksportshd1630.xyz/608/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR 4 FHD" tvg-logo="" group-title="Tivibu Spor",TİVİBU SPOR 4 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://nove.78c56a395e57b9134a.click/i/selcuksportshd1630.xyz/609/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR 1" tvg-logo="" group-title="Tivibu Spor",TİVİBU SPOR 1
 http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/161.ts
