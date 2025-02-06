@@ -252,10 +252,11 @@ https://ythls.kekikakademi.org/youtube/channel/UCPe9vNjHF1kEExT5kHwc7aw.m3u8
 https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT SPOR HD" tvg-logo="" group-title="Spor",TRT SPOR HD
 https://trt.daioncdn.net/trtspor/master_1080p.m3u8?platform=trtspor&sid=6v658fcnyyrq&app=9b65474e-8197-4899-aabb-321fcf6dd9eb&ce=2
-#EXTINF:-1 tvg-id="" tvg-name="A SPOR" tvg-logo="" group-title="Spor",A SPOR
+#EXTINF:-1 tvg-id="" tvg-name="A SPOR" tvg-logo="" group-title="Spor",A SPOR HD
 http://50.7.144.122:1935/livetv/aspor.stream/sec-f5-v1-a1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A SPOR HD" tvg-logo="" group-title="Spor",A SPOR HD
-http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/165.ts
+#EXTINF:-1 tvg-id="" tvg-name="A SPOR HD" tvg-logo="" group-title="Spor",A SPOR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://due.78c56a395e57b9134a.click/p/beceriksizler.net/172/a.cf-worker-6cb610636d9f0d43.workers.dev/chunklist_hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HT SPOR" tvg-logo="" group-title="Spor",HT SPOR
 https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HT SPOR HD" tvg-logo="" group-title="Spor",HT SPOR HD
@@ -530,7 +531,7 @@ https://ythls.kekikakademi.org/youtube/video/r9DQV3NvBdM.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO AYYÜZLÜM" tvg-logo="" group-title="Radyo",RADYO AYYÜZLÜM
 https://ythls.kekikakademi.org/youtube/video/xL1CZFaliHY.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO DAMAR" tvg-logo="" group-title="Radyo",RADYO DAMAR
-https://ythls.kekikakademi.org/youtube/video/7Ex8ajKgjSc.m3u8
+https://ythls.kekikakademi.org/youtube/channel/UCtZNSZorRdqLZkT6rB7IivA.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO DRAM" tvg-logo="" group-title="Radyo",RADYO DRAM
 https://ythls.kekikakademi.org/youtube/video/wgzOnWm7F0Y.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="YAPRAK DÖKÜMÜ FM" tvg-logo="" group-title="Radyo",YAPRAK DÖKÜMÜ FM
