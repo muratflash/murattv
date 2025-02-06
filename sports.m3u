@@ -1,5 +1,7 @@
 #EXTINF:-1 ,MURAT TV
 https://ythls.kekikakademi.org/youtube/video/EmdtE7sRMSY.m3u8
+#EXTINF:-1 ,MURAT TV 2
+https://ythls.kekikakademi.org/youtube/video/n5CBQTdLkLA.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 4K" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 1 4K
 https://mobil.92test.cfd/yayint24.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 DMTN" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 1 DMTN
@@ -524,8 +526,8 @@ https://moondigitaledge2.radyotvonline.net/radyo7fmo/playlist.m3u8
 https://yayin.radyoarabesk.com.tr:8000/stream
 #EXTINF:-1 tvg-id="" tvg-name="RADYO ARABESK YT" tvg-logo="" group-title="Radyo",RADYO ARABESK YT
 https://ythls.kekikakademi.org/youtube/video/TbfxFo8ODb8.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADYO ARABESK YT 2" tvg-logo="" group-title="Radyo",RADYO ARABESK YT 2
-https://ythls.kekikakademi.org/youtube/video/7Zlx_KWVgcY.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADYO DEM" tvg-logo="" group-title="Radyo",RADYO DEM
+https://ythls.kekikakademi.org/youtube/video/JGErc6Q-K60.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO ARABESK 7/24" tvg-logo="" group-title="Radyo",RADYO ARABESK 7/24
 https://ythls.kekikakademi.org/youtube/video/r9DQV3NvBdM.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO AYYÜZLÜM" tvg-logo="" group-title="Radyo",RADYO AYYÜZLÜM
@@ -562,14 +564,18 @@ https://moondigitaledge.radyotvonline.net/paldoga/playlist.m3u8
 https://ythls.kekikakademi.org/youtube/video/dYbc2KMYXy0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BAŞKA RADYO" tvg-logo="" group-title="Radyo",BAŞKA RADYO
 https://ythls.kekikakademi.org/youtube/channel/UC_QmeKo2eLwP0bayo2X6g2Q.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="POPÜLER FM" tvg-logo="" group-title="Radyo",POPÜLER FM
-https://ythls.kekikakademi.org/youtube/video/HFmOn8UCTIU.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DOST FM" tvg-logo="" group-title="Radyo",DOST FM
+https://ythls.kekikakademi.org/youtube/channel/UCxwxsjK57Xjzpwkdqb90pXg.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO TÜRKÜ" tvg-logo="" group-title="Radyo",RADYO TÜRKÜ
 https://ythls.kekikakademi.org/youtube/video/Bto75pRPQNA.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADYO DİGİTAL" tvg-logo="" group-title="Radyo",RADYO DİGİTAL
-https://ythls.kekikakademi.org/youtube/channel/UCfhDYnv9rIMzO9AhKUV_ozQ.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADYO BAHARTÜRK" tvg-logo="" group-title="Radyo",RADYO BAHARTÜRK
-https://ythls.kekikakademi.org/youtube/channel/UCcYy5-lJOuj-6QrfkUxVGTQ.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SLOW FM" tvg-logo="" group-title="Radyo",SLOW FM
+https://ythls.kekikakademi.org/youtube/channel/UC1I1QZNcHFcUaJsMRdil6Gw.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADYO BAHARTÜRK ARABESK" tvg-logo="" group-title="Radyo",RADYO BAHARTÜRK ARABESK
+https://ythls.kekikakademi.org/youtube/video/NWKmpIYVJOg.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADYO BAHARTÜRK POP" tvg-logo="" group-title="Radyo",RADYO BAHARTÜRK POP
+https://ythls.kekikakademi.org/youtube/video/2h1jVkewFp8.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADYO BAHARTÜRK YABANCI" tvg-logo="" group-title="Radyo",RADYO BAHARTÜRK YABANCI
+https://ythls.kekikakademi.org/youtube/video/Ckn0_KdNFZw.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DOĞUŞ FM" tvg-logo="" group-title="Radyo",DOĞUŞ FM
 https://ythls.kekikakademi.org/youtube/channel/UC2XcxJNX_NeQqAi1FEh-5Aw.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EGE GOKKUSAGİ FM" tvg-logo="" group-title="Radyo",EGE GOKKUSAGİ FM
@@ -578,5 +584,5 @@ http://stream.tvcdn.net/yerel/ege-live-tv.m3u8
 http://cdn-radyokulup.yayin.com.tr/radyokulup/radyokulup/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FON MÜZİKLERİ 7/24" tvg-logo="" group-title="Radyo",FON MÜZİKLERİ 7/24
 https://ythls.kekikakademi.org/youtube/video/EmdtE7sRMSY.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FON MÜZİKLERİ 7/24" tvg-logo="" group-title="Radyo",KANUN FON MÜZİKLERİ 7/24
+#EXTINF:-1 tvg-id="" tvg-name="KANUN FON MÜZİKLERİ 7/24" tvg-logo="" group-title="Radyo",KANUN FON MÜZİKLERİ 7/24
 https://ythls.kekikakademi.org/youtube/video/n5CBQTdLkLA.m3u8
