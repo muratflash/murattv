@@ -275,8 +275,10 @@ https://0dx50qwkvlp4mh4rff5lrkmx3rzdgsbj.zortstream.shop/610/index.m3u8
 https://us-cdn-1.varsportscdn1.lol/609/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SPOR SMARRT 2" tvg-logo="" group-title="Spor Smart",SPOR SMART 2
 https://us-cdn-1.varsportscdn1.lol/610/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS HABER" tvg-logo="" group-title="Spor",BEİN SPORTS HABER
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS HABER HD" tvg-logo="" group-title="Spor",BEİN SPORTS HABER HD
 https://ythls.kekikakademi.org/youtube/channel/UCPe9vNjHF1kEExT5kHwc7aw.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS HABER" tvg-logo="" group-title="Spor",BEİN SPORTS HABER
+https://canlitvulusal3.xyz/live/beinsportshaber/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT SPOR" tvg-logo="" group-title="Spor",TRT SPOR
 https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT SPOR HD" tvg-logo="" group-title="Spor",TRT SPOR HD
@@ -357,9 +359,13 @@ https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EKOL TV HD" tvg-logo="" group-title="Haber",EKOL TV HD
 https://ythls.kekikakademi.org/youtube/channel/UCccxXUKSuqOrlWQxweZBAQw.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SİNEMA TV" tvg-logo="" group-title="Sinema",SİNEMA TV
-http://live.admuspeh.my/8846/index.m3u8?token=4gPHp5ZVYqDAR4oz
+http://160.19.94.16:8080/live/live:9e5620c5c6762694/LrTFVxUrEamH/14270.ts
 #EXTINF:-1 tvg-id="" tvg-name="SİNEMA AKSİYON" tvg-logo="" group-title="Sinema",SİNEMA AKSİYON
-http://live.admuspeh.my/8839/index.m3u8?token=4gPHp5ZVYqDAR4oz
+http://160.19.94.16:8080/live/live:9e5620c5c6762694/LrTFVxUrEamH/53363.ts
+#EXTINF:-1 tvg-id="" tvg-name="SİNEMA AİLE" tvg-logo="" group-title="Sinema",SİNEMA AİLE
+http://160.19.94.16:8080/live/live:9e5620c5c6762694/LrTFVxUrEamH/14274.ts
+#EXTINF:-1 tvg-id="" tvg-name="MOVİESMART TÜRK" tvg-logo="" group-title="Sinema",MOVİESMART TÜRK
+http://160.19.94.16:8080/live/live:9e5620c5c6762694/LrTFVxUrEamH/14261.ts
 #EXTINF:-1 tvg-id="" tvg-name="TABİİ TV" tvg-logo="" group-title="Sinema",TABİİ TV
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EXXEN TV" tvg-logo="" group-title="Sinema",EXXEN TV
@@ -381,6 +387,8 @@ https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 https://tivi44.ozelip.com:3614/stream/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KANAL 10 TV" tvg-logo="" group-title="Sinema",KANAL 10 TV
 https://stream-cdn-iad2.vaughnsoft.net/play/live_knl10tv.flv
+#EXTINF:-1 tvg-id="" tvg-name="SİNEMA KULÜBÜ TV" tvg-logo="" group-title="Sinema",SİNEMA KULÜBÜ TV
+https://ythls.kekikakademi.org/youtube/channel/UChb7kIKlWiDCfwXg4LSMCjg.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TELEON TV" tvg-logo="" group-title="Sinema",TELEON TV
 https://live-hz-6.livepush.io/live/emtHo7vrk_iB0e3p/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MEGA TV SİNEMA" tvg-logo="" group-title="Sinema",MEGA TV SİNEMA
@@ -449,8 +457,6 @@ https://stream-cdn-iad.vaughnsoft.net/play/live_tbrt.flv
 https://stream-cdn-iad.vaughnsoft.net/play/live_tbr_medya_on.flv
 #EXTINF:-1 tvg-id="" tvg-name="TEBER MEDYA FLASH" tvg-logo="" group-title="Sinema",TEBER MEDYA FLASH
 https://stream-cdn-iad2.vaughnsoft.net/play/live_teber_dizi_flash.flv
-#EXTINF:-1 tvg-id="" tvg-name="SİNEMA KULÜBÜ TV" tvg-logo="" group-title="Sinema",SİNEMA KULÜBÜ TV
-https://ythls.kekikakademi.org/youtube/channel/UChb7kIKlWiDCfwXg4LSMCjg.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="YEŞİLÇAM TV" tvg-logo="" group-title="Sinema",YEŞİLÇAM TV
 https://ythls.kekikakademi.org/youtube/channel/UCUALYmnkEmx8vlxIbpr2gmw.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="YEŞİLÇAM TV 2" tvg-logo="" group-title="Sinema",YEŞİLÇAM TV 2
