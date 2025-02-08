@@ -297,7 +297,7 @@ http://50.7.144.122:1935/livetv/tivibuspor.stream/sec-f5-v1-a1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV 8.5" tvg-logo="" group-title="Spor",TV 8.5
 https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?app=tv8bucuk_web&ce=3
 #EXTINF:-1 tvg-id="" tvg-name="TV 8.5 HD" tvg-logo="" group-title="Spor",TV 8.5 HD
-http://50.7.144.122:1935/livetv/tv8-5.stream/sec-f5-v1-a1.m3u8
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV 8 HD" tvg-logo="" group-title="Spor",TV 8 HD
 https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT SPOR YILDIZ" tvg-logo="" group-title="Spor",TRT SPOR YILDIZ
@@ -322,6 +322,20 @@ http://xtream-ie.org:80/live/r8E7WzEjY/LLJwdV9mB/191.ts
 http://160.19.94.16:8080/live/live:9e5620c5c6762694/LrTFVxUrEamH/1628.ts
 #EXTINF:-1 tvg-id="" tvg-name="AUTOMOTO HD" tvg-logo="" group-title="Spor",AUTOMOTO HD
 http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/166.ts
+#EXTINF:-1 tvg-id="" tvg-name="TRT HABER" tvg-logo="" group-title="Haber",TRT HABER
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TGRT HABER" tvg-logo="" group-title="Haber",TGRT HABER
+https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A HABER" tvg-logo="" group-title="Haber",A HABER
+https://c.fulltvizle.com/ahaber/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A HABER HD" tvg-logo="" group-title="Haber",A HABER HD
+https://yayin2.canlitv.fun/livetv/ahaber.stream/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN TÜRK" tvg-logo="" group-title="Haber",CNN TÜRK
+http://89.36.94.225:80/956bassem/BHrMOpKtyb/1642
+#EXTINF:-1 tvg-id="" tvg-name="CNN TÜRK HD" tvg-logo="" group-title="Haber",CNN TÜRK HD
+https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8?&live=true&app=com.cnnturk&st=UI3KKke6KhwM28or-gHFjg&e=1738995621
+#EXTINF:-1 tvg-id="" tvg-name="HABER TÜRK" tvg-logo="" group-title="Haber",HABER TÜRK
+https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HALK TV" tvg-logo="" group-title="Haber",HALK TV
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HALK TV HD" tvg-logo="" group-title="Haber",HALK TV HD
