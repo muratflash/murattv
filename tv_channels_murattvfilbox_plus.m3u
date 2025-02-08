@@ -17,6 +17,8 @@ https://tivi44.ozelip.com:3614/stream/play.m3u8
 https://tinyurl.com/reflexteleontv
 #EXTINF:-1,KANAL 10 TV
 https://stream-cdn-iad2.vaughnsoft.net/play/live_knl10tv.flv
+#EXTINF:-1,SİNEMA KULÜBÜ TV
+https://ythls.kekikakademi.org/youtube/channel/UChb7kIKlWiDCfwXg4LSMCjg.m3u8
 #EXTINF:-1,MEGA TV SİNEMA
 https://a8.radyotelekom.com.tr:3580/hybrid/play.m3u8
 #EXTINF:-1,MEGA TV KORKU
@@ -47,8 +49,6 @@ https://cdn-tv25.yayin.com.tr/tv25/tv25/chunklist.m3u8
 https://ajansplay.com:5443/LiveApp/streams/tv48.m3u8
 #EXTINF:-1,MUĞLA TÜRK TV
 https://edge1.socialsmart.tv/muglaturk/bant1/chunks.m3u8
-#EXTINF:-1,ULUSLARARASI TV
-http://stream.tvcdn.net/diger/uluslararasi-tv.m3u8
 #EXTINF:-1,ONDE TV
 https://ondetv.ozelip.com.tr:3390/hybrid/play.m3u8
 #EXTINF:-1,LİFE TV HD
@@ -110,10 +110,14 @@ https://live.euromediacenter.com/hurtv/tracks-v1a1/mono.m3u8
 https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
 #EXTINF:-1,CEYHAN TV
 http://palatv34.ozelip.com:22372/ceyhantv/ceyhantv/chunklist_w1781786446.m3u8
+#EXTINF:-1,ULUSLARARASI TV
+http://stream.tvcdn.net/diger/uluslararasi-tv.m3u8
 #EXTINF:-1,BELEM TÜRK TV
 https://edge1.socialsmart.tv/belemturktv/bant1/playlist.m3u8
 #EXTINF:-1,TRAKYA TÜRK TV
 https://live.artidijitalmedya.com/artidijital_trakyaturk/trakyaturk/chunks.m3u8
+#EXTINF:-1,TON TV
+https://live.artidijitalmedya.com/artidijital_tontv/tontv/chunks.m3u8
 #EXTINF:-1,CİNE 1 TV
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
 #EXTINF:-1,BİR TV
