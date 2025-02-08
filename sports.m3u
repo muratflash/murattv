@@ -294,6 +294,8 @@ https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8
 https://ythls.kekikakademi.org/youtube/video/RdpqsTbi_KU.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR" tvg-logo="" group-title="Spor",TİVİBU SPOR
 http://50.7.144.122:1935/livetv/tivibuspor.stream/sec-f5-v1-a1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR HD" tvg-logo="" group-title="Spor",TİVİBU SPOR HD
+http://stream.tvcdn.net/spor/tivibu-spor.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV 8.5" tvg-logo="" group-title="Spor",TV 8.5
 https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?app=tv8bucuk_web&ce=3
 #EXTINF:-1 tvg-id="" tvg-name="TV 8.5 HD" tvg-logo="" group-title="Spor",TV 8.5 HD
@@ -322,6 +324,12 @@ http://xtream-ie.org:80/live/r8E7WzEjY/LLJwdV9mB/191.ts
 http://160.19.94.16:8080/live/live:9e5620c5c6762694/LrTFVxUrEamH/1628.ts
 #EXTINF:-1 tvg-id="" tvg-name="AUTOMOTO HD" tvg-logo="" group-title="Spor",AUTOMOTO HD
 http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/166.ts
+#EXTINF:-1 tvg-id="" tvg-name="VOLE TV YOUTUBE" tvg-logo="" group-title="Spor",VOLE TV YOUTUBE
+https://ythls.kekikakademi.org/youtube/channel/UCeCRRixprpBjNmzRWgLBiUA.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS DİGİTALE YOUTUBE" tvg-logo="" group-title="Spor",SPORTS DİGİTALE YOUTUBE
+https://ythls.kekikakademi.org/youtube/channel/UCmEgRY1A2263UXrQhjDuU0Q.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BTV YOUTUBE" tvg-logo="" group-title="Spor",BTV YOUTUBE
+https://ythls.kekikakademi.org/youtube/channel/UC-_pM982OEbezyJpPxu79pg.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT HABER" tvg-logo="" group-title="Haber",TRT HABER
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TGRT HABER" tvg-logo="" group-title="Haber",TGRT HABER
@@ -333,9 +341,13 @@ https://yayin2.canlitv.fun/livetv/ahaber.stream/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN TÜRK" tvg-logo="" group-title="Haber",CNN TÜRK
 http://89.36.94.225:80/956bassem/BHrMOpKtyb/1642
 #EXTINF:-1 tvg-id="" tvg-name="CNN TÜRK HD" tvg-logo="" group-title="Haber",CNN TÜRK HD
-https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8?&live=true&app=com.cnnturk&st=UI3KKke6KhwM28or-gHFjg&e=1738995621
+https://ythls.kekikakademi.org/youtube/channel/UCV6zcRug6Hqp1UX_FdyUeBg.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HABER TÜRK" tvg-logo="" group-title="Haber",HABER TÜRK
 https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HABER GLOBAL" tvg-logo="" group-title="Haber",HABER GLOBAL
+https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HABER GLOBAL HD" tvg-logo="" group-title="Haber",HABER GLOBAL HD
+https://ythls.kekikakademi.org/youtube/channel/UCtc-a9ZUIg0_5HpsPxEO7Qg.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HALK TV" tvg-logo="" group-title="Haber",HALK TV
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HALK TV HD" tvg-logo="" group-title="Haber",HALK TV HD
@@ -427,10 +439,6 @@ https://hocwantv.ozelip.com:3593/hybrid/play.m3u8
 https://almanyatv.ozelip.net:3130/multi_web/play_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PAZARCIK TV" tvg-logo="" group-title="Sinema",PAZARCIK TV
 https://pazarciktv.ozelip.net:3962/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="YAĞMUR TV" tvg-logo="" group-title="Sinema",YAĞMUR TV
-http://palatv34.ozelip.com:22372/yagmur/yagmur/chunklist_w1134329993.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ULUSLARARASI TV" tvg-logo="" group-title="Sinema",ULUSLARARASI TV
-http://stream.tvcdn.net/diger/uluslararasi-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ONDE TV" tvg-logo="" group-title="Sinema",ONDE TV
 https://ondetv.ozelip.com.tr:3390/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KANAL 19" tvg-logo="" group-title="Sinema",KANAL 19
@@ -445,6 +453,10 @@ https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m
 https://i41.ozelip.com:3269/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SKY HABER TV" tvg-logo="" group-title="Sinema",SKY HABER TV
 https://skyhabertv.ozelip.com:3280/stream/play.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="YAĞMUR TV" tvg-logo="" group-title="Sinema",YAĞMUR TV
+http://palatv34.ozelip.com:22372/yagmur/yagmur/chunklist_w1134329993.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ULUSLARARASI TV" tvg-logo="" group-title="Sinema",ULUSLARARASI TV
+http://stream.tvcdn.net/diger/uluslararasi-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CİNE 1 TV" tvg-logo="" group-title="Sinema",CİNE 1 TV
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BİR TV" tvg-logo="" group-title="Sinema",BİR TV
