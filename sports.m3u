@@ -334,6 +334,8 @@ http://160.19.94.16:8080/live/live:9e5620c5c6762694/LrTFVxUrEamH/1628.ts
 http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/166.ts
 #EXTINF:-1 tvg-id="" tvg-name="TRT HABER" tvg-logo="" group-title="Haber",TRT HABER
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT HABER HD" tvg-logo="" group-title="Haber",TRT HABER HD
+https://ensonhaber-live.ercdn.net/trthaber/trthaber.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TGRT HABER" tvg-logo="" group-title="Haber",TGRT HABER
 https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A HABER" tvg-logo="" group-title="Haber",A HABER
