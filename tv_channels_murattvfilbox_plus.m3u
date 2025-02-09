@@ -51,6 +51,8 @@ https://ajansplay.com:5443/LiveApp/streams/tv48.m3u8
 https://edge1.socialsmart.tv/muglaturk/bant1/chunks.m3u8
 #EXTINF:-1,ONDE TV
 https://ondetv.ozelip.com.tr:3390/hybrid/play.m3u8
+#EXTINF:-1,VRT TV
+https://vrttv.ozelip.com:3644/multi_web/play_720.m3u8
 #EXTINF:-1,LİFE TV HD
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/chunks.m3u8
 #EXTINF:-1,DENİZ POSTASI TV
