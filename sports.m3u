@@ -675,16 +675,25 @@ http://vip.torktv.org:2095/live/vlkn2282/vlk.56/163176.ts
 http://vip.torktv.org:2095/live/vlkn2282/vlk.56/163150.ts
 #EXTINF:-1 tvg-id="" tvg-name="KANAL 65 CİNEMA" tvg-logo="" group-title="Sinema",KANAL 65 CİNEMA
 https://live.yayingold.com.tr/kanal65azlive/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CHD MOVİES" tvg-logo="" group-title="Sinema",CHD MOVİES
-https://live.yayingold.com.tr/chdmovieslive/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CHD KORKU" tvg-logo="" group-title="Sinema",CHD KORKU
-https://live.yayingold.com.tr/chdkorku/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FARRUK TV" tvg-logo="" group-title="Sinema",FARRUK TV
 https://vsrv1.az-streamingserver.com:3833/live/ofhwiwudlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ALVİN CHANNEL" tvg-logo="" group-title="Sinema",ALVİN CHANNEL
 https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KONUL TV" tvg-logo="" group-title="Sinema",KONUL TV
 https://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GÜLDÜR GÜLDÜR SHOW" tvg-logo="" group-title="Eğlence",GÜLDÜR GÜLDÜR SHOW
+https://ythls.kekikakademi.org/youtube/channel/UCdlEXiVLTEvA280oyMvr8Kw.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ÇOK GÜZEL HAREKETLER 2" tvg-logo="" group-title="Eğlence",ÇOK GÜZEL HAREKETLER 2
+https://ythls.kekikakademi.org/youtube/channel/UCJhEfZoLs5P_idxX--yhWOA.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARKADAŞIM HOŞGELDİN" tvg-logo="" group-title="Eğlence",ARKADAŞIM HOŞGELDİN
+https://ythls.kekikakademi.org/youtube/channel/UCOYerJedhQqSyhXkev8QRFA.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KOMEDİ DÜKKANI" tvg-logo="" group-title="Eğlence",KOMEDİ DÜKKANI
+https://ythls.kekikakademi.org/youtube/channel/UCZJXR4VXvJ4GPd4y0GJcUYg.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TOLGSHOW" tvg-logo="" group-title="Eğlence",TOLGSHOW
+https://ythls.kekikakademi.org/youtube/channel/UCfyPw7vYwIVb6OuDIf7qeOQ.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN" tvg-logo="" group-title="Eğlence",EXXEN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://tre.2b4a9bb526bd2acb.shop/i/exxen/4011/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT RADYO 1" tvg-logo="" group-title="Radyo",TRT RADYO 1
 https://rd-trtradyo1.medya.trt.com.tr/master_128.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TGRT FM" tvg-logo="" group-title="Radyo",TGRT FM
