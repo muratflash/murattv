@@ -397,7 +397,7 @@ https://canli.cine6tv.com.tr:3614/stream/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KANAL 10 TV" tvg-logo="" group-title="Sinema",KANAL 10 TV
 https://stream-cdn-iad2.vaughnsoft.net/play/live_knl10tv.flv
 #EXTINF:-1 tvg-id="" tvg-name="TELEON TV" tvg-logo="" group-title="Sinema",TELEON TV
-https://live-hz-6.livepush.io/live/emtHo7vrk_iB0e3p/chunks.m3u8
+https://stream-cdn-iad3.vaughnsoft.net/play/live_teleonmediagroups.flv
 #EXTINF:-1 tvg-id="" tvg-name="MEGA TV SİNEMA" tvg-logo="" group-title="Sinema",MEGA TV SİNEMA
 https://a8.radyotelekom.com.tr:3580/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MEGA TV KORKU" tvg-logo="" group-title="Sinema",MEGA TV KORKU
