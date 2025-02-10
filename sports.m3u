@@ -283,6 +283,8 @@ https://canlitvulusal3.xyz/live/beinsportshaber/index.m3u8
 https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT SPOR HD" tvg-logo="" group-title="Spor",TRT SPOR HD
 https://trt.daioncdn.net/trtspor/master_1080p.m3u8?platform=trtspor&sid=6v658fcnyyrq&app=9b65474e-8197-4899-aabb-321fcf6dd9eb&ce=2
+#EXTINF:-1 tvg-id="" tvg-name="A SPOR FHD" tvg-logo="" group-title="Spor",A SPOR FHD
+https://ythls.kekikakademi.org/youtube/video/7uBpwcn2ZZ0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A SPOR" tvg-logo="" group-title="Spor",A SPOR HD
 http://50.7.144.122:1935/livetv/aspor.stream/sec-f5-v1-a1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A SPOR HD" tvg-logo="" group-title="Spor",A SPOR
@@ -309,7 +311,7 @@ https://ythls.kekikakademi.org/youtube/channel/UCmEgRY1A2263UXrQhjDuU0Q.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BTV YOUTUBE" tvg-logo="" group-title="Spor",BTV YOUTUBE
 https://ythls.kekikakademi.org/youtube/channel/UC-_pM982OEbezyJpPxu79pg.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LİDER HABER TELEGOL" tvg-logo="" group-title="Spor",LİDER HABER TELEGOL
-https://ip252.ozelip.com:22524/lidertv/lidertv/chunklist_w1993196315.m3u8
+https://ythls.kekikakademi.org/youtube/channel/UCgH3Vo5DVMsrbDSUoSecm0Q.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT SPOR YILDIZ" tvg-logo="" group-title="Spor",TRT SPOR YILDIZ
 https://tv-trtspor2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FB TV" tvg-logo="" group-title="Spor",FB TV
@@ -410,6 +412,8 @@ https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&type=live&service=wowza&protoc
 https://n2.burst.cdn.jetstre.am/session/450f4c594b612903b7d42d421fb93c21/sz/mceutv/wowza4/live/mc2/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LİDER HABER" tvg-logo="" group-title="Haber",LİDER HABER
 https://ip252.ozelip.com:22524/lidertv/lidertv/chunklist_w1993196315.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LİDER HABER HD" tvg-logo="" group-title="Haber",LİDER HABER HD
+https://ythls.kekikakademi.org/youtube/channel/UCgH3Vo5DVMsrbDSUoSecm0Q.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AKİT TV" tvg-logo="" group-title="Haber",AKİT TV
 https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ULUSAL KANAL" tvg-logo="" group-title="Haber",ULUSAL KANAL
@@ -472,7 +476,7 @@ https://yayin.rizeturk.com:3777/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SDM TV SİNEMA" tvg-logo="" group-title="Sinema",SDM TV SİNEMA
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CİNE 6 TV" tvg-logo="" group-title="Sinema",CİNE 6 TV
-https://tivi44.ozelip.com:3614/stream/play.m3u8
+https://canli.cine6tv.com.tr:3614/stream/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KANAL 10 TV" tvg-logo="" group-title="Sinema",KANAL 10 TV
 https://stream-cdn-iad2.vaughnsoft.net/play/live_knl10tv.flv
 #EXTINF:-1 tvg-id="" tvg-name="SİNEMA KULÜBÜ TV" tvg-logo="" group-title="Sinema",SİNEMA KULÜBÜ TV
@@ -689,6 +693,9 @@ https://ythls.kekikakademi.org/youtube/channel/UC_QmeKo2eLwP0bayo2X6g2Q.m3u8
 https://ythls.kekikakademi.org/youtube/channel/UCxwxsjK57Xjzpwkdqb90pXg.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO TÜRKÜ" tvg-logo="" group-title="Radyo",RADYO TÜRKÜ
 https://ythls.kekikakademi.org/youtube/video/Bto75pRPQNA.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADYO TÜRKÜLER" tvg-logo="" group-title="Radyo",RADYO TÜRKÜLER
+#EXTVLCOPT:network-caching=1000
+https://ythls.kekikakademi.org/youtube/channel/UCpHlvQ5HoyDgRPAxjUpNZvg.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SLOW FM" tvg-logo="" group-title="Radyo",SLOW FM
 https://ythls.kekikakademi.org/youtube/video/YKI6tm5wPxQ.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO BAHARTÜRK ARABESK" tvg-logo="" group-title="Radyo",RADYO BAHARTÜRK ARABESK
