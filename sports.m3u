@@ -458,6 +458,74 @@ https://live01.iha.tv/webabone/live/chunks.m3u8
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN İNTERNATİONAL" tvg-logo="" group-title="Haber",CNN İNTERNATİONAL
 https://cnnint.blutv.com/blutv_cnnint/smil:cnnint.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADANALI" tvg-logo="" group-title="Dizi",ADANALI
+https://ythls.kekikakademi.org/youtube/channel/UCRP2h7AKS4nnUho0pyBCHgw.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ALEMİN KIRALI" tvg-logo="" group-title="Dizi",ALEMİN KIRALI
+https://ythls.kekikakademi.org/youtube/channel/UC7X6WuvzdVTFtAAAly9ldcw.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARKA SIRADAKİLER" tvg-logo="" group-title="Dizi",ARKA SIRADAKİLER
+https://ythls.kekikakademi.org/youtube/channel/UC_VYrjsbIBZgZy2hd07MX_A.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AVRUPA YAKASI" tvg-logo="" group-title="Dizi",AVRUPA YAKASI
+https://ythls.kekikakademi.org/youtube/channel/UCgc3VJYdM_R8oKGRuXxUbKQ.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BİR ZAMANLAR ÇUKUROVA" tvg-logo="" group-title="Dizi",BİR ZAMANLAR ÇUKUROVA
+https://ythls.kekikakademi.org/youtube/channel/UCdWD3k5SQUGXpHDkioiTFCw.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BİZİMKİLER" tvg-logo="" group-title="Dizi",BİZİMKİLER
+https://ythls.kekikakademi.org/youtube/video/6qtUZDWaOjo.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CENNET MAHALLESİ" tvg-logo="" group-title="Dizi",CENNET MAHALLESİ
+https://ythls.kekikakademi.org/youtube/video/lf1NxAexRAE.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ÇİÇEK TAKSİ" tvg-logo="" group-title="Dizi",ÇİÇEK TAKSİ
+https://ythls.kekikakademi.org/youtube/channel/UCYWwhdgFmZR0uWwaS-GURyg.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ÇOCUKLAR DUYMASIN" tvg-logo="" group-title="Dizi",ÇOCUKLAR DUYMASIN
+https://ythls.kekikakademi.org/youtube/channel/UCT-esPYdSgROctgOKnJ0AjA.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ÇOCUKLAR DUYMASIN 2" tvg-logo="" group-title="Dizi",ÇOCUKLAR DUYMASIN 2
+https://ythls.kekikakademi.org/youtube/channel/UCHFxijaEOik8V6iH4rWoAYg.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ÇOCUKLAR DUYMASIN 3" tvg-logo="" group-title="Dizi",ÇOCUKLAR DUYMASIN 3
+https://ythls.kekikakademi.org/youtube/channel/UCtjNs0q_cz-RdHy-HW2q8Cw.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DİRİLİŞ ERTUĞRUL" tvg-logo="" group-title="Dizi",DİRİLİŞ ERTUĞRUL
+https://ythls.kekikakademi.org/youtube/channel/UCrr2fV8yd6r8k-FZKGxDr9Q.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EMRET KOMUTANIM" tvg-logo="" group-title="Dizi",EMRET KOMUTANIM
+https://ythls.kekikakademi.org/youtube/channel/UCGKPVBUcJcEMvqceX3Pl5Lw.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EŞKİYA DÜNYAYA HÜKÜMDAR OLMAZ" tvg-logo="" group-title="Dizi",EŞKİYA DÜNYAYA HÜKÜMDAR OLMAZ
+https://ythls.kekikakademi.org/youtube/channel/UCeLBNGSG9w5qEbzQqZjqjuw.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FATMA GÜLÜN SUÇU NE" tvg-logo="" group-title="Dizi",FATMA GÜLÜN SUÇU NE
+https://ythls.kekikakademi.org/youtube/channel/UCmeIlUqcw49tOsE82LXz_zg.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GÖNÜL DAĞI" tvg-logo="" group-title="Dizi",GÖNÜL DAĞI
+https://ythls.kekikakademi.org/youtube/channel/UC6zAMy6boneCLJzRKiiwzmQ.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="İNCİ TANELERİ" tvg-logo="" group-title="Dizi",İNCİ TANELERİ
+https://ythls.kekikakademi.org/youtube/channel/UCUxSoTMNflf9TAlZbml7XMw.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JET SOSYETE" tvg-logo="" group-title="Dizi",JET SOSYETE
+https://ythls.kekikakademi.org/youtube/channel/UC2xxL0XhZyUKOABtIDyZkMA.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KARDEŞLERİM" tvg-logo="" group-title="Dizi",KARDEŞLERİM
+https://ythls.kekikakademi.org/youtube/channel/UCZLOnq-F5zhTWNUDjcEYByw.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KIZILCIK ŞERBETİ" tvg-logo="" group-title="Dizi",KIZILCIK ŞERBETİ
+https://ythls.kekikakademi.org/youtube/channel/UCRfLDCtkSwmTdwHrbmC78Xg.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KURTLAR VADİSİ PUSU" tvg-logo="" group-title="Dizi",KURTLAR VADİSİ PUSU
+https://ythls.kekikakademi.org/youtube/channel/UCz1UfNp9VFp9R1HEFn5PY5A.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KURULUŞ OSMAN" tvg-logo="" group-title="Dizi",KURULUŞ OSMAN
+https://ythls.kekikakademi.org/youtube/channel/UCGR1XmkoQedeJMT2ajRHvsw.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KUZEY GÜNEY" tvg-logo="" group-title="Dizi",KUZEY GÜNEY
+https://ythls.kekikakademi.org/youtube/channel/UC2sr0q_shuQKijWoebuRvcA.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RAMO" tvg-logo="" group-title="Dizi",RAMO
+https://ythls.kekikakademi.org/youtube/channel/UCch0Z8SPweSALVzS-qFKGzg.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SEKSENLER" tvg-logo="" group-title="Dizi",SEKSENLER
+https://ythls.kekikakademi.org/youtube/channel/UCYRPB4TbD2RYHlIQdLgEeYA.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SELENA" tvg-logo="" group-title="Dizi",SELENA
+https://ythls.kekikakademi.org/youtube/channel/UCC_iReQZgbPtOBfn3bjNnPw.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SİHİRLİ ANNEM" tvg-logo="" group-title="Dizi",SİHİRLİ ANNEM
+https://ythls.kekikakademi.org/youtube/channel/UC8rnNIpGh8n6ZpWVqOBaKUQ.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="YALAN DÜNYA" tvg-logo="" group-title="Dizi",YALAN DÜNYA
+https://ythls.kekikakademi.org/youtube/channel/UCN2Q-lSzQa7RjrCxQZ8DzbA.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="YAPRAK DÖKÜMÜ" tvg-logo="" group-title="Dizi",YAPRAK DÖKÜMÜ
+https://ythls.kekikakademi.org/youtube/channel/UCi-nK74pBX9Ou66z1j7KYPQ.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="YEDİ NUMARA" tvg-logo="" group-title="Dizi",YEDİ NUMARA
+https://ythls.kekikakademi.org/youtube/channel/UC0GKelxahF1nHwKyGhfJVYA.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="YEŞİL DENİZ" tvg-logo="" group-title="Dizi",YEŞİL DENİZ
+https://ythls.kekikakademi.org/youtube/channel/UCPUpDCqAbk0F7_occqwOBTA.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZENGİN KIZ FAKİR OĞLAN" tvg-logo="" group-title="Dizi",ZENGİN KIZ FAKİR OĞLAN
+https://ythls.kekikakademi.org/youtube/channel/UCiT-eroqDoA3zct3OkzhEPA.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DİZİ TV" tvg-logo="" group-title="Dizi",DİZİ TV
+https://tivi240.ozelip.com:3745/stream/play.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DİZİ TV 2" tvg-logo="" group-title="Dizi",DİZİ TV 2
+http://194.158.222.36:6086/
 #EXTINF:-1 tvg-id="" tvg-name="SİNEMA TV" tvg-logo="" group-title="Sinema",SİNEMA TV
 http://160.19.94.16:8080/live/live:9e5620c5c6762694/LrTFVxUrEamH/14270.ts
 #EXTINF:-1 tvg-id="" tvg-name="SİNEMA AKSİYON" tvg-logo="" group-title="Sinema",SİNEMA AKSİYON
@@ -561,6 +629,8 @@ https://stream-cdn-iad2.vaughnsoft.net/play/live_teber_dizi_flash.flv
 https://ythls.kekikakademi.org/youtube/channel/UCUALYmnkEmx8vlxIbpr2gmw.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="YEŞİLÇAM TV 2" tvg-logo="" group-title="Sinema",YEŞİLÇAM TV 2
 https://ythls.kekikakademi.org/youtube/channel/UCmw7e_6j2TSWCKeaZALjyuA.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="YEŞİLÇAM TV 3" tvg-logo="" group-title="Sinema",YEŞİLÇAM TV 3
+https://ythls.kekikakademi.org/youtube/channel/UC0LzwfdVoZSQDtauDjJS8_A.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MEGA TV ŞABAN" tvg-logo="" group-title="Sinema",MEGA TV ŞABAN
 https://tv208.radyotelekom.com.tr:3417/stream/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KEMAL SUNAL TV 1" tvg-logo="" group-title="Sinema",KEMAL SUNAL TV 1
@@ -658,13 +728,13 @@ https://moondigitaledge2.radyotvonline.net/radyo7fmo/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO ARABESK" tvg-logo="" group-title="Radyo",RADYO ARABESK
 https://yayin.radyoarabesk.com.tr:8000/stream
 #EXTINF:-1 tvg-id="" tvg-name="RADYO ARABESK YT" tvg-logo="" group-title="Radyo",RADYO ARABESK YT
-https://ythls.kekikakademi.org/youtube/video/TbfxFo8ODb8.m3u8
+https://ythls.kekikakademi.org/youtube/channel/UC93tfBD8wAgK1Rtfjzucd-Q.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO DEM" tvg-logo="" group-title="Radyo",RADYO DEM
 https://ythls.kekikakademi.org/youtube/video/JGErc6Q-K60.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO ARABESK 7/24" tvg-logo="" group-title="Radyo",RADYO ARABESK 7/24
 https://ythls.kekikakademi.org/youtube/video/r9DQV3NvBdM.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO AYYÜZLÜM" tvg-logo="" group-title="Radyo",RADYO AYYÜZLÜM
-https://ythls.kekikakademi.org/youtube/video/xL1CZFaliHY.m3u8
+https://ythls.kekikakademi.org/youtube/channel/UCWI0NEz64VnzLCkYsc1b2fg.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO DAMAR" tvg-logo="" group-title="Radyo",RADYO DAMAR
 https://ythls.kekikakademi.org/youtube/channel/UCtZNSZorRdqLZkT6rB7IivA.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO DRAM" tvg-logo="" group-title="Radyo",RADYO DRAM
