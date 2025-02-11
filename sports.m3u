@@ -293,7 +293,7 @@ https://due.78c56a395e57b9134a.click/p/beceriksizler.net/172/a.cf-worker-6cb6106
 #EXTINF:-1 tvg-id="" tvg-name="HT SPOR" tvg-logo="" group-title="Spor",HT SPOR
 https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HT SPOR HD" tvg-logo="" group-title="Spor",HT SPOR HD
-https://ythls.kekikakademi.org/youtube/video/RdpqsTbi_KU.m3u8
+https://ythls.kekikakademi.org/youtube/channel/UCK3mI2lsk3LSo8PBUc8JTSw.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR" tvg-logo="" group-title="Spor",TİVİBU SPOR
 http://50.7.144.122:1935/livetv/tivibuspor.stream/sec-f5-v1-a1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR HD" tvg-logo="" group-title="Spor",TİVİBU SPOR HD
@@ -609,6 +609,12 @@ https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
 http://duzguntv1616.ozelip.net:25192/duzguntv/duzguntv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VİYANA TV" tvg-logo="" group-title="Sinema",VİYANA TV
 http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KIBRIS TV" tvg-logo="" group-title="Sinema",KIBRIS TV
+https://spor.kuzeykibris.tv/m3u8/tv_ktv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KUZEY KIBRIS TV" tvg-logo="" group-title="Sinema",KUZEY KIBRIS TV
+https://old.kuzeykibris.tv/m3u8/kktv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KUZEY KIBRIS TV 2" tvg-logo="" group-title="Sinema",KUZEY KIBRIS TV 2
+https://spor.kuzeykibris.tv/m3u8/kktv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TEBER STAR 1" tvg-logo="" group-title="Sinema",TEBER STAR 1
 https://stream-cdn-iad2.vaughnsoft.net/play/live_teber_star1.flv
 #EXTINF:-1 tvg-id="" tvg-name="TEBER STAR 2" tvg-logo="" group-title="Sinema",TEBER STAR 2
