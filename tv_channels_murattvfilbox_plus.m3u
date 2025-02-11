@@ -192,6 +192,9 @@ https://stream-cdn-iad2.vaughnsoft.net/play/live_teber_safari_tv.flv
 https://host.onlineradyotv.net:8081/sdmtv3/tracks-v1a1/mono.m3u8
 #EXTINF:-1,YAĞMUR TV
 http://palatv34.ozelip.com:22372/yagmur/yagmur/chunklist_w1134329993.m3u8
+#EXTINF:-1,KURTLAR VADİSİ 2. BÖLÜM
+#EXTVLCOPT:network-caching=1000
+https://koprulu1.global.ssl.fastly.net/app4/ytvideo/?id=cEQ8tAf5RGg.mp4
 #EXTINF:-1,KOBİM TV
 http://cdn-kobimtv.yayin.com.tr/kobimtv/kobimtv/chunklist.m3u8
 #EXTINF:-1,CİNE5 TV
