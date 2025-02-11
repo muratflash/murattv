@@ -142,10 +142,6 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8
 #EXTINF:-1,KANAL 65 CİNEMA
 https://live.yayingold.com.tr/kanal65azlive/tracks-v1a1/mono.m3u8
-#EXTINF:-1,CHD MOVİES
-https://live.yayingold.com.tr/chdmovieslive/index.m3u8
-#EXTINF:-1,CHD KORKU
-https://live.yayingold.com.tr/chdkorku/index.m3u8
 #EXTINF:-1,FARRUK TV
 https://vsrv1.az-streamingserver.com:3833/live/ofhwiwudlive.m3u8
 #EXTINF:-1,ALVİN CHANNEL
@@ -192,9 +188,6 @@ https://stream-cdn-iad2.vaughnsoft.net/play/live_teber_safari_tv.flv
 https://host.onlineradyotv.net:8081/sdmtv3/tracks-v1a1/mono.m3u8
 #EXTINF:-1,YAĞMUR TV
 http://palatv34.ozelip.com:22372/yagmur/yagmur/chunklist_w1134329993.m3u8
-#EXTINF:-1,KURTLAR VADİSİ 2. BÖLÜM
-#EXTVLCOPT:network-caching=1000
-https://koprulu1.global.ssl.fastly.net/app4/ytvideo/?id=cEQ8tAf5RGg.mp4
 #EXTINF:-1,KOBİM TV
 http://cdn-kobimtv.yayin.com.tr/kobimtv/kobimtv/chunklist.m3u8
 #EXTINF:-1,CİNE5 TV
@@ -521,10 +514,6 @@ http://vip.torktv.org:2095/live/vlkn2282/vlk.56/163176.ts
 http://vip.torktv.org:2095/live/vlkn2282/vlk.56/163150.ts
 #EXTINF:-1 tvg-id="" tvg-name="KANAL 65 CİNEMA" tvg-logo="" group-title="Sinema",KANAL 65 CİNEMA
 https://live.yayingold.com.tr/kanal65azlive/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CHD MOVİES" tvg-logo="" group-title="Sinema",CHD MOVİES
-https://live.yayingold.com.tr/chdmovieslive/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CHD KORKU" tvg-logo="" group-title="Sinema",CHD KORKU
-https://live.yayingold.com.tr/chdkorku/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FARRUK TV" tvg-logo="" group-title="Sinema",FARRUK TV
 https://vsrv1.az-streamingserver.com:3833/live/ofhwiwudlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ALVİN CHANNEL" tvg-logo="" group-title="Sinema",ALVİN CHANNEL
@@ -638,3 +627,36 @@ http://cdn-radyokulup.yayin.com.tr/radyokulup/radyokulup/chunklist.m3u8
 https://ythls.kekikakademi.org/youtube/video/EmdtE7sRMSY.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FON MÜZİKLERİ 7/24" tvg-logo="" group-title="Radyo",KANUN FON MÜZİKLERİ 7/24
 https://ythls.kekikakademi.org/youtube/video/n5CBQTdLkLA.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Annemin Gelini" tvg-logo="" group-title="Kalp Gözü",Annemin Gelini
+#EXTVLCOPT:network-caching=1000
+https://koprulu1.global.ssl.fastly.net/app4/ytvideo/?id=1z_SQse1ISA.mp4 
+#EXTINF:-1 tvg-id="" tvg-name="Benim Anne" tvg-logo="" group-title="Kalp Gözü",Benim Anne
+#EXTVLCOPT:network-caching=1000
+https://koprulu1.global.ssl.fastly.net/app4/ytvideo/?id=9rUb4EHBOig&t=122s.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Benzemez Kimse Sana" tvg-logo="" group-title="Kalp Gözü",Benzemez Kimse Sana
+#EXTVLCOPT:network-caching=1000
+https://koprulu1.global.ssl.fastly.net/app4/ytvideo/?id=M3de3AaUl_U.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Çalıntı Hayat" tvg-logo="" group-title="Kalp Gözü",Çalıntı Hayat
+#EXTVLCOPT:network-caching=1000
+https://koprulu1.global.ssl.fastly.net/app4/ytvideo/?id=g3QajtViwhk.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gözlerim Sende Kalacak" tvg-logo="" group-title="Kalp Gözü",Gözlerim Sende Kalacak
+#EXTVLCOPT:network-caching=1000
+https://koprulu1.global.ssl.fastly.net/app4/ytvideo/?id=zc55H6Z4iFM.mp4
+#EXTINF:-1 tvg-id="" tvg-name="İhanetin Bedeli" tvg-logo="" group-title="Kalp Gözü",İhanetin Bedeli
+#EXTVLCOPT:network-caching=1000
+https://koprulu1.global.ssl.fastly.net/app4/ytvideo/?id=g-jaSEK05es.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kayıp" tvg-logo="" group-title="Kalp Gözü",Kayıp
+#EXTVLCOPT:network-caching=1000
+https://koprulu1.global.ssl.fastly.net/app4/ytvideo/?id=eDXtG8eO76U.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kin" tvg-logo="" group-title="Kalp Gözü",Kin
+#EXTVLCOPT:network-caching=1000
+https://koprulu1.global.ssl.fastly.net/app4/ytvideo/?id=__6-BGKs5cM.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Şeytanın Gözü" tvg-logo="" group-title="Kalp Gözü",Şeytanın Gözü
+#EXTVLCOPT:network-caching=1000
+https://koprulu1.global.ssl.fastly.net/app4/ytvideo/?id=8oSAgzDl4L8.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tuzak" tvg-logo="" group-title="Kalp Gözü",Tuzak
+#EXTVLCOPT:network-caching=1000
+https://koprulu1.global.ssl.fastly.net/app4/ytvideo/?id=NtFrsvllcmg.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Umutsuzlar" tvg-logo="" group-title="Kalp Gözü",Umutsuzlar
+#EXTVLCOPT:network-caching=1000
+https://koprulu1.global.ssl.fastly.net/app4/ytvideo/?id=JNOY2jU15xg.mp4
