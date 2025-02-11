@@ -633,9 +633,6 @@ https://koprulu1.global.ssl.fastly.net/app4/ytvideo/?id=1z_SQse1ISA.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Benim Anne" tvg-logo="" group-title="Kalp Gözü",Benim Anne
 #EXTVLCOPT:network-caching=1000
 https://koprulu1.global.ssl.fastly.net/app4/ytvideo/?id=9rUb4EHBOig&t=122s.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Benzemez Kimse Sana" tvg-logo="" group-title="Kalp Gözü",Benzemez Kimse Sana
-#EXTVLCOPT:network-caching=1000
-https://koprulu1.global.ssl.fastly.net/app4/ytvideo/?id=M3de3AaUl_U.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Çalıntı Hayat" tvg-logo="" group-title="Kalp Gözü",Çalıntı Hayat
 #EXTVLCOPT:network-caching=1000
 https://koprulu1.global.ssl.fastly.net/app4/ytvideo/?id=g3QajtViwhk.mp4
@@ -657,6 +654,9 @@ https://koprulu1.global.ssl.fastly.net/app4/ytvideo/?id=8oSAgzDl4L8.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Tuzak" tvg-logo="" group-title="Kalp Gözü",Tuzak
 #EXTVLCOPT:network-caching=1000
 https://koprulu1.global.ssl.fastly.net/app4/ytvideo/?id=NtFrsvllcmg.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Umut Hiç Bitmeyecek" tvg-logo="" group-title="Kalp Gözü",Umut Hiç Bitmeyecek
+#EXTVLCOPT:network-caching=1000
+https://koprulu1.global.ssl.fastly.net/app4/ytvideo/?id=JD03UYvRXgY.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Umutsuzlar" tvg-logo="" group-title="Kalp Gözü",Umutsuzlar
 #EXTVLCOPT:network-caching=1000
 https://koprulu1.global.ssl.fastly.net/app4/ytvideo/?id=JNOY2jU15xg.mp4
