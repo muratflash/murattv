@@ -532,6 +532,12 @@ http://160.19.94.16:8080/live/live:9e5620c5c6762694/LrTFVxUrEamH/14270.ts
 http://160.19.94.16:8080/live/live:9e5620c5c6762694/LrTFVxUrEamH/53363.ts
 #EXTINF:-1 tvg-id="" tvg-name="SİNEMA AİLE" tvg-logo="" group-title="Sinema",SİNEMA AİLE
 http://160.19.94.16:8080/live/live:9e5620c5c6762694/LrTFVxUrEamH/14274.ts
+#EXTINF:-1 tvg-id="" tvg-name="SİNEMA KOMEDİ" tvg-logo="" group-title="Sinema",SİNEMA KOMEDİ
+http://160.19.94.16:8080/live/live:9e5620c5c6762694/LrTFVxUrEamH/86527.ts
+#EXTINF:-1 tvg-id="" tvg-name="SİNEMA 1001" tvg-logo="" group-title="Sinema",SİNEMA 1001
+http://160.19.94.16:8080/live/live:9e5620c5c6762694/LrTFVxUrEamH/53369.ts
+#EXTINF:-1 tvg-id="" tvg-name="SİNEMA YERLİ" tvg-logo="" group-title="Sinema",SİNEMA YERLİ
+http://160.19.94.16:8080/live/live:9e5620c5c6762694/LrTFVxUrEamH/14278.ts
 #EXTINF:-1 tvg-id="" tvg-name="MOVİESMART TÜRK" tvg-logo="" group-title="Sinema",MOVİESMART TÜRK
 http://160.19.94.16:8080/live/live:9e5620c5c6762694/LrTFVxUrEamH/14261.ts
 #EXTINF:-1 tvg-id="" tvg-name="TABİİ TV" tvg-logo="" group-title="Sinema",TABİİ TV
