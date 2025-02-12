@@ -576,9 +576,9 @@ https://a8.radyotelekom.com.tr:3468/stream/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MEGA TV KLASİK" tvg-logo="" group-title="Sinema",MEGA TV KLASİK
 https://a8.radyotelekom.com.tr:3335/stream/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ULDUZ TV" tvg-logo="" group-title="Sinema",ULDUZ TV
-https://tivi240.ozelip.com:3153/stream/play.m3u8
+https://ip240.avrupatelekom.com:3153/stream/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KADER TV" tvg-logo="" group-title="Sinema",KADER TV
-https://tivi240.ozelip.com:3710/stream/play.m3u8
+https://ip240.avrupatelekom.com:3153/stream/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KASTAMONU TV" tvg-logo="" group-title="Sinema",KASTAMONU TV
 http://51.91.118.139:8080/kastamonutv/kastamonutv/3385
 #EXTINF:-1 tvg-id="" tvg-name="HOCWAN TV" tvg-logo="" group-title="Sinema",HOCWAN TV
