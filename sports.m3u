@@ -458,6 +458,10 @@ https://live01.iha.tv/webabone/live/chunks.m3u8
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN İNTERNATİONAL" tvg-logo="" group-title="Haber",CNN İNTERNATİONAL
 https://cnnint.blutv.com/blutv_cnnint/smil:cnnint.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT 1 HD" tvg-logo="" group-title="Ulusal",TRT 1 HD
+https://trt.daioncdn.net/trt-1/master.m3u8?app=web
+#EXTINF:-1 tvg-id="" tvg-name="TRT 1" tvg-logo="" group-title="Ulusal",TRT 1
+https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ADANALI" tvg-logo="" group-title="Dizi",ADANALI
 https://ythls.kekikakademi.org/youtube/channel/UCRP2h7AKS4nnUho0pyBCHgw.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ALEMİN KIRALI" tvg-logo="" group-title="Dizi",ALEMİN KIRALI
