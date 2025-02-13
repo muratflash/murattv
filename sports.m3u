@@ -465,9 +465,9 @@ http://89.187.191.41/TRT-1-HD-TR/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT 1" tvg-logo="" group-title="Ulusal",TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ATV HD" tvg-logo="" group-title="Ulusal",ATV HD
-https://89.187.191.41/ATV-HD-TR/video.m3u8
+http://xtream-ie.org/live/r8E7WzEjY/LLJwdV9mB/8964.ts
 #EXTINF:-1 tvg-id="" tvg-name="ATV" tvg-logo="" group-title="Ulusal",ATV
-https://116.202.238.88/ATV_TR/index.m3u8
+http://xtream-ie.org/live/r8E7WzEjY/LLJwdV9mB/3706.ts
 #EXTINF:-1 tvg-id="" tvg-name="ADANALI" tvg-logo="" group-title="Dizi",ADANALI
 https://ythls.kekikakademi.org/youtube/channel/UCRP2h7AKS4nnUho0pyBCHgw.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ALEMİN KIRALI" tvg-logo="" group-title="Dizi",ALEMİN KIRALI
