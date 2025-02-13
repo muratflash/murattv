@@ -464,10 +464,30 @@ https://trt.daioncdn.net/trt-1/master.m3u8?app=web
 http://89.187.191.41/TRT-1-HD-TR/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT 1" tvg-logo="" group-title="Ulusal",TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KANAL D FHD" tvg-logo="" group-title="Ulusal",KANAL D FHD
+https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KANAL D" tvg-logo="" group-title="Ulusal",KANAL D
+https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ATV HD" tvg-logo="" group-title="Ulusal",ATV HD
 http://xtream-ie.org/live/r8E7WzEjY/LLJwdV9mB/8964.ts
 #EXTINF:-1 tvg-id="" tvg-name="ATV" tvg-logo="" group-title="Ulusal",ATV
 http://xtream-ie.org/live/r8E7WzEjY/LLJwdV9mB/3706.ts
+#EXTINF:-1 tvg-id="" tvg-name="SHOW TV FHD" tvg-logo="" group-title="Ulusal",SHOW TV FHD
+http://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SHOW TV HD" tvg-logo="" group-title="Ulusal",SHOW TV HD
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STAR TV FHD" tvg-logo="" group-title="Ulusal",STAR TV FHD
+https://trn03.tulix.tv/gt-startv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STAR TV HD" tvg-logo="" group-title="Ulusal",STAR TV HD
+https://yayin2.canlitv.fun/livetv/startv.stream/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STAR TV" tvg-logo="" group-title="Ulusal",STAR TV
+https://dogus-live.daioncdn.net/startv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NOW FHD" tvg-logo="" group-title="Ulusal",NOW FHD
+http://50.7.144.122:1935/livetv/foxtv.stream/sec-f5-v1-a1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NOW HD" tvg-logo="" group-title="Ulusal",NOW HD
+https://yayin2.canlitv.fun/livetv/foxtv.stream/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NOW TV" tvg-logo="" group-title="Ulusal",NOW TV
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ADANALI" tvg-logo="" group-title="Dizi",ADANALI
 https://ythls.kekikakademi.org/youtube/channel/UCRP2h7AKS4nnUho0pyBCHgw.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ALEMİN KIRALI" tvg-logo="" group-title="Dizi",ALEMİN KIRALI
@@ -476,6 +496,8 @@ https://ythls.kekikakademi.org/youtube/channel/UC7X6WuvzdVTFtAAAly9ldcw.m3u8
 https://ythls.kekikakademi.org/youtube/channel/UC_VYrjsbIBZgZy2hd07MX_A.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AVRUPA YAKASI" tvg-logo="" group-title="Dizi",AVRUPA YAKASI
 https://ythls.kekikakademi.org/youtube/channel/UCgc3VJYdM_R8oKGRuXxUbKQ.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEHZAT Ç" tvg-logo="" group-title="Dizi",BEHZAT Ç
+https://ythls.kekikakademi.org/youtube/channel/UCH3WnhFSx9r850HJRRs16lQ.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BİR ZAMANLAR ÇUKUROVA" tvg-logo="" group-title="Dizi",BİR ZAMANLAR ÇUKUROVA
 https://ythls.kekikakademi.org/youtube/channel/UCdWD3k5SQUGXpHDkioiTFCw.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BİZİMKİLER" tvg-logo="" group-title="Dizi",BİZİMKİLER
@@ -498,6 +520,8 @@ https://ythls.kekikakademi.org/youtube/channel/UCGKPVBUcJcEMvqceX3Pl5Lw.m3u8
 https://ythls.kekikakademi.org/youtube/channel/UCeLBNGSG9w5qEbzQqZjqjuw.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FATMA GÜLÜN SUÇU NE" tvg-logo="" group-title="Dizi",FATMA GÜLÜN SUÇU NE
 https://ythls.kekikakademi.org/youtube/channel/UCmeIlUqcw49tOsE82LXz_zg.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GADDAR" tvg-logo="" group-title="Dizi",GADDAR
+https://ythls.kekikakademi.org/youtube/channel/UCObp-tfHXie6l1H0UIL3JVQ.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GÖNÜL DAĞI" tvg-logo="" group-title="Dizi",GÖNÜL DAĞI
 https://ythls.kekikakademi.org/youtube/channel/UC6zAMy6boneCLJzRKiiwzmQ.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="İNCİ TANELERİ" tvg-logo="" group-title="Dizi",İNCİ TANELERİ
@@ -532,9 +556,9 @@ https://ythls.kekikakademi.org/youtube/channel/UC0GKelxahF1nHwKyGhfJVYA.m3u8
 https://ythls.kekikakademi.org/youtube/channel/UCPUpDCqAbk0F7_occqwOBTA.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZENGİN KIZ FAKİR OĞLAN" tvg-logo="" group-title="Dizi",ZENGİN KIZ FAKİR OĞLAN
 https://ythls.kekikakademi.org/youtube/channel/UCiT-eroqDoA3zct3OkzhEPA.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="D DİZİ TV" tvg-logo="" group-title="Dizi",D DİZİ TV
+https://ip240.avrupatelekom.com:3745/stream/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DİZİ TV" tvg-logo="" group-title="Dizi",DİZİ TV
-https://tivi240.ozelip.com:3745/stream/play.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DİZİ TV 2" tvg-logo="" group-title="Dizi",DİZİ TV 2
 http://194.158.222.36:6086/
 #EXTINF:-1 tvg-id="" tvg-name="SİNEMA TV" tvg-logo="" group-title="Sinema",SİNEMA TV
 http://160.19.94.16:8080/live/live:9e5620c5c6762694/LrTFVxUrEamH/14270.ts
