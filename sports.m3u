@@ -7,8 +7,7 @@ https://mobil.92test.cfd/yayint24.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 DMTN" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 1 VİP
 http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/147.ts
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 DMTN VİP" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 1 UHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://sei.78c56a395e57b9134a.click/p/beceriksizler.net/601/a.cf-worker-6cb610636d9f0d43.workers.dev/chunklist_hd.m3u8
+https://zekonew.iosplayer.ru/zeko/premium62/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 2 DMTN" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 2 UHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://nove.78c56a395e57b9134a.click/p/beceriksizler.net/602/a.cf-worker-6cb610636d9f0d43.workers.dev/chunklist_hd.m3u8
@@ -314,12 +313,16 @@ https://ythls.kekikakademi.org/youtube/channel/UC-_pM982OEbezyJpPxu79pg.m3u8
 https://ythls.kekikakademi.org/youtube/channel/UCgH3Vo5DVMsrbDSUoSecm0Q.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT SPOR YILDIZ" tvg-logo="" group-title="Spor",TRT SPOR YILDIZ
 https://tv-trtspor2.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS TV" tvg-logo="" group-title="Spor",SPORTS TV
+https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FB TV" tvg-logo="" group-title="Spor",FB TV
 https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/chunklist_b996000_sltur.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GS TV" tvg-logo="" group-title="Spor",GS TV
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS ARŞİV" tvg-logo="" group-title="Spor",BEİN SPORTS ARŞİV
 https://ythls.kekikakademi.org/youtube/channel/UCNopxUNUMinlK3ybMGlpbGQ.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZTK TV" tvg-logo="" group-title="Spor",ZTK TV
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/ztktv/playlist/0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CBC SPORT" tvg-logo="" group-title="Spor",CBC SPORT
 http://50.7.144.122:1935/livetv/cbcsport.stream/sec-f5-v1-a1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CBC SPORT HD" tvg-logo="" group-title="Spor",CBC SPORT HD
@@ -612,7 +615,7 @@ https://a8.radyotelekom.com.tr:3335/stream/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ULDUZ TV" tvg-logo="" group-title="Sinema",ULDUZ TV
 https://ip240.avrupatelekom.com:3153/stream/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KADER TV" tvg-logo="" group-title="Sinema",KADER TV
-https://ip240.avrupatelekom.com:3153/stream/play.m3u8
+https://ip240.avrupatelekom.com:3710/stream/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KASTAMONU TV" tvg-logo="" group-title="Sinema",KASTAMONU TV
 http://51.91.118.139:8080/kastamonutv/kastamonutv/3385
 #EXTINF:-1 tvg-id="" tvg-name="HOCWAN TV" tvg-logo="" group-title="Sinema",HOCWAN TV
