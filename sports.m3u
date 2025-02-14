@@ -469,18 +469,22 @@ http://89.187.191.41/TRT-1-HD-TR/video.m3u8
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KANAL D FHD" tvg-logo="" group-title="Ulusal",KANAL D FHD
 https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KANAL D HD" tvg-logo="" group-title="Ulusal",KANAL D HD
+http://50.7.144.122:1935/livetv/kanald.stream/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KANAL D" tvg-logo="" group-title="Ulusal",KANAL D
 https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ATV FHD" tvg-logo="" group-title="Ulusal",ATV FHD 
-http://xtream-ie.org/live/r8E7WzEjY/LLJwdV9mB/8964.ts
+#EXTINF:-1 tvg-id="" tvg-name="ATV FHD" tvg-logo="" group-title="Ulusal",ATV FHD
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ATV HD" tvg-logo="" group-title="Ulusal",ATV HD
-http://xtream-ie.org/live/r8E7WzEjY/LLJwdV9mB/3706.ts
+http://50.7.144.122:1935/livetv/atv.stream/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ATV" tvg-logo="" group-title="Ulusal",ATV
+http://89.187.191.41/ATV-HD-TR/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SHOW TV FHD" tvg-logo="" group-title="Ulusal",SHOW TV FHD
 http://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SHOW TV HD" tvg-logo="" group-title="Ulusal",SHOW TV HD
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STAR TV FHD" tvg-logo="" group-title="Ulusal",STAR TV FHD
-https://trn03.tulix.tv/gt-startv/index.m3u8
+http://50.7.144.122:1935/livetv/startv.stream/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STAR TV HD" tvg-logo="" group-title="Ulusal",STAR TV HD
 https://yayin2.canlitv.fun/livetv/startv.stream/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STAR TV" tvg-logo="" group-title="Ulusal",STAR TV
@@ -604,16 +608,18 @@ https://ythls.kekikakademi.org/youtube/channel/UChb7kIKlWiDCfwXg4LSMCjg.m3u8
 https://stream-cdn-iad3.vaughnsoft.net/play/live_teleonmediagroups.flv
 #EXTINF:-1 tvg-id="" tvg-name="MEGA TV SİNEMA" tvg-logo="" group-title="Sinema",MEGA TV SİNEMA
 https://a8.radyotelekom.com.tr:3580/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MEGA TV KORKU" tvg-logo="" group-title="Sinema",MEGA TV KORKU
-https://a8.radyotelekom.com.tr:3420/stream/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MEGA TV ŞABAN" tvg-logo="" group-title="Sinema",MEGA TV ŞABAN
 https://a8.radyotelekom.com.tr:3417/stream/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MEGA TV SİNEMA TÜRK" tvg-logo="" group-title="Sinema",MEGA TV SİNEMA TÜRK
 https://a8.radyotelekom.com.tr:3468/stream/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MEGA TV KLASİK" tvg-logo="" group-title="Sinema",MEGA TV KLASİK
 https://a8.radyotelekom.com.tr:3335/stream/play.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ALİGOSHGAR TV" tvg-logo="" group-title="Sinema",ALİGOSHGAR TV
+https://ip240.avrupatelekom.com:3142/stream/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ULDUZ TV" tvg-logo="" group-title="Sinema",ULDUZ TV
 https://ip240.avrupatelekom.com:3153/stream/play.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESMA TV" tvg-logo="" group-title="Sinema",ESMA TV
+https://ip240.avrupatelekom.com:3520/stream/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KADER TV" tvg-logo="" group-title="Sinema",KADER TV
 https://ip240.avrupatelekom.com:3710/stream/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KASTAMONU TV" tvg-logo="" group-title="Sinema",KASTAMONU TV
@@ -724,6 +730,8 @@ http://vip.torktv.org:2095/live/vlkn2282/vlk.56/163176.ts
 http://vip.torktv.org:2095/live/vlkn2282/vlk.56/163150.ts
 #EXTINF:-1 tvg-id="" tvg-name="KANAL 65 CİNEMA" tvg-logo="" group-title="Sinema",KANAL 65 CİNEMA
 https://live.yayingold.com.tr/kanal65azlive/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="İSMAYİLLİ TV" tvg-logo="" group-title="Sinema",İSMAYİLLİ TV
+https://ip240.avrupatelekom.com:3736/stream/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FARRUK TV" tvg-logo="" group-title="Sinema",FARRUK TV
 https://vsrv1.az-streamingserver.com:3833/live/ofhwiwudlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ALVİN CHANNEL" tvg-logo="" group-title="Sinema",ALVİN CHANNEL
