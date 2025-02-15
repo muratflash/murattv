@@ -389,9 +389,11 @@ https://tv100-live.daioncdn.net/tv100/tv100_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV100 HD" tvg-logo="" group-title="Haber",TV100 HD
 https://ythls.kekikakademi.org/youtube/channel/UCndsdUW_oPLqpQJY9J8oIRg.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVNET FHD" tvg-logo="" group-title="Haber",TVNET FHD
-https://ythls.kekikakademi.org/youtube/channel/UC8rh34IlJTN0lDZlTwzWzjg.m3u8
+https://ythls.kekikakademi.org/youtube/channel/video/HR2coAc-e20.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVNET HD" tvg-logo="" group-title="Haber",TVNET HD
 https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVNET HD+" tvg-logo="" group-title="Haber",TVNET HD+
+https://ythls.kekikakademi.org/youtube/channel/UC8rh34IlJTN0lDZlTwzWzjg.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TH TÜRK HABER" tvg-logo="" group-title="Haber",TH TÜRK HABER
 https://edge1.socialsmart.tv/turkhaber/bant1/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ÜLKE TV FHD" tvg-logo="" group-title="Haber",ÜLKE TV FHD
