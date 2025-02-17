@@ -2,6 +2,8 @@
 https://ythls.kekikakademi.org/youtube/video/EmdtE7sRMSY.m3u8
 #EXTINF:-1 ,MURAT TV 2
 https://ythls.kekikakademi.org/youtube/video/n5CBQTdLkLA.m3u8
+#EXTINF:-1 ,MURAT TV 3
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/muziktv/playlist/0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 4K" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 1 4K
 https://mobil.92test.cfd/yayint24.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 DMTN" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 1 VİP
@@ -696,6 +698,8 @@ https://ythls.kekikakademi.org/youtube/channel/UCz1UfNp9VFp9R1HEFn5PY5A.m3u8
 https://ythls.kekikakademi.org/youtube/channel/UCGR1XmkoQedeJMT2ajRHvsw.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KUZEY GÜNEY" tvg-logo="" group-title="Dizi",KUZEY GÜNEY
 https://ythls.kekikakademi.org/youtube/channel/UC2sr0q_shuQKijWoebuRvcA.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MEDCEZİR" tvg-logo="" group-title="Dizi",MEDCEZİR
+https://ythls.kekikakademi.org/youtube/channel/UCN0lBmyyylw4D4Lmf2ymuJw.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RAMO" tvg-logo="" group-title="Dizi",RAMO
 https://ythls.kekikakademi.org/youtube/channel/UCch0Z8SPweSALVzS-qFKGzg.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SEKSENLER" tvg-logo="" group-title="Dizi",SEKSENLER
@@ -899,6 +903,12 @@ https://vsrv1.az-streamingserver.com:3833/live/ofhwiwudlive.m3u8
 https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KONUL TV" tvg-logo="" group-title="Sinema",KONUL TV
 https://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SÜPER TÜRK MAX TV" tvg-logo="" group-title="Belgesel",SÜPER TÜRK MAX TV
+http://75.119.144.48/SUPERTURK_MAX_HD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KANAL 53" tvg-logo="" group-title="Belgesel",KANAL 53
+https://kanal53.ozelip.com:3448/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SDM TV BELGESEL" tvg-logo="" group-title="Belgesel",SDM TV BELGESEL
+https://host.onlineradyotv.net:8081/sdmtv3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GÜLDÜR GÜLDÜR SHOW" tvg-logo="" group-title="Eğlence",GÜLDÜR GÜLDÜR SHOW
 https://ythls.kekikakademi.org/youtube/video/7vKlXBnzG2w.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ÇOK GÜZEL HAREKETLER 2" tvg-logo="" group-title="Eğlence",ÇOK GÜZEL HAREKETLER 2
@@ -926,14 +936,16 @@ https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
 https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SLOW KARADENİZ TV" tvg-logo="" group-title="Müzik",SLOW KARADENİZ TV
 https://yayin.slowkaradeniztv.com:3390/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KANAL 53" tvg-logo="" group-title="Müzik",KANAL 53
-https://kanal53.ozelip.com:3448/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CİNE5 TV" tvg-logo="" group-title="Müzik",CİNE5 TV
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist_w564654603.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SDM TV MÜZİK" tvg-logo="" group-title="Müzik",SDM TV MÜZİK
 https://host.onlineradyotv.net:8081/sdmtv2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="YANSIMA MÜZİK TV" tvg-logo="" group-title="Müzik",YANSIMA MÜZİK TV
 https://stream-cdn-iad2.vaughnsoft.net/play/live_yansimamuziktv.flv
+#EXTINF:-1 tvg-id="" tvg-name="MEGA TV MÜZİK" tvg-logo="" group-title="Müzik",MEGA TV MÜZİK
+https://a8.radyotelekom.com.tr:3513/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EGE LİVE TV" tvg-logo="" group-title="Müzik",EGE LİVE TV
+http://stream.tvcdn.net/yerel/ege-live-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AYAZ TV" tvg-logo="" group-title="Müzik",AYAZ TV
 http://164.132.23.92:22372/ayztv/ayztv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ARABESK TV" tvg-logo="" group-title="Müzik",ARABESK TV
@@ -942,24 +954,20 @@ https://yayin.santraltr.com/hls/arabeskyeni.m3u8
 https://yayin.santraltr.com/hls/damar.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EZO TV" tvg-logo="" group-title="Müzik",EZO TV
 https://yayin.santraltr.com/hls/ezo.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GENC TV" tvg-logo="" group-title="Müzik",GENC TV
-https://yayin.santraltr.com/hls/genctv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SILA TV" tvg-logo="" group-title="Müzik",SILA TV
 https://yayin.santraltr.com/hls/silatv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZEYNO TV" tvg-logo="" group-title="Müzik",ZEYNO TV
 https://yayin.santraltr.com/hls/zeynotv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GENC TV" tvg-logo="" group-title="Müzik",GENC TV
+https://yayin.santraltr.com/hls/genctv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TOPPOP TV" tvg-logo="" group-title="Müzik",TOPPOP TV
 https://yayin.santraltr.com/hls/toppop.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VİVA TV" tvg-logo="" group-title="Müzik",VİVA TV
 https://yayin.santraltr.com/hls/vivatv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MEGA TV MÜZİK" tvg-logo="" group-title="Müzik",MEGA TV MÜZİK
-https://a8.radyotelekom.com.tr:3513/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TEMPO TV" tvg-logo="" group-title="Müzik",TEMPO TV
 https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EZGİ TV" tvg-logo="" group-title="Müzik",EZGİ TV
 https://live.euromediacenter.com/ezgitv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MÜZİK TV" tvg-logo="" group-title="Müzik",MÜZİK TV
-https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/muziktv/playlist/0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FORA MÜZİK" tvg-logo="" group-title="Müzik",FORA MÜZİK
 http://palatv34.ozelip.com:22372/foramuzik/foramuzik/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MEGA TV" tvg-logo="" group-title="Müzik",MEGA TV
