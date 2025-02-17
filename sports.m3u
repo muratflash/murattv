@@ -334,9 +334,13 @@ https://yayin2.canlitv.fun/livetv/cbcsport.stream/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="İDMAN TV HD" tvg-logo="" group-title="Spor",İDMAN TV HD
 https://tgn.bozztv.com/dvrfl05/gin-idmantv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1" tvg-logo="" group-title="Spor",EUROSPORT 1
-http://xtream-ie.org:80/live/r8E7WzEjY/LLJwdV9mB/190.ts
+https://eurosport1.blutv.com/blutv_eurosport1/smil:eurosport1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2" tvg-logo="" group-title="Spor",EUROSPORT 2
-http://xtream-ie.org:80/live/r8E7WzEjY/LLJwdV9mB/191.ts
+https://eurosport2.blutv.com/blutv_eurosport2/smil:eurosport2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TJK TV" tvg-logo="" group-title="Spor",TJK TV
+https://tjktv-live.tjk.org/tjktv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TAY TV" tvg-logo="" group-title="Spor",TAY TV
+http://160.19.94.16:8080/live/Vip_serNeu/CkDQ2ZytjJhJ/1228.ts
 #EXTINF:-1 tvg-id="" tvg-name="NBA TV HD" tvg-logo="" group-title="Spor",NBA TV HD
 http://160.19.94.16:8080/live/live:9e5620c5c6762694/LrTFVxUrEamH/1628.ts
 #EXTINF:-1 tvg-id="" tvg-name="AUTOMOTO HD" tvg-logo="" group-title="Spor",AUTOMOTO HD
@@ -372,7 +376,7 @@ https://haberturk.blutv.com/blutv_haberturk_live/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HABER GLOBAL FHD" tvg-logo="" group-title="Haber",HABER GLOBAL FHD
 https://ythls.kekikakademi.org/youtube/channel/UCtc-a9ZUIg0_5HpsPxEO7Qg.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HABER GLOBAL HD" tvg-logo="" group-title="Haber",HABER GLOBAL HD
-http://116.202.238.88/HABERGLOBAL_TR/index.m3u8
+https://ythls.kekikakademi.org/youtube/video/6BX-NUzBSp8.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HABER GLOBAL" tvg-logo="" group-title="Haber",HABER GLOBAL
 https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NTV FHD" tvg-logo="" group-title="Haber",NTV FHD
@@ -922,6 +926,8 @@ https://ythls.kekikakademi.org/youtube/channel/UCZJXR4VXvJ4GPd4y0GJcUYg.m3u8
 https://ythls.kekikakademi.org/youtube/channel/UCfyPw7vYwIVb6OuDIf7qeOQ.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CEM YILMAZ SHOW" tvg-logo="" group-title="Eğlence",CEM YILMAZ SHOW
 http://vip.torktv.org:2095/live/vlkn2282/vlk.56/6242.ts
+#EXTINF:-1 tvg-id="" tvg-name="ÇİNE DÜĞÜN TV" tvg-logo="" group-title="Eğlence",ÇİNE DÜĞÜN TV
+https://cdn-duguntvmedya.yayin.com.tr/duguntvmedya/duguntvmedya/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EXXEN" tvg-logo="" group-title="Eğlence",EXXEN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://tre.2b4a9bb526bd2acb.shop/i/exxen/4011/playlist.m3u8
@@ -947,6 +953,8 @@ https://stream-cdn-iad2.vaughnsoft.net/play/live_yansimamuziktv.flv
 https://a8.radyotelekom.com.tr:3513/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EGE LİVE TV" tvg-logo="" group-title="Müzik",EGE LİVE TV
 http://stream.tvcdn.net/yerel/ege-live-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ÇİNE DÜĞÜN TV" tvg-logo="" group-title="Müzik",ÇİNE DÜĞÜN TV
+https://cdn-duguntvmedya.yayin.com.tr/duguntvmedya/duguntvmedya/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AYAZ TV" tvg-logo="" group-title="Müzik",AYAZ TV
 http://164.132.23.92:22372/ayztv/ayztv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ARABESK TV" tvg-logo="" group-title="Müzik",ARABESK TV
