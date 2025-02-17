@@ -21,18 +21,20 @@ https://stream-cdn-iad2.vaughnsoft.net/play/live_knl10tv.flv
 https://ythls.kekikakademi.org/youtube/channel/UChb7kIKlWiDCfwXg4LSMCjg.m3u8
 #EXTINF:-1,MEGA TV SİNEMA
 https://a8.radyotelekom.com.tr:3580/hybrid/play.m3u8
-#EXTINF:-1,MEGA TV KORKU
-https://a8.radyotelekom.com.tr:3420/stream/play.m3u8
 #EXTINF:-1,MEGA TV ŞABAN
 https://a8.radyotelekom.com.tr:3417/stream/play.m3u8
 #EXTINF:-1,MEGA TV SİNEMA TÜRK
 https://a8.radyotelekom.com.tr:3468/stream/play.m3u8
 #EXTINF:-1,MEGA TV KLASİK
 https://a8.radyotelekom.com.tr:3335/stream/play.m3u8
+#EXTINF:-1,ALİGOSHGAR TV
+https://ip240.avrupatelekom.com:3142/stream/play.m3u8
 #EXTINF:-1,ULDUZ TV
 https://ip240.avrupatelekom.com:3153/stream/play.m3u8
+#EXTINF:-1,ESMA TV
+https://ip240.avrupatelekom.com:3520/stream/play.m3u8
 #EXTINF:-1,KADER TV
-https://ip240.avrupatelekom.com:3153/stream/play.m3u8
+https://ip240.avrupatelekom.com:3710/stream/play.m3u8
 #EXTINF:-1,KASTAMONU TV
 http://51.91.118.139:8080/kastamonutv/kastamonutv/3385
 #EXTINF:-1,HOCWAN TV
@@ -148,8 +150,6 @@ https://vsrv1.az-streamingserver.com:3833/live/ofhwiwudlive.m3u8
 https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
 #EXTINF:-1,KONUL TV
 https://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
-#EXTINF:-1,OLTU TV
-https://oltutv.ozelip.com:3870/stream/play.m3u8
 #EXTINF:-1,TAŞ TV
 http://palatv34.ozelip.com:22372/tastv/tastv/chunklist.m3u8
 #EXTINF:-1,SDM TV ÇİZGİ FİLM
@@ -317,11 +317,11 @@ https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/chunklist_b996000_sltur.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GS TV HD" tvg-logo="" group-title="Spor",GS TV HD
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CBC SPORT" tvg-logo="" group-title="Spor",CBC SPORT
-https://yayin8.canlitv.day/livetv/cbcsport.stream/playlist.m3u8
+http://50.7.144.122:1935/livetv/cbcsport.stream/sec-f5-v1-a1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CBC SPORT HD" tvg-logo="" group-title="Spor",CBC SPORT HD
-http://162.212.179.32/gin-dvrfl05/gin-cbc-sport/tracks-v1a1/mono.m3u8
+https://yayin2.canlitv.fun/livetv/cbcsport.stream/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="İDMAN TV HD" tvg-logo="" group-title="Spor",İDMAN TV HD
-http://162.212.179.32/gin-dvrfl05/gin-idmantv/tracks-v1a1/mono.m3u8
+https://tgn.bozztv.com/dvrfl05/gin-idmantv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN MOVİES ACTİON 1" tvg-logo="" group-title="Sinema",BEİN MOVİES ACTİON 1
 http://tvr.lol:80/live/vedatyilmaz27/yilmaz@27/784.ts
 #EXTINF:-1 tvg-id="" tvg-name="BEİN MOVİES ACTİON 2" tvg-logo="" group-title="Sinema",BEİN MOVİES ACTİON 2
@@ -398,18 +398,20 @@ https://stream-cdn-iad2.vaughnsoft.net/play/live_knl10tv.flv
 https://stream-cdn-iad3.vaughnsoft.net/play/live_teleonmediagroups.flv
 #EXTINF:-1 tvg-id="" tvg-name="MEGA TV SİNEMA" tvg-logo="" group-title="Sinema",MEGA TV SİNEMA
 https://a8.radyotelekom.com.tr:3580/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MEGA TV KORKU" tvg-logo="" group-title="Sinema",MEGA TV KORKU
-https://a8.radyotelekom.com.tr:3420/stream/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MEGA TV ŞABAN" tvg-logo="" group-title="Sinema",MEGA TV ŞABAN
 https://a8.radyotelekom.com.tr:3417/stream/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MEGA TV SİNEMA TÜRK" tvg-logo="" group-title="Sinema",MEGA TV SİNEMA TÜRK
 https://a8.radyotelekom.com.tr:3468/stream/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MEGA TV KLASİK" tvg-logo="" group-title="Sinema",MEGA TV KLASİK
 https://a8.radyotelekom.com.tr:3335/stream/play.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ALİGOSHGAR TV" tvg-logo="" group-title="Sinema",ALİGOSHGAR TV
+https://ip240.avrupatelekom.com:3142/stream/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ULDUZ TV" tvg-logo="" group-title="Sinema",ULDUZ TV
 https://ip240.avrupatelekom.com:3153/stream/play.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESMA TV" tvg-logo="" group-title="Sinema",ESMA TV
+https://ip240.avrupatelekom.com:3520/stream/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KADER TV" tvg-logo="" group-title="Sinema",KADER TV
-https://ip240.avrupatelekom.com:3153/stream/play.m3u8
+https://ip240.avrupatelekom.com:3710/stream/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KASTAMONU TV" tvg-logo="" group-title="Sinema",KASTAMONU TV
 http://51.91.118.139:8080/kastamonutv/kastamonutv/3385
 #EXTINF:-1 tvg-id="" tvg-name="HOCWAN TV" tvg-logo="" group-title="Sinema",HOCWAN TV
