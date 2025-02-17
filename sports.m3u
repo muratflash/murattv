@@ -607,6 +607,8 @@ https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
 https://ythls.kekikakademi.org/youtube/channel/UClWewRX7n_IY3mBbxmttR5Q.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A PARA HD" tvg-logo="" group-title="Ulusal",A PARA HD
 https://ythls.kekikakademi.org/youtube/channel/UCzrGg6iyRDuUSnO0cQ5oLcA.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A PARA" tvg-logo="" group-title="Ulusal",A PARA
+http://160.19.94.16:8080/live/Vip_serNeu/CkDQ2ZytjJhJ/1030.ts
 #EXTINF:-1 tvg-id="" tvg-name="BLOOMBERG HT HD" tvg-logo="" group-title="Ulusal",BLOOMBERG HT HD
 https://ythls.kekikakademi.org/youtube/channel/UCApLxl6oYQafxvykuoC2uxQ.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BLOOMBERG HT" tvg-logo="" group-title="Ulusal",BLOOMBERG HT
@@ -638,11 +640,9 @@ https://emmazbvkkf.turknet.ercdn.net/cnifuowzza/dmax/dmax_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DMAX HD+" tvg-logo="" group-title="Ulusal",DMAX HD+
 https://dmaxdvr.blutv.com/blutv_dmax_dvr/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT 2 FHD" tvg-logo="" group-title="Ulusal",TRT 2 FHD
-http://160.19.94.16:8080/live/live:9e5620c5c6762694/LrTFVxUrEamH/22689.ts
+http://160.19.94.16:8080/live/live:9e5620c5c6762694/LrTFVxUrEamH/1167.ts
 #EXTINF:-1 tvg-id="" tvg-name="TRT 2 HD" tvg-logo="" group-title="Ulusal",TRT 2 HD
 https://tv-trt2.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TRT 2" tvg-logo="" group-title="Ulusal",TRT 2
-http://160.19.94.16:8080/live/live:9e5620c5c6762694/LrTFVxUrEamH/1167.ts
 #EXTINF:-1 tvg-id="" tvg-name="TRT AVAZ" tvg-logo="" group-title="Ulusal",TRT AVAZ
 https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT TÜRK" tvg-logo="" group-title="Ulusal",TRT TÜRK
