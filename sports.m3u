@@ -380,7 +380,7 @@ https://ythls.kekikakademi.org/youtube/video/6BX-NUzBSp8.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HABER GLOBAL" tvg-logo="" group-title="Haber",HABER GLOBAL
 https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NTV FHD" tvg-logo="" group-title="Haber",NTV FHD
-https://mn-nl.mncdn.com/dogusdyg_ntv/live.m3u8?st=o2NTcrbH0DDiW4I6fXnj1A&e=1739673034
+http://dygvideo.dygdigital.com/live/hls/ntv4puhu?m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NTV HD" tvg-logo="" group-title="Haber",NTV HD
 https://ythls.kekikakademi.org/youtube/channel/UC9TDTjbOjFB9jADmPhSAPsw.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NTV" tvg-logo="" group-title="Haber",NTV
@@ -530,7 +530,7 @@ https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SHOW TV" tvg-logo="" group-title="Ulusal",SHOW TV
 https://bloomberght-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STAR TV FHD" tvg-logo="" group-title="Ulusal",STAR TV FHD
-https://mn-nl.mncdn.com/dogusdyg_star/live.m3u8?st=mW0OIFBoeSJaZAIvFBbbrA&e=1739674805
+http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STAR TV HD" tvg-logo="" group-title="Ulusal",STAR TV HD
 http://50.7.144.122:1935/livetv/startv.stream/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STAR TV HD+" tvg-logo="" group-title="Ulusal",STAR TV HD+
