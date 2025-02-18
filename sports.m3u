@@ -1051,6 +1051,8 @@ https://moondigitaledge2.radyotvonline.net/radyo7arabesk/playlist.m3u8
 https://moondigitaledge2.radyotvonline.net/radyo7fmo/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO ARABESK" tvg-logo="" group-title="Radyo",RADYO ARABESK
 https://yayin.radyoarabesk.com.tr:8000/stream
+#EXTINF:-1 tvg-id="" tvg-name="ARABESK RADYO" tvg-logo="" group-title="Radyo",ARABESK RADYO
+http://160.19.94.16:8080/live/Vip_serNeu/CkDQ2ZytjJhJ/20846.ts
 #EXTINF:-1 tvg-id="" tvg-name="RADYO ARABESK YT" tvg-logo="" group-title="Radyo",RADYO ARABESK YT
 https://ythls.kekikakademi.org/youtube/channel/UC93tfBD8wAgK1Rtfjzucd-Q.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO DEM" tvg-logo="" group-title="Radyo",RADYO DEM
@@ -1089,6 +1091,8 @@ https://moondigitaledge.radyotvonline.net/palnostalji/playlist.m3u8
 https://moondigitaledge.radyotvonline.net/paldoga/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO OYUN HAVALARI" tvg-logo="" group-title="Radyo",RADYO OYUN HAVALARI
 https://ythls.kekikakademi.org/youtube/video/dYbc2KMYXy0.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADYO ANKARA HAVALARI" tvg-logo="" group-title="Radyo",RADYO ANKARA HAVALARI
+http://160.19.94.16:8080/live/Vip_serNeu/CkDQ2ZytjJhJ/20847.ts
 #EXTINF:-1 tvg-id="" tvg-name="BAŞKA RADYO" tvg-logo="" group-title="Radyo",BAŞKA RADYO
 https://ythls.kekikakademi.org/youtube/channel/UC_QmeKo2eLwP0bayo2X6g2Q.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DOST FM" tvg-logo="" group-title="Radyo",DOST FM
