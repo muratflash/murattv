@@ -504,9 +504,9 @@ http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1481
 #EXTINF:-1 tvg-id="" tvg-name="CNN İNTERNATİONAL" tvg-logo="" group-title="Haber",CNN İNTERNATİONAL
 https://cnnint.blutv.com/blutv_cnnint/smil:cnnint.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT 1 FHD" tvg-logo="" group-title="Ulusal",TRT 1 FHD
-https://trt.daioncdn.net/trt-1/master.m3u8?app=web
-#EXTINF:-1 tvg-id="" tvg-name="TRT 1 HD" tvg-logo="" group-title="Ulusal",TRT 1 HD
 http://89.187.191.41/TRT-1-HD-TR/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT 1 HD" tvg-logo="" group-title="Ulusal",TRT 1 HD
+https://trt.daioncdn.net/trt-1/master.m3u8?app=web
 #EXTINF:-1 tvg-id="" tvg-name="TRT 1 HD+" tvg-logo="" group-title="Ulusal",TRT 1 HD+
 https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT 1" tvg-logo="" group-title="Ulusal",TRT 1
@@ -554,9 +554,9 @@ https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV 8" tvg-logo="" group-title="Ulusal",TV 8
 http://50.7.144.122:1935/livetv/tv8.stream/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV 8.5 FHD" tvg-logo="" group-title="Ulusal",TV 8.5 FHD
-https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?app=tv8bucuk_web&ce=3
-#EXTINF:-1 tvg-id="" tvg-name="TV 8.5 HD" tvg-logo="" group-title="Ulusal",TV 8.5 HD
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV 8.5 HD" tvg-logo="" group-title="Ulusal",TV 8.5 HD
+https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?app=tv8bucuk_web&ce=3
 #EXTINF:-1 tvg-id="" tvg-name="BEYAZ TV FHD" tvg-logo="" group-title="Ulusal",BEYAZ TV FHD
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEYAZ TV HD+" tvg-logo="" group-title="Ulusal",BEYAZ TV HD+
@@ -926,8 +926,44 @@ https://uzunmuhalefet.serv00.net/canlitv2.php?id=12044&.m3u8
 http://116.202.238.88/YABANTV_TR/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SÜPER TÜRK MAX TV" tvg-logo="" group-title="Belgesel",SÜPER TÜRK MAX TV
 http://75.119.144.48/SUPERTURK_MAX_HD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DMAX HD" tvg-logo="" group-title="Belgesel",DMAX HD
+https://dogus-live.daioncdn.net/dmax/dmax.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TLC HD" tvg-logo="" group-title="Belgesel",TLC HD
+https://dogus-live.daioncdn.net/tlc/tlc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KANAL 53" tvg-logo="" group-title="Belgesel",KANAL 53
 https://kanal53.ozelip.com:3448/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KANAL S" tvg-logo="" group-title="Belgesel",KANAL S
+https://cdn-kanals.yayin.com.tr/kanals/kanals/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CEYHAN TV" tvg-logo="" group-title="Belgesel",CEYHAN TV
+http://palatv34.ozelip.com:22372/ceyhantv/ceyhantv/chunklist_w1781786446.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="32.GÜN TV" tvg-logo="" group-title="Belgesel",32.GÜN TV
+http://vip.torktv.org:2095/live/vlkn2282/vlk.56/111302.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBC EARTH HD" tvg-logo="" group-title="Belgesel",BBC EARTH HD
+ttps://tv.arectv11.sbs/live/bbc.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HİSTORY CHANNEL" tvg-logo="" group-title="Belgesel",HİSTORY CHANNEL
+https://tv.arectv11.sbs/live/history.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NATİONAL GEO HD" tvg-logo="" group-title="Belgesel",NATİONAL GEO HD
+https://tv.arectv11.sbs/live/natgeo.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NATİONAL GEO WİLD" tvg-logo="" group-title="Belgesel",NATİONAL GEO WİLD
+https://tv.arectv11.sbs/live/natgeowild.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VİASAT EXPLORE" tvg-logo="" group-title="Belgesel",VİASAT EXPLORE
+https://tv.arectv11.sbs/live/viasathistory.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VİASAT NATURE" tvg-logo="" group-title="Belgesel",VİASAT NATURE
+https://tv.arectv11.sbs/live/viasatexplore.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CGTN BELGESEL" tvg-logo="" group-title="Belgesel",CGTN BELGESEL
+https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SAĞLIK CHANNEL TV" tvg-logo="" group-title="Belgesel",SAĞLIK CHANNEL TV
+https://live.euromediacenter.com/saglikchannel/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WOMAN KADIN TV" tvg-logo="" group-title="Belgesel",WOMAN KADIN TV
+https://embedlp.b-cdn.net/womantv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MOR TV" tvg-logo="" group-title="Belgesel",MOR TV
+https://live.euromediacenter.com/tvmor/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DİM TV" tvg-logo="" group-title="Belgesel",DİM TV
+https://waw2.artiyerelmedya.net/dimtv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TARIM TV" tvg-logo="" group-title="Belgesel",TARIM TV
+https://canlitvulusal.xyz/live/tarimtv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ÇİFTÇİ TV" tvg-logo="" group-title="Belgesel",ÇİFTÇİ TV
+https://canlitvulusal.xyz/live/ciftcitv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ANADOLU NET" tvg-logo="" group-title="Belgesel",ANADOLU NET
 https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SDM TV BELGESEL" tvg-logo="" group-title="Belgesel",SDM TV BELGESEL
@@ -985,6 +1021,8 @@ https://yayin.santraltr.com/hls/ezo.m3u8
 https://yayin.santraltr.com/hls/silatv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZEYNO TV" tvg-logo="" group-title="Müzik",ZEYNO TV
 https://yayin.santraltr.com/hls/zeynotv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARMA TV" tvg-logo="" group-title="Müzik",ARMA TV
+https://tvsms.club/tvz.php?kanal=arma&file=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GENC TV" tvg-logo="" group-title="Müzik",GENC TV
 https://yayin.santraltr.com/hls/genctv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TOPPOP TV" tvg-logo="" group-title="Müzik",TOPPOP TV
