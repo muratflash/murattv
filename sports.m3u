@@ -786,6 +786,8 @@ https://ip240.avrupatelekom.com:3153/stream/play.m3u8
 https://ip240.avrupatelekom.com:3520/stream/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KADER TV" tvg-logo="" group-title="Sinema",KADER TV
 https://ip240.avrupatelekom.com:3710/stream/play.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AMEDİA TV" tvg-logo="" group-title="Sinema",AMEDİA TV
+https://live.yayingold.com.tr/amediatvlive/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KASTAMONU TV" tvg-logo="" group-title="Sinema",KASTAMONU TV
 http://51.91.118.139:8080/kastamonutv/kastamonutv/3385
 #EXTINF:-1 tvg-id="" tvg-name="HOCWAN TV" tvg-logo="" group-title="Sinema",HOCWAN TV
@@ -1003,7 +1005,7 @@ https://a8.radyotelekom.com.tr:3513/hybrid/play.m3u8
 http://stream.tvcdn.net/yerel/ege-live-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ÇİNE DÜĞÜN TV" tvg-logo="" group-title="Müzik",ÇİNE DÜĞÜN TV
 https://cdn-duguntvmedya.yayin.com.tr/duguntvmedya/duguntvmedya/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AYAZ TV" tvg-logo="" group-title="Müzik",AYAZ TV
+#EXTINF:-1 tvg-id="" tvg-name="ANKARA AYAZ TV" tvg-logo="" group-title="Müzik",ANKARA AYAZ TV
 http://164.132.23.92:22372/ayztv/ayztv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ARABESK TV" tvg-logo="" group-title="Müzik",ARABESK TV
 https://yayin.santraltr.com/hls/arabeskyeni.m3u8
@@ -1023,6 +1025,8 @@ https://yayin.santraltr.com/hls/genctv.m3u8
 https://yayin.santraltr.com/hls/toppop.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VİVA TV" tvg-logo="" group-title="Müzik",VİVA TV
 https://yayin.santraltr.com/hls/vivatv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AYAZ TV" tvg-logo="" group-title="Müzik",AYAZ TV
+https://janya-ayaztv.vgcdn.net/ptnr-Vipo%20TV/title-Ayaz_TV/v1/vglive-sk-934820/AyazTV_1500k.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TEMPO TV" tvg-logo="" group-title="Müzik",TEMPO TV
 https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EZGİ TV" tvg-logo="" group-title="Müzik",EZGİ TV
