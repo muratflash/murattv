@@ -513,6 +513,8 @@ https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ATV HD" tvg-logo="" group-title="Ulusal",ATV HD
 http://50.7.144.122:1935/livetv/atv.stream/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ATV HD+" tvg-logo="" group-title="Ulusal",ATV HD+
+https://koprulu1.global.ssl.fastly.net/app2/rectv2.m3u8/?id=atv
 #EXTINF:-1 tvg-id="" tvg-name="ATV" tvg-logo="" group-title="Ulusal",ATV
 http://89.187.191.41/ATV-HD-TR/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SHOW TV FHD" tvg-logo="" group-title="Ulusal",SHOW TV FHD
@@ -532,7 +534,7 @@ https://dogus-live.daioncdn.net/startv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NOW FHD" tvg-logo="" group-title="Ulusal",NOW FHD
 http://50.7.144.122:1935/livetv/foxtv.stream/sec-f5-v1-a1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NOW HD+" tvg-logo="" group-title="Ulusal",NOW HD+
-http://160.19.94.16:8080/live/Vip_serNeu/CkDQ2ZytjJhJ/1186.ts
+http://116.202.238.88/FOXTV_TR/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NOW HD" tvg-logo="" group-title="Ulusal",NOW HD
 https://yayin2.canlitv.fun/livetv/foxtv.stream/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NOW TV" tvg-logo="" group-title="Ulusal",NOW TV
