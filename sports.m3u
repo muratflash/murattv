@@ -368,7 +368,7 @@ https://ythls.kekikakademi.org/youtube/channel/UCtc-a9ZUIg0_5HpsPxEO7Qg.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HABER GLOBAL HD" tvg-logo="" group-title="Haber",HABER GLOBAL HD
 http://trn03.tulix.tv/gt-haberglobal/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HABER GLOBAL HD+" tvg-logo="" group-title="Haber",HABER GLOBAL HD+
-https://ythls.kekikakademi.org/youtube/video/6BX-NUzBSp8.m3u8
+http://50.7.144.122:1935/livetv/haberglobal.stream/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HABER GLOBAL" tvg-logo="" group-title="Haber",HABER GLOBAL
 https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NTV FHD" tvg-logo="" group-title="Haber",NTV FHD
@@ -534,11 +534,13 @@ https://dogus-live.daioncdn.net/startv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NOW FHD" tvg-logo="" group-title="Ulusal",NOW FHD
 http://50.7.144.122:1935/livetv/foxtv.stream/sec-f5-v1-a1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NOW HD+" tvg-logo="" group-title="Ulusal",NOW HD+
-http://116.202.238.88/FOXTV_TR/index.m3u8
+http://50.7.144.122:1935/livetv/foxtv.stream/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NOW HD" tvg-logo="" group-title="Ulusal",NOW HD
 https://yayin2.canlitv.fun/livetv/foxtv.stream/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NOW TV" tvg-logo="" group-title="Ulusal",NOW TV
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NOW" tvg-logo="" group-title="Ulusal",NOW
+http://116.202.238.88/FOXTV_TR/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV 8 FHD" tvg-logo="" group-title="Ulusal",TV 8 FHD
 https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV 8 HD" tvg-logo="" group-title="Ulusal",TV 8 HD
@@ -589,9 +591,9 @@ https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CİNE 1 TV" tvg-logo="" group-title="Ulusal",CİNE 1 TV
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SHOWMAX FHD" tvg-logo="" group-title="Ulusal",SHOWMAX FHD
+#EXTINF:-1 tvg-id="" tvg-name="SHOWMAX FHD" tvg-logo="" group-title="Ulusal",SHOW MAX FHD
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SHOWMAX HD" tvg-logo="" group-title="Ulusal",SHOWMAX HD
+#EXTINF:-1 tvg-id="" tvg-name="SHOWMAX HD" tvg-logo="" group-title="Ulusal",SHOW MAX HD
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shmax.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TGRT EU HD" tvg-logo="" group-title="Ulusal",TGRT EU HD
 https://canlitvulusal.xyz/live/tgrteu/index.m3u8
@@ -604,7 +606,7 @@ https://ythls.kekikakademi.org/youtube/channel/UClWewRX7n_IY3mBbxmttR5Q.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A PARA HD" tvg-logo="" group-title="Ulusal",A PARA HD
 https://ythls.kekikakademi.org/youtube/channel/UCzrGg6iyRDuUSnO0cQ5oLcA.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A PARA" tvg-logo="" group-title="Ulusal",A PARA
-http://160.19.94.16:8080/live/Vip_serNeu/CkDQ2ZytjJhJ/1030.ts
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/10153
 #EXTINF:-1 tvg-id="" tvg-name="BLOOMBERG HT HD" tvg-logo="" group-title="Ulusal",BLOOMBERG HT HD
 https://ythls.kekikakademi.org/youtube/channel/UCApLxl6oYQafxvykuoC2uxQ.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BLOOMBERG HT" tvg-logo="" group-title="Ulusal",BLOOMBERG HT
@@ -727,10 +729,16 @@ http://194.158.222.36:6086/
 https://tv.arectv11.sbs/live/bspremier1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN MOVİES STARS" tvg-logo="" group-title="Sinema",BEİN MOVİES STARS
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/1766
+#EXTINF:-1 tvg-id="" tvg-name="MAX" tvg-logo="" group-title="Sinema",MAX
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/306227
+#EXTINF:-1 tvg-id="" tvg-name="MAX PREMİER" tvg-logo="" group-title="Sinema",MAX PREMİER
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/163190
+#EXTINF:-1 tvg-id="" tvg-name="MAX VİZYON" tvg-logo="" group-title="Sinema",MAX VİZYON
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/300083
 #EXTINF:-1 tvg-id="" tvg-name="SİNEMA TV" tvg-logo="" group-title="Sinema",SİNEMA TV
-http://160.19.94.16:8080/live/live:9e5620c5c6762694/LrTFVxUrEamH/14270.ts
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/1790
 #EXTINF:-1 tvg-id="" tvg-name="SİNEMA AKSİYON" tvg-logo="" group-title="Sinema",SİNEMA AKSİYON
-http://160.19.94.16:8080/live/live:9e5620c5c6762694/LrTFVxUrEamH/53363.ts
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/1793
 #EXTINF:-1 tvg-id="" tvg-name="SİNEMA AİLE" tvg-logo="" group-title="Sinema",SİNEMA AİLE
 http://160.19.94.16:8080/live/live:9e5620c5c6762694/LrTFVxUrEamH/14274.ts
 #EXTINF:-1 tvg-id="" tvg-name="SİNEMA KOMEDİ" tvg-logo="" group-title="Sinema",SİNEMA KOMEDİ
@@ -1019,6 +1027,14 @@ https://yayin.santraltr.com/hls/ezo.m3u8
 https://yayin.santraltr.com/hls/silatv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZEYNO TV" tvg-logo="" group-title="Müzik",ZEYNO TV
 https://yayin.santraltr.com/hls/zeynotv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MÜSLÜM GÜRSES TV" tvg-logo="" group-title="Müzik",MÜSLÜM GÜRSES TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/300401
+#EXTINF:-1 tvg-id="" tvg-name="KONSERLER 1" tvg-logo="" group-title="Müzik",KONSERLER 1
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/300476
+#EXTINF:-1 tvg-id="" tvg-name="KONSERLER 2" tvg-logo="" group-title="Müzik",KONSERLER 2
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/300477
+#EXTINF:-1 tvg-id="" tvg-name="KONSERLER 3" tvg-logo="" group-title="Müzik",KONSERLER 3
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/300478
 #EXTINF:-1 tvg-id="" tvg-name="ARMA TV" tvg-logo="" group-title="Müzik",ARMA TV
 https://tvsms.club/tvz.php?kanal=arma&file=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GENC TV" tvg-logo="" group-title="Müzik",GENC TV
