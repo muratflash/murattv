@@ -9,13 +9,17 @@ https://mobil.92test.cfd/yayint24.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 DMTN" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 1 VİP
 http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/147.ts
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 DMTN VİP" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 1 UHD
-https://zekonew.iosplayer.ru/zeko/premium62/mono.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://green-wildflower-90d6.1ff056997784445980.workers.dev/static/bs1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 2 DMTN" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 2 UHD
-https://zekonew.iosplayer.ru/zeko/premium63/mono.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://green-wildflower-90d6.1ff056997784445980.workers.dev/static/bs2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 3 DMTN" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 3 UHD
-https://zekonew.iosplayer.ru/zeko/premium64/mono.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://green-wildflower-90d6.1ff056997784445980.workers.dev/static/bs3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 4 DMTN" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 4 UHD
-https://zekonew.iosplayer.ru/zeko/premium65/mono.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://green-wildflower-90d6.1ff056997784445980.workers.dev/static/bs4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 5 UHD" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 5 UHD
 https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=b5
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS MAX 1 UHD" tvg-logo="" group-title="Bein Sports",BEİN SPORTS MAX 1 UHD
@@ -36,23 +40,19 @@ http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/150.ts
 http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/151.ts
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 5 FHD" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 5 FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://green-wildflower-90d6.1ff056997784445980.workers.dev/static/bs1.m3u8
+https://green-wildflower-90d6.1ff056997784445980.workers.dev/static/bs5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS MAX 1 FHD" tvg-logo="" group-title="Bein Sports",BEİN SPORTS MAX 1 FHD
 http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/152.ts
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS MAX 2 FHD" tvg-logo="" group-title="Bein Sports",BEİN SPORTS MAX 2 FHD
 http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/153.ts
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 HD" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 1 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://sei.c6db67cffaaefebe.click/i/neden/601/playlist.m3u8
+https://zekonew.iosplayer.ru/zeko/premium62/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 2 HD" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 2 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://sei.c6db67cffaaefebe.click/i/neden/602/playlist.m3u8
+https://zekonew.iosplayer.ru/zeko/premium63/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 3 HD" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 3 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://sei.c6db67cffaaefebe.click/i/neden/603/playlist.m3u8
+https://zekonew.iosplayer.ru/zeko/premium64/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 4 HD" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 4 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://sei.c6db67cffaaefebe.click/i/neden/604/playlist.m3u8
+https://zekonew.iosplayer.ru/zeko/premium65/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 5 HD" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 5 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://sei.c6db67cffaaefebe.click/i/neden/705/playlist.m3u8
