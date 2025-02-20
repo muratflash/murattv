@@ -304,7 +304,7 @@ https://ythls.kekikakademi.org/youtube/channel/UCodApSLUhI5oYLoqiy4zqTQ.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FUTBL PLUS YOUTUBE" tvg-logo="" group-title="Spor",FUTBOL PLUS YOUTUBE
 https://ythls.kekikakademi.org/youtube/channel/UCgbXyojig2J2Q46zqFQOJmg.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LİDER HABER TELEGOL" tvg-logo="" group-title="Spor",LİDER HABER TELEGOL
-https://ythls.kekikakademi.org/youtube/channel/UCgH3Vo5DVMsrbDSUoSecm0Q.m3u8
+http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/sec-f5-v1-a1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT SPOR YILDIZ" tvg-logo="" group-title="Spor",TRT SPOR YILDIZ
 https://tv-trtspor2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SPORTS TV" tvg-logo="" group-title="Spor",SPORTS TV
@@ -432,7 +432,7 @@ https://ythls.kekikakademi.org/youtube/video/Avu7O3hKslA.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KRT TV HD" tvg-logo="" group-title="Haber",KRT TV HD
 https://ythls.kekikakademi.org/youtube/channel/UCVKWwHoLwUMMa80cu_1uapA.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KRT TV" tvg-logo="" group-title="Haber",KRT TV
-http://160.19.94.16:8080/live/live:9e5620c5c6762694/LrTFVxUrEamH/1020.ts
+http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1826
 #EXTINF:-1 tvg-id="" tvg-name="FLASH HABER FHD" tvg-logo="" group-title="Haber",FLASH HABER FHD
 http://50.7.144.122:1935/livetv/flashtv.stream/sec-f5-v1-a1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FLASH HABER HD" tvg-logo="" group-title="Haber",FLASH HABER HD
@@ -446,7 +446,7 @@ https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&type=live&service=wowza&protoc
 #EXTINF:-1 tvg-id="" tvg-name="MC EU WEB" tvg-logo="" group-title="Haber",MC EU WEB
 https://n2.burst.cdn.jetstre.am/session/450f4c594b612903b7d42d421fb93c21/sz/mceutv/wowza4/live/mc2/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LİDER HABER FHD" tvg-logo="" group-title="Haber",LİDER HABER FHD
-http://160.19.94.16:8080/live/live:9e5620c5c6762694/LrTFVxUrEamH/1261.ts
+http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/sec-f5-v1-a1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LİDER HABER HD" tvg-logo="" group-title="Haber",LİDER HABER HD
 https://ythls.kekikakademi.org/youtube/channel/UCgH3Vo5DVMsrbDSUoSecm0Q.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LİDER HABER" tvg-logo="" group-title="Haber",LİDER HABER
