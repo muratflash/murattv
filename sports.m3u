@@ -437,6 +437,8 @@ http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1826
 http://50.7.144.122:1935/livetv/flashtv.stream/sec-f5-v1-a1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FLASH HABER HD" tvg-logo="" group-title="Haber",FLASH HABER HD
 https://flashhaber-live.ercdn.net/flashhaber/flashhaber_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CÜNEYT ÖZDEMİR YOUTUBE Her Gün Saat 12" tvg-logo="" group-title="Haber",CÜNEYT ÖZDEMİR YOUTUBE Her gün Saat 12
+https://ythls.kekikakademi.org/youtube/channel/UCkwHQ7DWv9aqEtvAOSO74dQ.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CAN TV" tvg-logo="" group-title="Haber",CAN TV
 http://canbroadcast.com:7000/canlican/tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MEDYA HABER" tvg-logo="" group-title="Haber",MEDYA HABER
@@ -653,6 +655,8 @@ https://embedlp.b-cdn.net/womantv.m3u8
 https://135962.global.ssl.fastly.net/5ff366a512987e2c0a3dabfe/live_14378e1002eb11ef9cb025207067897a/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ADANALI" tvg-logo="" group-title="Dizi",ADANALI
 https://ythls.kekikakademi.org/youtube/channel/UCRP2h7AKS4nnUho0pyBCHgw.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADINI FERİHA KOYDUM" tvg-logo="" group-title="Dizi",ADINI FERİHA KOYDUM
+https://ythls.kekikakademi.org/youtube/channel/UCtkp8YehDHBNJ63CS9xwIQg.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ALEMİN KIRALI" tvg-logo="" group-title="Dizi",ALEMİN KIRALI
 https://ythls.kekikakademi.org/youtube/channel/UC7X6WuvzdVTFtAAAly9ldcw.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ARKA SIRADAKİLER" tvg-logo="" group-title="Dizi",ARKA SIRADAKİLER
@@ -974,6 +978,40 @@ https://canlitvulusal.xyz/live/ciftcitv/index.m3u8
 https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SDM TV BELGESEL" tvg-logo="" group-title="Belgesel",SDM TV BELGESEL
 https://host.onlineradyotv.net:8081/sdmtv3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT ÇOCUK HD" tvg-logo="" group-title="Çocuk",TRT ÇOCUK HD
+http://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT DİYANET ÇOCUK" tvg-logo="" group-title="Çocuk",TRT DİYANET ÇOCUK
+http://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT EBA HD" tvg-logo="" group-title="Çocuk",TRT EBA HD
+https://tv-e-okul01.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MİNİKA ÇOCUK HD" tvg-logo="" group-title="Çocuk",MİNİKA ÇOCUK HD
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MİNİKA GO HD" tvg-logo="" group-title="Çocuk",MİNİKA GO HD
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK HD" tvg-logo="" group-title="Çocuk",CARTOON NETWORK HD
+https://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="" group-title="Çocuk",CARTOON NETWORK
+https://canlitvulusal.xyz/live/cartoonnetwork/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BABY TV" tvg-logo="" group-title="Çocuk",BABY TV
+http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/634
+#EXTINF:-1 tvg-id="" tvg-name="CAİLLOU TÜRKÇE" tvg-logo="" group-title="Çocuk",CAİLLOU TÜRKÇE
+http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/192581
+#EXTINF:-1 tvg-id="" tvg-name="CARTOONİTO TÜRKÇE" tvg-logo="" group-title="Çocuk",CARTOONİTO TÜRKÇE
+http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/672
+#EXTINF:-1 tvg-id="" tvg-name="ÇOCUK SMART" tvg-logo="" group-title="Çocuk",ÇOCUK SMART
+http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1851
+#EXTINF:-1 tvg-id="" tvg-name="DİSNEY JUNİOR" tvg-logo="" group-title="Çocuk",DİSNEY JUNİOR
+http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/633
+#EXTINF:-1 tvg-id="" tvg-name="SL NİLOYA" tvg-logo="" group-title="Çocuk",SL NİLOYA
+http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/70743
+#EXTINF:-1 tvg-id="" tvg-name="KRAL ŞAKİR TV" tvg-logo="" group-title="Çocuk",KRAL ŞAKİR TV
+https://ythls.kekikakademi.org/youtube/video/zPNYXrlS1cE.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ÇİZGİ FİLM TV" tvg-logo="" group-title="Çocuk",ÇİZGİ FİLM TV
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/cizgi-film-tv/playlist/0.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TEBER MEDYA ÇOCUK" tvg-logo="" group-title="Çocuk",TEBER MEDYA ÇOCUK
+https://stream-cdn-iad.vaughnsoft.net/play/live_teber_star3.flv
+#EXTINF:-1 tvg-id="" tvg-name="SDM TV ÇİZGİ FİLM" tvg-logo="" group-title="Çocuk",SDM TV ÇİZGİ FİLM
+https://host.onlineradyotv.net:8081/sdmtv4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GÜLDÜR GÜLDÜR SHOW" tvg-logo="" group-title="Eğlence",GÜLDÜR GÜLDÜR SHOW
 https://ythls.kekikakademi.org/youtube/video/wnWkvgyd0Tw.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ÇOK GÜZEL HAREKETLER 2" tvg-logo="" group-title="Eğlence",ÇOK GÜZEL HAREKETLER 2
@@ -988,6 +1026,12 @@ https://ythls.kekikakademi.org/youtube/channel/UCfyPw7vYwIVb6OuDIf7qeOQ.m3u8
 http://vip.torktv.org:2095/live/vlkn2282/vlk.56/6242.ts
 #EXTINF:-1 tvg-id="" tvg-name="ÇİNE DÜĞÜN TV" tvg-logo="" group-title="Eğlence",ÇİNE DÜĞÜN TV
 https://cdn-duguntvmedya.yayin.com.tr/duguntvmedya/duguntvmedya/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KONSERLER 1" tvg-logo="" group-title="Eğlance",KONSERLER 1
+http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/300476
+#EXTINF:-1 tvg-id="" tvg-name="KONSERLER 2" tvg-logo="" group-title="Eğlence",KONSERLER 2
+http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/300477
+#EXTINF:-1 tvg-id="" tvg-name="KONSERLER 3" tvg-logo="" group-title="Eğlence",KONSERLER 3
+http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/300478
 #EXTINF:-1 tvg-id="" tvg-name="EXXEN" tvg-logo="" group-title="Eğlence",EXXEN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://tre.2b4a9bb526bd2acb.shop/i/exxen/4011/playlist.m3u8
@@ -1105,6 +1149,10 @@ https://28553.live.streamtheworld.com/SUPER_FM128AAC.aac
 https://edge1.radyotvonline.net/shoutcast/play/alemfm
 #EXTINF:-1 tvg-id="" tvg-name="DOKSANLAR FM" tvg-logo="" group-title="Radyo",DOKSANLAR FM
 https://moondigitaledge.radyotvonline.net/90lar/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADYO 45LİK" tvg-logo="" group-title="Radyo",RADYO 45LİK
+https://ythls.kekikakademi.org/youtube/channel/UCGCCfusnBQgISBBYyB56Fkw.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SLOWTÜRK RADYO" tvg-logo="" group-title="Radyo",SLOWTÜRK RADYO
+https://ythls.kekikakademi.org/youtube/channel/UC2Zgju5LSmKlDjjVwE3EhAA.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KRAL FM" tvg-logo="" group-title="Radyo",KRAL FM
 https://dygedge2.radyotvonline.net/kralfm/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KRAL FM YT" tvg-logo="" group-title="Radyo",KRAL FM YT
