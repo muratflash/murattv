@@ -492,7 +492,7 @@ https://live01.iha.tv/webabone/live/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT WORLD" tvg-logo="" group-title="Haber",TRT WORLD
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A NEWS" tvg-logo="" group-title="Haber",A NEWS
-http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1481
+http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/284578
 #EXTINF:-1 tvg-id="" tvg-name="CNN İNTERNATİONAL" tvg-logo="" group-title="Haber",CNN İNTERNATİONAL
 https://cnnint.blutv.com/blutv_cnnint/smil:cnnint.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT 1 FHD" tvg-logo="" group-title="Ulusal",TRT 1 FHD
@@ -920,8 +920,6 @@ https://vsrv1.az-streamingserver.com:3833/live/ofhwiwudlive.m3u8
 https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KONUL TV" tvg-logo="" group-title="Sinema",KONUL TV
 https://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TRT BELGESEL FHD" tvg-logo="" group-title="Belgesel",TRT BELGESEL FHD
-http://160.19.94.16:8080/live/Vip_serNeu/CkDQ2ZytjJhJ/22676.ts
 #EXTINF:-1 tvg-id="" tvg-name="TRT BELGESEL HD" tvg-logo="" group-title="Belgesel",TRT BELGESEL HD
 https://d2xwn494f2lep.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-Belgesel/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT BELGESEL" tvg-logo="" group-title="Belgesel",TRT BELGESEL
@@ -1026,7 +1024,7 @@ https://ythls.kekikakademi.org/youtube/channel/UCfyPw7vYwIVb6OuDIf7qeOQ.m3u8
 http://vip.torktv.org:2095/live/vlkn2282/vlk.56/6242.ts
 #EXTINF:-1 tvg-id="" tvg-name="ÇİNE DÜĞÜN TV" tvg-logo="" group-title="Eğlence",ÇİNE DÜĞÜN TV
 https://cdn-duguntvmedya.yayin.com.tr/duguntvmedya/duguntvmedya/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KONSERLER 1" tvg-logo="" group-title="Eğlance",KONSERLER 1
+#EXTINF:-1 tvg-id="" tvg-name="KONSERLER 1" tvg-logo="" group-title="Eğlence",KONSERLER 1
 http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/300476
 #EXTINF:-1 tvg-id="" tvg-name="KONSERLER 2" tvg-logo="" group-title="Eğlence",KONSERLER 2
 http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/300477
