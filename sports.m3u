@@ -323,6 +323,8 @@ http://50.7.144.122:1935/livetv/cbcsport.stream/sec-f5-v1-a1.m3u8
 https://yayin2.canlitv.fun/livetv/cbcsport.stream/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="İDMAN TV HD" tvg-logo="" group-title="Spor",İDMAN TV HD
 https://tgn.bozztv.com/dvrfl05/gin-idmantv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTS BATTLE" tvg-logo="" group-title="Spor",ESPORTS BATTLE
+https://nl.stream.esports-battle.com/fifa1/public/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1" tvg-logo="" group-title="Spor",EUROSPORT 1
 https://eurosport1.blutv.com/blutv_eurosport1/smil:eurosport1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2" tvg-logo="" group-title="Spor",EUROSPORT 2
@@ -439,6 +441,8 @@ http://50.7.144.122:1935/livetv/flashtv.stream/sec-f5-v1-a1.m3u8
 https://flashhaber-live.ercdn.net/flashhaber/flashhaber_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CÜNEYT ÖZDEMİR YOUTUBE Her Gün Saat 12" tvg-logo="" group-title="Haber",CÜNEYT ÖZDEMİR YOUTUBE Her gün Saat 12
 https://ythls.kekikakademi.org/youtube/channel/UCkwHQ7DWv9aqEtvAOSO74dQ.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="İLKE TV" tvg-logo="" group-title="Haber",İLKE TV
+https://yayin1.canlitv.fun/canlitv/ilketv.stream/chunklist_w1251053909.m3u8?hash=b0fd6da0c45409a2b42467df8a32de8d
 #EXTINF:-1 tvg-id="" tvg-name="CAN TV" tvg-logo="" group-title="Haber",CAN TV
 http://canbroadcast.com:7000/canlican/tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MEDYA HABER" tvg-logo="" group-title="Haber",MEDYA HABER
@@ -493,6 +497,8 @@ https://live01.iha.tv/webabone/live/chunks.m3u8
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A NEWS" tvg-logo="" group-title="Haber",A NEWS
 http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/284578
+#EXTINF:-1 tvg-id="" tvg-name="A NEWS HD" tvg-logo="" group-title="Haber",A NEWS HD
+https://ythls.kekikakademi.org/youtube/channel/UC-LRBEUet4xX2fRB3JitFxg.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN İNTERNATİONAL" tvg-logo="" group-title="Haber",CNN İNTERNATİONAL
 https://cnnint.blutv.com/blutv_cnnint/smil:cnnint.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT 1 FHD" tvg-logo="" group-title="Ulusal",TRT 1 FHD
@@ -651,6 +657,8 @@ https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 https://s01.webcaster.cloud/wmtv/live_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WOMAN TV" tvg-logo="" group-title="Ulusal",WOMAN TV
 https://embedlp.b-cdn.net/womantv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BİZİM EV TV" tvg-logo="" group-title="Ulusal",BİZİM EV TV
+https://ythls.kekikakademi.org/youtube/channel/UCIHMK8qtjB_GNuXmeex6i8g.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TÜRKMENELİ TV" tvg-logo="" group-title="Ulusal",TÜRKMENELİ TV
 https://135962.global.ssl.fastly.net/5ff366a512987e2c0a3dabfe/live_14378e1002eb11ef9cb025207067897a/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ADANALI" tvg-logo="" group-title="Dizi",ADANALI
@@ -972,6 +980,8 @@ https://canlitvulusal.xyz/live/ciftcitv/index.m3u8
 https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SDM TV BELGESEL" tvg-logo="" group-title="Belgesel",SDM TV BELGESEL
 https://host.onlineradyotv.net:8081/sdmtv3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NASA TV" tvg-logo="" group-title="Belgesel",NASA TV
+https://ythls.kekikakademi.org/youtube/video/xRPjKQtRXR8.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT ÇOCUK HD" tvg-logo="" group-title="Çocuk",TRT ÇOCUK HD
 http://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT DİYANET ÇOCUK" tvg-logo="" group-title="Çocuk",TRT DİYANET ÇOCUK
@@ -1065,6 +1075,8 @@ https://yayin.santraltr.com/hls/ezo.m3u8
 https://yayin.santraltr.com/hls/silatv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZEYNO TV" tvg-logo="" group-title="Müzik",ZEYNO TV
 https://yayin.santraltr.com/hls/zeynotv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARMA TV" tvg-logo="" group-title="Müzik",ARMA TV
+https://tvsms.club/tvz.php?kanal=arma&file=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MÜSLÜM GÜRSES TV" tvg-logo="" group-title="Müzik",MÜSLÜM GÜRSES TV
 http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/300401
 #EXTINF:-1 tvg-id="" tvg-name="KONSERLER 1" tvg-logo="" group-title="Müzik",KONSERLER 1
@@ -1073,8 +1085,6 @@ http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/300476
 http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/300477
 #EXTINF:-1 tvg-id="" tvg-name="KONSERLER 3" tvg-logo="" group-title="Müzik",KONSERLER 3
 http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/300478
-#EXTINF:-1 tvg-id="" tvg-name="ARMA TV" tvg-logo="" group-title="Müzik",ARMA TV
-https://tvsms.club/tvz.php?kanal=arma&file=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GENC TV" tvg-logo="" group-title="Müzik",GENC TV
 https://yayin.santraltr.com/hls/genctv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TOPPOP TV" tvg-logo="" group-title="Müzik",TOPPOP TV
