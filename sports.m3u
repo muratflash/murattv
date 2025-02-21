@@ -802,8 +802,8 @@ https://ip240.avrupatelekom.com:3520/stream/play.m3u8
 https://ip240.avrupatelekom.com:3710/stream/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AMEDİA TV" tvg-logo="" group-title="Sinema",AMEDİA TV
 https://live.yayingold.com.tr/amediatvlive/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KASTAMONU TV" tvg-logo="" group-title="Sinema",KASTAMONU TV
-http://51.91.118.139:8080/kastamonutv/kastamonutv/3385
+#EXTINF:-1 tvg-id="" tvg-name="İSMAYİLLİ TV" tvg-logo="" group-title="Sinema",İSMAYİLLİ TV
+https://ip240.avrupatelekom.com:3781/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HOCWAN TV" tvg-logo="" group-title="Sinema",HOCWAN TV
 https://hocwantv.ozelip.com:3593/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ALMANYA TV" tvg-logo="" group-title="Sinema",ALMANYA TV
@@ -910,10 +910,6 @@ http://vip.torktv.org:2095/live/vlkn2282/vlk.56/163178.ts
 http://vip.torktv.org:2095/live/vlkn2282/vlk.56/163176.ts
 #EXTINF:-1 tvg-id="" tvg-name="CÜNEYT ARKIN TV 4" tvg-logo="" group-title="Sinema",CÜNEYT ARKIN TV 4
 http://vip.torktv.org:2095/live/vlkn2282/vlk.56/163150.ts
-#EXTINF:-1 tvg-id="" tvg-name="KANAL 65 CİNEMA" tvg-logo="" group-title="Sinema",KANAL 65 CİNEMA
-https://live.yayingold.com.tr/kanal65azlive/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="İSMAYİLLİ TV" tvg-logo="" group-title="Sinema",İSMAYİLLİ TV
-https://ip240.avrupatelekom.com:3736/stream/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FARRUK TV" tvg-logo="" group-title="Sinema",FARRUK TV
 https://vsrv1.az-streamingserver.com:3833/live/ofhwiwudlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ALVİN CHANNEL" tvg-logo="" group-title="Sinema",ALVİN CHANNEL
