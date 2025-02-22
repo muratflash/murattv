@@ -3,6 +3,8 @@ https://ythls.kekikakademi.org/youtube/video/EmdtE7sRMSY.m3u8
 #EXTINF:-1 ,MURAT TV 2
 https://ythls.kekikakademi.org/youtube/video/n5CBQTdLkLA.m3u8
 #EXTINF:-1 ,MURAT TV 3
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/muziktv/playlist/0.m3u8
+#EXTINF:-1 ,MURAT TV 4
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/chill-tv/playlist/0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 4K" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 1 4K
 https://mobil.92test.cfd/yayint24.m3u8
@@ -264,11 +266,11 @@ https://trt.daioncdn.net/trtspor/master_1080p.m3u8?platform=trtspor&sid=6v658fcn
 #EXTINF:-1 tvg-id="" tvg-name="TRT SPOR HD" tvg-logo="" group-title="Spor",TRT SPOR HD
 https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A SPOR FHD" tvg-logo="" group-title="Spor",A SPOR FHD
-https://ythls.kekikakademi.org/youtube/video/7uBpwcn2ZZ0.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A SPOR" tvg-logo="" group-title="Spor",A SPOR HD
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A SPOR" tvg-logo="" group-title="Spor",A SPOR HD
+https://ythls.kekikakademi.org/youtube/video/7uBpwcn2ZZ0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A SPOR HD" tvg-logo="" group-title="Spor",A SPOR
-http://50.7.144.122:1935/livetv/aspor.stream/sec-f5-v1-a1.m3u8
+http://50.7.144.122:1935/livetv/aspor.stream/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HT SPOR FHD" tvg-logo="" group-title="Spor",HT SPOR FHD
 https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HT SPOR HD" tvg-logo="" group-title="Spor",HT SPOR HD
@@ -314,11 +316,11 @@ https://ythls.kekikakademi.org/youtube/channel/UCNopxUNUMinlK3ybMGlpbGQ.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZTK TV" tvg-logo="" group-title="Spor",ZTK TV
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/ztktv/playlist/0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CBC SPORT" tvg-logo="" group-title="Spor",CBC SPORT
-http://50.7.144.122:1935/livetv/cbcsport.stream/sec-f5-v1-a1.m3u8
+http://50.7.144.122:1935/livetv/cbcsport.stream/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CBC SPORT HD" tvg-logo="" group-title="Spor",CBC SPORT HD
 https://yayin2.canlitv.fun/livetv/cbcsport.stream/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="İDMAN TV HD" tvg-logo="" group-title="Spor",İDMAN TV HD
-https://tgn.bozztv.com/dvrfl05/gin-idmantv/tracks-v1a1/mono.m3u8
+https://tgn.bozztv.com/dvrfl05/gin-idmantv/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PREMİER LEAGUE" tvg-logo="" group-title="Spor",PREMİER LEAGUE
 http://135.125.109.73:9000/Premier%20League_.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SÜPER SPORT FOOTBALL" tvg-logo="" group-title="Spor",SÜPER SPORT FOOTBALL
@@ -528,7 +530,7 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ATV HD" tvg-logo="" group-title="Ulusal",ATV HD
 http://50.7.144.122:1935/livetv/atv.stream/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ATV HD+" tvg-logo="" group-title="Ulusal",ATV HD+
-https://koprulu1.global.ssl.fastly.net/app2/rectv2.m3u8/?id=atv
+https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=atv
 #EXTINF:-1 tvg-id="" tvg-name="ATV" tvg-logo="" group-title="Ulusal",ATV
 http://89.187.191.41/ATV-HD-TR/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SHOW TV FHD" tvg-logo="" group-title="Ulusal",SHOW TV FHD
@@ -990,6 +992,12 @@ https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/playlist.m3u
 https://host.onlineradyotv.net:8081/sdmtv3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NASA TV" tvg-logo="" group-title="Belgesel",NASA TV
 https://ythls.kekikakademi.org/youtube/video/xRPjKQtRXR8.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HUZUR PINARI TV" tvg-logo="" group-title="Dini",HUZUR PINARI TV
+https://ythls.kekikakademi.org/youtube/channel/UC4dIaCkMaq1vXskR0q2V-dw.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VAAZ TV" tvg-logo="" group-title="Dini",VAAZ TV
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/vaaz-tv/playlist/0.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DİYANET TV" tvg-logo="" group-title="Dini",DİYANET TV
+https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/mt_0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT ÇOCUK HD" tvg-logo="" group-title="Çocuk",TRT ÇOCUK HD
 http://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT DİYANET ÇOCUK" tvg-logo="" group-title="Çocuk",TRT DİYANET ÇOCUK
@@ -1111,8 +1119,6 @@ https://janya-ayaztv.vgcdn.net/ptnr-Vipo%20TV/title-Ayaz_TV/v1/vglive-sk-934820/
 https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EZGİ TV" tvg-logo="" group-title="Müzik",EZGİ TV
 https://live.euromediacenter.com/ezgitv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MÜZİK TV" tvg-logo="" group-title="Müzik",MÜZİK TV
-https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/muziktv/playlist/0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FORA MÜZİK" tvg-logo="" group-title="Müzik",FORA MÜZİK
 http://palatv34.ozelip.com:22372/foramuzik/foramuzik/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MEGA TV" tvg-logo="" group-title="Müzik",MEGA TV
@@ -1167,6 +1173,14 @@ https://showradyo.radyotvonline.net/showradyoaac?/;stream.mp3
 https://28553.live.streamtheworld.com/SUPER_FM128AAC.aac
 #EXTINF:-1 tvg-id="" tvg-name="ALEM FM" tvg-logo="" group-title="Radyo",ALEM FM
 https://edge1.radyotvonline.net/shoutcast/play/alemfm
+#EXTINF:-1 tvg-id="" tvg-name="RADYO TURKUVAZ" tvg-logo="" group-title="Radyo",RADYO TURKUVAZ
+https://trkvz-radyolar.ercdn.net/radyoturkuvaz/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADYO TURKUVAZ ANADOLU" tvg-logo="" group-title="Radyo",RADYO TURKUVAZ ANADOLU
+https://trkvz-radyolar.ercdn.net/turkuvazanadolu/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADYO TURKUVAZ EFSANE" tvg-logo="" group-title="Radyo",RADYO TURKUVAZ EFSANE
+https://trkvz-radyolar.ercdn.net/turkuvazefsane/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADYO TURKUVAZ NOSTALJİ" tvg-logo="" group-title="Radyo",RADYO TURKUVAZ NOSTALJİ
+https://trkvz-radyolar.ercdn.net/turkuvaznostalji/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DOKSANLAR FM" tvg-logo="" group-title="Radyo",DOKSANLAR FM
 https://moondigitaledge.radyotvonline.net/90lar/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO 45LİK" tvg-logo="" group-title="Radyo",RADYO 45LİK
