@@ -3,7 +3,7 @@ https://ythls.kekikakademi.org/youtube/video/EmdtE7sRMSY.m3u8
 #EXTINF:-1 ,MURAT TV 2
 https://ythls.kekikakademi.org/youtube/video/n5CBQTdLkLA.m3u8
 #EXTINF:-1 ,MURAT TV 3
-https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/muziktv/playlist/0.m3u8
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/chill-tv/playlist/0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 4K" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 1 4K
 https://mobil.92test.cfd/yayint24.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 DMTN" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 1 VİP
@@ -319,8 +319,16 @@ http://50.7.144.122:1935/livetv/cbcsport.stream/sec-f5-v1-a1.m3u8
 https://yayin2.canlitv.fun/livetv/cbcsport.stream/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="İDMAN TV HD" tvg-logo="" group-title="Spor",İDMAN TV HD
 https://tgn.bozztv.com/dvrfl05/gin-idmantv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMİER LEAGUE" tvg-logo="" group-title="Spor",PREMİER LEAGUE
+http://135.125.109.73:9000/Premier%20League_.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SÜPER SPORT FOOTBALL" tvg-logo="" group-title="Spor",SÜPER SPORT FOOTBALL
+http://135.125.109.73:9000/SuperSport%20Football_.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SÜPER SPORT LALİGA" tvg-logo="" group-title="Spor",SÜPER SPORT LALİGA
+http://135.125.109.73:9000/SuperSport%20LaLiga_.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPORTS BATTLE" tvg-logo="" group-title="Spor",ESPORTS BATTLE
 https://nl.stream.esports-battle.com/fifa1/public/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FİGHT BOX" tvg-logo="" group-title="Spor",FİGHT BOX
+https://koprulu1.global.ssl.fastly.net/app2/rectv2.m3u8/?id=fight
 #EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1" tvg-logo="" group-title="Spor",EUROSPORT 1
 https://eurosport1.blutv.com/blutv_eurosport1/smil:eurosport1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2" tvg-logo="" group-title="Spor",EUROSPORT 2
@@ -938,6 +946,8 @@ http://75.119.144.48/SUPERTURK_MAX_HD/index.m3u8
 https://dogus-live.daioncdn.net/dmax/dmax.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TLC HD" tvg-logo="" group-title="Belgesel",TLC HD
 https://dogus-live.daioncdn.net/tlc/tlc.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FİT YAŞA TV" tvg-logo="" group-title="Belgesel",FİT YAŞA TV
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/fit-yasa-tv/playlist/0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KANAL 53" tvg-logo="" group-title="Belgesel",KANAL 53
 https://kanal53.ozelip.com:3448/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KANAL S" tvg-logo="" group-title="Belgesel",KANAL S
@@ -1101,6 +1111,8 @@ https://janya-ayaztv.vgcdn.net/ptnr-Vipo%20TV/title-Ayaz_TV/v1/vglive-sk-934820/
 https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EZGİ TV" tvg-logo="" group-title="Müzik",EZGİ TV
 https://live.euromediacenter.com/ezgitv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MÜZİK TV" tvg-logo="" group-title="Müzik",MÜZİK TV
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/muziktv/playlist/0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FORA MÜZİK" tvg-logo="" group-title="Müzik",FORA MÜZİK
 http://palatv34.ozelip.com:22372/foramuzik/foramuzik/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MEGA TV" tvg-logo="" group-title="Müzik",MEGA TV
