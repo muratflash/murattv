@@ -9,17 +9,13 @@ https://mobil.92test.cfd/yayint24.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 DMTN" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 1 VİP
 http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/147.ts
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 DMTN VİP" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 1 UHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://green-wildflower-90d6.1ff056997784445980.workers.dev/static/bs1.m3u8
+https://serveranon1.online:8443/701/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 2 DMTN" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 2 UHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://green-wildflower-90d6.1ff056997784445980.workers.dev/static/bs2.m3u8
+https://serveranon1.online:8443/702/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 3 DMTN" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 3 UHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://green-wildflower-90d6.1ff056997784445980.workers.dev/static/bs3.m3u8
+https://serveranon1.online:8443/703/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 4 DMTN" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 4 UHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://green-wildflower-90d6.1ff056997784445980.workers.dev/static/bs4.m3u8
+https://serveranon1.online:8443/704/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 5 UHD" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 5 UHD
 https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=b5
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS MAX 1 UHD" tvg-logo="" group-title="Bein Sports",BEİN SPORTS MAX 1 UHD
@@ -332,7 +328,7 @@ https://eurosport2.blutv.com/blutv_eurosport2/smil:eurosport2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TJK TV" tvg-logo="" group-title="Spor",TJK TV
 https://tjktv-live.tjk.org/tjktv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TAY TV" tvg-logo="" group-title="Spor",TAY TV
-http://160.19.94.16:8080/live/Vip_serNeu/CkDQ2ZytjJhJ/1228.ts
+http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/16887
 #EXTINF:-1 tvg-id="" tvg-name="NBA TV HD" tvg-logo="" group-title="Spor",NBA TV HD
 http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/306245
 #EXTINF:-1 tvg-id="" tvg-name="AUTOMOTO HD" tvg-logo="" group-title="Spor",AUTOMOTO HD
