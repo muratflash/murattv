@@ -353,6 +353,8 @@ https://c.fulltvizle.com/ahaber/index.m3u8
 http://89.36.94.225:80/956bassem/BHrMOpKtyb/1642
 #EXTINF:-1 tvg-id="" tvg-name="CNN TÜRK HD" tvg-logo="" group-title="Haber",CNN TÜRK HD
 https://ythls.kekikakademi.org/youtube/channel/UCV6zcRug6Hqp1UX_FdyUeBg.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN TÜRK" tvg-logo="" group-title="Haber",CNN TÜRK
+http://116.202.238.88/CNNTURK_TR/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HABER TÜRK FHD" tvg-logo="" group-title="Haber",HABER TÜRK FHD
 https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HABER TÜRK HD+" tvg-logo="" group-title="Haber",HABER TÜRK HD+
@@ -784,10 +786,10 @@ https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 https://canli.cine6tv.com.tr:3614/stream/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KANAL 10 TV" tvg-logo="" group-title="Sinema",KANAL 10 TV
 https://stream-cdn-iad2.vaughnsoft.net/play/live_knl10tv.flv
-#EXTINF:-1 tvg-id="" tvg-name="SİNEMA KULÜBÜ TV" tvg-logo="" group-title="Sinema",SİNEMA KULÜBÜ TV
-https://ythls.kekikakademi.org/youtube/channel/UChb7kIKlWiDCfwXg4LSMCjg.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TELEON TV" tvg-logo="" group-title="Sinema",TELEON TV
 https://stream-cdn-iad3.vaughnsoft.net/play/live_teleonmediagroups.flv
+#EXTINF:-1 tvg-id="" tvg-name="SİNEMA KULÜBÜ TV" tvg-logo="" group-title="Sinema",SİNEMA KULÜBÜ TV
+https://ythls.kekikakademi.org/youtube/channel/UChb7kIKlWiDCfwXg4LSMCjg.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MEGA TV SİNEMA" tvg-logo="" group-title="Sinema",MEGA TV SİNEMA
 https://a8.radyotelekom.com.tr:3580/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MEGA TV ŞABAN" tvg-logo="" group-title="Sinema",MEGA TV ŞABAN
