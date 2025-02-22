@@ -1061,6 +1061,8 @@ https://stream-cdn-iad2.vaughnsoft.net/play/live_yansimamuziktv.flv
 https://a8.radyotelekom.com.tr:3513/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EGE LİVE TV" tvg-logo="" group-title="Müzik",EGE LİVE TV
 http://stream.tvcdn.net/yerel/ege-live-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VRT TV" tvg-logo="" group-title="Müzik",VRT TV
+https://vrttv.ozelip.com:3644/multi_web/play_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ÇİNE DÜĞÜN TV" tvg-logo="" group-title="Müzik",ÇİNE DÜĞÜN TV
 https://cdn-duguntvmedya.yayin.com.tr/duguntvmedya/duguntvmedya/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ANKARA AYAZ TV" tvg-logo="" group-title="Müzik",ANKARA AYAZ TV
@@ -1073,6 +1075,8 @@ https://yayin.santraltr.com/hls/damar.m3u8
 https://yayin.santraltr.com/hls/ezo.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SILA TV" tvg-logo="" group-title="Müzik",SILA TV
 https://yayin.santraltr.com/hls/silatv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DOST TV" tvg-logo="" group-title="Müzik",DOST TV
+https://tvsms.club/tvz.php?kanal=dost&file=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZEYNO TV" tvg-logo="" group-title="Müzik",ZEYNO TV
 https://yayin.santraltr.com/hls/zeynotv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ARMA TV" tvg-logo="" group-title="Müzik",ARMA TV
@@ -1089,8 +1093,10 @@ http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/300478
 https://yayin.santraltr.com/hls/genctv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TOPPOP TV" tvg-logo="" group-title="Müzik",TOPPOP TV
 https://yayin.santraltr.com/hls/toppop.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VİVA TV" tvg-logo="" group-title="Müzik",VİVA TV
+#EXTINF:-1 tvg-id="" tvg-name="AVİVA TV" tvg-logo="" group-title="Müzik",AVİVA TV
 https://yayin.santraltr.com/hls/vivatv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FİNEST TV" tvg-logo="" group-title="Müzik",FİNEST TV
+https://media.finest.tv/hls/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AYAZ TV" tvg-logo="" group-title="Müzik",AYAZ TV
 https://janya-ayaztv.vgcdn.net/ptnr-Vipo%20TV/title-Ayaz_TV/v1/vglive-sk-934820/AyazTV_1500k.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TEMPO TV" tvg-logo="" group-title="Müzik",TEMPO TV
