@@ -374,6 +374,8 @@ https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv_1080p.m3
 #EXTINF:-1 tvg-id="" tvg-name="HABER TÜRK" tvg-logo="" group-title="Haber",HABER TÜRK
 https://haberturk.blutv.com/blutv_haberturk_live/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HABER GLOBAL FHD" tvg-logo="" group-title="Haber",HABER GLOBAL FHD
+http://116.202.238.88/HABERGLOBAL_TR/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HABER GLOBAL FHD+" tvg-logo="" group-title="Haber",HABER GLOBAL FHD+
 https://ythls.kekikakademi.org/youtube/channel/UCtc-a9ZUIg0_5HpsPxEO7Qg.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HABER GLOBAL HD" tvg-logo="" group-title="Haber",HABER GLOBAL HD
 http://trn03.tulix.tv/gt-haberglobal/tracks-v1a1/mono.m3u8
@@ -527,12 +529,14 @@ http://50.7.144.122:1935/livetv/kanald.stream/index.m3u8
 https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ATV FHD" tvg-logo="" group-title="Ulusal",ATV FHD
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ATV HD" tvg-logo="" group-title="Ulusal",ATV HD
+#EXTINF:-1 tvg-id="" tvg-name="ATV FHD+" tvg-logo="" group-title="Ulusal",ATV FHD+
 http://50.7.144.122:1935/livetv/atv.stream/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ATV HD+" tvg-logo="" group-title="Ulusal",ATV HD+
-https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=atv
-#EXTINF:-1 tvg-id="" tvg-name="ATV" tvg-logo="" group-title="Ulusal",ATV
+http://116.202.238.88/ATV_TR/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ATV HD+" tvg-logo="" group-title="Ulusal",ATV HD
 http://89.187.191.41/ATV-HD-TR/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ATV" tvg-logo="" group-title="Ulusal",ATV
+https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=atv
 #EXTINF:-1 tvg-id="" tvg-name="SHOW TV FHD" tvg-logo="" group-title="Ulusal",SHOW TV FHD
 http://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SHOW TV HD" tvg-logo="" group-title="Ulusal",SHOW TV HD
@@ -771,17 +775,17 @@ http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1791
 http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1780
 #EXTINF:-1 tvg-id="" tvg-name="DİZİSMART PREMİUM" tvg-logo="" group-title="Sinema",DİZİSMART PREMİUM
 http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/15714
-#EXTINF:-1 tvg-id="" tvg-name="TABİİ TV" tvg-logo="" group-title="Sinema",TABİİ TV
-https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN TV" tvg-logo="" group-title="Sinema",EXXEN TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://tre.2b4a9bb526bd2acb.shop/i/exxen/4011/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FX HD" tvg-logo="" group-title="Sinema",FX HD
 https://tv.arectv11.sbs/live/fx.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BLU TV PLAY 1" tvg-logo="" group-title="Sinema",BLU TV PLAY 1
 https://play1.blutv.com/blutv_play1/blutv_play1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BLU TV PLAY 2" tvg-logo="" group-title="Sinema",BLU TV PLAY 2
 https://play2.blutv.com/blutv_play2/blutv_play2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TABİİ TV" tvg-logo="" group-title="Sinema",TABİİ TV
+https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN TV" tvg-logo="" group-title="Sinema",EXXEN TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://tre.2b4a9bb526bd2acb.shop/i/exxen/4011/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TİVİ TÜRK" tvg-logo="" group-title="Sinema",TİVİ TÜRK
 https://stream.tiviturk.de/live/tiviturk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SÜPER TÜRK TV" tvg-logo="" group-title="Sinema",SÜPER TÜRK TV
@@ -850,6 +854,8 @@ https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
 https://edge1.socialsmart.tv/birtv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TİVİ6" tvg-logo="" group-title="Sinema",TİVİ6
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SUNSET FANTASTİCA" tvg-logo="" group-title="Sinema",SUNSET FANTASTİCA
+https://stream.sunset-media.ru:443/AfBrazXsUK/J9hGT3vYuv/8.ts
 #EXTINF:-1 tvg-id="" tvg-name="DÜZGÜN TV" tvg-logo="" group-title="Sinema",DÜZGÜN TV
 http://duzguntv1616.ozelip.net:25192/duzguntv/duzguntv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VİYANA TV" tvg-logo="" group-title="Sinema",VİYANA TV
