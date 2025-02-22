@@ -856,7 +856,7 @@ https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
 https://edge1.socialsmart.tv/birtv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TİVİ6" tvg-logo="" group-title="Sinema",TİVİ6
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SUNSET FANTASTİCA" tvg-logo="" group-title="Sinema",SUNSET FANTASTİCA
+#EXTINF:-1 tvg-id="" tvg-name="SUNSET FANTASTİC" tvg-logo="" group-title="Sinema",SUNSET FANTASTİC
 https://stream.sunset-media.ru:443/AfBrazXsUK/J9hGT3vYuv/8.ts
 #EXTINF:-1 tvg-id="" tvg-name="DÜZGÜN TV" tvg-logo="" group-title="Sinema",DÜZGÜN TV
 http://duzguntv1616.ozelip.net:25192/duzguntv/duzguntv/playlist.m3u8
@@ -1054,6 +1054,8 @@ https://ythls.kekikakademi.org/youtube/channel/UCfyPw7vYwIVb6OuDIf7qeOQ.m3u8
 http://vip.torktv.org:2095/live/vlkn2282/vlk.56/6242.ts
 #EXTINF:-1 tvg-id="" tvg-name="ÇİNE DÜĞÜN TV" tvg-logo="" group-title="Eğlence",ÇİNE DÜĞÜN TV
 https://cdn-duguntvmedya.yayin.com.tr/duguntvmedya/duguntvmedya/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KANAL 19" tvg-logo="" group-title="Eğlence",KANAL 19
+https://live.euromediacenter.com/kanal19/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KONSERLER 1" tvg-logo="" group-title="Eğlence",KONSERLER 1
 http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/300476
 #EXTINF:-1 tvg-id="" tvg-name="KONSERLER 2" tvg-logo="" group-title="Eğlence",KONSERLER 2
