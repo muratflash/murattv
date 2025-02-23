@@ -250,7 +250,7 @@ http://mag.king-4k.cc/A31244D285DD733/vHrBPrteyz/664833?play_token=
 #EXTINF:-1 tvg-id="" tvg-name="SPOR SMARRT HD" tvg-logo="" group-title="Spor Smart",SPOR SMART HD
 http://mag.king-4k.cc/A31244D285DD733/vHrBPrteyz/664831?play_token=
 #EXTINF:-1 tvg-id="" tvg-name="SPOR SMARRT 2 HD" tvg-logo="" group-title="Spor Smart",SPOR SMART 2 HD
-https://0dx50qwkvlp4mh4rff5lrkmx3rzdgsbj.zortstream.shop/610/index.m3u8
+https://217.30.11.74/e/156.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SPOR SMARRT" tvg-logo="" group-title="Spor Smart",SPOR SMART
 https://217.30.11.74/e/155.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SPOR SMARRT 2" tvg-logo="" group-title="Spor Smart",SPOR SMART 2
@@ -267,10 +267,12 @@ https://trt.daioncdn.net/trtspor/master_1080p.m3u8?platform=trtspor&sid=6v658fcn
 https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A SPOR FHD" tvg-logo="" group-title="Spor",A SPOR FHD
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A SPOR" tvg-logo="" group-title="Spor",A SPOR HD
+#EXTINF:-1 tvg-id="" tvg-name="A SPOR HD+" tvg-logo="" group-title="Spor",A SPOR HD+
 https://ythls.kekikakademi.org/youtube/video/7uBpwcn2ZZ0.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A SPOR HD" tvg-logo="" group-title="Spor",A SPOR
+#EXTINF:-1 tvg-id="" tvg-name="A SPOR HD" tvg-logo="" group-title="Spor",A SPOR HD
 http://50.7.144.122:1935/livetv/aspor.stream/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A SPOR" tvg-logo="" group-title="Spor",A SPOR
+https://217.30.11.74/e/158.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HT SPOR FHD" tvg-logo="" group-title="Spor",HT SPOR FHD
 https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HT SPOR HD" tvg-logo="" group-title="Spor",HT SPOR HD
@@ -337,6 +339,8 @@ https://eurosport1.blutv.com/blutv_eurosport1/smil:eurosport1.smil/playlist.m3u8
 https://eurosport2.blutv.com/blutv_eurosport2/smil:eurosport2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TJK TV" tvg-logo="" group-title="Spor",TJK TV
 https://tjktv-live.tjk.org/tjktv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TAY TV HD" tvg-logo="" group-title="Spor",TAY TV HD
+https://217.30.11.74/e/201.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TAY TV" tvg-logo="" group-title="Spor",TAY TV
 http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/16887
 #EXTINF:-1 tvg-id="" tvg-name="NBA TV HD" tvg-logo="" group-title="Spor",NBA TV HD
@@ -532,11 +536,11 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ATV FHD+" tvg-logo="" group-title="Ulusal",ATV FHD+
 http://50.7.144.122:1935/livetv/atv.stream/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ATV HD+" tvg-logo="" group-title="Ulusal",ATV HD+
-http://116.202.238.88/ATV_TR/index.m3u8
+https://217.30.11.74/e/160.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ATV HD+" tvg-logo="" group-title="Ulusal",ATV HD
 http://89.187.191.41/ATV-HD-TR/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ATV" tvg-logo="" group-title="Ulusal",ATV
-https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=atv
+http://116.202.238.88/ATV_TR/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SHOW TV FHD" tvg-logo="" group-title="Ulusal",SHOW TV FHD
 http://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SHOW TV HD" tvg-logo="" group-title="Ulusal",SHOW TV HD
