@@ -259,6 +259,8 @@ https://217.30.11.74/e/156.m3u8
 https://ythls.kekikakademi.org/youtube/channel/UCPe9vNjHF1kEExT5kHwc7aw.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS HABER HD" tvg-logo="" group-title="Spor",BEİN SPORTS HABER HD
 https://ythls.kekikakademi.org/youtube/video/VCl1wO81VdM.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS HABER HD+" tvg-logo="" group-title="Spor",BEİN SPORTS HABER HD+
+https://tgn.bozztv.com/dvrfl05/gin-beinsportshaber/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS HABER" tvg-logo="" group-title="Spor",BEİN SPORTS HABER
 http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/7448
 #EXTINF:-1 tvg-id="" tvg-name="TRT SPOR FHD" tvg-logo="" group-title="Spor",TRT SPOR FHD
@@ -267,6 +269,8 @@ https://trt.daioncdn.net/trtspor/master_1080p.m3u8?platform=trtspor&sid=6v658fcn
 https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A SPOR FHD" tvg-logo="" group-title="Spor",A SPOR FHD
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A SPOR FHD+" tvg-logo="" group-title="Spor",A SPOR FHD+
+https://trn03.tulix.tv/gt-aspor/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A SPOR HD+" tvg-logo="" group-title="Spor",A SPOR HD+
 https://ythls.kekikakademi.org/youtube/video/7uBpwcn2ZZ0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A SPOR HD" tvg-logo="" group-title="Spor",A SPOR HD
@@ -315,6 +319,8 @@ https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/chunklist_b996000_sltur.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GS TV" tvg-logo="" group-title="Spor",GS TV
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR SPOR TV" tvg-logo="" group-title="Spor",TR SPOR TV
+http://116.202.117.244/gzcspor/gzcspor/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS ARŞİV" tvg-logo="" group-title="Spor",BEİN SPORTS ARŞİV
 https://ythls.kekikakademi.org/youtube/channel/UCNopxUNUMinlK3ybMGlpbGQ.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZTK TV" tvg-logo="" group-title="Spor",ZTK TV
@@ -513,6 +519,8 @@ https://603c568fccdf5.streamlock.net/live2/dhaweb2/playlist.m3u8
 https://live01.iha.tv/webabone/live/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT WORLD" tvg-logo="" group-title="Haber",TRT WORLD
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A NEWS FHD" tvg-logo="" group-title="Haber",A NEWS FHD
+https://trn03.tulix.tv/gt-anews/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A NEWS" tvg-logo="" group-title="Haber",A NEWS
 http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/284578
 #EXTINF:-1 tvg-id="" tvg-name="A NEWS HD" tvg-logo="" group-title="Haber",A NEWS HD
@@ -635,6 +643,8 @@ https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
 https://ythls.kekikakademi.org/youtube/channel/UClWewRX7n_IY3mBbxmttR5Q.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A PARA HD" tvg-logo="" group-title="Ulusal",A PARA HD
 https://ythls.kekikakademi.org/youtube/channel/UCzrGg6iyRDuUSnO0cQ5oLcA.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A PARA HD+" tvg-logo="" group-title="Ulusal",A PARA HD+
+https://trn03.tulix.tv/gt-apara/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A PARA" tvg-logo="" group-title="Ulusal",A PARA
 http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/10153
 #EXTINF:-1 tvg-id="" tvg-name="BLOOMBERG HT HD" tvg-logo="" group-title="Ulusal",BLOOMBERG HT HD
@@ -950,9 +960,9 @@ https://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/p
 https://d2xwn494f2lep.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-Belgesel/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT BELGESEL" tvg-logo="" group-title="Belgesel",TRT BELGESEL
 https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TGRT BELGESEL" tvg-logo="" group-title="Belgesel",TGRT BELGESEL
+https://tgn.bozztv.com/dvrfl05/gin-tgrtbelgesel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TGRT BELGESEL HD" tvg-logo="" group-title="Belgesel",TGRT BELGESEL HD
-http://50.7.144.122:1935/livetv/tgrtbelgesel.stream/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TGRT BELGESEL HD+" tvg-logo="" group-title="Belgesel",TGRT BELGESEL HD+
 https://ythls.kekikakademi.org/youtube/video/KD4QnOiirJo.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="YABAN TV HD" tvg-logo="" group-title="Belgesel",YABAN TV HD
 https://uzunmuhalefet.serv00.net/canlitv2.php?id=12044&.m3u8
