@@ -8,15 +8,17 @@ https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/muziktv/playlist/0.m3u8
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/chill-tv/playlist/0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 4K" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 1 4K
 https://mobil.92test.cfd/yayint24.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 DMTN" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 1 VİP
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 VİP+" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 1 VİP
 http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/147.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 DMTN VİP" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 1 UHD
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 VİP+" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 1 VİP+
+https://fener2.demoscript.buzz/hls/bein-sports-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 UHD" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 1 UHD
 https://serveranon1.online:8443/701/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 2 DMTN" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 2 UHD
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 2 UHD" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 2 UHD
 https://serveranon1.online:8443/702/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 3 DMTN" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 3 UHD
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 3 UHD" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 3 UHD
 https://serveranon1.online:8443/703/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 4 DMTN" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 4 UHD
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 4 UHD" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 4 UHD
 https://serveranon1.online:8443/704/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 5 UHD" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 5 UHD
 https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=b5
@@ -735,6 +737,8 @@ https://ythls.kekikakademi.org/youtube/channel/UC2xxL0XhZyUKOABtIDyZkMA.m3u8
 https://ythls.kekikakademi.org/youtube/channel/UCZLOnq-F5zhTWNUDjcEYByw.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KIZILCIK ŞERBETİ" tvg-logo="" group-title="Dizi",KIZILCIK ŞERBETİ
 https://ythls.kekikakademi.org/youtube/channel/UCRfLDCtkSwmTdwHrbmC78Xg.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KURTLAR VADİSİ" tvg-logo="" group-title="Dizi",KURTLAR VADİSİ
+https://ythls.kekikakademi.org/youtube/channel/UCABzirZ6FyebIf8YSptKMwQ.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KURTLAR VADİSİ PUSU" tvg-logo="" group-title="Dizi",KURTLAR VADİSİ PUSU
 https://ythls.kekikakademi.org/youtube/channel/UCz1UfNp9VFp9R1HEFn5PY5A.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KURULUŞ OSMAN" tvg-logo="" group-title="Dizi",KURULUŞ OSMAN
@@ -745,6 +749,8 @@ https://ythls.kekikakademi.org/youtube/channel/UC2sr0q_shuQKijWoebuRvcA.m3u8
 https://ythls.kekikakademi.org/youtube/video/3nlND4audLg.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MEDCEZİR" tvg-logo="" group-title="Dizi",MEDCEZİR
 https://ythls.kekikakademi.org/youtube/channel/UCN0lBmyyylw4D4Lmf2ymuJw.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MUHTEŞEM YÜZYIL" tvg-logo="" group-title="Dizi",MUHTEŞEM YÜZYIL
+https://ythls.kekikakademi.org/youtube/channel/UCkRY4J8G__K8SEWZRLbke-Q.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RAMO" tvg-logo="" group-title="Dizi",RAMO
 https://ythls.kekikakademi.org/youtube/channel/UCch0Z8SPweSALVzS-qFKGzg.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SEKSENLER" tvg-logo="" group-title="Dizi",SEKSENLER
