@@ -551,6 +551,8 @@ https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ATV FHD+" tvg-logo="" group-title="Ulusal",ATV FHD+
 http://89.36.94.225/live/956bassem/BHrMOpKtyb/1641.ts
+#EXTINF:-1 tvg-id="" tvg-name="ATV UHD" tvg-logo="" group-title="Ulusal",ATV UHD
+https://tv.arectv11.sbs/live/atv1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ATV HD+" tvg-logo="" group-title="Ulusal",ATV HD+
 https://217.30.11.74/e/160.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ATV HD+" tvg-logo="" group-title="Ulusal",ATV HD
@@ -572,10 +574,12 @@ http://116.202.238.88/STARTV_TR/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STAR TV" tvg-logo="" group-title="Ulusal",STAR TV
 https://emmazbvkkf.turknet.ercdn.net/cnifuowzza/startv/startv_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NOW FHD" tvg-logo="" group-title="Ulusal",NOW FHD
-http://116.202.238.88/FOXTV_TR/index.m3u8
+https://tv.arectv11.sbs/live/foxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NOW HD+" tvg-logo="" group-title="Ulusal",NOW HD+
-https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
+http://116.202.238.88/FOXTV_TR/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NOW HD" tvg-logo="" group-title="Ulusal",NOW HD
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NOW" tvg-logo="" group-title="Ulusal",NOW
 http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/514
 #EXTINF:-1 tvg-id="" tvg-name="NOW TV" tvg-logo="" group-title="Ulusal",NOW TV
 https://66.160.192.241/foxturk/index.m3u8
@@ -631,6 +635,8 @@ https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CİNE 1 TV" tvg-logo="" group-title="Ulusal",CİNE 1 TV
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TYT TÜRK" tvg-logo="" group-title="Ulusal",TYT TÜRK
+https://cdn4.yayin.com.tr/tytturk/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SHOWMAX FHD" tvg-logo="" group-title="Ulusal",SHOW MAX FHD
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SHOWMAX HD" tvg-logo="" group-title="Ulusal",SHOW MAX HD
@@ -776,7 +782,11 @@ http://194.158.222.36:6086/
 #EXTINF:-1 tvg-id="" tvg-name="BEİN MOVİES PREMİERE" tvg-logo="" group-title="Sinema",BEİN MOVİES PREMİERE
 https://tv.arectv11.sbs/live/bspremier1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN MOVİES STARS" tvg-logo="" group-title="Sinema",BEİN MOVİES STARS
-http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1766
+https://tv.arectv11.sbs/live/bsstars.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEİN MOVİES FAMİLY" tvg-logo="" group-title="Sinema",BEİN MOVİES FAMİLY
+https://tv.arectv11.sbs/live/bsfamily.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEİN MOVİES TÜRK" tvg-logo="" group-title="Sinema",BEİN MOVİES TÜRK
+https://tv.arectv11.sbs/live/bsturk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MAX" tvg-logo="" group-title="Sinema",MAX
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/306227
 #EXTINF:-1 tvg-id="" tvg-name="MAX PREMİER" tvg-logo="" group-title="Sinema",MAX PREMİER
