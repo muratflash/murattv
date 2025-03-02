@@ -582,6 +582,7 @@ https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NOW" tvg-logo="" group-title="Ulusal",NOW
 http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/514
 #EXTINF:-1 tvg-id="" tvg-name="NOW TV" tvg-logo="" group-title="Ulusal",NOW TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://66.160.192.241/foxturk/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV 8 FHD" tvg-logo="" group-title="Ulusal",TV 8 FHD
 https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
