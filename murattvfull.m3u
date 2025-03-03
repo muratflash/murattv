@@ -366,15 +366,15 @@ https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TGRT HABER HD" tvg-logo="" group-title="Haber",TGRT HABER HD
 https://ythls.kekikakademi.org/youtube/channel/UCzgrZ-CndOoylh2_e72nSBQ.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A HABER FHD" tvg-logo="" group-title="Haber",A HABER FHD
+http://stream.tvcdn.net/haber/a-haber.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A HABER FHD+" tvg-logo="" group-title="Haber",A HABER FHD+
 https://ythls.kekikakademi.org/youtube/channel/UCKQhfw-lzz0uKnE1fY1PsAA.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A HABER HD+" tvg-logo="" group-title="Haber",A HABER HD+
-http://116.202.238.88/AHABER_TR/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A HABER HD" tvg-logo="" group-title="Haber",A HABER HD
 http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/666
 #EXTINF:-1 tvg-id="" tvg-name="A HABER" tvg-logo="" group-title="Haber",A HABER
-https://c.fulltvizle.com/ahaber/index.m3u8
+http://116.202.238.88/AHABER_TR/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN TÜRK FHD" tvg-logo="" group-title="Haber",CNN TÜRK FHD
-http://89.36.94.225:80/956bassem/BHrMOpKtyb/1642
+https://tv.arectv11.sbs/live/cnnturk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN TÜRK HD" tvg-logo="" group-title="Haber",CNN TÜRK HD
 https://ythls.kekikakademi.org/youtube/channel/UCV6zcRug6Hqp1UX_FdyUeBg.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN TÜRK" tvg-logo="" group-title="Haber",CNN TÜRK
