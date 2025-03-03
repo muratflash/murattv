@@ -375,8 +375,12 @@ http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/666
 http://116.202.238.88/AHABER_TR/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN TÜRK FHD" tvg-logo="" group-title="Haber",CNN TÜRK FHD
 https://tv.arectv11.sbs/live/cnnturk.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN TÜRK FHD+" tvg-logo="" group-title="Haber",CNN TÜRK FHD+
+https://ythls.kekikakademi.org/youtube/video/VXMR3YQ7W3s.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN TÜRK HD" tvg-logo="" group-title="Haber",CNN TÜRK HD
 https://ythls.kekikakademi.org/youtube/channel/UCV6zcRug6Hqp1UX_FdyUeBg.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN TÜRK HD+" tvg-logo="" group-title="Haber",CNN TÜRK HD+
+http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/628
 #EXTINF:-1 tvg-id="" tvg-name="CNN TÜRK" tvg-logo="" group-title="Haber",CNN TÜRK
 http://116.202.238.88/CNNTURK_TR/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HABER TÜRK FHD" tvg-logo="" group-title="Haber",HABER TÜRK FHD
