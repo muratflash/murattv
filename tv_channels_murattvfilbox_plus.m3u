@@ -548,8 +548,24 @@ https://showradyo.radyotvonline.net/showradyoaac?/;stream.mp3
 https://28553.live.streamtheworld.com/SUPER_FM128AAC.aac
 #EXTINF:-1 tvg-id="" tvg-name="ALEM FM" tvg-logo="" group-title="Radyo",ALEM FM
 https://edge1.radyotvonline.net/shoutcast/play/alemfm
+#EXTINF:-1 tvg-id="" tvg-name="JOY TÜRK" tvg-logo="" group-title="Radyo",JOY TÜRK
+https://28503.live.streamtheworld.com/JOY_TURK_SC?/;
+#EXTINF:-1 tvg-id="" tvg-name="POLİS RADYOSU" tvg-logo="" group-title="Radyo",POLİS RADYOSU
+https://m.egm.gov.tr:8093/;
+#EXTINF:-1 tvg-id="" tvg-name="RADYO TURKUVAZ" tvg-logo="" group-title="Radyo",RADYO TURKUVAZ
+https://trkvz-radyolar.ercdn.net/radyoturkuvaz/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADYO TURKUVAZ ANADOLU" tvg-logo="" group-title="Radyo",RADYO TURKUVAZ ANADOLU
+https://trkvz-radyolar.ercdn.net/turkuvazanadolu/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADYO TURKUVAZ EFSANE" tvg-logo="" group-title="Radyo",RADYO TURKUVAZ EFSANE
+https://trkvz-radyolar.ercdn.net/turkuvazefsane/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADYO TURKUVAZ NOSTALJİ" tvg-logo="" group-title="Radyo",RADYO TURKUVAZ NOSTALJİ
+https://trkvz-radyolar.ercdn.net/turkuvaznostalji/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DOKSANLAR FM" tvg-logo="" group-title="Radyo",DOKSANLAR FM
 https://moondigitaledge.radyotvonline.net/90lar/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADYO 45LİK" tvg-logo="" group-title="Radyo",RADYO 45LİK
+https://ythls.kekikakademi.org/youtube/channel/UCGCCfusnBQgISBBYyB56Fkw.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SLOWTÜRK RADYO" tvg-logo="" group-title="Radyo",SLOWTÜRK RADYO
+https://ythls.kekikakademi.org/youtube/channel/UC2Zgju5LSmKlDjjVwE3EhAA.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KRAL FM" tvg-logo="" group-title="Radyo",KRAL FM
 https://dygedge2.radyotvonline.net/kralfm/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KRAL FM YT" tvg-logo="" group-title="Radyo",KRAL FM YT
@@ -594,6 +610,44 @@ https://moondigitaledge.radyotvonline.net/efsane4lu/playlist.m3u8
 https://live.sinirsizhost.com/8026/stream?/;stream.mp3
 #EXTINF:-1 tvg-id="" tvg-name="DAMAR FM" tvg-logo="" group-title="Radyo",DAMAR FM
 https://moondigitaledge2.radyotvonline.net/radyo7arabesk/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARABESK TÜRK" tvg-logo="" group-title="Radyo",ARABESK TÜRK
+http://yayin.arabeskturk.com:8000/;
+#EXTINF:-1 tvg-id="" tvg-name="ARABESK VADİSİ" tvg-logo="" group-title="Radyo",ARABESK VADİSİ
+https://arabeskv.80.yayin.com.tr/;
+#EXTINF:-1 tvg-id="" tvg-name="ARABESK FM" tvg-logo="" group-title="Radyo",ARABESK FM
+http://yayin.arabeskfm.biz:8042/;
+#EXTINF:-1 tvg-id="" tvg-name="24 ARABESK" tvg-logo="" group-title="Radyo",24 ARABESK
+http://24arabesk.80.yayin.com.tr/;
+#EXTINF:-1 tvg-id="" tvg-name="ARMONİ FM" tvg-logo="" group-title="Radyo",ARMONİ FM
+http://radyo.yayindakiler.com:4084/;
+#EXTINF:-1 tvg-id="" tvg-name="ADA FM" tvg-logo="" group-title="Radyo",ADA FM
+https://radyo.yayin.com.tr:6040/;
+#EXTINF:-1 tvg-id="" tvg-name="MERCAN FM" tvg-logo="" group-title="Radyo",MERCAN FM
+https://ip169.ozelip.com:10975/;
+#EXTINF:-1 tvg-id="" tvg-name="SLOW KARADENİZ FM" tvg-logo="" group-title="Radyo",SLOW KARADENİZ FM
+https://dinle.slowkaradenizfm.com:9578/;
+#EXTINF:-1 tvg-id="" tvg-name="SÜRMELİ FM" tvg-logo="" group-title="Radyo",SÜRMELİ FM
+http://surmelifm.kesintisizyayin.com:8590/;
+#EXTINF:-1 tvg-id="" tvg-name="ÇAYELİ FM" tvg-logo="" group-title="Radyo",ÇAYELİ FM
+https://furuncu.kesintisizyayin.com:8078/;
+#EXTINF:-1 tvg-id="" tvg-name="GELİŞİM FM" tvg-logo="" group-title="Radyo",GELİŞİM FM
+https://radyo.yayindakiler.com:4008/;
+#EXTINF:-1 tvg-id="" tvg-name="HAYAL FM" tvg-logo="" group-title="Radyo",HAYAL FM
+http://yayin.radyohayalfm.net:8050/;
+#EXTINF:-1 tvg-id="" tvg-name="FISTIK FM" tvg-logo="" group-title="Radyo",FISTIK FM
+https://sslyayin.radyoyayini.com:7029/;
+#EXTINF:-1 tvg-id="" tvg-name="KARADENİZİM FM" tvg-logo="" group-title="Radyo",KARADENİZİM FM
+http://karadenizimfm.kesintisizyayin.com:9990/;
+#EXTINF:-1 tvg-id="" tvg-name="KRAL TÜRK" tvg-logo="" group-title="Radyo",KRAL TÜRK
+http://live.radyositesihazir.com:8032/;
+#EXTINF:-1 tvg-id="" tvg-name="DAMAR TÜRK" tvg-logo="" group-title="Radyo",DAMAR TÜRK
+http://live.radyositesihazir.com:7000/;
+#EXTINF:-1 tvg-id="" tvg-name="RİZE TÜRK" tvg-logo="" group-title="Radyo",RİZE TÜRK
+https://furuncu.kesintisizyayin.com:8044/;
+#EXTINF:-1 tvg-id="" tvg-name="RADYO DERMAN" tvg-logo="" group-title="Radyo",RADYO DERMAN
+https://ssl120.radyotelekom.com.tr:8710/;
+#EXTINF:-1 tvg-id="" tvg-name="RADYO EKİN" tvg-logo="" group-title="Radyo",RADYO EKİN
+http://yayin.turkhosted.com:6006/;
 #EXTINF:-1 tvg-id="" tvg-name="RADYO MEGASİTE" tvg-logo="" group-title="Radyo",RADYO MEGASİTE
 https://stream.netradyom.com/listen/megasite/radio.mp3/;stream.mp3
 #EXTINF:-1 tvg-id="" tvg-name="STAR FM" tvg-logo="" group-title="Radyo",STAR FM
