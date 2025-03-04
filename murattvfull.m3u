@@ -279,10 +279,6 @@ https://ythls.kekikakademi.org/youtube/video/7uBpwcn2ZZ0.m3u8
 https://trn03.tulix.tv/gt-aspor/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A SPOR HD REC" tvg-logo="" group-title="Spor",A SPOR HD REC
 https://tv.prectv5.sbs/live/aspor.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A SPOR VİP" tvg-logo="" group-title="Spor",A SPOR VİP
-http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/529
-#EXTINF:-1 tvg-id="" tvg-name="A SPOR" tvg-logo="" group-title="Spor",A SPOR
-https://217.30.11.74/e/158.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HT SPOR FHD" tvg-logo="" group-title="Spor",HT SPOR FHD
 https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HT SPOR HD" tvg-logo="" group-title="Spor",HT SPOR HD
@@ -662,6 +658,8 @@ https://ythls.kekikakademi.org/youtube/channel/UClWewRX7n_IY3mBbxmttR5Q.m3u8
 https://trn03.tulix.tv/gt-apara/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A PARA FHD" tvg-logo="" group-title="Ulusal",A PARA FHD
 https://ythls.kekikakademi.org/youtube/channel/UCzrGg6iyRDuUSnO0cQ5oLcA.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A PARA HD+" tvg-logo="" group-title="Ulusal",A PARA HD+
+http://185.234.111.229:8000/play/a01l
 #EXTINF:-1 tvg-id="" tvg-name="A PARA" tvg-logo="" group-title="Ulusal",A PARA
 http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/10153
 #EXTINF:-1 tvg-id="" tvg-name="BLOOMBERG HT" tvg-logo="" group-title="Ulusal",BLOOMBERG HT
