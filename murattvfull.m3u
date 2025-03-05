@@ -367,8 +367,10 @@ https://ythls.kekikakademi.org/youtube/channel/UCzgrZ-CndOoylh2_e72nSBQ.m3u8
 http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/666
 #EXTINF:-1 tvg-id="" tvg-name="A HABER FHD+" tvg-logo="" group-title="Haber",A HABER FHD+
 https://ythls.kekikakademi.org/youtube/channel/UCKQhfw-lzz0uKnE1fY1PsAA.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A HABER HD" tvg-logo="" group-title="Haber",A HABER HD
+#EXTINF:-1 tvg-id="" tvg-name="A HABER HD+" tvg-logo="" group-title="Haber",A HABER HD+
 https://canlitvulusal3.xyz/live/ahaber/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A HABER HD" tvg-logo="" group-title="Haber",A HABER HD
+http://ott.dobratv.net:25461/live/TeleskyGradacac/OlhzoyCMyn/6642.ts
 #EXTINF:-1 tvg-id="" tvg-name="A HABER" tvg-logo="" group-title="Haber",A HABER
 http://116.202.238.88/AHABER_TR/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN TÜRK FHD" tvg-logo="" group-title="Haber",CNN TÜRK FHD
@@ -544,11 +546,13 @@ http://176.65.146.224:6001/play/a01i/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KANAL D FHD" tvg-logo="" group-title="Ulusal",KANAL D FHD
 https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KANAL D HD+" tvg-logo="" group-title="Ulusal",KANAL D HD+
-http://89.36.94.225/live/956bassem/BHrMOpKtyb/1638.ts
-#EXTINF:-1 tvg-id="" tvg-name="KANAL D HD" tvg-logo="" group-title="Ulusal",KANAL D HD
 https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KANAL D" tvg-logo="" group-title="Ulusal",KANAL D
+#EXTINF:-1 tvg-id="" tvg-name="KANAL D HD" tvg-logo="" group-title="Ulusal",KANAL D HD
 https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KANAL D LİVE" tvg-logo="" group-title="Ulusal",KANAL D LİVE
+http://89.187.191.41/Kanal-D-HD-TR/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KANAL D" tvg-logo="" group-title="Ulusal",KANAL D
+http://116.202.238.88/KANALD_TR/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ATV FHD" tvg-logo="" group-title="Ulusal",ATV FHD
 https://trkvz-live.daioncdn.net/atv/atv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ATV FHD+" tvg-logo="" group-title="Ulusal",ATV FHD+
@@ -578,14 +582,11 @@ https://emmazbvkkf.turknet.ercdn.net/cnifuowzza/startv/startv_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NOW FHD" tvg-logo="" group-title="Ulusal",NOW FHD
 https://tv.arectv11.sbs/live/foxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NOW HD+" tvg-logo="" group-title="Ulusal",NOW HD+
-http://116.202.238.88/FOXTV_TR/index.m3u8
+http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/514
 #EXTINF:-1 tvg-id="" tvg-name="NOW HD" tvg-logo="" group-title="Ulusal",NOW HD
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NOW" tvg-logo="" group-title="Ulusal",NOW
-http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/514
-#EXTINF:-1 tvg-id="" tvg-name="NOW TV" tvg-logo="" group-title="Ulusal",NOW TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://66.160.192.241/foxturk/index.m3u8
+http://116.202.238.88/FOXTV_TR/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV 8 FHD" tvg-logo="" group-title="Ulusal",TV 8 FHD
 https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV 8 HD" tvg-logo="" group-title="Ulusal",TV 8 HD
