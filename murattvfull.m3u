@@ -428,11 +428,11 @@ https://ythls.kekikakademi.org/youtube/channel/UC8rh34IlJTN0lDZlTwzWzjg.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TH TÜRK HABER" tvg-logo="" group-title="Haber",TH TÜRK HABER
 https://edge1.socialsmart.tv/turkhaber/bant1/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ÜLKE TV FHD" tvg-logo="" group-title="Haber",ÜLKE TV FHD
-https://ythls.kekikakademi.org/youtube/channel/UCi65FGbYYj-OzJm2luB_fNQ.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ÜLKE TV HD" tvg-logo="" group-title="Haber",ÜLKE TV HD
-http://116.202.238.88/ULKETV_TR/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ÜLKE TV" tvg-logo="" group-title="Haber",ÜLKE TV
 https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ÜLKE TV HD" tvg-logo="" group-title="Haber",ÜLKE TV HD
+https://ythls.kekikakademi.org/youtube/channel/UCi65FGbYYj-OzJm2luB_fNQ.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ÜLKE TV" tvg-logo="" group-title="Haber",ÜLKE TV
+http://116.202.238.88/ULKETV_TR/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TÜRKİYE GAZETESİ CANLI" tvg-logo="" group-title="Haber",TÜRKİYE GAZETESİ CANLI
 https://ythls.kekikakademi.org/youtube/channel/UCJET1tOY_ogUK-J9wqVVJYg.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BUSİNESS CHANNEL TÜRK" tvg-logo="" group-title="Haber",BUSİNESS CHANNEL TÜRK
@@ -604,7 +604,7 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEYAZ TV HD+" tvg-logo="" group-title="Ulusal",BEYAZ TV HD+
 https://beyaztv.daioncdn.net/beyaztv/beyaztv.m3u8?app=fcd5c66b-da9d-44ba-a410-4f34805c397d
 #EXTINF:-1 tvg-id="" tvg-name="BEYAZ TV HD" tvg-logo="" group-title="Ulusal",BEYAZ TV HD
-http://89.36.94.225/live/956bassem/BHrMOpKtyb/1632.ts
+http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/524
 #EXTINF:-1 tvg-id="" tvg-name="BEYAZ TV" tvg-logo="" group-title="Ulusal",BEYAZ TV
 http://116.202.238.88/BEYAZTV_TR/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="360 TV FHD" tvg-logo="" group-title="Ulusal",360 TV FHD
@@ -1110,6 +1110,10 @@ http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/70743
 https://ythls.kekikakademi.org/youtube/video/zPNYXrlS1cE.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ÇİZGİ FİLM TV" tvg-logo="" group-title="Çocuk",ÇİZGİ FİLM TV
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/cizgi-film-tv/playlist/0.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NİCKELODEON" tvg-logo="" group-title="Çocuk",NİCKELODEON
+http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/278469
+#EXTINF:-1 tvg-id="" tvg-name="DA VİNCİ" tvg-logo="" group-title="Çocuk",DA VİNCİ
+http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1850
 #EXTINF:-1 tvg-id="" tvg-name="TEBER MEDYA ÇOCUK" tvg-logo="" group-title="Çocuk",TEBER MEDYA ÇOCUK
 https://stream-cdn-iad.vaughnsoft.net/play/live_teber_star3.flv
 #EXTINF:-1 tvg-id="" tvg-name="SDM TV ÇİZGİ FİLM" tvg-logo="" group-title="Çocuk",SDM TV ÇİZGİ FİLM
