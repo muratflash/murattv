@@ -1016,6 +1016,8 @@ http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1806
 https://tv.arectv11.sbs/live/bbc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBC EARTH HD" tvg-logo="" group-title="Belgesel",BBC EARTH HD
 http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/8238
+#EXTINF:-1 tvg-id="" tvg-name="DA VİNCİ" tvg-logo="" group-title="Belgesel",DA VİNCİ
+http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1850
 #EXTINF:-1 tvg-id="" tvg-name="DİSCOVERY CHANNEL" tvg-logo="" group-title="Belgesel",DİSCOVERY CHANNEL
 http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/8236
 #EXTINF:-1 tvg-id="" tvg-name="DİSCOVERY ID" tvg-logo="" group-title="Belgesel",DİSCOVERY ID
@@ -1115,7 +1117,7 @@ http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/278469
 #EXTINF:-1 tvg-id="" tvg-name="DA VİNCİ" tvg-logo="" group-title="Çocuk",DA VİNCİ
 http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1850
 #EXTINF:-1 tvg-id="" tvg-name="TEBER MEDYA ÇOCUK" tvg-logo="" group-title="Çocuk",TEBER MEDYA ÇOCUK
-https://stream-cdn-iad.vaughnsoft.net/play/live_teber_star3.flv
+https://stream-cdn-iad.vaughnsoft.net/play/live_tbr_medya_on.flv
 #EXTINF:-1 tvg-id="" tvg-name="SDM TV ÇİZGİ FİLM" tvg-logo="" group-title="Çocuk",SDM TV ÇİZGİ FİLM
 https://host.onlineradyotv.net:8081/sdmtv4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GÜLDÜR GÜLDÜR SHOW" tvg-logo="" group-title="Eğlence",GÜLDÜR GÜLDÜR SHOW
