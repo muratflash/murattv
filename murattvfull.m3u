@@ -311,6 +311,8 @@ https://ythls.kekikakademi.org/youtube/channel/UCodApSLUhI5oYLoqiy4zqTQ.m3u8
 https://ythls.kekikakademi.org/youtube/channel/UCgbXyojig2J2Q46zqFQOJmg.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LİDER HABER TELEGOL" tvg-logo="" group-title="Spor",LİDER HABER TELEGOL
 http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/sec-f5-v1-a1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LİDER HABER TELEGOL HD" tvg-logo="" group-title="Spor",LİDER HABER TELEGOL HD
+http://78.128.125.60:9981/play/a01i/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT SPOR YILDIZ" tvg-logo="" group-title="Spor",TRT SPOR YILDIZ
 https://tv-trtspor2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SPORTS TV" tvg-logo="" group-title="Spor",SPORTS TV
@@ -381,6 +383,8 @@ https://ythls.kekikakademi.org/youtube/video/VXMR3YQ7W3s.m3u8
 https://ythls.kekikakademi.org/youtube/channel/UCV6zcRug6Hqp1UX_FdyUeBg.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN TÜRK HD+" tvg-logo="" group-title="Haber",CNN TÜRK HD+
 http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/628
+#EXTINF:-1 tvg-id="" tvg-name="CNN TÜRK UHD" tvg-logo="" group-title="Haber",CNN TÜRK UHD
+http://78.128.125.60:9981/play/a01f/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN TÜRK" tvg-logo="" group-title="Haber",CNN TÜRK
 http://116.202.238.88/CNNTURK_TR/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HABER TÜRK FHD" tvg-logo="" group-title="Haber",HABER TÜRK FHD
@@ -481,6 +485,8 @@ https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&type=live&service=wowza&protoc
 https://n2.burst.cdn.jetstre.am/session/450f4c594b612903b7d42d421fb93c21/sz/mceutv/wowza4/live/mc2/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LİDER HABER FHD" tvg-logo="" group-title="Haber",LİDER HABER FHD
 http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/sec-f5-v1-a1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LİDER HABER FHD+" tvg-logo="" group-title="Haber",LİDER HABER FHD+
+http://78.128.125.60:9981/play/a01i/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LİDER HABER HD" tvg-logo="" group-title="Haber",LİDER HABER HD
 https://ythls.kekikakademi.org/youtube/channel/UCgH3Vo5DVMsrbDSUoSecm0Q.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LİDER HABER" tvg-logo="" group-title="Haber",LİDER HABER
@@ -1151,6 +1157,8 @@ https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 http://dygvideo.dygdigital.com/live/hls/kralpop?m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DREAM TÜRK" tvg-logo="" group-title="Müzik",DREAM TÜRK
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DREAM TÜRK HD" tvg-logo="" group-title="Müzik",DREAM TÜRK HD
+http://78.128.125.60:9981/play/a01g/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MİLYON TV" tvg-logo="" group-title="Müzik",MİLYON TV
 https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TATLISES TV" tvg-logo="" group-title="Müzik",TATLISES TV
@@ -1213,8 +1221,6 @@ https://live.euromediacenter.com/ezgitv/index.m3u8
 http://palatv34.ozelip.com:22372/foramuzik/foramuzik/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MEGA TV" tvg-logo="" group-title="Müzik",MEGA TV
 http://palatv34.ozelip.com:22372/megatv/megatv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SHOW PLUS" tvg-logo="" group-title="Müzik",SHOW PLUS
-https://str.yodacdn.net/showplus/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NUMBER ONE TÜRK" tvg-logo="" group-title="Müzik",NUMBER ONE TÜRK
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NUMBER ONE TÜRK AŞK" tvg-logo="" group-title="Müzik",NUMBER ONE TÜRK AŞK
