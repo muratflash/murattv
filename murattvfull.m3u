@@ -23,11 +23,9 @@ https://serveranon1.online:8443/704/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 5 UHD" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 5 UHD
 https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=b5
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS MAX 1 UHD" tvg-logo="" group-title="Bein Sports",BEİN SPORTS MAX 1 UHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://sette.78c56a395e57b9134a.click/p/beceriksizler.net/805/a.cf-worker-6cb610636d9f0d43.workers.dev/chunklist_hd.m3u8
+https://v.arectv13.sbs/static/bm1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS MAX 2 UHD" tvg-logo="" group-title="Bein Sports",BEİN SPORTS MAX 2 UHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://sette.78c56a395e57b9134a.click/p/beceriksizler.net/806/a.cf-worker-6cb610636d9f0d43.workers.dev/chunklist_hd.m3u8
+https://v.arectv13.sbs/static/bm2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 FHD" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 1 FHD
 http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/146.ts
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 ALTERNATİF" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 1 ALTERNATİF
@@ -132,21 +130,21 @@ https://z3mmimwz148csv0vaxtphqspf.medya.trt.com.tr/master_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TABİİ SPOR 6 FHD" tvg-logo="" group-title="Tabii Spor",TABİİ SPOR 6 FHD
 https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TABİİ SPOR HD" tvg-logo="" group-title="Tabii Spor",TABİİ SPOR HD
-https://gesbd8syvu.zortspor1.online/tabii/index.m3u8
+https://v.arectv13.sbs/static/tabi.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TABİİ SPOR 1 HD" tvg-logo="" group-title="Tabii Spor",TABİİ SPOR 1 HD
-https://gesbd8syvu.zortspor1.online/tabii1/index.m3u8
+https://v.arectv13.sbs/static/tabi1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TABİİ SPOR 2 HD" tvg-logo="" group-title="Tabii Spor",TABİİ SPOR 2 HD
-https://gesbd8syvu.zortspor1.online/tabii2/index.m3u8
+https://v.arectv13.sbs/static/tabi2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TABİİ SPOR 3 HD" tvg-logo="" group-title="Tabii Spor",TABİİ SPOR 3 HD
-https://gesbd8syvu.zortspor1.online/tabii3/index.m3u8
+https://v.arectv13.sbs/static/tabi3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TABİİ SPOR 4 HD" tvg-logo="" group-title="Tabii Spor",TABİİ SPOR 4 HD
-https://gesbd8syvu.zortspor1.online/tabii4/index.m3u8
+https://v.arectv13.sbs/static/tabi4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TABİİ SPOR 5 HD" tvg-logo="" group-title="Tabii Spor",TABİİ SPOR 5 HD
-https://gesbd8syvu.zortspor1.online/tabii5/index.m3u8
+https://v.arectv13.sbs/static/tabi5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TABİİ SPOR 6 HD" tvg-logo="" group-title="Tabii Spor",TABİİ SPOR 6 HD
-https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master_1080p.m3u8
+https://v.arectv13.sbs/static/tabi6.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TABİİ SPOR" tvg-logo="" group-title="Tabii Spor",TABİİ SPOR
-https://fr-cdn-1.varsportscdn1.lol/tabii/index.m3u8
+https://v.arectv13.sbs/static/tabi3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TABİİ SPOR 1" tvg-logo="" group-title="Tabii Spor",TABİİ SPOR 1
 https://fr-cdn-1.varsportscdn1.lol/tabii1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TABİİ SPOR 2" tvg-logo="" group-title="Tabii Spor",TABİİ SPOR 2
@@ -158,7 +156,7 @@ https://fr-cdn-1.varsportscdn1.lol/tabii4/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TABİİ SPOR 5" tvg-logo="" group-title="Tabii Spor",TABİİ SPOR 5
 https://fr-cdn-1.varsportscdn1.lol/tabii5/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TABİİ SPOR 6" tvg-logo="" group-title="Tabii Spor",TABİİ SPOR 6
-https://fr-cdn-1.varsportscdn1.lol/tabii6/index.m3u8
+https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 1 HD" tvg-logo="" group-title="Exxen Spor",EXXEN SPOR 1 HD
 https://bcovlive-a.akamaihd.net/88affc2b8d9845d9adb0f4a22db27653/eu-central-1/6415845530001/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 2 HD" tvg-logo="" group-title="Exxen Spor",EXXEN SPOR 2 HD
@@ -209,6 +207,8 @@ http://mag.king-4k.cc/A31244D285DD733/vHrBPrteyz/664839?play_token=
 http://mag.king-4k.cc/A31244D285DD733/vHrBPrteyz/664841?play_token=
 #EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR 4 FHD" tvg-logo="" group-title="Tivibu Spor",TİVİBU SPOR 4 FHD
 http://mag.king-4k.cc/A31244D285DD733/vHrBPrteyz/664843?play_token=
+#EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR HD" tvg-logo="" group-title="Tivibu Spor",TİVİBU SPOR HD
+https://v.arectv13.sbs/static/t1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR 1" tvg-logo="" group-title="Tivibu Spor",TİVİBU SPOR 1
 http://mag.king-4k.cc/A31244D285DD733/vHrBPrteyz/664835?play_token=
 #EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR 2" tvg-logo="" group-title="Tivibu Spor",TİVİBU SPOR 2
@@ -218,17 +218,13 @@ http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/163.ts
 #EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR 1 HD" tvg-logo="" group-title="Tivibu Spor",TİVİBU SPOR 1 HD
 http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/161.ts
 #EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR 1 HD ALTERNATİF" tvg-logo="" group-title="Tivibu Spor",TİVİBU SPOR 1 HD ALTERNATİF
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://sei.c6db67cffaaefebe.click/i/neden/606/playlist.m3u8
+https://v.arectv13.sbs/static/t1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR 2 HD" tvg-logo="" group-title="Tivibu Spor",TİVİBU SPOR 2 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://sei.c6db67cffaaefebe.click/i/neden/607/playlist.m3u8
+https://v.arectv13.sbs/static/t2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR 3 HD" tvg-logo="" group-title="Tivibu Spor",TİVİBU SPOR 3 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://sei.c6db67cffaaefebe.click/i/neden/608/playlist.m3u8
+https://v.arectv13.sbs/static/t3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR 4 HD" tvg-logo="" group-title="Tivibu Spor",TİVİBU SPOR 4 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://sei.c6db67cffaaefebe.click/i/neden/609/playlist.m3u8
+https://v.arectv13.sbs/static/t4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="S SPORT FHD" tvg-logo="" group-title="S Sport",S SPORT FHD
 https://bcovlive-a.akamaihd.net/540fcb034b144b848e7ff887f61a293a/eu-central-1/6415845530001/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="S SPORT 2 FHD" tvg-logo="" group-title="S Sport",S SPORT 2 FHD
@@ -245,10 +241,20 @@ http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/156.ts
 http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/155.ts
 #EXTINF:-1 tvg-id="" tvg-name="S SPORT 2 LİVE" tvg-logo="" group-title="S Sport",S SPORT 2 LİVE
 http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/156.ts
+#EXTINF:-1 tvg-id="" tvg-name="S SPORT+ PLUS" tvg-logo="" group-title="S Sport",S SPORT+ PLUS
+https://v.arectv13.sbs/static/pl1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="S SPORT+ PLUS 2" tvg-logo="" group-title="S Sport",S SPORT+ PLUS 2
+https://v.arectv13.sbs/static/pl2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="S SPORT+ PLUS 3" tvg-logo="" group-title="S Sport",S SPORT+ PLUS 3
+https://v.arectv13.sbs/static/pl3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SPOR SMARRT FHD" tvg-logo="" group-title="Spor Smart",SPOR SMART FHD
 http://mag.king-4k.cc/A31244D285DD733/vHrBPrteyz/664832?play_token=
 #EXTINF:-1 tvg-id="" tvg-name="SPOR SMARRT 2 FHD" tvg-logo="" group-title="Spor Smart",SPOR SMART 2 FHD
 http://mag.king-4k.cc/A31244D285DD733/vHrBPrteyz/664833?play_token=
+#EXTINF:-1 tvg-id="" tvg-name="SPOR SMARRT HD+" tvg-logo="" group-title="Spor Smart",SPOR SMART HD+
+https://v.arectv13.sbs/static/smart1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPOR SMARRT 2 HD+" tvg-logo="" group-title="Spor Smart",SPOR SMART 2 HD+
+https://v.arectv13.sbs/static/smart2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SPOR SMARRT HD" tvg-logo="" group-title="Spor Smart",SPOR SMART HD
 http://mag.king-4k.cc/A31244D285DD733/vHrBPrteyz/664831?play_token=
 #EXTINF:-1 tvg-id="" tvg-name="SPOR SMARRT 2 HD" tvg-logo="" group-title="Spor Smart",SPOR SMART 2 HD
@@ -309,10 +315,10 @@ https://ythls.kekikakademi.org/youtube/channel/UC9sAFnrh5Vz6CpeD9RZvF_A.m3u8
 https://ythls.kekikakademi.org/youtube/channel/UCodApSLUhI5oYLoqiy4zqTQ.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FUTBL PLUS YOUTUBE" tvg-logo="" group-title="Spor",FUTBOL PLUS YOUTUBE
 https://ythls.kekikakademi.org/youtube/channel/UCgbXyojig2J2Q46zqFQOJmg.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LİDER HABER TELEGOL" tvg-logo="" group-title="Spor",LİDER HABER TELEGOL
-http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/sec-f5-v1-a1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LİDER HABER TELEGOL HD" tvg-logo="" group-title="Spor",LİDER HABER TELEGOL HD
 http://78.128.125.60:9981/play/a01i/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LİDER HABER TELEGOL" tvg-logo="" group-title="Spor",LİDER HABER TELEGOL
+http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/sec-f5-v1-a1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT SPOR YILDIZ" tvg-logo="" group-title="Spor",TRT SPOR YILDIZ
 https://tv-trtspor2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SPORTS TV" tvg-logo="" group-title="Spor",SPORTS TV
@@ -349,6 +355,8 @@ https://eurosport1.blutv.com/blutv_eurosport1/smil:eurosport1.smil/playlist.m3u8
 https://eurosport2.blutv.com/blutv_eurosport2/smil:eurosport2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TJK TV" tvg-logo="" group-title="Spor",TJK TV
 https://tjktv-live.tjk.org/tjktv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TAY TV FHD" tvg-logo="" group-title="Spor",TAY TV FHD
+http://78.128.125.60:9981/play/a01k/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TAY TV HD" tvg-logo="" group-title="Spor",TAY TV HD
 https://217.30.11.74/e/201.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TAY TV" tvg-logo="" group-title="Spor",TAY TV
@@ -483,10 +491,10 @@ https://ythls.kekikakademi.org/youtube/channel/UCxUf5m7XNQCjlbxr-FSPIeA.m3u8
 https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&type=live&service=wowza&protocol=https&output=playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MC EU WEB" tvg-logo="" group-title="Haber",MC EU WEB
 https://n2.burst.cdn.jetstre.am/session/450f4c594b612903b7d42d421fb93c21/sz/mceutv/wowza4/live/mc2/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LİDER HABER FHD" tvg-logo="" group-title="Haber",LİDER HABER FHD
-http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/sec-f5-v1-a1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LİDER HABER FHD+" tvg-logo="" group-title="Haber",LİDER HABER FHD+
 http://78.128.125.60:9981/play/a01i/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LİDER HABER FHD" tvg-logo="" group-title="Haber",LİDER HABER FHD
+http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/sec-f5-v1-a1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LİDER HABER HD" tvg-logo="" group-title="Haber",LİDER HABER HD
 https://ythls.kekikakademi.org/youtube/channel/UCgH3Vo5DVMsrbDSUoSecm0Q.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LİDER HABER" tvg-logo="" group-title="Haber",LİDER HABER
@@ -821,6 +829,8 @@ http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1789
 http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1791
 #EXTINF:-1 tvg-id="" tvg-name="MOVİESMART TÜRK" tvg-logo="" group-title="Sinema",MOVİESMART TÜRK
 http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1780
+#EXTINF:-1 tvg-id="" tvg-name="MOVİESMART TÜRK HD" tvg-logo="" group-title="Sinema",MOVİESMART TÜRK HD
+https://tv.arectv13.sbs/live/mvturk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DİZİSMART PREMİUM" tvg-logo="" group-title="Sinema",DİZİSMART PREMİUM
 http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/15714
 #EXTINF:-1 tvg-id="" tvg-name="FX HD" tvg-logo="" group-title="Sinema",FX HD
@@ -1024,6 +1034,8 @@ https://tv.arectv11.sbs/live/bbc.m3u8
 http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/8238
 #EXTINF:-1 tvg-id="" tvg-name="DA VİNCİ" tvg-logo="" group-title="Belgesel",DA VİNCİ
 http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1850
+#EXTINF:-1 tvg-id="" tvg-name="DİSCOVERY CHANNEL HD" tvg-logo="" group-title="Belgesel",DİSCOVERY CHANNEL HD
+https://tv.arectv13.sbs/live/discovery.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DİSCOVERY CHANNEL" tvg-logo="" group-title="Belgesel",DİSCOVERY CHANNEL
 http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/8236
 #EXTINF:-1 tvg-id="" tvg-name="DİSCOVERY ID" tvg-logo="" group-title="Belgesel",DİSCOVERY ID
