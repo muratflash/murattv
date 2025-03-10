@@ -381,6 +381,8 @@ https://ythls.kekikakademi.org/youtube/channel/UCKQhfw-lzz0uKnE1fY1PsAA.m3u8
 https://canlitvulusal3.xyz/live/ahaber/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A HABER HD" tvg-logo="" group-title="Haber",A HABER HD
 http://ott.dobratv.net:25461/live/TeleskyGradacac/OlhzoyCMyn/6642.ts
+#EXTINF:-1 tvg-id="" tvg-name="A HABER UHD" tvg-logo="" group-title="Haber",A HABER UHD
+http://hdlocal.de:8080/live/cs22cs.suroot/4amFSTThYHGGS2223/10140.ts
 #EXTINF:-1 tvg-id="" tvg-name="A HABER" tvg-logo="" group-title="Haber",A HABER
 http://116.202.238.88/AHABER_TR/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN TÜRK FHD" tvg-logo="" group-title="Haber",CNN TÜRK FHD
@@ -392,7 +394,7 @@ https://ythls.kekikakademi.org/youtube/channel/UCV6zcRug6Hqp1UX_FdyUeBg.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN TÜRK HD+" tvg-logo="" group-title="Haber",CNN TÜRK HD+
 http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/628
 #EXTINF:-1 tvg-id="" tvg-name="CNN TÜRK UHD" tvg-logo="" group-title="Haber",CNN TÜRK UHD
-http://78.128.125.60:9981/play/a01f/index.m3u8
+http://hdlocal.de:8080/live/cs22cs.suroot/4amFSTThYHGGS2223/10126.ts
 #EXTINF:-1 tvg-id="" tvg-name="CNN TÜRK" tvg-logo="" group-title="Haber",CNN TÜRK
 http://116.202.238.88/CNNTURK_TR/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HABER TÜRK FHD" tvg-logo="" group-title="Haber",HABER TÜRK FHD
@@ -443,6 +445,8 @@ https://edge1.socialsmart.tv/turkhaber/bant1/chunks.m3u8
 https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ÜLKE TV HD" tvg-logo="" group-title="Haber",ÜLKE TV HD
 https://ythls.kekikakademi.org/youtube/channel/UCi65FGbYYj-OzJm2luB_fNQ.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ÜLKE TV HD+" tvg-logo="" group-title="Haber",ÜLKE TV HD+
+http://hdlocal.de:8080/live/cs22cs.suroot/4amFSTThYHGGS2223/10122.ts
 #EXTINF:-1 tvg-id="" tvg-name="ÜLKE TV" tvg-logo="" group-title="Haber",ÜLKE TV
 http://116.202.238.88/ULKETV_TR/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TÜRKİYE GAZETESİ CANLI" tvg-logo="" group-title="Haber",TÜRKİYE GAZETESİ CANLI
@@ -1134,6 +1138,20 @@ https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/cizgi-film-tv/playlist/
 http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/278469
 #EXTINF:-1 tvg-id="" tvg-name="DA VİNCİ" tvg-logo="" group-title="Çocuk",DA VİNCİ
 http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1850
+#EXTINF:-1 tvg-id="" tvg-name="NİCK JR" tvg-logo="" group-title="Çocuk",NİCK JR
+http://teke-tek.garibim.club:6787/tefil-WOI/AcpbP4UsnkRr/377
+#EXTINF:-1 tvg-id="" tvg-name="MAŞA İLE KOCA AYI" tvg-logo="" group-title="Çocuk",MAŞA İLE KOCA AYI
+http://kuklaby856.rlclickpnl.click:8080/demir879/575884r4/6238
+#EXTINF:-1 tvg-id="" tvg-name="KİDS MAX TV" tvg-logo="" group-title="Çocuk",KİDS MAX TV
+http://kuklaby856.rlclickpnl.click:8080/demir879/575884r4/6249
+#EXTINF:-1 tvg-id="" tvg-name="ŞİRİNLER TV" tvg-logo="" group-title="Çocuk",ŞİRİNLER TV
+http://kuklaby856.rlclickpnl.click:8080/demir879/575884r4/6245
+#EXTINF:-1 tvg-id="" tvg-name="PEPE TV" tvg-logo="" group-title="Çocuk",PEPE TV
+http://kuklaby856.rlclickpnl.click:8080/demir879/575884r4/6241
+#EXTINF:-1 tvg-id="" tvg-name="PEMBE PANTER TV" tvg-logo="" group-title="Çocuk",PEMBE PANTER TV
+http://kuklaby856.rlclickpnl.click:8080/demir879/575884r4/6235
+#EXTINF:-1 tvg-id="" tvg-name="TOM VE JERRY TV" tvg-logo="" group-title="Çocuk",TOM VE JERRY TV
+http://kuklaby856.rlclickpnl.click:8080/demir879/575884r4/6240
 #EXTINF:-1 tvg-id="" tvg-name="TEBER MEDYA ÇOCUK" tvg-logo="" group-title="Çocuk",TEBER MEDYA ÇOCUK
 https://stream-cdn-iad.vaughnsoft.net/play/live_tbr_medya_on.flv
 #EXTINF:-1 tvg-id="" tvg-name="SDM TV ÇİZGİ FİLM" tvg-logo="" group-title="Çocuk",SDM TV ÇİZGİ FİLM
@@ -1161,8 +1179,7 @@ http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/300477
 #EXTINF:-1 tvg-id="" tvg-name="KONSERLER 3" tvg-logo="" group-title="Eğlence",KONSERLER 3
 http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/300478
 #EXTINF:-1 tvg-id="" tvg-name="EXXEN" tvg-logo="" group-title="Eğlence",EXXEN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://tre.2b4a9bb526bd2acb.shop/i/exxen/4011/playlist.m3u8
+http://premium2rss.xyz:80/live/@Yusufmilpark@/gpGWDLpDVP/291106.ts
 #EXTINF:-1 tvg-id="" tvg-name="TRT MÜZİK HD" tvg-logo="" group-title="Müzik",TRT MÜZİK HD
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KRAL POP TV HD" tvg-logo="" group-title="Müzik",KRAL POP TV HD
