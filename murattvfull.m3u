@@ -1036,6 +1036,8 @@ http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1806
 https://tv.arectv11.sbs/live/bbc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBC EARTH HD" tvg-logo="" group-title="Belgesel",BBC EARTH HD
 http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/8238
+#EXTINF:-1 tvg-id="" tvg-name="DA VİNCİ HD" tvg-logo="" group-title="Belgesel",DA VİNCİ HD
+http://teke-tek.garibim.club:6787/live/tefil-WOI/AcpbP4UsnkRr/381.ts
 #EXTINF:-1 tvg-id="" tvg-name="DA VİNCİ" tvg-logo="" group-title="Belgesel",DA VİNCİ
 http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1850
 #EXTINF:-1 tvg-id="" tvg-name="DİSCOVERY CHANNEL HD" tvg-logo="" group-title="Belgesel",DİSCOVERY CHANNEL HD
@@ -1126,8 +1128,10 @@ http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/192581
 http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/672
 #EXTINF:-1 tvg-id="" tvg-name="ÇOCUK SMART" tvg-logo="" group-title="Çocuk",ÇOCUK SMART
 http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1851
+#EXTINF:-1 tvg-id="" tvg-name="DİSNEY JUNİOR HD" tvg-logo="" group-title="Çocuk",DİSNEY JUNİOR HD
+http://driptvs.com:2095/live/King200conxx/355sgdhh/5317.ts
 #EXTINF:-1 tvg-id="" tvg-name="DİSNEY JUNİOR" tvg-logo="" group-title="Çocuk",DİSNEY JUNİOR
-http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/633
+http://localhd.tv:8080/cs22cs.suroot/4amFSTThYHGGS2223/10004
 #EXTINF:-1 tvg-id="" tvg-name="SL NİLOYA" tvg-logo="" group-title="Çocuk",SL NİLOYA
 http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/70743
 #EXTINF:-1 tvg-id="" tvg-name="KRAL ŞAKİR TV" tvg-logo="" group-title="Çocuk",KRAL ŞAKİR TV
@@ -1136,6 +1140,8 @@ https://ythls.kekikakademi.org/youtube/video/zPNYXrlS1cE.m3u8
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/cizgi-film-tv/playlist/0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NİCKELODEON" tvg-logo="" group-title="Çocuk",NİCKELODEON
 http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/278469
+#EXTINF:-1 tvg-id="" tvg-name="DA VİNCİ HD" tvg-logo="" group-title="Çocuk",DA VİNCİ HD
+http://teke-tek.garibim.club:6787/live/tefil-WOI/AcpbP4UsnkRr/381.ts
 #EXTINF:-1 tvg-id="" tvg-name="DA VİNCİ" tvg-logo="" group-title="Çocuk",DA VİNCİ
 http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1850
 #EXTINF:-1 tvg-id="" tvg-name="NİCK JR" tvg-logo="" group-title="Çocuk",NİCK JR
