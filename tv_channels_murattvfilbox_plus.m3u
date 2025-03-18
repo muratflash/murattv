@@ -232,13 +232,13 @@ https://tele1dvr.blutv.com/blutv_tele1_dvr2/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TELE 1 HD" tvg-logo="" group-title="Haber",TELE 1 HD
 https://ythls.kekikakademi.org/youtube/channel/UCoHnRpOS5rL62jTmSDO5Npw.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KRT TV" tvg-logo="" group-title="Haber",KRT TV
-https://krt.blutv.com/blutv_krt_live/live_720p4350000kbps/index.m3u8
+http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1826
 #EXTINF:-1 tvg-id="" tvg-name="KRT TV HD" tvg-logo="" group-title="Haber",KRT TV HD
 https://ythls.kekikakademi.org/youtube/channel/UCVKWwHoLwUMMa80cu_1uapA.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FLASH HABER" tvg-logo="" group-title="Haber",FLASH HABER
-http://50.7.144.122:1935/livetv/flashtv.stream/sec-f5-v1-a1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FLASH HABER HD" tvg-logo="" group-title="Haber",FLASH HABER HD
-https://internettv.guventechnology.com:19360/flashhabertv/1080p.m3u8
+https://flashhaber-live.ercdn.net/flashhaber/flashhaber_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FLASH HABER" tvg-logo="" group-title="Haber",FLASH HABER
+http://176.65.146.224:6005/play/a01h/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CAN TV" tvg-logo="" group-title="Haber",CAN TV
 http://canbroadcast.com:7000/canlican/tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MEDYA HABER" tvg-logo="" group-title="Haber",MEDYA HABER
@@ -249,18 +249,20 @@ https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&type=live&service=wowza&protoc
 https://n2.burst.cdn.jetstre.am/session/450f4c594b612903b7d42d421fb93c21/sz/mceutv/wowza4/live/mc2/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TH TÜRK HABER" tvg-logo="" group-title="Haber",TH TÜRK HABER
 https://edge1.socialsmart.tv/turkhaber/bant1/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LİDER HABER" tvg-logo="" group-title="Haber",LİDER HABER
-https://ip252.ozelip.com:22524/lidertv/lidertv/chunklist_w1993196315.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LİDER HABER HD" tvg-logo="" group-title="Haber",LİDER HABER HD
+http://78.128.125.60:9981/play/a01i/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EKOL TV" tvg-logo="" group-title="Haber",EKOL TV
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EKOL TV HD" tvg-logo="" group-title="Haber",EKOL TV HD
 https://ythls.kekikakademi.org/youtube/channel/UCccxXUKSuqOrlWQxweZBAQw.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS HABER" tvg-logo="" group-title="Spor",BEİN SPORTS HABER
+http://176.65.146.224:6003/play/a019/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS HABER HD" tvg-logo="" group-title="Spor",BEİN SPORTS HABER HD
 https://ythls.kekikakademi.org/youtube/channel/UCPe9vNjHF1kEExT5kHwc7aw.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT SPOR HD" tvg-logo="" group-title="Spor",TRT SPOR HD
 https://trt.daioncdn.net/trtspor/master_1080p.m3u8?platform=trtspor&sid=6v658fcnyyrq&app=9b65474e-8197-4899-aabb-321fcf6dd9eb&ce=2
 #EXTINF:-1 tvg-id="" tvg-name="A SPOR" tvg-logo="" group-title="Spor",A SPOR
-http://50.7.144.122:1935/livetv/aspor.stream/sec-f5-v1-a1.m3u8
+https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A SPOR HD" tvg-logo="" group-title="Spor",A SPOR HD
 https://ythls.kekikakademi.org/youtube/video/7uBpwcn2ZZ0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HT SPOR HD" tvg-logo="" group-title="Spor",HT SPOR HD
@@ -322,9 +324,9 @@ https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/chunklist_b996000_sltur.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GS TV HD" tvg-logo="" group-title="Spor",GS TV HD
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CBC SPORT" tvg-logo="" group-title="Spor",CBC SPORT
-http://50.7.144.122:1935/livetv/cbcsport.stream/sec-f5-v1-a1.m3u8
+http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/290202
 #EXTINF:-1 tvg-id="" tvg-name="CBC SPORT HD" tvg-logo="" group-title="Spor",CBC SPORT HD
-https://yayin2.canlitv.fun/livetv/cbcsport.stream/master.m3u8
+https://canlitvulusal.xyz/live/cbcsport/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="İDMAN TV HD" tvg-logo="" group-title="Spor",İDMAN TV HD
 https://tgn.bozztv.com/dvrfl05/gin-idmantv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN MOVİES ACTİON 1" tvg-logo="" group-title="Sinema",BEİN MOVİES ACTİON 1
