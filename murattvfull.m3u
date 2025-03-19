@@ -406,7 +406,7 @@ https://ythls.kekikakademi.org/youtube/channel/UCn6dNfiRE_Xunu7iMyvD7AA.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HABER TÜRK HD" tvg-logo="" group-title="Haber",HABER TÜRK HD
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HABER TÜRK" tvg-logo="" group-title="Haber",HABER TÜRK
-https://haberturk.blutv.com/blutv_haberturk_live/live.m3u8
+https://tv.ensonhaber.com/haberturk/haberturk_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HABER GLOBAL FHD" tvg-logo="" group-title="Haber",HABER GLOBAL FHD
 http://trn03.tulix.tv/gt-haberglobal/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HABER GLOBAL FHD+" tvg-logo="" group-title="Haber",HABER GLOBAL FHD+
@@ -463,24 +463,24 @@ https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 https://ythls.kekikakademi.org/youtube/video/-HJwrahoMsQ.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HALK TV" tvg-logo="" group-title="Haber",HALK TV
 https://halktvdvr.blutv.com/blutv_halktv2_dvr/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SÖZCÜ TV" tvg-logo="" group-title="Haber",SÖZCÜ TV
+https://szctvdvr.blutv.com/blutv_szctv_dvr/live_720p4350000kbps/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SÖZCÜ TV FHD" tvg-logo="" group-title="Haber",SÖZCÜ TV FHD
 https://ythls.kekikakademi.org/youtube/video/ztmY_cCtUl0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SÖZCÜ TV HD" tvg-logo="" group-title="Haber",SÖZCÜ TV HD
 https://ythls.kekikakademi.org/youtube/channel/UCOulx_rep5O4i9y6AyDqVvw.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SÖZCÜ TV" tvg-logo="" group-title="Haber",SÖZCÜ TV
-https://szctvdvr.blutv.com/blutv_szctv_dvr/live_720p4350000kbps/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TELE 1 FHD" tvg-logo="" group-title="Haber",TELE 1 FHD
 https://tele1-live.ercdn.net/tele1/tele1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TELE 1 HD" tvg-logo="" group-title="Haber",TELE 1 HD
 https://ythls.kekikakademi.org/youtube/channel/UCoHnRpOS5rL62jTmSDO5Npw.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TELE 1" tvg-logo="" group-title="Haber",TELE 1
 https://tele1dvr.blutv.com/blutv_tele1_dvr2/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KRT TV" tvg-logo="" group-title="Haber",KRT TV
+http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1826
 #EXTINF:-1 tvg-id="" tvg-name="KRT TV FHD" tvg-logo="" group-title="Haber",KRT TV FHD
 https://ythls.kekikakademi.org/youtube/video/Avu7O3hKslA.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KRT TV HD" tvg-logo="" group-title="Haber",KRT TV HD
 https://ythls.kekikakademi.org/youtube/channel/UCVKWwHoLwUMMa80cu_1uapA.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KRT TV" tvg-logo="" group-title="Haber",KRT TV
-http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1826
 #EXTINF:-1 tvg-id="" tvg-name="FLASH HABER FHD" tvg-logo="" group-title="Haber",FLASH HABER FHD
 https://flashhaber-live.ercdn.net/flashhaber/flashhaber_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FLASH HABER HD" tvg-logo="" group-title="Haber",FLASH HABER HD
