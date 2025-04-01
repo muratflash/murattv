@@ -376,7 +376,7 @@ https://ythls.kekikakademi.org/youtube/channel/UCzgrZ-CndOoylh2_e72nSBQ.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A HABER FHD" tvg-logo="" group-title="Haber",A HABER FHD
 http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/666
 #EXTINF:-1 tvg-id="" tvg-name="A HABER HD+" tvg-logo="" group-title="Haber",A HABER HD+
-http://mehmetaslan.serv00.net/atvHD?ID=https://trkvz-live.ercdn.net/ahaberhd/ahaberhd_720p.m3u8
+https://tgn.bozztv.com/dvrfl05/gin-ahaber/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A HABER FHD+" tvg-logo="" group-title="Haber",A HABER FHD+
 https://ythls.kekikakademi.org/youtube/channel/UCKQhfw-lzz0uKnE1fY1PsAA.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A HABER HD LİVE" tvg-logo="" group-title="Haber",A HABER HD LİVE
@@ -547,8 +547,6 @@ https://live01.iha.tv/webabone/live/chunks.m3u8
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A NEWS FHD" tvg-logo="" group-title="Haber",A NEWS FHD
 https://trn03.tulix.tv/gt-anews/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A NEWS HD+" tvg-logo="" group-title="Haber",A NEWS HD+
-http://mehmetaslan.serv00.net/atvHD?ID=https://trkvz-live.ercdn.net/anewshd/anewshd_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A NEWS" tvg-logo="" group-title="Haber",A NEWS
 http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/284578
 #EXTINF:-1 tvg-id="" tvg-name="A NEWS HD" tvg-logo="" group-title="Haber",A NEWS HD
@@ -667,6 +665,8 @@ https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TYT TÜRK" tvg-logo="" group-title="Ulusal",TYT TÜRK
 https://cdn-tytturk.yayin.com.tr/tytturk/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ONS TV" tvg-logo="" group-title="Ulusal",ONS TV
+https://cdn4.yayin.com.tr/onstv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SHOWMAX FHD" tvg-logo="" group-title="Ulusal",SHOW MAX FHD
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SHOWMAX HD" tvg-logo="" group-title="Ulusal",SHOW MAX HD
@@ -679,8 +679,6 @@ https://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
 https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GZT TV HD" tvg-logo="" group-title="Ulusal",GZT TV HD
 https://ythls.kekikakademi.org/youtube/channel/UClWewRX7n_IY3mBbxmttR5Q.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A PARA FHD+" tvg-logo="" group-title="Ulusal",A PARA FHD+
-http://mehmetaslan.serv00.net/atvHD?ID=https://trkvz-live.ercdn.net/aparahd/aparahd_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A PARA HD" tvg-logo="" group-title="Ulusal",A PARA HD
 https://trn03.tulix.tv/gt-apara/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A PARA FHD" tvg-logo="" group-title="Ulusal",A PARA FHD
