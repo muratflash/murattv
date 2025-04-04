@@ -907,8 +907,6 @@ https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
 https://edge1.socialsmart.tv/birtv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TİVİ6" tvg-logo="" group-title="Sinema",TİVİ6
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SUNSET FANTASTİC" tvg-logo="" group-title="Sinema",SUNSET FANTASTİC
-https://stream.sunset-media.ru:443/AfBrazXsUK/J9hGT3vYuv/8.ts
 #EXTINF:-1 tvg-id="" tvg-name="DÜZGÜN TV" tvg-logo="" group-title="Sinema",DÜZGÜN TV
 http://duzguntv1616.ozelip.net:25192/duzguntv/duzguntv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VİYANA TV" tvg-logo="" group-title="Sinema",VİYANA TV
@@ -975,8 +973,6 @@ http://vip.torktv.org:2095/live/vlkn2282/vlk.56/163156.ts
 http://vip.torktv.org:2095/live/vlkn2282/vlk.56/163160.ts
 #EXTINF:-1 tvg-id="" tvg-name="KÜÇÜK EMRAH TV" tvg-logo="" group-title="Sinema",KÜÇÜK EMRAH TV
 http://vip.torktv.org:2095/live/vlkn2282/vlk.56/163182.ts
-#EXTINF:-1 tvg-id="" tvg-name="FERDİ TAYFUR TV" tvg-logo="" group-title="Sinema",FERDİ TAYFUR TV
-https://ythls.kekikakademi.org/youtube/channel/UCAJcU9SesgVqsJ8M0l7zYrA.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CÜNEYT ARKIN TV 1" tvg-logo="" group-title="Sinema",CÜNEYT ARKIN TV 1
 http://vip.torktv.org:2095/live/vlkn2282/vlk.56/6597.ts
 #EXTINF:-1 tvg-id="" tvg-name="CÜNEYT ARKIN TV 2" tvg-logo="" group-title="Sinema",CÜNEYT ARKIN TV 2
