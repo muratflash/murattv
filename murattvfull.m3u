@@ -871,28 +871,12 @@ https://ip100.radyotelekomtv.com:3220/stream/play.m3u8
 https://hls.goodgame.ru/hls/214750.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TELEON TV" tvg-logo="" group-title="Sinema",TELEON TV
 https://stream-cdn-iad3.vaughnsoft.net/play/live_teleonmediagroups.flv
-#EXTINF:-1 tvg-id="" tvg-name="SİNEMA KULÜBÜ TV" tvg-logo="" group-title="Sinema",SİNEMA KULÜBÜ TV
-https://ythls.kekikakademi.org/youtube/channel/UChb7kIKlWiDCfwXg4LSMCjg.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LEBİH TV" tvg-logo="" group-title="Sinema",LEBİH TV
+https://ip100.radyotelekomtv.com:3982/stream/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MEGA TV SİNEMA" tvg-logo="" group-title="Sinema",MEGA TV SİNEMA
 https://a8.radyotelekom.com.tr:3580/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MEGA TV ŞABAN" tvg-logo="" group-title="Sinema",MEGA TV ŞABAN
-https://a8.radyotelekom.com.tr:3417/stream/play.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MEGA TV SİNEMA TÜRK" tvg-logo="" group-title="Sinema",MEGA TV SİNEMA TÜRK
-https://a8.radyotelekom.com.tr:3468/stream/play.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MEGA TV KLASİK" tvg-logo="" group-title="Sinema",MEGA TV KLASİK
-https://a8.radyotelekom.com.tr:3335/stream/play.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ALİGOSHGAR TV" tvg-logo="" group-title="Sinema",ALİGOSHGAR TV
-https://ip240.avrupatelekom.com:3142/stream/play.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ULDUZ TV" tvg-logo="" group-title="Sinema",ULDUZ TV
-https://ip240.avrupatelekom.com:3153/stream/play.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESMA TV" tvg-logo="" group-title="Sinema",ESMA TV
-https://ip240.avrupatelekom.com:3520/stream/play.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KADER TV" tvg-logo="" group-title="Sinema",KADER TV
-https://ip240.avrupatelekom.com:3710/stream/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AMEDİA TV" tvg-logo="" group-title="Sinema",AMEDİA TV
 https://live.yayingold.com.tr/amediatvlive/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="İSMAYİLLİ TV" tvg-logo="" group-title="Sinema",İSMAYİLLİ TV
-https://ip240.avrupatelekom.com:3781/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HOCWAN TV" tvg-logo="" group-title="Sinema",HOCWAN TV
 https://hocwantv.ozelip.com:3593/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ALMANYA TV" tvg-logo="" group-title="Sinema",ALMANYA TV
