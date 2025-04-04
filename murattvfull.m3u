@@ -666,7 +666,7 @@ https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TYT TÜRK" tvg-logo="" group-title="Ulusal",TYT TÜRK
 https://cdn-tytturk.yayin.com.tr/tytturk/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ONS TV" tvg-logo="" group-title="Ulusal",ONS TV
-https://cdn4.yayin.com.tr/onstv/tracks-v1a1/mono.ts.m3u8
+https://cdn-onstv.yayin.com.tr/onstv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SHOWMAX FHD" tvg-logo="" group-title="Ulusal",SHOW MAX FHD
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SHOWMAX HD" tvg-logo="" group-title="Ulusal",SHOW MAX HD
