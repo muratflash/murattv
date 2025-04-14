@@ -1,6 +1,8 @@
 #EXTINF:
 #EXTINF:-1,KONYA OLAY TV
 http://olayhabertv42.ozelip.com:28008/olay/olay/playlist.m3u8
+#EXTINF:-1,KON TV
+https://yayin1.canlitv.fun/canlitv/kontv.stream/chunklist_w2057936323.m3u8
 #EXTINF:-1,TİVİ TÜRK HD
 https://stream.tiviturk.de/live/tiviturk.m3u8
 #EXTINF:-1,SÜPER TÜRK TV
