@@ -269,8 +269,6 @@ http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/154.ts
 https://ythls.kekikakademi.org/youtube/channel/UCPe9vNjHF1kEExT5kHwc7aw.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS HABER HD+" tvg-logo="" group-title="Spor",BEİN SPORTS HABER HD+
 https://tgn.bozztv.com/dvrfl05/gin-beinsportshaber/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS HABER" tvg-logo="" group-title="Spor",BEİN SPORTS HABER
-http://176.65.146.224:6003/play/a01a/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT SPOR FHD" tvg-logo="" group-title="Spor",TRT SPOR FHD
 https://trt.daioncdn.net/trtspor/master_1080p.m3u8?platform=trtspor&sid=6v658fcnyyrq&app=9b65474e-8197-4899-aabb-321fcf6dd9eb&ce=2
 #EXTINF:-1 tvg-id="" tvg-name="TRT SPOR HD" tvg-logo="" group-title="Spor",TRT SPOR HD
@@ -299,22 +297,6 @@ https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_1080p.m3u8
 https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?app=tv8bucuk_web&ce=3
 #EXTINF:-1 tvg-id="" tvg-name="TV 8 HD" tvg-logo="" group-title="Spor",TV 8 HD
 https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VOLE TV YOUTUBE" tvg-logo="" group-title="Spor",VOLE TV YOUTUBE
-https://ythls.kekikakademi.org/youtube/channel/UCeCRRixprpBjNmzRWgLBiUA.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS DİGİTALE YOUTUBE" tvg-logo="" group-title="Spor",SPORTS DİGİTALE YOUTUBE
-https://ythls.kekikakademi.org/youtube/channel/UCmEgRY1A2263UXrQhjDuU0Q.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BTV YOUTUBE" tvg-logo="" group-title="Spor",BTV YOUTUBE
-https://ythls.kekikakademi.org/youtube/channel/UC-_pM982OEbezyJpPxu79pg.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NEO SPOR YOUTUBE" tvg-logo="" group-title="Spor",NEO SPOR YOUTUBE
-https://ythls.kekikakademi.org/youtube/channel/UC4zFh-UMghh8zzTiZMOYVRQ.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KONTRASPOR YOUTUBE" tvg-logo="" group-title="Spor",KONTRASPOR YOUTUBE
-https://ythls.kekikakademi.org/youtube/channel/UCHjbBVD4yRI7vU-S9Pwpnkw.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPOR GECESİ DİGİTAL YOUTUBE" tvg-logo="" group-title="Spor",SPOR GECESİ DİGİTAL YOUTUBE
-https://ythls.kekikakademi.org/youtube/channel/UC9sAFnrh5Vz6CpeD9RZvF_A.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PLAY SPOR YOUTUBE" tvg-logo="" group-title="Spor",PLAY SPOR YOUTUBE
-https://ythls.kekikakademi.org/youtube/channel/UCodApSLUhI5oYLoqiy4zqTQ.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FUTBL PLUS YOUTUBE" tvg-logo="" group-title="Spor",FUTBOL PLUS YOUTUBE
-https://ythls.kekikakademi.org/youtube/channel/UCgbXyojig2J2Q46zqFQOJmg.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LİDER HABER TELEGOL HD" tvg-logo="" group-title="Spor",LİDER HABER TELEGOL HD
 http://78.128.125.60:9981/play/a01i/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LİDER HABER TELEGOL" tvg-logo="" group-title="Spor",LİDER HABER TELEGOL
@@ -468,7 +450,7 @@ https://ythls.kekikakademi.org/youtube/video/-HJwrahoMsQ.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HALK TV" tvg-logo="" group-title="Haber",HALK TV
 https://halktvdvr.blutv.com/blutv_halktv2_dvr/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SÖZCÜ TV" tvg-logo="" group-title="Haber",SÖZCÜ TV
-https://szctvdvr.blutv.com/blutv_szctv_dvr/live_720p4350000kbps/index.m3u8
+https://trn03.tulix.tv/gt-sozcu-tv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SÖZCÜ TV FHD" tvg-logo="" group-title="Haber",SÖZCÜ TV FHD
 https://ythls.kekikakademi.org/youtube/video/ztmY_cCtUl0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SÖZCÜ TV HD" tvg-logo="" group-title="Haber",SÖZCÜ TV HD
