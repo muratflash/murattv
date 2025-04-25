@@ -102,13 +102,13 @@ https://due.37dfb0c61b5625cd.click/itis/8c1437d28413db5112720e3ce0579154/playlis
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 HD+" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 1 HD+
 https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=b1
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 DESSİ" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 1 DESSİ
-http://65.21.85.175:8000/play/a034/index.m3u8?token=livetv
+https://gknnowtv.onrender.com/bein1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 2 DESSİ" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 2 DESSİ
-http://65.21.85.175:8000/play/a035/index.m3u8?token=livetv
+https://gknnowtv.onrender.com/bein2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 3 DESİ" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 3 DESSİ
-http://65.21.85.175:8000/play/a036/index.m3u8?token=livetv
+https://gknnowtv.onrender.com/bein3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 4 DESSİ" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 4 DESSİ
-http://65.21.85.175:8000/play/a037/index.m3u8?token=livetv
+https://gknnowtv.onrender.com/bein4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS HABER HD" tvg-logo="" group-title="Bein Sports",BEİN SPORTS HABER HD
 https://ythls.kekikakademi.org/youtube/channel/UCPe9vNjHF1kEExT5kHwc7aw.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS HABER" tvg-logo="" group-title="Bein Sports",BEİN SPORTS HABER
@@ -588,7 +588,7 @@ https://tv.arectv11.sbs/live/foxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NOW FHD+" tvg-logo="" group-title="Ulusal",NOW FHD+
 http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/514
 #EXTINF:-1 tvg-id="" tvg-name="NOW HD+" tvg-logo="" group-title="Ulusal",NOW HD+
-http://mehmetaslan.serv00.net/Now
+https://withered-art-ad81.support-a2f.workers.dev/live/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NOW HD" tvg-logo="" group-title="Ulusal",NOW HD
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NOW" tvg-logo="" group-title="Ulusal",NOW
@@ -678,9 +678,10 @@ https://ythls.kekikakademi.org/youtube/channel/UCApLxl6oYQafxvykuoC2uxQ.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNBC-E FHD" tvg-logo="" group-title="Ulusal",CNBC-E FHD
 https://uzunmuhalefet.serv00.net/canlitv2.php?id=13406&.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNBC-E HD" tvg-logo="" group-title="Ulusal",CNBC-E HD
+http://50.7.144.122:1935/live/cnbce.stream/playlist.m3u8?hash=b0fd6da0c45409a2b42467df8a32de8d
 https://ythls.kekikakademi.org/youtube/channel/UCaO-M1dXacMwtyg0Pvovk4w.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNBC-E" tvg-logo="" group-title="Ulusal",CNBC-E
-https://canlitvulusal.xyz/live/cnbc-e/index.m3u8
+https://ythls.kekikakademi.org/youtube/channel/UCaO-M1dXacMwtyg0Pvovk4w.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EKOTÜRK TV" tvg-logo="" group-title="Ulusal",EKOTÜRK TV
 https://ekoturk.blutv.com/blutv_ekoturk2/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EKOTÜRK TV HD" tvg-logo="" group-title="Ulusal",EKOTÜRK TV HD
