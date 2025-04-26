@@ -110,7 +110,7 @@ https://gknnowtv.onrender.com/bein3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 4 DESSİ" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 4 DESSİ
 https://gknnowtv.onrender.com/bein4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS HABER HD" tvg-logo="" group-title="Bein Sports",BEİN SPORTS HABER HD
-https://ythls.kekikakademi.org/youtube/channel/UCPe9vNjHF1kEExT5kHwc7aw.m3u8
+http://hdlocal.de:8080/live/cs22cs.suroot/4amFSTThYHGGS2223/10033.ts
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS HABER" tvg-logo="" group-title="Bein Sports",BEİN SPORTS HABER
 http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/154.ts
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS ARŞİV" tvg-logo="" group-title="Bein Sports",BEİN SPORTS ARŞİV
@@ -264,7 +264,7 @@ https://217.30.11.74/e/155.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SPOR SMARRT 2" tvg-logo="" group-title="Spor Smart",SPOR SMART 2
 https://217.30.11.74/e/156.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS HABER FHD" tvg-logo="" group-title="Spor",BEİN SPORTS HABER FHD
-http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/154.ts
+http://teke-tek.garibim.club:6787/live/tefil-WOI/AcpbP4UsnkRr/148.ts
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS HABER HD" tvg-logo="" group-title="Spor",BEİN SPORTS HABER HD
 https://ythls.kekikakademi.org/youtube/channel/UCPe9vNjHF1kEExT5kHwc7aw.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS HABER HD+" tvg-logo="" group-title="Spor",BEİN SPORTS HABER HD+
@@ -288,9 +288,9 @@ https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HT SPOR HD" tvg-logo="" group-title="Spor",HT SPOR HD
 https://ythls.kekikakademi.org/youtube/channel/UCK3mI2lsk3LSo8PBUc8JTSw.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR HD" tvg-logo="" group-title="Spor",TİVİBU SPOR HD
-https://canlitvulusal.xyz/live/tivibuspor/index.m3u8
+http://hdlocal.de:8080/live/cs22cs.suroot/4amFSTThYHGGS2223/10013.ts
 #EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR" tvg-logo="" group-title="Spor",TİVİBU SPOR
-http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1746
+https://canlitvulusal.xyz/live/tivibuspor/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV 8.5 FHD" tvg-logo="" group-title="Spor",TV 8.5 FHD
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV 8.5 HD" tvg-logo="" group-title="Spor",TV 8.5 HD
@@ -383,6 +383,8 @@ http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/628
 http://hdlocal.de:8080/live/cs22cs.suroot/4amFSTThYHGGS2223/10126.ts
 #EXTINF:-1 tvg-id="" tvg-name="CNN TÜRK LİVE" tvg-logo="" group-title="Haber",CNN TÜRK LİVE
 http://135.181.115.81:8000/play/a03j/index.m3u8?token=livetv
+#EXTINF:-1 tvg-id="" tvg-name="CNN TÜRK STREAM" tvg-logo="" group-title="Haber",CNN TÜRK STREAM
+http://ott.dobratv.net:25461/live/TeleskyGradacac/OlhzoyCMyn/6644.ts
 #EXTINF:-1 tvg-id="" tvg-name="CNN TÜRK" tvg-logo="" group-title="Haber",CNN TÜRK
 http://116.202.238.88/CNNTURK_TR/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HABER TÜRK FHD" tvg-logo="" group-title="Haber",HABER TÜRK FHD
@@ -448,11 +450,13 @@ https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HALK TV HD" tvg-logo="" group-title="Haber",HALK TV HD
 https://ythls.kekikakademi.org/youtube/video/-HJwrahoMsQ.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HALK TV" tvg-logo="" group-title="Haber",HALK TV
-https://halktvdvr.blutv.com/blutv_halktv2_dvr/live.m3u8
+https://halktv-live.daioncdn.net/halktv/halktv_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SÖZCÜ TV" tvg-logo="" group-title="Haber",SÖZCÜ TV
-https://trn03.tulix.tv/gt-sozcu-tv/index.m3u8
+http://teke-tek.garibim.club:6787/live/tefil-WOI/AcpbP4UsnkRr/224.ts
 #EXTINF:-1 tvg-id="" tvg-name="SÖZCÜ TV FHD" tvg-logo="" group-title="Haber",SÖZCÜ TV FHD
-https://ythls.kekikakademi.org/youtube/video/ztmY_cCtUl0.m3u8
+https://trn03.tulix.tv/gt-sozcu-tv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SÖZCÜ TV FHD+" tvg-logo="" group-title="Haber",SÖZCÜ TV FHD+
+http://a8026.yesil03.xyz:80/hursitkose/gEgANpaw/70127
 #EXTINF:-1 tvg-id="" tvg-name="SÖZCÜ TV HD" tvg-logo="" group-title="Haber",SÖZCÜ TV HD
 https://ythls.kekikakademi.org/youtube/channel/UCOulx_rep5O4i9y6AyDqVvw.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TELE 1 FHD" tvg-logo="" group-title="Haber",TELE 1 FHD
