@@ -496,6 +496,8 @@ https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ULUSAL KANAL FHD" tvg-logo="" group-title="Haber",ULUSAL KANAL FHD
 http://116.202.238.88/ULUSALTV_TR/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ULUSAL KANAL HD" tvg-logo="" group-title="Haber",ULUSAL KANAL HD
+https://canlitvulusal.xyz/live/ulusalkanal/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ULUSAL KANAL" tvg-logo="" group-title="Haber",ULUSAL KANAL
 https://ythls.kekikakademi.org/youtube/channel/UC6T0L26KS1NHMPbTwI1L4Eg.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BENGÜ TÜRK FHD" tvg-logo="" group-title="Haber",BENGÜ TÜRK FHD
 https://tv.ensonhaber.com/benguturk/benguturk_720p.m3u8
@@ -662,6 +664,8 @@ https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SHOWMAX HD" tvg-logo="" group-title="Ulusal",SHOW MAX HD
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shmax.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TGRT EU HD" tvg-logo="" group-title="Ulusal",TGRT EU HD
+https://canlitvulusal.xyz/live/tgrteu/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TGRT EU" tvg-logo="" group-title="Ulusal",TGRT EU
 https://tgrt-live.ercdn.net/tgrteu/tgrteu.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MELTEM TV" tvg-logo="" group-title="Ulusal",MELTEM TV
 https://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
