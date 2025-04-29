@@ -378,13 +378,15 @@ http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/2305/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN TÜRK HD" tvg-logo="" group-title="Haber",CNN TÜRK HD
 https://ythls.kekikakademi.org/youtube/channel/UCV6zcRug6Hqp1UX_FdyUeBg.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN TÜRK HD+" tvg-logo="" group-title="Haber",CNN TÜRK HD+
-http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/628
+http://176.65.146.123:6002/play/a00z/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN TÜRK UHD" tvg-logo="" group-title="Haber",CNN TÜRK UHD
 http://hdlocal.de:8080/live/cs22cs.suroot/4amFSTThYHGGS2223/10126.ts
 #EXTINF:-1 tvg-id="" tvg-name="CNN TÜRK LİVE" tvg-logo="" group-title="Haber",CNN TÜRK LİVE
 http://135.181.115.81:8000/play/a03j/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="" tvg-name="CNN TÜRK STREAM" tvg-logo="" group-title="Haber",CNN TÜRK STREAM
 http://ott.dobratv.net:25461/live/TeleskyGradacac/OlhzoyCMyn/6644.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNN TÜRK RAW" tvg-logo="" group-title="Haber",CNN TÜRK RAW
+http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/628
 #EXTINF:-1 tvg-id="" tvg-name="CNN TÜRK" tvg-logo="" group-title="Haber",CNN TÜRK
 http://116.202.238.88/CNNTURK_TR/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HABER TÜRK FHD" tvg-logo="" group-title="Haber",HABER TÜRK FHD
@@ -398,13 +400,15 @@ https://tv.ensonhaber.com/haberturk/haberturk_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HABER GLOBAL FHD" tvg-logo="" group-title="Haber",HABER GLOBAL FHD
 http://trn03.tulix.tv/gt-haberglobal/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HABER GLOBAL FHD+" tvg-logo="" group-title="Haber",HABER GLOBAL FHD+
-https://ythls.kekikakademi.org/youtube/channel/UCtc-a9ZUIg0_5HpsPxEO7Qg.m3u8
+http://176.65.146.123:6003/play/a00z/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HABER GLOBAL HD+" tvg-logo="" group-title="Haber",HABER GLOBAL HD+
 https://canlitvulusal.xyz/live/haberglobal/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HABER GLOBAL HD" tvg-logo="" group-title="Haber",HABER GLOBAL HD
 http://116.202.238.88/HABERGLOBAL_TR/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HABER GLOBAL" tvg-logo="" group-title="Haber",HABER GLOBAL
 https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HABER GLOBAL LİVE" tvg-logo="" group-title="Haber",HABER GLOBAL LİVE
+https://ythls.kekikakademi.org/youtube/channel/UCtc-a9ZUIg0_5HpsPxEO7Qg.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NTV FHD" tvg-logo="" group-title="Haber",NTV FHD
 http://dygvideo.dygdigital.com/live/hls/ntv4puhu?m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NTV HD" tvg-logo="" group-title="Haber",NTV HD
@@ -454,9 +458,11 @@ https://halktv-live.daioncdn.net/halktv/halktv_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SÖZCÜ TV" tvg-logo="" group-title="Haber",SÖZCÜ TV
 http://teke-tek.garibim.club:6787/live/tefil-WOI/AcpbP4UsnkRr/224.ts
 #EXTINF:-1 tvg-id="" tvg-name="SÖZCÜ TV FHD" tvg-logo="" group-title="Haber",SÖZCÜ TV FHD
-https://trn03.tulix.tv/gt-sozcu-tv/index.m3u8
+http://176.65.146.123:6004/play/a019/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SÖZCÜ TV FHD+" tvg-logo="" group-title="Haber",SÖZCÜ TV FHD+
 http://a8026.yesil03.xyz:80/hursitkose/gEgANpaw/70127
+#EXTINF:-1 tvg-id="" tvg-name="SÖZCÜ TV HD+" tvg-logo="" group-title="Haber",SÖZCÜ TV HD+
+https://trn03.tulix.tv/gt-sozcu-tv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SÖZCÜ TV HD" tvg-logo="" group-title="Haber",SÖZCÜ TV HD
 https://ythls.kekikakademi.org/youtube/channel/UCOulx_rep5O4i9y6AyDqVvw.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TELE 1 FHD" tvg-logo="" group-title="Haber",TELE 1 FHD
@@ -592,7 +598,7 @@ https://emmazbvkkf.turknet.ercdn.net/cnifuowzza/startv/startv_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NOW FHD" tvg-logo="" group-title="Ulusal",NOW FHD
 https://tv.arectv11.sbs/live/foxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NOW FHD+" tvg-logo="" group-title="Ulusal",NOW FHD+
-http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/514
+http://176.65.146.123:6002/play/a01j/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NOW HD+" tvg-logo="" group-title="Ulusal",NOW HD+
 https://withered-art-ad81.support-a2f.workers.dev/live/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NOW HD" tvg-logo="" group-title="Ulusal",NOW HD
@@ -601,6 +607,8 @@ https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
 http://116.202.238.88/FOXTV_TR/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NOW LİVE" tvg-logo="" group-title="Ulusal",NOW LİVE
 https://trn03.tulix.tv/gt-fox-turk-tv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NOW RAW" tvg-logo="" group-title="Ulusal",NOW RAW
+http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/514
 #EXTINF:-1 tvg-id="" tvg-name="TV 8 FHD" tvg-logo="" group-title="Ulusal",TV 8 FHD
 https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV 8 HD" tvg-logo="" group-title="Ulusal",TV 8 HD
@@ -694,6 +702,8 @@ https://ythls.kekikakademi.org/youtube/channel/UCaO-M1dXacMwtyg0Pvovk4w.m3u8
 https://ythls.kekikakademi.org/youtube/channel/UCaO-M1dXacMwtyg0Pvovk4w.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EKOTÜRK TV" tvg-logo="" group-title="Ulusal",EKOTÜRK TV
 https://trn03.tulix.tv/gt-ekoturk/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EKOTÜRK TV FHD" tvg-logo="" group-title="Ulusal",EKOTÜRK TV FHD
+http://176.65.146.123:6004/play/a018/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EKOTÜRK TV HD" tvg-logo="" group-title="Ulusal",EKOTÜRK TV HD
 https://ythls.kekikakademi.org/youtube/channel/UCAGVKxpAKwXMWdmcHbrvcwQ.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TLC FHD" tvg-logo="" group-title="Ulusal",TLC FHD
