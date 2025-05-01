@@ -558,6 +558,8 @@ https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT 1" tvg-logo="" group-title="Ulusal",TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT 4K" tvg-logo="" group-title="Ulusal",TRT 4K
+http://176.65.146.123:6001/play/a027/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT 4K LİVE" tvg-logo="" group-title="Ulusal",TRT 4K LİVE
 http://176.65.146.224:6001/play/a01i/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KANAL D FHD" tvg-logo="" group-title="Ulusal",KANAL D FHD
 https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
@@ -988,10 +990,12 @@ https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
 https://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT BELGESEL HD" tvg-logo="" group-title="Belgesel",TRT BELGESEL HD
 https://d2xwn494f2lep.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-Belgesel/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT BELGESEL FHD" tvg-logo="" group-title="Belgesel",TRT BELGESEL FHD
+http://176.65.146.123:6001/play/a01l/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT BELGESEL" tvg-logo="" group-title="Belgesel",TRT BELGESEL
 https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TGRT BELGESEL" tvg-logo="" group-title="Belgesel",TGRT BELGESEL
-http://stream.tvcdn.net/belgesel/tgrt-belgesel.m3u8
+https://canlitvulusal.xyz/live/tgrtbelgesel/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TGRT BELGESEL HD" tvg-logo="" group-title="Belgesel",TGRT BELGESEL HD
 https://ythls.kekikakademi.org/youtube/video/KD4QnOiirJo.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="YABAN TV HD" tvg-logo="" group-title="Belgesel",YABAN TV HD
