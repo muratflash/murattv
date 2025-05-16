@@ -229,6 +229,10 @@ https://v.arectv13.sbs/static/t4.m3u8
 https://bcovlive-a.akamaihd.net/540fcb034b144b848e7ff887f61a293a/eu-central-1/6415845530001/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="S SPORT 2 FHD" tvg-logo="" group-title="S Sport",S SPORT 2 FHD
 https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="S SPORT HD+" tvg-logo="" group-title="S Sport",S SPORT HD+
+https://217.30.11.74/e/3030.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="S SPORT 2 HD+" tvg-logo="" group-title="S Sport",S SPORT 2 HD+
+https://217.30.11.74/e/3031.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="S SPORT HD" tvg-logo="" group-title="S Sport",S SPORT HD
 http://driptvs.com:2095/live/King200conxx/355sgdhh/77712.ts
 #EXTINF:-1 tvg-id="" tvg-name="S SPORT 2 HD" tvg-logo="" group-title="S Sport",S SPORT 2 HD
@@ -523,6 +527,8 @@ https://live.euromediacenter.com/balkanturktv/index.m3u8
 https://canlitvulusal.xyz/live/finansturk/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HÜR TV" tvg-logo="" group-title="Haber",HÜR TV
 https://live.euromediacenter.com/hurtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ÜRETEN TÜRKİYE TV" tvg-logo="" group-title="Haber",ÜRETEN TÜRKİYE TV
+https://live.euromediacenter.com/uretenturkiye/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TBMM TV" tvg-logo="" group-title="Haber",TBMM TV
 https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="İBB TV" tvg-logo="" group-title="Haber",İBB TV
@@ -819,13 +825,13 @@ https://ip240.avrupatelekom.com:3745/stream/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DİZİ TV" tvg-logo="" group-title="Dizi",DİZİ TV
 http://194.158.222.36:6086/
 #EXTINF:-1 tvg-id="" tvg-name="BEİN MOVİES PREMİERE" tvg-logo="" group-title="Sinema",BEİN MOVİES PREMİERE
-https://tv.arectv11.sbs/live/bspremier1.m3u8
+https://tv1.arectv30.sbs/live/bspremier1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN MOVİES STARS" tvg-logo="" group-title="Sinema",BEİN MOVİES STARS
-https://tv.arectv11.sbs/live/bsstars.m3u8
+https://tv1.arectv30.sbs/live/bsstars.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN MOVİES FAMİLY" tvg-logo="" group-title="Sinema",BEİN MOVİES FAMİLY
-https://tv.arectv11.sbs/live/bsfamily.m3u8
+https://tv1.arectv30.sbs/live/bsfamily.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN MOVİES TÜRK" tvg-logo="" group-title="Sinema",BEİN MOVİES TÜRK
-https://tv.arectv11.sbs/live/bsturk.m3u8
+https://tv1.arectv30.sbs/live/bsturk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SİNEMA TV" tvg-logo="" group-title="Sinema",SİNEMA TV
 http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1790
 #EXTINF:-1 tvg-id="" tvg-name="SİNEMA AKSİYON" tvg-logo="" group-title="Sinema",SİNEMA AKSİYON
@@ -841,11 +847,11 @@ http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1791
 #EXTINF:-1 tvg-id="" tvg-name="MOVİESMART TÜRK" tvg-logo="" group-title="Sinema",MOVİESMART TÜRK
 http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1780
 #EXTINF:-1 tvg-id="" tvg-name="MOVİESMART TÜRK HD" tvg-logo="" group-title="Sinema",MOVİESMART TÜRK HD
-https://tv.arectv13.sbs/live/mvturk.m3u8
+https://tv1.arectv30.sbs/live/mvturk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DİZİSMART PREMİUM" tvg-logo="" group-title="Sinema",DİZİSMART PREMİUM
 http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/15714
 #EXTINF:-1 tvg-id="" tvg-name="FX HD" tvg-logo="" group-title="Sinema",FX HD
-https://tv.arectv11.sbs/live/fx.m3u8
+https://saran-live.ercdn.net/fx/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BLU TV PLAY 1" tvg-logo="" group-title="Sinema",BLU TV PLAY 1
 https://play1.blutv.com/blutv_play1/blutv_play1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BLU TV PLAY 2" tvg-logo="" group-title="Sinema",BLU TV PLAY 2
@@ -884,6 +890,8 @@ https://hocwantv.ozelip.com:3593/hybrid/play.m3u8
 https://almanyatv.ozelip.net:3130/multi_web/play_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PAZARCIK TV" tvg-logo="" group-title="Sinema",PAZARCIK TV
 https://pazarciktv.ozelip.net:3962/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KASTAMONU TV" tvg-logo="" group-title="Sinema",KASTAMONU TV
+http://51.91.118.139:8080/kastamonutv/kastamonutv/3385
 #EXTINF:-1 tvg-id="" tvg-name="ONDE TV" tvg-logo="" group-title="Sinema",ONDE TV
 https://ondetv.ozelip.com.tr:3390/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KANAL 19" tvg-logo="" group-title="Sinema",KANAL 19
@@ -1018,40 +1026,46 @@ https://cdn-kanals.yayin.com.tr/kanals/kanals/chunklist.m3u8
 http://palatv34.ozelip.com:22372/ceyhantv/ceyhantv/chunklist_w1781786446.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="32.GÜN TV" tvg-logo="" group-title="Belgesel",32.GÜN TV
 http://lionking.proxvip.xyz:2095/live/vlkn2282/vlk.56/74193.ts
+#EXTINF:-1 tvg-id="" tvg-name="GURME TV" tvg-logo="" group-title="Belgesel",GURME TV
+https://live.euromediacenter.com/gurmetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBC GURME HD" tvg-logo="" group-title="Belgesel",BEİN GURME HD
 http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1807
 #EXTINF:-1 tvg-id="" tvg-name="BBC İZ HD" tvg-logo="" group-title="Belgesel",BEİN İZ HD
 http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1806
 #EXTINF:-1 tvg-id="" tvg-name="BBC EARTH" tvg-logo="" group-title="Belgesel",BBC EARTH
-https://tv.arectv11.sbs/live/bbc.m3u8
+https://tv1.arectv30.sbs/live/bbc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBC EARTH HD" tvg-logo="" group-title="Belgesel",BBC EARTH HD
-http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/8238
+http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6854/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DA VİNCİ HD" tvg-logo="" group-title="Belgesel",DA VİNCİ HD
 http://teke-tek.garibim.club:6787/live/tefil-WOI/AcpbP4UsnkRr/381.ts
 #EXTINF:-1 tvg-id="" tvg-name="DA VİNCİ" tvg-logo="" group-title="Belgesel",DA VİNCİ
 http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1850
 #EXTINF:-1 tvg-id="" tvg-name="DİSCOVERY CHANNEL HD" tvg-logo="" group-title="Belgesel",DİSCOVERY CHANNEL HD
-https://tv.arectv13.sbs/live/discovery.m3u8
+https://tv1.arectv30.sbs/live/discovery.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DİSCOVERY CHANNEL" tvg-logo="" group-title="Belgesel",DİSCOVERY CHANNEL
-http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/8236
+https://217.30.11.74/e/500.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DİSCOVERY ID" tvg-logo="" group-title="Belgesel",DİSCOVERY ID
 http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/8237
 #EXTINF:-1 tvg-id="" tvg-name="DİSCOVERY SCİENCE" tvg-logo="" group-title="Belgesel",DİSCOVERY SCİENCE
 http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/5693
 #EXTINF:-1 tvg-id="" tvg-name="HİSTORY CHANNEL" tvg-logo="" group-title="Belgesel",HİSTORY CHANNEL
-https://tv.arectv11.sbs/live/history.m3u8
+https://tv1.arectv30.sbs/live/history.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NATİONAL GEO HD" tvg-logo="" group-title="Belgesel",NATİONAL GEO HD
-https://tv.arectv11.sbs/live/natgeo.m3u8
+https://tv1.arectv30.sbs/live/natgeo.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NATİONAL GEOGRAPHİC HD" tvg-logo="" group-title="Belgesel",NATİONAL GEOGRAPHİC HD
+https://saran-live.ercdn.net/natgeohd/index.m3u8?st=uo_tiDvIzeRrTIyZ402B9g&e=1738278432
 #EXTINF:-1 tvg-id="" tvg-name="NATİONAL GEO WİLD" tvg-logo="" group-title="Belgesel",NATİONAL GEO WİLD
-https://tv.arectv11.sbs/live/natgeowild.m3u8
+https://tv1.arectv30.sbs/live/natgeowild.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NATİONAL GEO WİLD HD" tvg-logo="" group-title="Belgesel",NATİONAL GEO WİLD HD
+https://saran-live.ercdn.net/natgeowild/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LOVE NATURE" tvg-logo="" group-title="Belgesel",LOVE NATURE
 http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/837
 #EXTINF:-1 tvg-id="" tvg-name="VİASAT EXPLORE" tvg-logo="" group-title="Belgesel",VİASAT EXPLORE
-https://tv.arectv11.sbs/live/viasathistory.m3u8
+https://tv1.arectv30.sbs/live/viasathistory.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VİASAT EXPLORE HD" tvg-logo="" group-title="Belgesel",VİASAT EXPLORE HD
 http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/197561
 #EXTINF:-1 tvg-id="" tvg-name="VİASAT NATURE" tvg-logo="" group-title="Belgesel",VİASAT NATURE
-https://tv.arectv11.sbs/live/viasatexplore.m3u8
+https://tv1.arectv30.sbs/live/viasatexplore.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VİASAT HİSTORY" tvg-logo="" group-title="Belgesel",VİASAT HİSTORY
 http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/284470
 #EXTINF:-1 tvg-id="" tvg-name="VİASAT HİSTORY HD" tvg-logo="" group-title="Belgesel",VİASAT HİSTORY HD
