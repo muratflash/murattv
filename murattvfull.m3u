@@ -314,7 +314,7 @@ https://tv-trtspor2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SPORTS TV" tvg-logo="" group-title="Spor",SPORTS TV
 https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FB TV" tvg-logo="" group-title="Spor",FB TV
-https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/chunklist_b996000_sltur.m3u8
+https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/chunklist_b8628000_slTUR.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GS TV" tvg-logo="" group-title="Spor",GS TV
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR SPOR TV" tvg-logo="" group-title="Spor",TR SPOR TV
@@ -1234,8 +1234,8 @@ https://tvsms.club/tvz.php?kanal=dost&file=.m3u8
 https://yayin.santraltr.com/hls/zeynotv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ARMA TV" tvg-logo="" group-title="Müzik",ARMA TV
 https://tvsms.club/tvz.php?kanal=arma&file=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MÜSLÜM GÜRSES TV" tvg-logo="" group-title="Müzik",MÜSLÜM GÜRSES TV
-http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/300401
+#EXTINF:-1 tvg-id="" tvg-name="MÜZİK TV" tvg-logo="" group-title="Müzik",MÜZİK TV
+https://ip100.radyotelekomtv.com:3276/stream/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KONSERLER 1" tvg-logo="" group-title="Müzik",KONSERLER 1
 http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/300476
 #EXTINF:-1 tvg-id="" tvg-name="KONSERLER 2" tvg-logo="" group-title="Müzik",KONSERLER 2
