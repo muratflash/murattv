@@ -690,7 +690,7 @@ https://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GZT TV" tvg-logo="" group-title="Ulusal",GZT TV
 https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GZT TV HD" tvg-logo="" group-title="Ulusal",GZT TV HD
-https://ythls.kekikakademi.org/youtube/channel/UClWewRX7n_IY3mBbxmttR5Q.m3u8
+https://koprulu3.global.ssl.fastly.net/yt.m3u8/?id=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A PARA FHD" tvg-logo="" group-title="Ulusal",A PARA FHD
 https://koprulu3.global.ssl.fastly.net/yt.m3u8/?id=63uHG__U1wc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A PARA HD+" tvg-logo="" group-title="Ulusal",A PARA HD+
@@ -744,7 +744,7 @@ https://s01.webcaster.cloud/wmtv/live_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WOMAN TV" tvg-logo="" group-title="Ulusal",WOMAN TV
 https://embedlp.b-cdn.net/womantv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BİZİM EV TV" tvg-logo="" group-title="Ulusal",BİZİM EV TV
-https://koprulu3.global.ssl.fastly.net/yt.m3u8/?id=Lkb_UCepp0s.m3u8
+https://koprulu3.global.ssl.fastly.net/yt.m3u8/?id=QDbUBdcHUMk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TÜRKMENELİ TV" tvg-logo="" group-title="Ulusal",TÜRKMENELİ TV
 https://135962.global.ssl.fastly.net/5ff366a512987e2c0a3dabfe/live_14378e1002eb11ef9cb025207067897a/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ADANALI" tvg-logo="" group-title="Dizi",ADANALI
@@ -906,11 +906,7 @@ https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m
 #EXTINF:-1 tvg-id="" tvg-name="İSVİÇRE TV" tvg-logo="" group-title="Sinema",İSVİÇRE TV
 https://i41.ozelip.com:3269/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SKY HABER TV" tvg-logo="" group-title="Sinema",SKY HABER TV
-https://skyhabertv.ozelip.com:3280/stream/play.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KEMAL TV" tvg-logo="" group-title="Sinema",KEMAL TV
-https://apisaku.app.tc/playlist/23.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ARZU FİLM TV" tvg-logo="" group-title="Sinema",ARZU FİLM TV
-https://apisaku.app.tc/playlist/20.m3u8
+https://cdn4.yayin.com.tr/skyhabertv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CİNE 1 TV" tvg-logo="" group-title="Sinema",CİNE 1 TV
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BİR TV" tvg-logo="" group-title="Sinema",BİR TV
@@ -929,36 +925,18 @@ https://spor.kuzeykibris.tv/m3u8/tv_ktv.m3u8
 https://old.kuzeykibris.tv/m3u8/kktv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KUZEY KIBRIS TV 2" tvg-logo="" group-title="Sinema",KUZEY KIBRIS TV 2
 https://spor.kuzeykibris.tv/m3u8/kktv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TEBER STAR 1" tvg-logo="" group-title="Sinema",TEBER STAR 1
-https://stream-cdn-iad2.vaughnsoft.net/play/live_teber_star1.flv
-#EXTINF:-1 tvg-id="" tvg-name="TEBER STAR 2" tvg-logo="" group-title="Sinema",TEBER STAR 2
-https://stream-cdn-iad.vaughnsoft.net/play/live_teber_star2.flv
-#EXTINF:-1 tvg-id="" tvg-name="TEBER STAR 3" tvg-logo="" group-title="Sinema",TEBER STAR 3
-https://stream-cdn-iad.vaughnsoft.net/play/live_teber_star3.flv
-#EXTINF:-1 tvg-id="" tvg-name="TEBER STAR 4" tvg-logo="" group-title="Sinema",TEBER STAR 4
-https://stream-cdn-iad.vaughnsoft.net/play/live_teber_star4.flv
-#EXTINF:-1 tvg-id="" tvg-name="TEBER TELE 5" tvg-logo="" group-title="Sinema",TEBER TELE 5
-https://stream-cdn-iad.vaughnsoft.net/play/live_tele5_tr.flv
-#EXTINF:-1 tvg-id="" tvg-name="TEBER CİNE 6" tvg-logo="" group-title="Sinema",TEBER CİNE 6
-https://stream-cdn-iad.vaughnsoft.net/play/live_tbrt.flv
-#EXTINF:-1 tvg-id="" tvg-name="TEBER MEDYA ON" tvg-logo="" group-title="Sinema",TEBER MEDYA ON
-https://stream-cdn-iad.vaughnsoft.net/play/live_tbr_medya_on.flv
-#EXTINF:-1 tvg-id="" tvg-name="TEBER MEDYA FLASH" tvg-logo="" group-title="Sinema",TEBER MEDYA FLASH
-https://stream-cdn-iad2.vaughnsoft.net/play/live_teber_dizi_flash.flv
-#EXTINF:-1 tvg-id="" tvg-name="YEŞİLÇAM TV" tvg-logo="" group-title="Sinema",YEŞİLÇAM TV
-https://ythls.kekikakademi.org/youtube/channel/UCUALYmnkEmx8vlxIbpr2gmw.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="YEŞİLÇAM TV 2" tvg-logo="" group-title="Sinema",YEŞİLÇAM TV 2
-https://ythls.kekikakademi.org/youtube/channel/UCmw7e_6j2TSWCKeaZALjyuA.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="YEŞİLÇAM TV ARZU FİLM" tvg-logo="" group-title="Sinema",YEŞİLÇAM TV ARZU FİLM
+https://apisaku.app.tc/playlist/20.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="YEŞİLÇAM TV ZEİ METİN" tvg-logo="" group-title="Sinema",YEŞİLÇAM TV ZEKİ METİN
+https://apisaku.app.tc/playlist/78.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="YEŞİLÇAM TV 3" tvg-logo="" group-title="Sinema",YEŞİLÇAM TV 3
-https://ythls.kekikakademi.org/youtube/channel/UC0LzwfdVoZSQDtauDjJS8_A.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MEGA TV ŞABAN" tvg-logo="" group-title="Sinema",MEGA TV ŞABAN
-https://tv208.radyotelekom.com.tr:3417/stream/play.m3u8
+https://koprulu3.global.ssl.fastly.net/yt.m3u8/?id=8GyfV8qhpIs.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KEMAL SUNAL TV 1" tvg-logo="" group-title="Sinema",KEMAL SUNAL TV 1
-https://ythls.kekikakademi.org/youtube/channel/UCoIUysIrvGxoDw-GkdOGjRw.m3u8
+https://koprulu3.global.ssl.fastly.net/yt.m3u8/?id=u62XApSFaz8.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KEMAL SUNAL TV 2" tvg-logo="" group-title="Sinema",KEMAL SUNAL TV 2
-https://ythls.kekikakademi.org/youtube/video/hfx8H7YrmTw.m3u8
+https://apisaku.app.tc/playlist/13.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KEMAL SUNAL TV 3" tvg-logo="" group-title="Sinema",KEMAL SUNAL TV 3
-https://ythls.kekikakademi.org/youtube/channel/UCulg-mlXf314L1pemPqCVng.m3u8
+https://apisaku.app.tc/playlist/23.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KEMAL SUNAL TV 5" tvg-logo="" group-title="Sinema",KEMAL SUNAL TV 4
 http://vip.torktv.org:2095/live/vlkn2282/vlk.56/163161.ts
 #EXTINF:-1 tvg-id="" tvg-name="KEMAL SUNAL TV 6" tvg-logo="" group-title="Sinema",KEMAL SUNAL TV 5
