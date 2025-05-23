@@ -200,6 +200,8 @@ http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/174.ts
 #EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 9 FHD DMTN" tvg-logo="" group-title="Exxen Spor",EXXEN SPOR 9 FHD
 http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/174.ts
 #EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR FHD" tvg-logo="" group-title="Tivibu Spor",TİVİBU SPOR FHD
+http://lionking.proxvip.xyz:2095/live/vlkn2282/vlk.56/86876.ts
+#EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR" tvg-logo="" group-title="Tivibu Spor",TİVİBU SPOR
 https://canlitvulusal.xyz/live/tivibuspor/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR 1 FHD" tvg-logo="" group-title="Tivibu Spor",TİVİBU SPOR 1 FHD
 http://mag.king-4k.cc/A31244D285DD733/vHrBPrteyz/664837?play_token=
@@ -280,11 +282,11 @@ https://trt.daioncdn.net/trtspor/master_1080p.m3u8?platform=trtspor&sid=6v658fcn
 #EXTINF:-1 tvg-id="" tvg-name="TRT SPOR HD" tvg-logo="" group-title="Spor",TRT SPOR HD
 https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A SPOR FHD" tvg-logo="" group-title="Spor",A SPOR FHD
-https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
+https://koprulu3.global.ssl.fastly.net/yt.m3u8/?id=7uBpwcn2ZZ0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A SPOR FHD+" tvg-logo="" group-title="Spor",A SPOR FHD+
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A SPOR HD+" tvg-logo="" group-title="Spor",A SPOR HD+
-https://koprulu3.global.ssl.fastly.net/yt.m3u8/?id=7uBpwcn2ZZ0.m3u8
+https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A SPOR HD" tvg-logo="" group-title="Spor",A SPOR HD
 https://trn03.tulix.tv/gt-aspor/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A SPOR HD REC" tvg-logo="" group-title="Spor",A SPOR HD REC
@@ -294,7 +296,7 @@ https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HT SPOR HD" tvg-logo="" group-title="Spor",HT SPOR HD
 https://apisaku.app.tc/playlist/54.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR HD" tvg-logo="" group-title="Spor",TİVİBU SPOR HD
-http://hdlocal.de:8080/live/cs22cs.suroot/4amFSTThYHGGS2223/10013.ts
+http://lionking.proxvip.xyz:2095/live/vlkn2282/vlk.56/86876.ts
 #EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR" tvg-logo="" group-title="Spor",TİVİBU SPOR
 https://canlitvulusal.xyz/live/tivibuspor/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV 8.5 FHD" tvg-logo="" group-title="Spor",TV 8.5 FHD
@@ -834,19 +836,17 @@ https://tv1.arectv30.sbs/live/bsfamily.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN MOVİES TÜRK" tvg-logo="" group-title="Sinema",BEİN MOVİES TÜRK
 https://tv1.arectv30.sbs/live/bsturk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SİNEMA TV" tvg-logo="" group-title="Sinema",SİNEMA TV
-http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1790
+https://tinyurl.com/kablosinematv
 #EXTINF:-1 tvg-id="" tvg-name="SİNEMA AKSİYON" tvg-logo="" group-title="Sinema",SİNEMA AKSİYON
-http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1793
+https://tinyurl.com/kablosinemaksiyon
 #EXTINF:-1 tvg-id="" tvg-name="SİNEMA AİLE" tvg-logo="" group-title="Sinema",SİNEMA AİLE
-http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1794
+https://tinyurl.com/kablosinemaile
 #EXTINF:-1 tvg-id="" tvg-name="SİNEMA KOMEDİ" tvg-logo="" group-title="Sinema",SİNEMA KOMEDİ
-http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1795
+https://tinyurl.com/kablosinemakomedi
 #EXTINF:-1 tvg-id="" tvg-name="SİNEMA 1001" tvg-logo="" group-title="Sinema",SİNEMA 1001
-http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1789
+https://tinyurl.com/kablosinema1001
 #EXTINF:-1 tvg-id="" tvg-name="SİNEMA YERLİ" tvg-logo="" group-title="Sinema",SİNEMA YERLİ
-http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1791
-#EXTINF:-1 tvg-id="" tvg-name="MOVİESMART TÜRK" tvg-logo="" group-title="Sinema",MOVİESMART TÜRK
-http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1780
+https://tinyurl.com/kablosinemayerli
 #EXTINF:-1 tvg-id="" tvg-name="MOVİESMART TÜRK HD" tvg-logo="" group-title="Sinema",MOVİESMART TÜRK HD
 https://tv1.arectv30.sbs/live/mvturk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DİZİSMART PREMİUM" tvg-logo="" group-title="Sinema",DİZİSMART PREMİUM
@@ -938,37 +938,37 @@ https://apisaku.app.tc/playlist/13.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KEMAL SUNAL TV 3" tvg-logo="" group-title="Sinema",KEMAL SUNAL TV 3
 https://apisaku.app.tc/playlist/23.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KEMAL SUNAL TV 5" tvg-logo="" group-title="Sinema",KEMAL SUNAL TV 4
-http://vip.torktv.org:2095/live/vlkn2282/vlk.56/163161.ts
+http://lionking.proxvip.xyz:2095/live/vlkn2282/vlk.56/163161.ts
 #EXTINF:-1 tvg-id="" tvg-name="KEMAL SUNAL TV 6" tvg-logo="" group-title="Sinema",KEMAL SUNAL TV 5
-http://vip.torktv.org:2095/live/vlkn2282/vlk.56/163175.ts
+http://lionking.proxvip.xyz:2095/live/vlkn2282/vlk.56/163175.ts
 #EXTINF:-1 tvg-id="" tvg-name="KEMAL SUNAL TV 7" tvg-logo="" group-title="Sinema",KEMAL SUNAL TV 6
-http://vip.torktv.org:2095/live/vlkn2282/vlk.56/163151.ts
+http://lionking.proxvip.xyz:2095/live/vlkn2282/vlk.56/163151.ts
 #EXTINF:-1 tvg-id="" tvg-name="KEMAL SUNAL TV 8" tvg-logo="" group-title="Sinema",KEMAL SUNAL TV 7
-http://vip.torktv.org:2095/live/vlkn2282/vlk.56/163148.ts
+http://lionking.proxvip.xyz:2095/live/vlkn2282/vlk.56/163148.ts
 #EXTINF:-1 tvg-id="" tvg-name="HABABAM SINIFI TV" tvg-logo="" group-title="Sinema",HABABAM SINIFI TV
-http://vip.torktv.org:2095/live/vlkn2282/vlk.56/163170.ts
+http://lionking.proxvip.xyz:2095/live/vlkn2282/vlk.56/163170.ts
 #EXTINF:-1 tvg-id="" tvg-name="ŞENER ŞEN TV" tvg-logo="" group-title="Sinema",ŞENER ŞEN TV
-http://vip.torktv.org:2095/live/vlkn2282/vlk.56/163147.ts
+http://lionking.proxvip.xyz:2095/live/vlkn2282/vlk.56/163147.ts
 #EXTINF:-1 tvg-id="" tvg-name="ŞENER ŞEN TV 2" tvg-logo="" group-title="Sinema",ŞENER ŞEN TV 2
-http://vip.torktv.org:2095/live/vlkn2282/vlk.56/163172.ts
+http://lionking.proxvip.xyz:2095/live/vlkn2282/vlk.56/163172.ts
 #EXTINF:-1 tvg-id="" tvg-name="ZEKİ METİN TV" tvg-logo="" group-title="Sinema",ZEKİ METİN TV
-http://vip.torktv.org:2095/live/vlkn2282/vlk.56/163181.ts
+http://lionking.proxvip.xyz:2095/live/vlkn2282/vlk.56/163181.ts
 #EXTINF:-1 tvg-id="" tvg-name="TARIK AKAN TV" tvg-logo="" group-title="Sinema",TARIK AKAN TV
-http://vip.torktv.org:2095/live/vlkn2282/vlk.56/6606.ts
+http://lionking.proxvip.xyz:2095/live/vlkn2282/vlk.56/6606.ts
 #EXTINF:-1 tvg-id="" tvg-name="KELOĞLAN TV" tvg-logo="" group-title="Sinema",KELOĞLAN TV
-http://vip.torktv.org:2095/live/vlkn2282/vlk.56/163156.ts
+http://lionking.proxvip.xyz:2095/live/vlkn2282/vlk.56/163156.ts
 #EXTINF:-1 tvg-id="" tvg-name="İBRAHİM TATLISES TV" tvg-logo="" group-title="Sinema",İBRAHİM TATLISES TV
-http://vip.torktv.org:2095/live/vlkn2282/vlk.56/163160.ts
+http://lionking.proxvip.xyz:2095/live/vlkn2282/vlk.56/163160.ts
 #EXTINF:-1 tvg-id="" tvg-name="KÜÇÜK EMRAH TV" tvg-logo="" group-title="Sinema",KÜÇÜK EMRAH TV
-http://vip.torktv.org:2095/live/vlkn2282/vlk.56/163182.ts
+http://lionking.proxvip.xyz:2095/live/vlkn2282/vlk.56/163182.ts
 #EXTINF:-1 tvg-id="" tvg-name="CÜNEYT ARKIN TV 1" tvg-logo="" group-title="Sinema",CÜNEYT ARKIN TV 1
-http://vip.torktv.org:2095/live/vlkn2282/vlk.56/6597.ts
+http://lionking.proxvip.xyz:2095/live/vlkn2282/vlk.56/6597.ts
 #EXTINF:-1 tvg-id="" tvg-name="CÜNEYT ARKIN TV 2" tvg-logo="" group-title="Sinema",CÜNEYT ARKIN TV 2
-http://vip.torktv.org:2095/live/vlkn2282/vlk.56/163178.ts
+http://lionking.proxvip.xyz:2095/live/vlkn2282/vlk.56/163178.ts
 #EXTINF:-1 tvg-id="" tvg-name="CÜNEYT ARKIN TV 3" tvg-logo="" group-title="Sinema",CÜNEYT ARKIN TV 3
-http://vip.torktv.org:2095/live/vlkn2282/vlk.56/163176.ts
+http://lionking.proxvip.xyz:2095/live/vlkn2282/vlk.56/163176.ts
 #EXTINF:-1 tvg-id="" tvg-name="CÜNEYT ARKIN TV 4" tvg-logo="" group-title="Sinema",CÜNEYT ARKIN TV 4
-http://vip.torktv.org:2095/live/vlkn2282/vlk.56/163150.ts
+http://lionking.proxvip.xyz:2095/live/vlkn2282/vlk.56/163150.ts
 #EXTINF:-1 tvg-id="" tvg-name="FARRUK TV" tvg-logo="" group-title="Sinema",FARRUK TV
 https://vsrv1.az-streamingserver.com:3833/live/ofhwiwudlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ALVİN CHANNEL" tvg-logo="" group-title="Sinema",ALVİN CHANNEL
