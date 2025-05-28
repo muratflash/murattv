@@ -899,8 +899,8 @@ https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 https://canli.cine6tv.com.tr:3614/stream/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CİNE 6 MAX TV" tvg-logo="" group-title="Sinema",CİNE 6 MAX TV
 https://ip240.radyotelekom.com.tr:3118/stream/play.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KANAL 10 TV" tvg-logo="" group-title="Sinema",KANAL 10 TV
-https://hls.goodgame.ru/hls/214750.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="YANSIMA SİNEMA TV" tvg-logo="" group-title="Sinema",YANSIMA SİNEMA TV
+https://hls.goodgame.ru/hls/215961.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TELEON TV" tvg-logo="" group-title="Sinema",TELEON TV
 https://tinyurl.com/teleon
 #EXTINF:-1 tvg-id="" tvg-name="LEBİH TV" tvg-logo="" group-title="Sinema",LEBİH TV
@@ -1216,7 +1216,7 @@ https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist_w564654603.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SDM TV MÜZİK" tvg-logo="" group-title="Müzik",SDM TV MÜZİK
 https://host.onlineradyotv.net:8081/sdmtv2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="YANSIMA MÜZİK TV" tvg-logo="" group-title="Müzik",YANSIMA MÜZİK TV
-https://stream-cdn-iad2.vaughnsoft.net/play/live_yansimamuziktv.flv
+https://hls.goodgame.ru/hls/215959.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MEGA TV MÜZİK" tvg-logo="" group-title="Müzik",MEGA TV MÜZİK
 https://a8.radyotelekom.com.tr:3513/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EGE LİVE TV" tvg-logo="" group-title="Müzik",EGE LİVE TV
