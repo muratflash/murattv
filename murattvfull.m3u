@@ -1,5 +1,5 @@
 #EXTINF:-1 ,MURAT TV
-https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=EmdtE7sRMSY.m3u8
+https://yotubesakuapi.global.ssl.fastly.net/playlist/75.m3u8
 #EXTINF:-1 ,MURAT TV 2
 https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=n5CBQTdLkLA.m3u8
 #EXTINF:-1 ,MURAT TV 3
@@ -114,7 +114,7 @@ https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=VCl1wO81VdM.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS HABER HD" tvg-logo="" group-title="Bein Sports",BEİN SPORTS HABER HD
 http://hdlocal.de:8080/live/cs22cs.suroot/4amFSTThYHGGS2223/10033.ts
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS HABER" tvg-logo="" group-title="Bein Sports",BEİN SPORTS HABER
-http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/154.ts
+https://yotubesakuapi.global.ssl.fastly.net/playlist/71.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS ARŞİV" tvg-logo="" group-title="Bein Sports",BEİN SPORTS ARŞİV
 https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=KTGpuaZek0A.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TABİİ SPOR FHD" tvg-logo="" group-title="Tabii Spor",TABİİ SPOR FHD
@@ -230,9 +230,9 @@ https://v.arectv13.sbs/static/t3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR 4 HD" tvg-logo="" group-title="Tivibu Spor",TİVİBU SPOR 4 HD
 https://v.arectv13.sbs/static/t4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="S SPORT FHD" tvg-logo="" group-title="S Sport",S SPORT FHD
-https://bcovlive-a.akamaihd.net/540fcb034b144b848e7ff887f61a293a/eu-central-1/6415845530001/playlist.m3u8
+https://lemonchiffon-dotterel-347603.hostingersite.com/yayin.m3u8?id=1810
 #EXTINF:-1 tvg-id="" tvg-name="S SPORT 2 FHD" tvg-logo="" group-title="S Sport",S SPORT 2 FHD
-https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/playlist.m3u8
+https://lemonchiffon-dotterel-347603.hostingersite.com/yayin.m3u8?id=3901
 #EXTINF:-1 tvg-id="" tvg-name="S SPORT HD+" tvg-logo="" group-title="S Sport",S SPORT HD+
 https://217.30.11.74/e/3030.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="S SPORT 2 HD+" tvg-logo="" group-title="S Sport",S SPORT 2 HD+
@@ -273,8 +273,10 @@ https://217.30.11.74/e/155.m3u8
 https://217.30.11.74/e/156.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS HABER FHD" tvg-logo="" group-title="Spor",BEİN SPORTS HABER FHD
 https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=VCl1wO81VdM.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS HABER FHD+" tvg-logo="" group-title="Spor",BEİN SPORTS HABER FHD+
+https://lemonchiffon-dotterel-347603.hostingersite.com/yayin.m3u8?id=2114
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS HABER HD" tvg-logo="" group-title="Spor",BEİN SPORTS HABER HD
-http://teke-tek.garibim.club:6787/live/tefil-WOI/AcpbP4UsnkRr/148.ts
+https://yotubesakuapi.global.ssl.fastly.net/playlist/71.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS HABER HD+" tvg-logo="" group-title="Spor",BEİN SPORTS HABER HD+
 http://driptvs.com:2095/live/King200conxx/355sgdhh/5359.ts
 #EXTINF:-1 tvg-id="" tvg-name="TRT SPOR FHD" tvg-logo="" group-title="Spor",TRT SPOR FHD
@@ -289,12 +291,12 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
 https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A SPOR HD" tvg-logo="" group-title="Spor",A SPOR HD
 https://trn03.tulix.tv/gt-aspor/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A SPOR HD REC" tvg-logo="" group-title="Spor",A SPOR HD REC
-https://tv1.arectv30.sbs/live/aspor.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A SPOR" tvg-logo="" group-title="Spor",A SPOR
+https://lemonchiffon-dotterel-347603.hostingersite.com/yayin.m3u8?id=3103
 #EXTINF:-1 tvg-id="" tvg-name="HT SPOR FHD" tvg-logo="" group-title="Spor",HT SPOR FHD
 https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HT SPOR HD" tvg-logo="" group-title="Spor",HT SPOR HD
-https://apisaku.app.tc/playlist/54.m3u8
+https://yotubesakuapi.global.ssl.fastly.net/playlist/54.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR HD" tvg-logo="" group-title="Spor",TİVİBU SPOR HD
 http://lionking.proxvip.xyz:2095/live/vlkn2282/vlk.56/86876.ts
 #EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR" tvg-logo="" group-title="Spor",TİVİBU SPOR
@@ -310,13 +312,15 @@ http://78.128.125.60:9981/play/a01i/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LİDER HABER TELEGOL" tvg-logo="" group-title="Spor",LİDER HABER TELEGOL
 http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/sec-f5-v1-a1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KON TV SPOR GÜNDEMİ" tvg-logo="" group-title="Spor",KON TV SPOR GÜNDEMİ
+https://lemonchiffon-dotterel-347603.hostingersite.com/yayin.m3u8?id=1708
+#EXTINF:-1 tvg-id="" tvg-name="KON TV SPOR" tvg-logo="" group-title="Spor",KON TV SPOR
 http://driptvs.com:2095/live/King200conxx/355sgdhh/22824.ts
 #EXTINF:-1 tvg-id="" tvg-name="TRT SPOR YILDIZ" tvg-logo="" group-title="Spor",TRT SPOR YILDIZ
 https://tv-trtspor2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SPORTS TV" tvg-logo="" group-title="Spor",SPORTS TV
 https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FB TV" tvg-logo="" group-title="Spor",FB TV
-https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/chunklist_b8628000_slTUR.m3u8
+https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GS TV" tvg-logo="" group-title="Spor",GS TV
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR SPOR TV" tvg-logo="" group-title="Spor",TR SPOR TV
@@ -346,15 +350,15 @@ https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-ra
 #EXTINF:-1 tvg-id="" tvg-name="HARD KNOCKS FİGHTİNG" tvg-logo="" group-title="Spor",HARD KNOCKS FİGHTİNG
 https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/2ee2b8d4-acc4-4296-9dc8-66f1ffd0fff8/5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FİGHT BOX" tvg-logo="" group-title="Spor",FİGHT BOX
-https://koprulu4.global.ssl.fastly.net/app2/rectv2.m3u8/?id=fight
+https://tv.arectv31.sbs/live/fight.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1" tvg-logo="" group-title="Spor",EUROSPORT 1
-https://eurosport1.blutv.com/blutv_eurosport1/smil:eurosport1.smil/playlist.m3u8
+https://lemonchiffon-dotterel-347603.hostingersite.com/yayin.m3u8?id=2002
 #EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2" tvg-logo="" group-title="Spor",EUROSPORT 2
-https://eurosport2.blutv.com/blutv_eurosport2/smil:eurosport2.smil/playlist.m3u8
+https://lemonchiffon-dotterel-347603.hostingersite.com/yayin.m3u8?id=1809
 #EXTINF:-1 tvg-id="" tvg-name="TJK TV" tvg-logo="" group-title="Spor",TJK TV
 https://tjktv-live.tjk.org/tjktv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TJK TV HD" tvg-logo="" group-title="Spor",TJK TV HD
-https://apisaku.app.tc/playlist/36.m3u8
+https://yotubesakuapi.global.ssl.fastly.net/playlist/36.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TAY TV FHD" tvg-logo="" group-title="Spor",TAY TV FHD
 https://duhnet.hipodrom.com/S2/HLS_LIVE/mislitaynp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TAY TV HD" tvg-logo="" group-title="Spor",TAY TV HD
@@ -374,9 +378,9 @@ https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TGRT HABER FHD" tvg-logo="" group-title="Haber",TGRT HABER FHD
 https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TGRT HABER HD" tvg-logo="" group-title="Haber",TGRT HABER HD
-https://apisaku.app.tc/playlist/9.m3u8
+https://yotubesakuapi.global.ssl.fastly.net/playlist/9.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A HABER FHD" tvg-logo="" group-title="Haber",A HABER FHD
-https://apisaku.app.tc/playlist/4.m3u8
+https://yotubesakuapi.global.ssl.fastly.net/playlist/4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A HABER FHD+" tvg-logo="" group-title="Haber",A HABER FHD+
 https://trkvz-live.ercdn.net/ahaberhd/ahaberhd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A HABER HD+" tvg-logo="" group-title="Haber",A HABER HD+
@@ -388,7 +392,7 @@ http://hdlocal.de:8080/live/cs22cs.suroot/4amFSTThYHGGS2223/10140.ts
 #EXTINF:-1 tvg-id="" tvg-name="A HABER" tvg-logo="" group-title="Haber",A HABER
 http://116.202.238.88/AHABER_TR/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN TÜRK FHD" tvg-logo="" group-title="Haber",CNN TÜRK FHD
-https://apisaku.app.tc/playlist/1.m3u8
+https://yotubesakuapi.global.ssl.fastly.net/playlist/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN TÜRK FHD+" tvg-logo="" group-title="Haber",CNN TÜRK FHD+
 https://tv1.arectv30.sbs/live/cnnturk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN TÜRK HD" tvg-logo="" group-title="Haber",CNN TÜRK HD
@@ -406,13 +410,13 @@ http://116.202.238.88/CNNTURK_TR/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HABER TÜRK FHD" tvg-logo="" group-title="Haber",HABER TÜRK FHD
 https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HABER TÜRK HD+" tvg-logo="" group-title="Haber",HABER TÜRK HD+
-https://apisaku.app.tc/playlist/3.m3u8 
+https://yotubesakuapi.global.ssl.fastly.net/playlist/3.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="HABER TÜRK HD" tvg-logo="" group-title="Haber",HABER TÜRK HD
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HABER TÜRK" tvg-logo="" group-title="Haber",HABER TÜRK
 https://tv.ensonhaber.com/haberturk/haberturk_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HABER GLOBAL FHD" tvg-logo="" group-title="Haber",HABER GLOBAL FHD
-https://apisaku.app.tc/playlist/83.m3u8
+https://yotubesakuapi.global.ssl.fastly.net/playlist/83.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HABER GLOBAL FHD+" tvg-logo="" group-title="Haber",HABER GLOBAL FHD+
 http://176.65.146.123:6003/play/a00z/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HABER GLOBAL HD+" tvg-logo="" group-title="Haber",HABER GLOBAL HD+
@@ -426,39 +430,41 @@ http://116.202.238.88/HABERGLOBAL_TR/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NTV FHD" tvg-logo="" group-title="Haber",NTV FHD
 http://dygvideo.dygdigital.com/live/hls/ntv4puhu?m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NTV HD" tvg-logo="" group-title="Haber",NTV HD
-https://apisaku.app.tc/playlist/5.m3u8
+https://yotubesakuapi.global.ssl.fastly.net/playlist/5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NTV" tvg-logo="" group-title="Haber",NTV
 https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EKOL TV FHD" tvg-logo="" group-title="Haber",EKOL TV FHD
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EKOL TV HD" tvg-logo="" group-title="Haber",EKOL TV HD
-https://apisaku.app.tc/playlist/34.m3u8
+https://yotubesakuapi.global.ssl.fastly.net/playlist/34.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24 TV FHD" tvg-logo="" group-title="Haber",24 TV FHD
 https://turkmedya-live.ercdn.net/tv24/tv24_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24 TV HD" tvg-logo="" group-title="Haber",24 TV HD
 https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist_b896000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24 TV" tvg-logo="" group-title="Haber",24 TV
-https://apisaku.app.tc/playlist/86.m3u8
+https://yotubesakuapi.global.ssl.fastly.net/playlist/86.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV100 FHD" tvg-logo="" group-title="Haber",TV100 FHD
 https://tv100-live.daioncdn.net/tv100/tv100_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV100 HD" tvg-logo="" group-title="Haber",TV100 HD
-https://apisaku.app.tc/playlist/6.m3u8
+https://yotubesakuapi.global.ssl.fastly.net/playlist/6.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVNET FHD" tvg-logo="" group-title="Haber",TVNET FHD
-https://apisaku.app.tc/playlist/12.m3u8
+https://yotubesakuapi.global.ssl.fastly.net/playlist/12.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVNET HD" tvg-logo="" group-title="Haber",TVNET HD
 https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TH TÜRK HABER" tvg-logo="" group-title="Haber",TH TÜRK HABER
 https://edge1.socialsmart.tv/turkhaber/bant1/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TH TÜRK HABER HD" tvg-logo="" group-title="Haber",TH TÜRK HABER HD
+https://lemonchiffon-dotterel-347603.hostingersite.com/yayin.m3u8?id=3205
 #EXTINF:-1 tvg-id="" tvg-name="ÜLKE TV FHD" tvg-logo="" group-title="Haber",ÜLKE TV FHD
 https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ÜLKE TV HD" tvg-logo="" group-title="Haber",ÜLKE TV HD
-https://apisaku.app.tc/playlist/16.m3u8
+https://yotubesakuapi.global.ssl.fastly.net/playlist/16.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ÜLKE TV HD+" tvg-logo="" group-title="Haber",ÜLKE TV HD+
 http://hdlocal.de:8080/live/cs22cs.suroot/4amFSTThYHGGS2223/10122.ts
 #EXTINF:-1 tvg-id="" tvg-name="ÜLKE TV" tvg-logo="" group-title="Haber",ÜLKE TV
 http://116.202.238.88/ULKETV_TR/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TÜRKİYE GAZETESİ CANLI" tvg-logo="" group-title="Haber",TÜRKİYE GAZETESİ CANLI
-https://apisaku.app.tc/playlist/82.m3u8
+https://yotubesakuapi.global.ssl.fastly.net/playlist/82.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BUSİNESS CHANNEL TÜRK" tvg-logo="" group-title="Haber",BUSİNESS CHANNEL TÜRK
 https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=flB1kqNCG8c.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GZT TV" tvg-logo="" group-title="Haber",GZT TV
@@ -470,7 +476,7 @@ https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=ZSWPj9szKb8.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HALK TV" tvg-logo="" group-title="Haber",HALK TV
 https://halktv-live.daioncdn.net/halktv/halktv_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SÖZCÜ TV FHD" tvg-logo="" group-title="Haber",SÖZCÜ TV FHD
-https://apisaku.app.tc/playlist/2.m3u8
+https://yotubesakuapi.global.ssl.fastly.net/playlist/2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SÖZCÜ TV FHD+" tvg-logo="" group-title="Haber",SÖZCÜ TV FHD+
 https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=ztmY_cCtUl0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SÖZCÜ TV HD+" tvg-logo="" group-title="Haber",SÖZCÜ TV HD+
@@ -482,10 +488,12 @@ http://a8026.yesil03.xyz:80/hursitkose/gEgANpaw/70127
 #EXTINF:-1 tvg-id="" tvg-name="TELE 1 FHD" tvg-logo="" group-title="Haber",TELE 1 FHD
 https://tele1-live.ercdn.net/tele1/tele1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TELE 1 HD" tvg-logo="" group-title="Haber",TELE 1 HD
-https://apisaku.app.tc/playlist/15.m3u8
+https://yotubesakuapi.global.ssl.fastly.net/playlist/15.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TELE 1" tvg-logo="" group-title="Haber",TELE 1
-https://apisaku.app.tc/playlist/65.m3u8
+https://yotubesakuapi.global.ssl.fastly.net/playlist/65.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KRT TV FHD" tvg-logo="" group-title="Haber",KRT TV FHD
+https://lemonchiffon-dotterel-347603.hostingersite.com/yayin.m3u8?id=4006
+#EXTINF:-1 tvg-id="" tvg-name="KRT TV FHD+" tvg-logo="" group-title="Haber",KRT TV FHD+
 https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=v5srSbD2WBk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KRT TV HD" tvg-logo="" group-title="Haber",KRT TV HD
 https://trn03.tulix.tv/gt-krt-tv/index.m3u8
@@ -496,7 +504,7 @@ https://flashhaber-live.ercdn.net/flashhaber/flashhaber_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FLASH HABER HD" tvg-logo="" group-title="Haber",FLASH HABER HD
 http://176.65.146.224:6005/play/a01h/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FLASH HABER" tvg-logo="" group-title="Haber",FLASH HABER
-https://apisaku.app.tc/playlist/87.m3u8
+https://yotubesakuapi.global.ssl.fastly.net/playlist/87.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="İLKE TV" tvg-logo="" group-title="Haber",İLKE TV
 https://yayin1.canlitv.fun/canlitv/ilketv.stream/chunklist_w1251053909.m3u8?hash=b0fd6da0c45409a2b42467df8a32de8d
 #EXTINF:-1 tvg-id="" tvg-name="CAN TV" tvg-logo="" group-title="Haber",CAN TV
@@ -516,9 +524,9 @@ https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=Z6UMUil41SI.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AKİT TV" tvg-logo="" group-title="Haber",AKİT TV
 https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AKİT TV HD" tvg-logo="" group-title="Haber",AKİT TV HD
-https://apisaku.app.tc/playlist/85.m3u8
+https://yotubesakuapi.global.ssl.fastly.net/playlist/85.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ULUSAL KANAL FHD" tvg-logo="" group-title="Haber",ULUSAL KANAL FHD
-https://apisaku.app.tc/playlist/88.m3u8
+https://yotubesakuapi.global.ssl.fastly.net/playlist/88.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ULUSAL KANAL HD" tvg-logo="" group-title="Haber",ULUSAL KANAL HD
 https://canlitvulusal.xyz/live/ulusalkanal/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ULUSAL KANAL" tvg-logo="" group-title="Haber",ULUSAL KANAL
@@ -526,7 +534,7 @@ http://116.202.238.88/ULUSALTV_TR/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BENGÜ TÜRK FHD" tvg-logo="" group-title="Haber",BENGÜ TÜRK FHD
 https://tv.ensonhaber.com/benguturk/benguturk_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BENGÜ TÜRK HD" tvg-logo="" group-title="Haber",BENGÜ TÜRK HD
-https://apisaku.app.tc/playlist/84.m3u8
+https://yotubesakuapi.global.ssl.fastly.net/playlist/84.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KANAL B" tvg-logo="" group-title="Haber",KANAL B
 https://baskentaudiovideo.xyz/LiveApp/streams/mUE22idl26lA1683879097431.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV 5" tvg-logo="" group-title="Haber",TV 5
@@ -564,9 +572,9 @@ https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=L4O-IO_dySQ.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A NEWS HD" tvg-logo="" group-title="Haber",A NEWS HD
 https://trkvz-live.ercdn.net/anewshd/anewshd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A NEWS" tvg-logo="" group-title="Haber",A NEWS
-http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/284578
+https://yotubesakuapi.global.ssl.fastly.net/yt.m3u8/?id=L4O-IO_dySQ.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN İNTERNATİONAL" tvg-logo="" group-title="Haber",CNN İNTERNATİONAL
-https://cnnint.blutv.com/blutv_cnnint/smil:cnnint.smil/playlist.m3u8
+https://lemonchiffon-dotterel-347603.hostingersite.com/yayin.m3u8?id=3005
 #EXTINF:-1 tvg-id="" tvg-name="CÜNEYT ÖZDEMİR YOUTUBE Her Gün Saat 12" tvg-logo="" group-title="Haber",CÜNEYT ÖZDEMİR YOUTUBE Her gün Saat 12
 https://ythls.kekikakademi.org/youtube/channel/UCkwHQ7DWv9aqEtvAOSO74dQ.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT 1 FHD" tvg-logo="" group-title="Ulusal",TRT 1 FHD
@@ -596,7 +604,7 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ATV UHD" tvg-logo="" group-title="Ulusal",ATV UHD
 http://ott.dobratv.net:25461/live/TeleskyGradacac/OlhzoyCMyn/6643.ts
 #EXTINF:-1 tvg-id="" tvg-name="ATV HD+" tvg-logo="" group-title="Ulusal",ATV HD+
-https://217.30.11.74/e/160.m3u8
+https://lemonchiffon-dotterel-347603.hostingersite.com/yayin.m3u8?id=2401
 #EXTINF:-1 tvg-id="" tvg-name="ATV HD+" tvg-logo="" group-title="Ulusal",ATV HD
 http://89.187.191.41/ATV-HD-TR/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ATV" tvg-logo="" group-title="Ulusal",ATV
@@ -618,7 +626,7 @@ http://116.202.238.88/STARTV_TR/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STAR TV" tvg-logo="" group-title="Ulusal",STAR TV
 https://emmazbvkkf.turknet.ercdn.net/cnifuowzza/startv/startv_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NOW FHD" tvg-logo="" group-title="Ulusal",NOW FHD
-https://tv1.arectv30.sbs/live/foxtv.m3u8
+https://lemonchiffon-dotterel-347603.hostingersite.com/yayin.m3u8?id=2213
 #EXTINF:-1 tvg-id="" tvg-name="NOW FHD+" tvg-logo="" group-title="Ulusal",NOW FHD+
 http://176.65.146.123:6002/play/a01j/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NOW HD+" tvg-logo="" group-title="Ulusal",NOW HD+
@@ -662,9 +670,9 @@ https://yurhnwtpys.turknet.ercdn.net/cvmbjbpmdx/kanal7/kanal7.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KANAL 7" tvg-logo="" group-title="Ulusal",KANAL 7
 http://89.187.191.41/Kanal-7-HD-TR/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A2 FHD" tvg-logo="" group-title="Ulusal",A2 FHD
-https://trkvz-live.daioncdn.net/a2tv/a2tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A2 HD+" tvg-logo="" group-title="Ulusal",A2 HD+
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A2 HD+" tvg-logo="" group-title="Ulusal",A2 HD+
+https://trkvz-live.daioncdn.net/a2tv/a2tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A2 HD" tvg-logo="" group-title="Ulusal",A2 HD
 http://89.187.191.41/A2-HD-TR/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A2" tvg-logo="" group-title="Ulusal",A2
@@ -702,13 +710,15 @@ https://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GZT TV" tvg-logo="" group-title="Ulusal",GZT TV
 https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GZT TV HD" tvg-logo="" group-title="Ulusal",GZT TV HD
-https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=.m3u8
+https://lemonchiffon-dotterel-347603.hostingersite.com/yayin.m3u8?id=1902
 #EXTINF:-1 tvg-id="" tvg-name="A PARA FHD" tvg-logo="" group-title="Ulusal",A PARA FHD
-https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=63uHG__U1wc.m3u8
+https://lemonchiffon-dotterel-347603.hostingersite.com/yayin.m3u8?id=2406
+#EXTINF:-1 tvg-id="" tvg-name="A PARA FHD+" tvg-logo="" group-title="Ulusal",A PARA FHD+
+https://yotubesakuapi.global.ssl.fastly.net/playlist/89.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A PARA HD+" tvg-logo="" group-title="Ulusal",A PARA HD+
 https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A PARA HD" tvg-logo="" group-title="Ulusal",A PARA HD
-https://apisaku.app.tc/playlist/89.m3u8
+https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=63uHG__U1wc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A PARA" tvg-logo="" group-title="Ulusal",A PARA
 http://185.234.111.229:8000/play/a01l
 #EXTINF:-1 tvg-id="" tvg-name="BLOOMBERG HT" tvg-logo="" group-title="Ulusal",BLOOMBERG HT
@@ -716,20 +726,22 @@ https://bloomberght-live.daioncdn.net/bloomberght/bloomberght.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BLOOMBERG HT HD" tvg-logo="" group-title="Ulusal",BLOOMBERG HT HD
 https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=hHSmBJk6w0c.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BLOOMBERG HT FHD" tvg-logo="" group-title="Ulusal",BLOOMBERG HT FHD
-https://apisaku.app.tc/playlist/91.m3u8
+https://yotubesakuapi.global.ssl.fastly.net/playlist/91.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNBC-E FHD" tvg-logo="" group-title="Ulusal",CNBC-E FHD
 https://uzunmuhalefet.serv00.net/canlitv2.php?id=13406&.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNBC-E HD+" tvg-logo="" group-title="Ulusal",CNBC-E HD+
 http://50.7.144.122:1935/live/cnbce.stream/playlist.m3u8?hash=b0fd6da0c45409a2b42467df8a32de8d
 #EXTINF:-1 tvg-id="" tvg-name="CNBC-E HD" tvg-logo="" group-title="Ulusal",CNBC-E HD
-https://apisaku.app.tc/playlist/90.m3u8
+https://yotubesakuapi.global.ssl.fastly.net/playlist/90.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNBC-E" tvg-logo="" group-title="Ulusal",CNBC-E
 https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=XihyuKSyUD0.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EKOTÜRK TV" tvg-logo="" group-title="Ulusal",EKOTÜRK TV
-https://apisaku.app.tc/playlist/47.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EKOTÜRK TV FHD" tvg-logo="" group-title="Ulusal",EKOTÜRK TV FHD
 http://176.65.146.123:6004/play/a018/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EKOTÜRK TV FHD+" tvg-logo="" group-title="Ulusal",EKOTÜRK TV FHD+
+https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=Eol9cuS6qZI.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EKOTÜRK TV HD" tvg-logo="" group-title="Ulusal",EKOTÜRK TV HD
+https://yotubesakuapi.global.ssl.fastly.net/playlist/47.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EKOTÜRK TV" tvg-logo="" group-title="Ulusal",EKOTÜRK TV
 https://trn03.tulix.tv/gt-ekoturk/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TLC FHD" tvg-logo="" group-title="Ulusal",TLC FHD
 http://176.65.146.123:6001/play/a025/index.m3u8
@@ -764,39 +776,39 @@ https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=QDbUBdcHUMk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TÜRKMENELİ TV" tvg-logo="" group-title="Ulusal",TÜRKMENELİ TV
 https://135962.global.ssl.fastly.net/5ff366a512987e2c0a3dabfe/live_14378e1002eb11ef9cb025207067897a/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ADANALI" tvg-logo="" group-title="Dizi",ADANALI
-https://apisaku.app.tc/playlist/39.m3u8
+https://yotubesakuapi.global.ssl.fastly.net/playlist/39.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ADINI FERİHA KOYDUM" tvg-logo="" group-title="Dizi",ADINI FERİHA KOYDUM
-https://apisaku.app.tc/playlist/14.m3u8
+https://yotubesakuapi.global.ssl.fastly.net/playlist/14.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ALEMİN KIRALI" tvg-logo="" group-title="Dizi",ALEMİN KIRALI
-https://apisaku.app.tc/playlist/56.m3u8
+https://yotubesakuapi.global.ssl.fastly.net/playlist/56.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AVRUPA YAKASI" tvg-logo="" group-title="Dizi",AVRUPA YAKASI
-https://apisaku.app.tc/playlist/49.m3u8
+https://yotubesakuapi.global.ssl.fastly.net/playlist/49.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEHZAT Ç" tvg-logo="" group-title="Dizi",BEHZAT Ç
-https://apisaku.app.tc/playlist/50.m3u8
+https://yotubesakuapi.global.ssl.fastly.net/playlist/50.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BİR ZAMANLAR ÇUKUROVA" tvg-logo="" group-title="Dizi",BİR ZAMANLAR ÇUKUROVA
 https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=yq2QNxzcUUo.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BİZİMKİLER" tvg-logo="" group-title="Dizi",BİZİMKİLER
-https://apisaku.app.tc/playlist/21.m3u8
+https://yotubesakuapi.global.ssl.fastly.net/playlist/21.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CENNET MAHALLESİ" tvg-logo="" group-title="Dizi",CENNET MAHALLESİ
-https://apisaku.app.tc/playlist/55.m3u8
+https://yotubesakuapi.global.ssl.fastly.net/playlist/55.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ÇİÇEK TAKSİ" tvg-logo="" group-title="Dizi",ÇİÇEK TAKSİ
-https://apisaku.app.tc/playlist/51.m3u8
+https://yotubesakuapi.global.ssl.fastly.net/playlist/51.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ÇOCUKLAR DUYMASIN" tvg-logo="" group-title="Dizi",ÇOCUKLAR DUYMASIN
 https://ythls.kekikakademi.org/youtube/channel/UCT-esPYdSgROctgOKnJ0AjA.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ÇOCUKLAR DUYMASIN 2" tvg-logo="" group-title="Dizi",ÇOCUKLAR DUYMASIN 2
-https://apisaku.app.tc/playlist/38.m3u8
+https://yotubesakuapi.global.ssl.fastly.net/playlist/38.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ÇOCUKLAR DUYMASIN 3" tvg-logo="" group-title="Dizi",ÇOCUKLAR DUYMASIN 3
-https://apisaku.app.tc/playlist/64.m3u8
+https://yotubesakuapi.global.ssl.fastly.net/playlist/64.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DİRİLİŞ ERTUĞRUL" tvg-logo="" group-title="Dizi",DİRİLİŞ ERTUĞRUL
-https://apisaku.app.tc/playlist/32.m3u8
+https://yotubesakuapi.global.ssl.fastly.net/playlist/32.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EMRET KOMUTANIM" tvg-logo="" group-title="Dizi",EMRET KOMUTANIM
-https://apisaku.app.tc/playlist/42.m3u8
+https://yotubesakuapi.global.ssl.fastly.net/playlist/42.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EŞKİYA DÜNYAYA HÜKÜMDAR OLMAZ" tvg-logo="" group-title="Dizi",EŞKİYA DÜNYAYA HÜKÜMDAR OLMAZ
-https://apisaku.app.tc/playlist/74.m3u8
+https://yotubesakuapi.global.ssl.fastly.net/playlist/74.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FATİH HARBİYE" tvg-logo="" group-title="Dizi",FATİH HARBİYE
-https://apisaku.app.tc/playlist/46.m3u8
+https://yotubesakuapi.global.ssl.fastly.net/playlist/46.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GÖNÜL DAĞI" tvg-logo="" group-title="Dizi",GÖNÜL DAĞI
-https://apisaku.app.tc/playlist/30.m3u8
+https://yotubesakuapi.global.ssl.fastly.net/playlist/30.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="İNCİ TANELERİ" tvg-logo="" group-title="Dizi",İNCİ TANELERİ
 https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=7ansDZhrY6Q.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="JET SOSYETE" tvg-logo="" group-title="Dizi",JET SOSYETE
@@ -804,41 +816,41 @@ https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=11DPfcbwiJY.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KARDEŞLERİM" tvg-logo="" group-title="Dizi",KARDEŞLERİM
 https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=vVs9H5Qj6w.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KIZILCIK ŞERBETİ" tvg-logo="" group-title="Dizi",KIZILCIK ŞERBETİ
-https://apisaku.app.tc/playlist/29.m3u8
+https://yotubesakuapi.global.ssl.fastly.net/playlist/29.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KURTLAR VADİSİ" tvg-logo="" group-title="Dizi",KURTLAR VADİSİ
-https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=cD8gkUdwgOs.m3u8
+https://yotubesakuapi.global.ssl.fastly.net/playlist/27.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KURTLAR VADİSİ PUSU" tvg-logo="" group-title="Dizi",KURTLAR VADİSİ PUSU
 https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=RzD2ATkR9UU.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KURULUŞ OSMAN" tvg-logo="" group-title="Dizi",KURULUŞ OSMAN
-https://apisaku.app.tc/playlist/45.m3u8
+https://yotubesakuapi.global.ssl.fastly.net/playlist/45.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KUZEY GÜNEY" tvg-logo="" group-title="Dizi",KUZEY GÜNEY
 https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=ay_whLpQXgc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LEYLA İLE MECNUN" tvg-logo="" group-title="Dizi",LEYLA İLE MECNUN
-https://apisaku.app.tc/playlist/61.m3u8
+https://yotubesakuapi.global.ssl.fastly.net/playlist/61.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MEDCEZİR" tvg-logo="" group-title="Dizi",MEDCEZİR
 https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=MLUGblGpm8A.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MUHTEŞEM YÜZYIL" tvg-logo="" group-title="Dizi",MUHTEŞEM YÜZYIL
-https://apisaku.app.tc/playlist/26.m3u8
+https://yotubesakuapi.global.ssl.fastly.net/playlist/26.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RAMO" tvg-logo="" group-title="Dizi",RAMO
-https://apisaku.app.tc/playlist/43.m3u8
+https://yotubesakuapi.global.ssl.fastly.net/playlist/43.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SEKSENLER" tvg-logo="" group-title="Dizi",SEKSENLER
-https://apisaku.app.tc/playlist/10.m3u8
+https://yotubesakuapi.global.ssl.fastly.net/playlist/10.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SELENA" tvg-logo="" group-title="Dizi",SELENA
-https://apisaku.app.tc/playlist/25.m3u8
+https://yotubesakuapi.global.ssl.fastly.net/playlist/25.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SİHİRLİ ANNEM" tvg-logo="" group-title="Dizi",SİHİRLİ ANNEM
-https://apisaku.app.tc/playlist/11.m3u8
+https://yotubesakuapi.global.ssl.fastly.net/playlist/11.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SÖZ" tvg-logo="" group-title="Dizi",SÖZ
-https://apisaku.app.tc/playlist/52.m3u8
+https://yotubesakuapi.global.ssl.fastly.net/playlist/52.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="YALAN DÜNYA" tvg-logo="" group-title="Dizi",YALAN DÜNYA
-https://apisaku.app.tc/playlist/35.m3u8
+https://yotubesakuapi.global.ssl.fastly.net/playlist/35.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="YAPRAK DÖKÜMÜ" tvg-logo="" group-title="Dizi",YAPRAK DÖKÜMÜ
-https://apisaku.app.tc/playlist/37.m3u8
+https://yotubesakuapi.global.ssl.fastly.net/playlist/37.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="YEDİ NUMARA" tvg-logo="" group-title="Dizi",YEDİ NUMARA
-https://apisaku.app.tc/playlist/24.m3u8
+https://yotubesakuapi.global.ssl.fastly.net/playlist/24.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="YEŞİL DENİZ" tvg-logo="" group-title="Dizi",YEŞİL DENİZ
-https://apisaku.app.tc/playlist/63.m3u8
+https://yotubesakuapi.global.ssl.fastly.net/playlist/63.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZENGİN KIZ FAKİR OĞLAN" tvg-logo="" group-title="Dizi",ZENGİN KIZ FAKİR OĞLAN
-https://apisaku.app.tc/playlist/60.m3u8
+https://yotubesakuapi.global.ssl.fastly.net/playlist/60.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DİZİ TV" tvg-logo="" group-title="Dizi",DİZİ TV
 http://194.158.222.36:6086/
 #EXTINF:-1 tvg-id="" tvg-name="BEİN MOVİES PREMİERE" tvg-logo="" group-title="Sinema",BEİN MOVİES PREMİERE
@@ -950,17 +962,17 @@ https://old.kuzeykibris.tv/m3u8/kktv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KUZEY KIBRIS TV 2" tvg-logo="" group-title="Sinema",KUZEY KIBRIS TV 2
 https://spor.kuzeykibris.tv/m3u8/kktv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="YEŞİLÇAM TV ARZU FİLM" tvg-logo="" group-title="Sinema",YEŞİLÇAM TV ARZU FİLM
-https://apisaku.app.tc/playlist/20.m3u8
+https://yotubesakuapi.global.ssl.fastly.net/playlist/20.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="YEŞİLÇAM TV ZEİ METİN" tvg-logo="" group-title="Sinema",YEŞİLÇAM TV ZEKİ METİN
-https://apisaku.app.tc/playlist/78.m3u8
+https://yotubesakuapi.global.ssl.fastly.net/playlist/78.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="YEŞİLÇAM TV 3" tvg-logo="" group-title="Sinema",YEŞİLÇAM TV 3
 https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=8GyfV8qhpIs.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KEMAL SUNAL TV 1" tvg-logo="" group-title="Sinema",KEMAL SUNAL TV 1
 https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=u62XApSFaz8.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KEMAL SUNAL TV 2" tvg-logo="" group-title="Sinema",KEMAL SUNAL TV 2
-https://apisaku.app.tc/playlist/13.m3u8
+https://yotubesakuapi.global.ssl.fastly.net/playlist/13.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KEMAL SUNAL TV 3" tvg-logo="" group-title="Sinema",KEMAL SUNAL TV 3
-https://apisaku.app.tc/playlist/23.m3u8
+https://yotubesakuapi.global.ssl.fastly.net/playlist/23.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KEMAL SUNAL TV 5" tvg-logo="" group-title="Sinema",KEMAL SUNAL TV 4
 http://lionking.proxvip.xyz:2095/live/vlkn2282/vlk.56/43127.ts
 #EXTINF:-1 tvg-id="" tvg-name="KEMAL SUNAL TV 6" tvg-logo="" group-title="Sinema",KEMAL SUNAL TV 5
@@ -1104,9 +1116,9 @@ https://host.onlineradyotv.net:8081/sdmtv3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FASHİON TV" tvg-logo="" group-title="Belgesel",FASHİON TV
 http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/193756
 #EXTINF:-1 tvg-id="" tvg-name="NASA TV" tvg-logo="" group-title="Belgesel",NASA TV
-https://ythls.kekikakademi.org/youtube/video/xRPjKQtRXR8.m3u8
+https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=xRPjKQtRXR8.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HUZUR PINARI TV" tvg-logo="" group-title="Dini",HUZUR PINARI TV
-https://ythls.kekikakademi.org/youtube/channel/UC4dIaCkMaq1vXskR0q2V-dw.m3u8
+https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=yRSAb5stq44.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VAAZ TV" tvg-logo="" group-title="Dini",VAAZ TV
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/vaaz-tv/playlist/0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DİYANET TV" tvg-logo="" group-title="Dini",DİYANET TV
@@ -1126,7 +1138,7 @@ https://trkvz-live.daioncdn.net/minikago/minikago.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MİNİKA GO" tvg-logo="" group-title="Çocuk",MİNİKA GO
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK HD" tvg-logo="" group-title="Çocuk",CARTOON NETWORK HD
-https://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live.m3u8
+https://lemonchiffon-dotterel-347603.hostingersite.com/yayin.m3u8?id=1608
 #EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="" group-title="Çocuk",CARTOON NETWORK
 https://canlitvulusal.xyz/live/cartoonnetwork/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BABY TV" tvg-logo="" group-title="Çocuk",BABY TV
@@ -1172,17 +1184,17 @@ https://stream-cdn-iad.vaughnsoft.net/play/live_tbr_medya_on.flv
 #EXTINF:-1 tvg-id="" tvg-name="SDM TV ÇİZGİ FİLM" tvg-logo="" group-title="Çocuk",SDM TV ÇİZGİ FİLM
 https://host.onlineradyotv.net:8081/sdmtv4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GÜLDÜR GÜLDÜR SHOW" tvg-logo="" group-title="Eğlence",GÜLDÜR GÜLDÜR SHOW
-https://apisaku.app.tc/playlist/59.m3u8
+https://yotubesakuapi.global.ssl.fastly.net/playlist/59.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ÇOK GÜZEL HAREKETLER 2" tvg-logo="" group-title="Eğlence",ÇOK GÜZEL HAREKETLER 2
 https://ythls.kekikakademi.org/youtube/channel/UCJhEfZoLs5P_idxX--yhWOA.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ARKADAŞIM HOŞGELDİN" tvg-logo="" group-title="Eğlence",ARKADAŞIM HOŞGELDİN
-https://apisaku.app.tc/playlist/62.m3u8
+https://yotubesakuapi.global.ssl.fastly.net/playlist/62.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KOMEDİ DÜKKANI" tvg-logo="" group-title="Eğlence",KOMEDİ DÜKKANI
-https://apisaku.app.tc/playlist/19.m3u8
+https://yotubesakuapi.global.ssl.fastly.net/playlist/19.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TOLGSHOW" tvg-logo="" group-title="Eğlence",TOLGSHOW
-https://koprulu3.global.ssl.fastly.net/yt.m3u8/?id=rFsNO59bzRc.m3u8
+https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=rFsNO59bzRc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ATA DEMİRER SHOW" tvg-logo="" group-title="Eğlence",ATA DEMİRER SHOW
-https://apisaku.app.tc/playlist/53.m3u8
+https://yotubesakuapi.global.ssl.fastly.net/playlist/53.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CEM YILMAZ SHOW" tvg-logo="" group-title="Eğlence",CEM YILMAZ SHOW
 http://lionking.proxvip.xyz:2095/live/vlkn2282/vlk.56/81693.ts
 #EXTINF:-1 tvg-id="" tvg-name="ÇİNE DÜĞÜN TV" tvg-logo="" group-title="Eğlence",ÇİNE DÜĞÜN TV
@@ -1457,6 +1469,6 @@ http://stream.tvcdn.net/yerel/ege-live-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADYO KULÜP" tvg-logo="" group-title="Radyo",RADYO KULÜP
 http://cdn-radyokulup.yayin.com.tr/radyokulup/radyokulup/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FON MÜZİKLERİ 7/24" tvg-logo="" group-title="Radyo",FON MÜZİKLERİ 7/24
-https://apisaku.app.tc/playlist/75.m3u8
+https://yotubesakuapi.global.ssl.fastly.net/playlist/75.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KANUN FON MÜZİKLERİ 7/24" tvg-logo="" group-title="Radyo",KANUN FON MÜZİKLERİ 7/24
 https://ythls.kekikakademi.org/youtube/video/n5CBQTdLkLA.m3u8
