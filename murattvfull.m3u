@@ -855,6 +855,10 @@ https://yotubesakuapi.global.ssl.fastly.net/playlist/60.m3u8
 http://194.158.222.36:6086/
 #EXTINF:-1 tvg-id="" tvg-name="BEİN MOVİES PREMİERE" tvg-logo="" group-title="Sinema",BEİN MOVİES PREMİERE
 https://tv1.arectv30.sbs/live/bspremier1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEİN MOVİES ACTİON" tvg-logo="" group-title="Sinema",BEİN MOVİES ACTİON
+https://mjnlrjefri3w0zmb1zmkup1jo6skge06xhdf77cxptmnwuksr4bm0qgak6a.apservices.fun/sakubabayapars.php?url=https://vavoo.to/play/1873478131/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEİN MOVİES ACTİON 2" tvg-logo="" group-title="Sinema",BEİN MOVİES ACTİON 2
+https://sakui.global.ssl.fastly.net/ahmetgaya?id=1873478131
 #EXTINF:-1 tvg-id="" tvg-name="BEİN MOVİES STARS" tvg-logo="" group-title="Sinema",BEİN MOVİES STARS
 https://tv1.arectv30.sbs/live/bsstars.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN MOVİES FAMİLY" tvg-logo="" group-title="Sinema",BEİN MOVİES FAMİLY
