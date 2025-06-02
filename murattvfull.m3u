@@ -820,7 +820,7 @@ https://yotubesakuapi.global.ssl.fastly.net/playlist/29.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KURTLAR VADİSİ" tvg-logo="" group-title="Dizi",KURTLAR VADİSİ
 https://yotubesakuapi.global.ssl.fastly.net/playlist/27.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KURTLAR VADİSİ PUSU" tvg-logo="" group-title="Dizi",KURTLAR VADİSİ PUSU
-https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=RzD2ATkR9UU.m3u8
+https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=kHXZ4ny7SGY.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KURULUŞ OSMAN" tvg-logo="" group-title="Dizi",KURULUŞ OSMAN
 https://yotubesakuapi.global.ssl.fastly.net/playlist/45.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KUZEY GÜNEY" tvg-logo="" group-title="Dizi",KUZEY GÜNEY
@@ -856,9 +856,7 @@ http://194.158.222.36:6086/
 #EXTINF:-1 tvg-id="" tvg-name="BEİN MOVİES PREMİERE" tvg-logo="" group-title="Sinema",BEİN MOVİES PREMİERE
 https://tv1.arectv30.sbs/live/bspremier1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN MOVİES ACTİON" tvg-logo="" group-title="Sinema",BEİN MOVİES ACTİON
-https://mjnlrjefri3w0zmb1zmkup1jo6skge06xhdf77cxptmnwuksr4bm0qgak6a.apservices.fun/sakubabayapars.php?url=https://vavoo.to/play/1873478131/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEİN MOVİES ACTİON 2" tvg-logo="" group-title="Sinema",BEİN MOVİES ACTİON 2
-https://sakui.global.ssl.fastly.net/ahmetgaya?id=1873478131
+https://tv.arectv31.sbs/live/bsaction1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN MOVİES STARS" tvg-logo="" group-title="Sinema",BEİN MOVİES STARS
 https://tv1.arectv30.sbs/live/bsstars.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN MOVİES FAMİLY" tvg-logo="" group-title="Sinema",BEİN MOVİES FAMİLY
@@ -927,6 +925,8 @@ https://hocwantv.ozelip.com:3593/hybrid/play.m3u8
 https://almanyatv.ozelip.net:3130/multi_web/play_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PAZARCIK TV" tvg-logo="" group-title="Sinema",PAZARCIK TV
 https://pazarciktv.ozelip.net:3962/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MEGA TV SİNEMA" tvg-logo="" group-title="Sinema",MEGA TV SİNEMA
+https://a8.radyotelekom.com.tr:3580/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PLAY TV" tvg-logo="" group-title="Sinema",PLAY TV
 https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ONDE TV" tvg-logo="" group-title="Sinema",ONDE TV
