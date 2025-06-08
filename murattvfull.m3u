@@ -300,7 +300,7 @@ https://trn03.tulix.tv/gt-aspor/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A SPOR" tvg-logo="" group-title="Spor",A SPOR
 https://lemonchiffon-dotterel-347603.hostingersite.com/yayin.m3u8?id=3103
 #EXTINF:-1 tvg-id="" tvg-name="HT SPOR FHD" tvg-logo="" group-title="Spor",HT SPOR FHD
-https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8
+https://ciner-live.daioncdn.net/ht-spor/ht-spor_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HT SPOR HD" tvg-logo="" group-title="Spor",HT SPOR HD
 https://yotubesakuapi.global.ssl.fastly.net/playlist/54.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR HD" tvg-logo="" group-title="Spor",TİVİBU SPOR HD
@@ -358,9 +358,9 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83da
 #EXTINF:-1 tvg-id="" tvg-name="FİGHT BOX" tvg-logo="" group-title="Spor",FİGHT BOX
 https://tv.arectv31.sbs/live/fight.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1" tvg-logo="" group-title="Spor",EUROSPORT 1
-https://lemonchiffon-dotterel-347603.hostingersite.com/yayin.m3u8?id=2002
+https://tv.arectv3.xyz/live/euro1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2" tvg-logo="" group-title="Spor",EUROSPORT 2
-https://lemonchiffon-dotterel-347603.hostingersite.com/yayin.m3u8?id=1809
+https://tv.arectv3.xyz/live/euro2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TJK TV" tvg-logo="" group-title="Spor",TJK TV
 https://tjktv-live.tjk.org/tjktv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TJK TV HD" tvg-logo="" group-title="Spor",TJK TV HD
