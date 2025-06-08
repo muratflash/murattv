@@ -879,6 +879,8 @@ https://lemonchiffon-dotterel-347603.hostingersite.com/yayin.m3u8?id=2602
 https://lemonchiffon-dotterel-347603.hostingersite.com/yayin.m3u8?id=3304
 #EXTINF:-1 tvg-id="" tvg-name="MOVİESMART TÜRK HD" tvg-logo="" group-title="Sinema",MOVİESMART TÜRK HD
 https://tv1.arectv30.sbs/live/mvturk.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MOVİESMART TÜRK" tvg-logo="" group-title="Sinema",MOVİESMART TÜRK
+https://tv.arectv34.sbs/live/mvturk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MOVİESMART CLASSİC" tvg-logo="" group-title="Sinema",MOVİESMART CLASSİC
 http://driptvs.com:2095/live/King200conxx/355sgdhh/5283.ts
 #EXTINF:-1 tvg-id="" tvg-name="DİZİSMART PREMİUM" tvg-logo="" group-title="Sinema",DİZİSMART PREMİUM
@@ -897,6 +899,8 @@ https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EXXEN TV" tvg-logo="" group-title="Sinema",EXXEN TV
 http://premium2rss.xyz:80/live/@Yusufmilpark@/gpGWDLpDVP/291106.ts
+#EXTINF:-1 tvg-id="" tvg-name="CİNEBOX KORKU" tvg-logo="" group-title="Sinema",CİNEBOX KORKU
+https://tv.arectv34.sbs/live/sinema1001.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FİLM SCREEN" tvg-logo="" group-title="Sinema",FİLM SCREEN
 http://lionking.proxvip.xyz:2095/live/vlkn2282/vlk.56/110102.ts
 #EXTINF:-1 tvg-id="" tvg-name="FİL TV" tvg-logo="" group-title="Sinema",FİL TV
@@ -935,6 +939,12 @@ https://almanyatv.ozelip.net:3130/multi_web/play_720.m3u8
 https://pazarciktv.ozelip.net:3962/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MEGA TV SİNEMA" tvg-logo="" group-title="Sinema",MEGA TV SİNEMA
 https://a8.radyotelekom.com.tr:3580/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NOW SİNEMA" tvg-logo="" group-title="Sinema",NOW SİNEMA
+https://a8.radyotelekom.com.tr:3502/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HTV SİNEMA" tvg-logo="" group-title="Sinema",HTV SİNEMA
+https://a8.radyotelekom.com.tr:3761/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESMA TV" tvg-logo="" group-title="Sinema",ESMA TV
+https://a8.radyotelekom.com.tr:3899/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PLAY TV" tvg-logo="" group-title="Sinema",PLAY TV
 https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ONDE TV" tvg-logo="" group-title="Sinema",ONDE TV
