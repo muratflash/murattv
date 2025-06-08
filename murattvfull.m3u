@@ -8,10 +8,16 @@ https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/muziktv/playlist/0.m3u8
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/chill-tv/playlist/0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 4K" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 1 4K
 https://mobil.92test.cfd/yayint24.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 VİP+" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 1 VİP
-http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/147.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 VİP+" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 1 VİP+
-https://fener2.demoscript.buzz/hls/bein-sports-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 VİP" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 1 VİP
+https://v.arectv30.sbs/static/bs1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 2 VİP" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 2 VİP
+https://v.arectv30.sbs/static/bs2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 3 VİP" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 3 VİP
+https://v.arectv30.sbs/static/bs3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 4 VİP" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 4 VİP
+https://v.arectv30.sbs/static/bs4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 5 VİP" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 5 VİP
+https://v.arectv30.sbs/static/bs5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 UHD" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 1 UHD
 http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6781/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 2 UHD" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 2 UHD
@@ -23,9 +29,9 @@ http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6823/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 5 UHD" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 5 UHD
 https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=b5
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS MAX 1 UHD" tvg-logo="" group-title="Bein Sports",BEİN SPORTS MAX 1 UHD
-https://v.arectv13.sbs/static/bm1.m3u8
+https://v.arectv30.sbs/static/bm1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS MAX 2 UHD" tvg-logo="" group-title="Bein Sports",BEİN SPORTS MAX 2 UHD
-https://v.arectv13.sbs/static/bm2.m3u8
+https://v.arectv30.sbs/static/bm2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 FHD" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 1 FHD
 http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/146.ts
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 ALTERNATİF" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 1 ALTERNATİF
@@ -890,9 +896,9 @@ https://saran-live.ercdn.net/fx/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EPİC DRAMA" tvg-logo="" group-title="Sinema",EPİC DRAMA
 https://lemonchiffon-dotterel-347603.hostingersite.com/yayin.m3u8?id=2802
 #EXTINF:-1 tvg-id="" tvg-name="BLU TV PLAY 1" tvg-logo="" group-title="Sinema",BLU TV PLAY 1
-https://play1.blutv.com/blutv_play1/blutv_play1.smil/playlist.m3u8
+http://noxcon.cfd/live/metinakinci02/ma25022022/823168.ts
 #EXTINF:-1 tvg-id="" tvg-name="BLU TV PLAY 2" tvg-logo="" group-title="Sinema",BLU TV PLAY 2
-https://play2.blutv.com/blutv_play2/blutv_play2.smil/playlist.m3u8
+http://noxcon.cfd/live/metinakinci02/ma25022022/823167.ts
 #EXTINF:-1 tvg-id="" tvg-name="TRT NOSTALJİ" tvg-logo="" group-title="Sinema",TRT NOSTALJİ
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TABİİ TV" tvg-logo="" group-title="Sinema",TABİİ TV
@@ -904,11 +910,27 @@ https://tv.arectv34.sbs/live/sinema1001.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FİLM SCREEN" tvg-logo="" group-title="Sinema",FİLM SCREEN
 http://lionking.proxvip.xyz:2095/live/vlkn2282/vlk.56/110102.ts
 #EXTINF:-1 tvg-id="" tvg-name="FİL TV" tvg-logo="" group-title="Sinema",FİL TV
-http://77.90.14.115/913320
+http://noxcon.cfd/live/metinakinci02/ma25022022/814571.ts
+#EXTINF:-1 tvg-id="" tvg-name="FİLMAX" tvg-logo="" group-title="Sinema",FİLMAX
+http://noxcon.cfd/live/metinakinci02/ma25022022/814573.ts
+#EXTINF:-1 tvg-id="" tvg-name="FİLM CLUP" tvg-logo="" group-title="Sinema",FİLM CLUP
+http://noxcon.cfd/live/metinakinci02/ma25022022/823172.ts
 #EXTINF:-1 tvg-id="" tvg-name="FİLM CLUP AKSİYON" tvg-logo="" group-title="Sinema",FİLM CLUP AKSİYON
-http://77.90.14.115/913319
+http://noxcon.cfd/live/metinakinci02/ma25022022/814574.ts
 #EXTINF:-1 tvg-id="" tvg-name="FİLM CLUP FAMİLY" tvg-logo="" group-title="Sinema",FİLM CLUP FAMİLY
-http://77.90.14.115/913318
+http://noxcon.cfd/live/metinakinci02/ma25022022/823170.ts
+#EXTINF:-1 tvg-id="" tvg-name="FİLM CLUP KOMEDİ" tvg-logo="" group-title="Sinema",FİLM CLUP KOMEDİ
+http://noxcon.cfd/live/metinakinci02/ma25022022/823169.ts
+#EXTINF:-1 tvg-id="" tvg-name="FİLMBOX ULTRA HD" tvg-logo="" group-title="Sinema",FİLMBOX ULTRA HD
+http://noxcon.cfd/live/metinakinci02/ma25022022/823157.ts
+#EXTINF:-1 tvg-id="" tvg-name="FİLMBOX PREMİER" tvg-logo="" group-title="Sinema",FİLMBOX PREMİER
+http://noxcon.cfd/live/metinakinci02/ma25022022/823158.ts
+#EXTINF:-1 tvg-id="" tvg-name="FİLMBOX ACTİON" tvg-logo="" group-title="Sinema",FİLMBOX ACTİON
+http://noxcon.cfd/live/metinakinci02/ma25022022/823159.ts
+#EXTINF:-1 tvg-id="" tvg-name="FİLMBOX HORROR" tvg-logo="" group-title="Sinema",FİLMBOX HORROR
+http://noxcon.cfd/live/metinakinci02/ma25022022/823163.ts
+#EXTINF:-1 tvg-id="" tvg-name="FİLMBOX DRAMA" tvg-logo="" group-title="Sinema",FİLMBOX DRAMA
+http://noxcon.cfd/live/metinakinci02/ma25022022/823162.ts
 #EXTINF:-1 tvg-id="" tvg-name="TİVİ TÜRK" tvg-logo="" group-title="Sinema",TİVİ TÜRK
 https://stream.tiviturk.de/live/tiviturk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SÜPER TÜRK TV" tvg-logo="" group-title="Sinema",SÜPER TÜRK TV
