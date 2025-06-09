@@ -632,7 +632,7 @@ http://116.202.238.88/STARTV_TR/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STAR TV" tvg-logo="" group-title="Ulusal",STAR TV
 https://emmazbvkkf.turknet.ercdn.net/cnifuowzza/startv/startv_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NOW FHD" tvg-logo="" group-title="Ulusal",NOW FHD
-https://lemonchiffon-dotterel-347603.hostingersite.com/yayin.m3u8?id=2213
+https://ottcdn.kablowebtv.net/live_turksat_sub3/now_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni85LzIwMjUgMToyMToyOCBBTSZoYXNoX3ZhbHVlPVAxSHl3Y3ZUNXZJOFRtcHp6dWxaZHc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjU=
 #EXTINF:-1 tvg-id="" tvg-name="NOW FHD+" tvg-logo="" group-title="Ulusal",NOW FHD+
 http://176.65.146.123:6002/play/a01j/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NOW HD+" tvg-logo="" group-title="Ulusal",NOW HD+
