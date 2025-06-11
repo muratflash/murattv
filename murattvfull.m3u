@@ -207,8 +207,8 @@ http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/174.ts
 http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/174.ts
 #EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR FHD" tvg-logo="" group-title="Tivibu Spor",TİVİBU SPOR FHD
 http://lionking.proxvip.xyz:2095/live/vlkn2282/vlk.56/86876.ts
-#EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR" tvg-logo="" group-title="Tivibu Spor",TİVİBU SPOR
-https://canlitvulusal.xyz/live/tivibuspor/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR HD" tvg-logo="" group-title="Tivibu Spor",TİVİBU SPOR HD
+http://a8026.yesil03.xyz:80/hursitkose/gEgANpaw/65751
 #EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR 1 FHD" tvg-logo="" group-title="Tivibu Spor",TİVİBU SPOR 1 FHD
 https://tv.arectv34.sbs/live/t1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR 2 FHD" tvg-logo="" group-title="Tivibu Spor",TİVİBU SPOR 2 FHD
@@ -308,7 +308,7 @@ https://yotubesakuapi.global.ssl.fastly.net/playlist/54.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR HD" tvg-logo="" group-title="Spor",TİVİBU SPOR HD
 http://lionking.proxvip.xyz:2095/live/vlkn2282/vlk.56/86876.ts
 #EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR" tvg-logo="" group-title="Spor",TİVİBU SPOR
-https://canlitvulusal.xyz/live/tivibuspor/index.m3u8
+http://a8026.yesil03.xyz:80/hursitkose/gEgANpaw/65751
 #EXTINF:-1 tvg-id="" tvg-name="TV 8.5 FHD" tvg-logo="" group-title="Spor",TV 8.5 FHD
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV 8.5 HD" tvg-logo="" group-title="Spor",TV 8.5 HD
@@ -644,13 +644,13 @@ https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV 8 HD" tvg-logo="" group-title="Ulusal",TV 8 HD
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV 8 HD+" tvg-logo="" group-title="Ulusal",TV 8 HD+
-https://bcovlive-a.akamaihd.net/ccee7091e86040d18e14cd0efef2a51b/eu-central-1/6415845530001/profile_0/chunklist.m3u8
+http://176.65.146.123:6003/play/a00w/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV 8.5 FHD" tvg-logo="" group-title="Ulusal",TV 8.5 FHD
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV 8.5 HD" tvg-logo="" group-title="Ulusal",TV 8.5 HD
 https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?app=tv8bucuk_web&ce=3
 #EXTINF:-1 tvg-id="" tvg-name="TV 8.5 HD+" tvg-logo="" group-title="Ulusal",TV 8.5 HD+
-https://bcovlive-a.akamaihd.net/8fe5dabcdbcd4af0ace7b991a12a6a4c/eu-central-1/6415845530001/profile_0/chunklist.m3u8
+http://176.65.146.123:6003/play/a00x/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEYAZ TV FHD" tvg-logo="" group-title="Ulusal",BEYAZ TV FHD
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEYAZ TV HD+" tvg-logo="" group-title="Ulusal",BEYAZ TV HD+
@@ -874,17 +874,17 @@ https://tv1.arectv30.sbs/live/bsfamily.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN MOVİES TÜRK" tvg-logo="" group-title="Sinema",BEİN MOVİES TÜRK
 https://tv1.arectv30.sbs/live/bsturk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SİNEMA TV" tvg-logo="" group-title="Sinema",SİNEMA TV
-https://lemonchiffon-dotterel-347603.hostingersite.com/yayin.m3u8?id=1908
+https://ottcdn.kablowebtv.net/live_turksat_sub3/sinematv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMC8yMDI1IDEyOjMwOjIzIFBNJmhhc2hfdmFsdWU9YkFyZ0wwekNTeWl0OERxOUZwMk5qQT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSw4OTc0MWZlYy0xZDMzLTRjMDAtYWZjZC0zZmRhZmUwYjZhMmQsMTUyYmQ1MzktNjIyMC00NDI3LWE5MTUtYmY0YmQwNjhkN2U4LGE2OTliODNmLTgyNmItNGQ5OS05MzYxLWM4YTMxMzIxOGQ0NiwwLDo6ZmZmZjoxMC4wLjAuMjA2
 #EXTINF:-1 tvg-id="" tvg-name="SİNEMA AKSİYON" tvg-logo="" group-title="Sinema",SİNEMA AKSİYON
-https://lemonchiffon-dotterel-347603.hostingersite.com/yayin.m3u8?id=1109
+https://ottcdn.kablowebtv.net/live_turksat_sub3/sinemaaksiyon_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMC8yMDI1IDEyOjMwOjIzIFBNJmhhc2hfdmFsdWU9YkFyZ0wwekNTeWl0OERxOUZwMk5qQT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSw4OTc0MWZlYy0xZDMzLTRjMDAtYWZjZC0zZmRhZmUwYjZhMmQsMTUyYmQ1MzktNjIyMC00NDI3LWE5MTUtYmY0YmQwNjhkN2U4LGE2OTliODNmLTgyNmItNGQ5OS05MzYxLWM4YTMxMzIxOGQ0NiwwLDo6ZmZmZjoxMC4wLjAuMjA2
 #EXTINF:-1 tvg-id="" tvg-name="SİNEMA AİLE" tvg-logo="" group-title="Sinema",SİNEMA AİLE
-https://lemonchiffon-dotterel-347603.hostingersite.com/yayin.m3u8?id=1911
+https://ottcdn.kablowebtv.net/live_turksat_sub3/sinemaaile_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMC8yMDI1IDEyOjMwOjIzIFBNJmhhc2hfdmFsdWU9YkFyZ0wwekNTeWl0OERxOUZwMk5qQT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSw4OTc0MWZlYy0xZDMzLTRjMDAtYWZjZC0zZmRhZmUwYjZhMmQsMTUyYmQ1MzktNjIyMC00NDI3LWE5MTUtYmY0YmQwNjhkN2U4LGE2OTliODNmLTgyNmItNGQ5OS05MzYxLWM4YTMxMzIxOGQ0NiwwLDo6ZmZmZjoxMC4wLjAuMjA2
 #EXTINF:-1 tvg-id="" tvg-name="SİNEMA KOMEDİ" tvg-logo="" group-title="Sinema",SİNEMA KOMEDİ
-https://lemonchiffon-dotterel-347603.hostingersite.com/yayin.m3u8?id=1110
+https://ottcdn.kablowebtv.net/live_turksat_sub3/sinemakomedi_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMC8yMDI1IDEyOjMwOjIzIFBNJmhhc2hfdmFsdWU9YkFyZ0wwekNTeWl0OERxOUZwMk5qQT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSw4OTc0MWZlYy0xZDMzLTRjMDAtYWZjZC0zZmRhZmUwYjZhMmQsMTUyYmQ1MzktNjIyMC00NDI3LWE5MTUtYmY0YmQwNjhkN2U4LGE2OTliODNmLTgyNmItNGQ5OS05MzYxLWM4YTMxMzIxOGQ0NiwwLDo6ZmZmZjoxMC4wLjAuMjA2
 #EXTINF:-1 tvg-id="" tvg-name="SİNEMA 1001" tvg-logo="" group-title="Sinema",SİNEMA 1001
-https://lemonchiffon-dotterel-347603.hostingersite.com/yayin.m3u8?id=2602
+https://ottcdn.kablowebtv.net/live_turksat_sub3/sinema1001_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMC8yMDI1IDEyOjMwOjIzIFBNJmhhc2hfdmFsdWU9YkFyZ0wwekNTeWl0OERxOUZwMk5qQT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSw4OTc0MWZlYy0xZDMzLTRjMDAtYWZjZC0zZmRhZmUwYjZhMmQsMTUyYmQ1MzktNjIyMC00NDI3LWE5MTUtYmY0YmQwNjhkN2U4LGE2OTliODNmLTgyNmItNGQ5OS05MzYxLWM4YTMxMzIxOGQ0NiwwLDo6ZmZmZjoxMC4wLjAuMjA2
 #EXTINF:-1 tvg-id="" tvg-name="SİNEMA YERLİ" tvg-logo="" group-title="Sinema",SİNEMA YERLİ
-https://lemonchiffon-dotterel-347603.hostingersite.com/yayin.m3u8?id=3304
+https://ottcdn.kablowebtv.net/live_turksat_sub3/sinemayerli_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMC8yMDI1IDEyOjMwOjIzIFBNJmhhc2hfdmFsdWU9YkFyZ0wwekNTeWl0OERxOUZwMk5qQT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSw4OTc0MWZlYy0xZDMzLTRjMDAtYWZjZC0zZmRhZmUwYjZhMmQsMTUyYmQ1MzktNjIyMC00NDI3LWE5MTUtYmY0YmQwNjhkN2U4LGE2OTliODNmLTgyNmItNGQ5OS05MzYxLWM4YTMxMzIxOGQ0NiwwLDo6ZmZmZjoxMC4wLjAuMjA2
 #EXTINF:-1 tvg-id="" tvg-name="MOVİESMART TÜRK HD" tvg-logo="" group-title="Sinema",MOVİESMART TÜRK HD
 https://tv1.arectv30.sbs/live/mvturk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MOVİESMART TÜRK" tvg-logo="" group-title="Sinema",MOVİESMART TÜRK
@@ -896,7 +896,7 @@ http://driptvs.com:2095/live/King200conxx/355sgdhh/5298.ts
 #EXTINF:-1 tvg-id="" tvg-name="FX HD" tvg-logo="" group-title="Sinema",FX HD
 https://saran-live.ercdn.net/fx/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EPİC DRAMA" tvg-logo="" group-title="Sinema",EPİC DRAMA
-https://lemonchiffon-dotterel-347603.hostingersite.com/yayin.m3u8?id=2802
+https://ottcdn.kablowebtv.net/live_turksat_sub3/epicdramahd_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMC8yMDI1IDEyOjMwOjIzIFBNJmhhc2hfdmFsdWU9YkFyZ0wwekNTeWl0OERxOUZwMk5qQT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSw4OTc0MWZlYy0xZDMzLTRjMDAtYWZjZC0zZmRhZmUwYjZhMmQsMTUyYmQ1MzktNjIyMC00NDI3LWE5MTUtYmY0YmQwNjhkN2U4LGE2OTliODNmLTgyNmItNGQ5OS05MzYxLWM4YTMxMzIxOGQ0NiwwLDo6ZmZmZjoxMC4wLjAuMjA2
 #EXTINF:-1 tvg-id="" tvg-name="BLU TV PLAY 1" tvg-logo="" group-title="Sinema",BLU TV PLAY 1
 http://noxcon.cfd/live/tuncayylmaz/HkvCZS04kJ/823168.ts
 #EXTINF:-1 tvg-id="" tvg-name="BLU TV PLAY 2" tvg-logo="" group-title="Sinema",BLU TV PLAY 2
