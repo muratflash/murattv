@@ -382,15 +382,17 @@ https://yotubesakuapi.global.ssl.fastly.net/playlist/9.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A HABER FHD" tvg-logo="" group-title="Haber",A HABER FHD
 https://yotubesakuapi.global.ssl.fastly.net/playlist/4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A HABER FHD+" tvg-logo="" group-title="Haber",A HABER FHD+
-https://trkvz-live.ercdn.net/ahaberhd/ahaberhd.m3u8
+https://kablo.vercel.app/index.m3u8?id=40
 #EXTINF:-1 tvg-id="" tvg-name="A HABER HD+" tvg-logo="" group-title="Haber",A HABER HD+
 http://176.65.146.123:6001/play/a01u/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A HABER HD" tvg-logo="" group-title="Haber",A HABER HD
 http://ott.dobratv.net:25461/live/TeleskyGradacac/OlhzoyCMyn/6642.ts
 #EXTINF:-1 tvg-id="" tvg-name="A HABER UHD" tvg-logo="" group-title="Haber",A HABER UHD
 http://hdlocal.de:8080/live/cs22cs.suroot/4amFSTThYHGGS2223/10140.ts
-#EXTINF:-1 tvg-id="" tvg-name="A HABER" tvg-logo="" group-title="Haber",A HABER
+#EXTINF:-1 tvg-id="" tvg-name="A HABER LİVE" tvg-logo="" group-title="Haber",A HABER LİVE
 http://116.202.238.88/AHABER_TR/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A HABER" tvg-logo="" group-title="Haber",A HABER
+https://trkvz-live.ercdn.net/ahaberhd/ahaberhd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN TÜRK FHD" tvg-logo="" group-title="Haber",CNN TÜRK FHD
 https://yotubesakuapi.global.ssl.fastly.net/playlist/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN TÜRK FHD+" tvg-logo="" group-title="Haber",CNN TÜRK FHD+
@@ -454,7 +456,7 @@ https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TH TÜRK HABER" tvg-logo="" group-title="Haber",TH TÜRK HABER
 https://edge1.socialsmart.tv/turkhaber/bant1/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TH TÜRK HABER HD" tvg-logo="" group-title="Haber",TH TÜRK HABER HD
-https://lemonchiffon-dotterel-347603.hostingersite.com/yayin.m3u8?id=3205
+https://kablo.vercel.app/index.m3u8?id=59
 #EXTINF:-1 tvg-id="" tvg-name="ÜLKE TV FHD" tvg-logo="" group-title="Haber",ÜLKE TV FHD
 https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ÜLKE TV HD" tvg-logo="" group-title="Haber",ÜLKE TV HD
@@ -720,9 +722,9 @@ http://a8026.yesil03.xyz:80/hursitkose/gEgANpaw/16277
 #EXTINF:-1 tvg-id="" tvg-name="GZT TV" tvg-logo="" group-title="Ulusal",GZT TV
 https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GZT TV HD" tvg-logo="" group-title="Ulusal",GZT TV HD
-https://lemonchiffon-dotterel-347603.hostingersite.com/yayin.m3u8?id=1902
+https://kablo.vercel.app/index.m3u8?id=25
 #EXTINF:-1 tvg-id="" tvg-name="A PARA FHD" tvg-logo="" group-title="Ulusal",A PARA FHD
-https://lemonchiffon-dotterel-347603.hostingersite.com/yayin.m3u8?id=2406
+https://kablo.vercel.app/index.m3u8?id=61
 #EXTINF:-1 tvg-id="" tvg-name="A PARA FHD+" tvg-logo="" group-title="Ulusal",A PARA FHD+
 https://yotubesakuapi.global.ssl.fastly.net/playlist/89.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A PARA HD+" tvg-logo="" group-title="Ulusal",A PARA HD+
