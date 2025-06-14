@@ -118,7 +118,7 @@ https://gknnowtv.onrender.com/bein4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS HABER FHD" tvg-logo="" group-title="Bein Sports",BEİN SPORTS HABER FHD
 https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=VCl1wO81VdM.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS HABER HD" tvg-logo="" group-title="Bein Sports",BEİN SPORTS HABER HD
-https://ottcdn.kablowebtv.net/live_turksat_sub3/beinsportshaber_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMC8yMDI1IDEyOjMwOjIzIFBNJmhhc2hfdmFsdWU9YkFyZ0wwekNTeWl0OERxOUZwMk5qQT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSw4OTc0MWZlYy0xZDMzLTRjMDAtYWZjZC0zZmRhZmUwYjZhMmQsMTUyYmQ1MzktNjIyMC00NDI3LWE5MTUtYmY0YmQwNjhkN2U4LGE2OTliODNmLTgyNmItNGQ5OS05MzYxLWM4YTMxMzIxOGQ0NiwwLDo6ZmZmZjoxMC4wLjAuMjA2
+https://kablo.vercel.app/index.m3u8?id=104
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS HABER" tvg-logo="" group-title="Bein Sports",BEİN SPORTS HABER
 https://yotubesakuapi.global.ssl.fastly.net/playlist/71.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS ARŞİV" tvg-logo="" group-title="Bein Sports",BEİN SPORTS ARŞİV
@@ -236,9 +236,9 @@ https://v.arectv13.sbs/static/t3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR 4 HD" tvg-logo="" group-title="Tivibu Spor",TİVİBU SPOR 4 HD
 https://v.arectv13.sbs/static/t4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="S SPORT FHD" tvg-logo="" group-title="S Sport",S SPORT FHD
-https://ottcdn.kablowebtv.net/live_turksat_sub3/ssport_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni85LzIwMjUgMTI6Mjk6NDkgUE0maGFzaF92YWx1ZT11cEM1dXl2cGVkTEs2aXV0RUJTMEhRPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC42
+https://kablo.vercel.app/index.m3u8?id=111
 #EXTINF:-1 tvg-id="" tvg-name="S SPORT 2 FHD" tvg-logo="" group-title="S Sport",S SPORT 2 FHD
-https://ottcdn.kablowebtv.net/live_turksat_sub3/ssport2_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni85LzIwMjUgMTI6Mjk6NDkgUE0maGFzaF92YWx1ZT11cEM1dXl2cGVkTEs2aXV0RUJTMEhRPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC42
+https://kablo.vercel.app/index.m3u8?id=112
 #EXTINF:-1 tvg-id="" tvg-name="S SPORT HD+" tvg-logo="" group-title="S Sport",S SPORT HD+
 https://deneme123.parisiptv1.workers.dev/ssport1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="S SPORT 2 HD+" tvg-logo="" group-title="S Sport",S SPORT 2 HD+
@@ -280,7 +280,7 @@ https://217.30.11.74/e/156.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS HABER FHD" tvg-logo="" group-title="Spor",BEİN SPORTS HABER FHD
 https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=VCl1wO81VdM.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS HABER FHD+" tvg-logo="" group-title="Spor",BEİN SPORTS HABER FHD+
-https://ottcdn.kablowebtv.net/live_turksat_sub3/beinsportshaber_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMC8yMDI1IDEyOjMwOjIzIFBNJmhhc2hfdmFsdWU9YkFyZ0wwekNTeWl0OERxOUZwMk5qQT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSw4OTc0MWZlYy0xZDMzLTRjMDAtYWZjZC0zZmRhZmUwYjZhMmQsMTUyYmQ1MzktNjIyMC00NDI3LWE5MTUtYmY0YmQwNjhkN2U4LGE2OTliODNmLTgyNmItNGQ5OS05MzYxLWM4YTMxMzIxOGQ0NiwwLDo6ZmZmZjoxMC4wLjAuMjA2
+https://kablo.vercel.app/index.m3u8?id=104
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS HABER HD" tvg-logo="" group-title="Spor",BEİN SPORTS HABER HD
 https://yotubesakuapi.global.ssl.fastly.net/playlist/71.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS HABER HD+" tvg-logo="" group-title="Spor",BEİN SPORTS HABER HD+
@@ -294,7 +294,7 @@ https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=7uBpwcn2ZZ0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A SPOR FHD+" tvg-logo="" group-title="Spor",A SPOR FHD+
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A SPOR HD+" tvg-logo="" group-title="Spor",A SPOR HD+
-https://ottcdn.kablowebtv.net/live_turksat_sub3/aspor_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMC8yMDI1IDEyOjMwOjIzIFBNJmhhc2hfdmFsdWU9YkFyZ0wwekNTeWl0OERxOUZwMk5qQT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSw4OTc0MWZlYy0xZDMzLTRjMDAtYWZjZC0zZmRhZmUwYjZhMmQsMTUyYmQ1MzktNjIyMC00NDI3LWE5MTUtYmY0YmQwNjhkN2U4LGE2OTliODNmLTgyNmItNGQ5OS05MzYxLWM4YTMxMzIxOGQ0NiwwLDo6ZmZmZjoxMC4wLjAuMjA2
+https://kablo.vercel.app/index.m3u8?id=105
 #EXTINF:-1 tvg-id="" tvg-name="A SPOR HD" tvg-logo="" group-title="Spor",A SPOR HD
 https://trn03.tulix.tv/gt-aspor/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A SPOR LİVE" tvg-logo="" group-title="Spor",A SPOR LİVE
@@ -320,7 +320,7 @@ http://78.128.125.60:9981/play/a01i/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LİDER HABER TELEGOL" tvg-logo="" group-title="Spor",LİDER HABER TELEGOL
 http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/sec-f5-v1-a1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KON TV SPOR GÜNDEMİ" tvg-logo="" group-title="Spor",KON TV SPOR GÜNDEMİ
-https://ottcdn.kablowebtv.net/live_turksat_sub3/kontv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMC8yMDI1IDEyOjMwOjIzIFBNJmhhc2hfdmFsdWU9YkFyZ0wwekNTeWl0OERxOUZwMk5qQT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSw4OTc0MWZlYy0xZDMzLTRjMDAtYWZjZC0zZmRhZmUwYjZhMmQsMTUyYmQ1MzktNjIyMC00NDI3LWE5MTUtYmY0YmQwNjhkN2U4LGE2OTliODNmLTgyNmItNGQ5OS05MzYxLWM4YTMxMzIxOGQ0NiwwLDo6ZmZmZjoxMC4wLjAuMjA2
+https://kablo.vercel.app/index.m3u8?id=21
 #EXTINF:-1 tvg-id="" tvg-name="KON TV SPOR" tvg-logo="" group-title="Spor",KON TV SPOR
 http://a8026.yesil03.xyz:80/hursitkose/gEgANpaw/32528
 #EXTINF:-1 tvg-id="" tvg-name="TRT SPOR YILDIZ" tvg-logo="" group-title="Spor",TRT SPOR YILDIZ
@@ -366,7 +366,7 @@ http://78.128.125.60:9981/play/a01k/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TAY TV" tvg-logo="" group-title="Spor",TAY TV
 https://217.30.11.74/e/201.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NBA TV HD" tvg-logo="" group-title="Spor",NBA TV HD
-https://ottcdn.kablowebtv.net/live_turksat_sub3/nbatv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMC8yMDI1IDEyOjMwOjIzIFBNJmhhc2hfdmFsdWU9YkFyZ0wwekNTeWl0OERxOUZwMk5qQT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSw4OTc0MWZlYy0xZDMzLTRjMDAtYWZjZC0zZmRhZmUwYjZhMmQsMTUyYmQ1MzktNjIyMC00NDI3LWE5MTUtYmY0YmQwNjhkN2U4LGE2OTliODNmLTgyNmItNGQ5OS05MzYxLWM4YTMxMzIxOGQ0NiwwLDo6ZmZmZjoxMC4wLjAuMjA2
+https://kablo.vercel.app/index.m3u8?id=113
 #EXTINF:-1 tvg-id="" tvg-name="AUTOMOTO HD" tvg-logo="" group-title="Spor",AUTOMOTO HD
 http://100automoto.tv:1935/bgtv1/Stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WORLD BİLLİARDS" tvg-logo="" group-title="Spor",WORLD BİLLİARDS
@@ -473,6 +473,8 @@ https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HALK TV HD" tvg-logo="" group-title="Haber",HALK TV HD
 https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=ZSWPj9szKb8.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HALK TV HD+" tvg-logo="" group-title="Haber",HALK TV HD+
+https://kablo.vercel.app/index.m3u8?id=58
 #EXTINF:-1 tvg-id="" tvg-name="HALK TV" tvg-logo="" group-title="Haber",HALK TV
 https://halktv-live.daioncdn.net/halktv/halktv_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SÖZCÜ TV FHD" tvg-logo="" group-title="Haber",SÖZCÜ TV FHD
@@ -480,19 +482,21 @@ https://yotubesakuapi.global.ssl.fastly.net/playlist/2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SÖZCÜ TV FHD+" tvg-logo="" group-title="Haber",SÖZCÜ TV FHD+
 https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=ztmY_cCtUl0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SÖZCÜ TV HD+" tvg-logo="" group-title="Haber",SÖZCÜ TV HD+
-http://driptvs.com:2095/live/King200conxx/355sgdhh/31484.ts 
+https://kablo.vercel.app/index.m3u8?id=60
 #EXTINF:-1 tvg-id="" tvg-name="SÖZCÜ TV HD" tvg-logo="" group-title="Haber",SÖZCÜ TV HD
 http://176.65.146.123:6004/play/a019/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SÖZCÜ TV" tvg-logo="" group-title="Haber",SÖZCÜ TV
 http://a8026.yesil03.xyz:80/hursitkose/gEgANpaw/70127
 #EXTINF:-1 tvg-id="" tvg-name="TELE 1 FHD" tvg-logo="" group-title="Haber",TELE 1 FHD
 https://tele1-live.ercdn.net/tele1/tele1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELE 1 HD+" tvg-logo="" group-title="Haber",TELE 1 HD+
+https://kablo.vercel.app/index.m3u8?id=66
 #EXTINF:-1 tvg-id="" tvg-name="TELE 1 HD" tvg-logo="" group-title="Haber",TELE 1 HD
 https://yotubesakuapi.global.ssl.fastly.net/playlist/15.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TELE 1" tvg-logo="" group-title="Haber",TELE 1
 https://yotubesakuapi.global.ssl.fastly.net/playlist/65.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KRT TV FHD" tvg-logo="" group-title="Haber",KRT TV FHD
-https://ottcdn.kablowebtv.net/live_turksat_sub3/krttv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMC8yMDI1IDEyOjMwOjIzIFBNJmhhc2hfdmFsdWU9YkFyZ0wwekNTeWl0OERxOUZwMk5qQT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSw4OTc0MWZlYy0xZDMzLTRjMDAtYWZjZC0zZmRhZmUwYjZhMmQsMTUyYmQ1MzktNjIyMC00NDI3LWE5MTUtYmY0YmQwNjhkN2U4LGE2OTliODNmLTgyNmItNGQ5OS05MzYxLWM4YTMxMzIxOGQ0NiwwLDo6ZmZmZjoxMC4wLjAuMjA2
+https://kablo.vercel.app/index.m3u8?id=57
 #EXTINF:-1 tvg-id="" tvg-name="KRT TV FHD+" tvg-logo="" group-title="Haber",KRT TV FHD+
 http://a8026.yesil03.xyz:80/hursitkose/gEgANpaw/15420
 #EXTINF:-1 tvg-id="" tvg-name="KRT TV HD" tvg-logo="" group-title="Haber",KRT TV HD
@@ -574,7 +578,7 @@ https://trkvz-live.ercdn.net/anewshd/anewshd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A NEWS" tvg-logo="" group-title="Haber",A NEWS
 https://yotubesakuapi.global.ssl.fastly.net/yt.m3u8/?id=L4O-IO_dySQ.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN İNTERNATİONAL" tvg-logo="" group-title="Haber",CNN İNTERNATİONAL
-https://ottcdn.kablowebtv.net/live_turksat_sub3/cnnint_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMC8yMDI1IDEyOjMwOjIzIFBNJmhhc2hfdmFsdWU9YkFyZ0wwekNTeWl0OERxOUZwMk5qQT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSw4OTc0MWZlYy0xZDMzLTRjMDAtYWZjZC0zZmRhZmUwYjZhMmQsMTUyYmQ1MzktNjIyMC00NDI3LWE5MTUtYmY0YmQwNjhkN2U4LGE2OTliODNmLTgyNmItNGQ5OS05MzYxLWM4YTMxMzIxOGQ0NiwwLDo6ZmZmZjoxMC4wLjAuMjA2
+https://kablo.vercel.app/index.m3u8?id=71
 #EXTINF:-1 tvg-id="" tvg-name="CÜNEYT ÖZDEMİR YOUTUBE Her Gün Saat 12" tvg-logo="" group-title="Haber",CÜNEYT ÖZDEMİR YOUTUBE Her gün Saat 12
 https://ythls.kekikakademi.org/youtube/channel/UCkwHQ7DWv9aqEtvAOSO74dQ.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT 1 FHD" tvg-logo="" group-title="Ulusal",TRT 1 FHD
@@ -604,7 +608,7 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ATV UHD" tvg-logo="" group-title="Ulusal",ATV UHD
 http://ott.dobratv.net:25461/live/TeleskyGradacac/OlhzoyCMyn/6643.ts
 #EXTINF:-1 tvg-id="" tvg-name="ATV HD+" tvg-logo="" group-title="Ulusal",ATV HD+
-https://ottcdn.kablowebtv.net/live_turksat_sub3/atv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMC8yMDI1IDEyOjMwOjIzIFBNJmhhc2hfdmFsdWU9YkFyZ0wwekNTeWl0OERxOUZwMk5qQT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSw4OTc0MWZlYy0xZDMzLTRjMDAtYWZjZC0zZmRhZmUwYjZhMmQsMTUyYmQ1MzktNjIyMC00NDI3LWE5MTUtYmY0YmQwNjhkN2U4LGE2OTliODNmLTgyNmItNGQ5OS05MzYxLWM4YTMxMzIxOGQ0NiwwLDo6ZmZmZjoxMC4wLjAuMjA2
+https://kablo.vercel.app/index.m3u8?id=8
 #EXTINF:-1 tvg-id="" tvg-name="ATV HD+" tvg-logo="" group-title="Ulusal",ATV HD
 http://89.187.191.41/ATV-HD-TR/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ATV" tvg-logo="" group-title="Ulusal",ATV
@@ -626,7 +630,7 @@ http://116.202.238.88/STARTV_TR/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STAR TV" tvg-logo="" group-title="Ulusal",STAR TV
 https://emmazbvkkf.turknet.ercdn.net/cnifuowzza/startv/startv_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NOW FHD" tvg-logo="" group-title="Ulusal",NOW FHD
-https://ottcdn.kablowebtv.net/live_turksat_sub3/now_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni85LzIwMjUgMToyMToyOCBBTSZoYXNoX3ZhbHVlPVAxSHl3Y3ZUNXZJOFRtcHp6dWxaZHc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjU=
+https://kablo.vercel.app/index.m3u8?id=13
 #EXTINF:-1 tvg-id="" tvg-name="NOW FHD+" tvg-logo="" group-title="Ulusal",NOW FHD+
 http://176.65.146.123:6002/play/a01j/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NOW HD+" tvg-logo="" group-title="Ulusal",NOW HD+
@@ -874,17 +878,17 @@ https://tv1.arectv30.sbs/live/bsfamily.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN MOVİES TÜRK" tvg-logo="" group-title="Sinema",BEİN MOVİES TÜRK
 https://tv1.arectv30.sbs/live/bsturk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SİNEMA TV" tvg-logo="" group-title="Sinema",SİNEMA TV
-https://ottcdn.kablowebtv.net/live_turksat_sub3/sinematv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMC8yMDI1IDEyOjMwOjIzIFBNJmhhc2hfdmFsdWU9YkFyZ0wwekNTeWl0OERxOUZwMk5qQT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSw4OTc0MWZlYy0xZDMzLTRjMDAtYWZjZC0zZmRhZmUwYjZhMmQsMTUyYmQ1MzktNjIyMC00NDI3LWE5MTUtYmY0YmQwNjhkN2U4LGE2OTliODNmLTgyNmItNGQ5OS05MzYxLWM4YTMxMzIxOGQ0NiwwLDo6ZmZmZjoxMC4wLjAuMjA2
+https://kablo.vercel.app/index.m3u8?id=1
 #EXTINF:-1 tvg-id="" tvg-name="SİNEMA AKSİYON" tvg-logo="" group-title="Sinema",SİNEMA AKSİYON
-https://ottcdn.kablowebtv.net/live_turksat_sub3/sinemaaksiyon_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMC8yMDI1IDEyOjMwOjIzIFBNJmhhc2hfdmFsdWU9YkFyZ0wwekNTeWl0OERxOUZwMk5qQT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSw4OTc0MWZlYy0xZDMzLTRjMDAtYWZjZC0zZmRhZmUwYjZhMmQsMTUyYmQ1MzktNjIyMC00NDI3LWE5MTUtYmY0YmQwNjhkN2U4LGE2OTliODNmLTgyNmItNGQ5OS05MzYxLWM4YTMxMzIxOGQ0NiwwLDo6ZmZmZjoxMC4wLjAuMjA2
+https://kablo.vercel.app/index.m3u8?id=2
 #EXTINF:-1 tvg-id="" tvg-name="SİNEMA AİLE" tvg-logo="" group-title="Sinema",SİNEMA AİLE
-https://ottcdn.kablowebtv.net/live_turksat_sub3/sinemaaile_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMC8yMDI1IDEyOjMwOjIzIFBNJmhhc2hfdmFsdWU9YkFyZ0wwekNTeWl0OERxOUZwMk5qQT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSw4OTc0MWZlYy0xZDMzLTRjMDAtYWZjZC0zZmRhZmUwYjZhMmQsMTUyYmQ1MzktNjIyMC00NDI3LWE5MTUtYmY0YmQwNjhkN2U4LGE2OTliODNmLTgyNmItNGQ5OS05MzYxLWM4YTMxMzIxOGQ0NiwwLDo6ZmZmZjoxMC4wLjAuMjA2
+https://kablo.vercel.app/index.m3u8?id=4
 #EXTINF:-1 tvg-id="" tvg-name="SİNEMA KOMEDİ" tvg-logo="" group-title="Sinema",SİNEMA KOMEDİ
-https://ottcdn.kablowebtv.net/live_turksat_sub3/sinemakomedi_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMC8yMDI1IDEyOjMwOjIzIFBNJmhhc2hfdmFsdWU9YkFyZ0wwekNTeWl0OERxOUZwMk5qQT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSw4OTc0MWZlYy0xZDMzLTRjMDAtYWZjZC0zZmRhZmUwYjZhMmQsMTUyYmQ1MzktNjIyMC00NDI3LWE5MTUtYmY0YmQwNjhkN2U4LGE2OTliODNmLTgyNmItNGQ5OS05MzYxLWM4YTMxMzIxOGQ0NiwwLDo6ZmZmZjoxMC4wLjAuMjA2
+https://kablo.vercel.app/index.m3u8?id=6
 #EXTINF:-1 tvg-id="" tvg-name="SİNEMA 1001" tvg-logo="" group-title="Sinema",SİNEMA 1001
-https://ottcdn.kablowebtv.net/live_turksat_sub3/sinema1001_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMC8yMDI1IDEyOjMwOjIzIFBNJmhhc2hfdmFsdWU9YkFyZ0wwekNTeWl0OERxOUZwMk5qQT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSw4OTc0MWZlYy0xZDMzLTRjMDAtYWZjZC0zZmRhZmUwYjZhMmQsMTUyYmQ1MzktNjIyMC00NDI3LWE5MTUtYmY0YmQwNjhkN2U4LGE2OTliODNmLTgyNmItNGQ5OS05MzYxLWM4YTMxMzIxOGQ0NiwwLDo6ZmZmZjoxMC4wLjAuMjA2
+https://kablo.vercel.app/index.m3u8?id=5
 #EXTINF:-1 tvg-id="" tvg-name="SİNEMA YERLİ" tvg-logo="" group-title="Sinema",SİNEMA YERLİ
-https://ottcdn.kablowebtv.net/live_turksat_sub3/sinemayerli_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMC8yMDI1IDEyOjMwOjIzIFBNJmhhc2hfdmFsdWU9YkFyZ0wwekNTeWl0OERxOUZwMk5qQT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSw4OTc0MWZlYy0xZDMzLTRjMDAtYWZjZC0zZmRhZmUwYjZhMmQsMTUyYmQ1MzktNjIyMC00NDI3LWE5MTUtYmY0YmQwNjhkN2U4LGE2OTliODNmLTgyNmItNGQ5OS05MzYxLWM4YTMxMzIxOGQ0NiwwLDo6ZmZmZjoxMC4wLjAuMjA2
+https://kablo.vercel.app/index.m3u8?id=3
 #EXTINF:-1 tvg-id="" tvg-name="MOVİESMART TÜRK HD" tvg-logo="" group-title="Sinema",MOVİESMART TÜRK HD
 https://tv1.arectv30.sbs/live/mvturk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MOVİESMART TÜRK" tvg-logo="" group-title="Sinema",MOVİESMART TÜRK
@@ -896,7 +900,7 @@ http://driptvs.com:2095/live/King200conxx/355sgdhh/5298.ts
 #EXTINF:-1 tvg-id="" tvg-name="FX HD" tvg-logo="" group-title="Sinema",FX HD
 https://saran-live.ercdn.net/fx/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EPİC DRAMA" tvg-logo="" group-title="Sinema",EPİC DRAMA
-https://ottcdn.kablowebtv.net/live_turksat_sub3/epicdramahd_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMC8yMDI1IDEyOjMwOjIzIFBNJmhhc2hfdmFsdWU9YkFyZ0wwekNTeWl0OERxOUZwMk5qQT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSw4OTc0MWZlYy0xZDMzLTRjMDAtYWZjZC0zZmRhZmUwYjZhMmQsMTUyYmQ1MzktNjIyMC00NDI3LWE5MTUtYmY0YmQwNjhkN2U4LGE2OTliODNmLTgyNmItNGQ5OS05MzYxLWM4YTMxMzIxOGQ0NiwwLDo6ZmZmZjoxMC4wLjAuMjA2
+https://kablo.vercel.app/index.m3u8?id=119
 #EXTINF:-1 tvg-id="" tvg-name="BLU TV PLAY 1" tvg-logo="" group-title="Sinema",BLU TV PLAY 1
 http://noxcon.cfd/live/tuncayylmaz/HkvCZS04kJ/823168.ts
 #EXTINF:-1 tvg-id="" tvg-name="BLU TV PLAY 2" tvg-logo="" group-title="Sinema",BLU TV PLAY 2
