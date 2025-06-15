@@ -728,11 +728,11 @@ https://kablo.vercel.app/index.m3u8?id=61
 #EXTINF:-1 tvg-id="" tvg-name="A PARA FHD+" tvg-logo="" group-title="Ulusal",A PARA FHD+
 https://yotubesakuapi.global.ssl.fastly.net/playlist/89.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A PARA HD+" tvg-logo="" group-title="Ulusal",A PARA HD+
-https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8
+http://185.234.111.229:8000/play/a01l
 #EXTINF:-1 tvg-id="" tvg-name="A PARA HD" tvg-logo="" group-title="Ulusal",A PARA HD
 https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=63uHG__U1wc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A PARA" tvg-logo="" group-title="Ulusal",A PARA
-http://185.234.111.229:8000/play/a01l
+https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BLOOMBERG HT" tvg-logo="" group-title="Ulusal",BLOOMBERG HT
 https://bloomberght-live.daioncdn.net/bloomberght/bloomberght.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BLOOMBERG HT HD" tvg-logo="" group-title="Ulusal",BLOOMBERG HT HD
@@ -750,6 +750,8 @@ https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=XihyuKSyUD0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EKOTÜRK TV FHD" tvg-logo="" group-title="Ulusal",EKOTÜRK TV FHD
 http://176.65.146.123:6004/play/a018/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EKOTÜRK TV FHD+" tvg-logo="" group-title="Ulusal",EKOTÜRK TV FHD+
+https://kablo.vercel.app/index.m3u8?id=62
+#EXTINF:-1 tvg-id="" tvg-name="EKOTÜRK TV HD+" tvg-logo="" group-title="Ulusal",EKOTÜRK TV HD+
 https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=Eol9cuS6qZI.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EKOTÜRK TV HD" tvg-logo="" group-title="Ulusal",EKOTÜRK TV HD
 https://yotubesakuapi.global.ssl.fastly.net/playlist/47.m3u8
@@ -762,7 +764,7 @@ https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TLC HD+" tvg-logo="" group-title="Ulusal",TLC HD+
 https://emmazbvkkf.turknet.ercdn.net/cnifuowzza/tlc/tlc_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TLC HD" tvg-logo="" group-title="Ulusal",TLC HD
-https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=gUAVdpK-ZZg.m3u8
+https://kablo.vercel.app/index.m3u8?id=19
 #EXTINF:-1 tvg-id="" tvg-name="DMAX FHD" tvg-logo="" group-title="Ulusal",DMAX FHD
 http://176.65.146.123:6001/play/a024/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DMAX FHD+" tvg-logo="" group-title="Ulusal",DMAX FHD+
@@ -770,7 +772,7 @@ https://dogus-live.daioncdn.net/dmax/dmax.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DMAX HD+" tvg-logo="" group-title="Ulusal",DMAX HD+
 https://emmazbvkkf.turknet.ercdn.net/cnifuowzza/dmax/dmax_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DMAX HD" tvg-logo="" group-title="Ulusal",DMAX HD
-https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=t1TaNys7xd8.m3u8
+https://kablo.vercel.app/index.m3u8?id=20
 #EXTINF:-1 tvg-id="" tvg-name="TRT 2 FHD" tvg-logo="" group-title="Ulusal",TRT 2 FHD
 http://176.65.146.123:6001/play/a02e/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT 2 HD" tvg-logo="" group-title="Ulusal",TRT 2 HD
