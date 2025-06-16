@@ -1095,6 +1095,8 @@ https://dogus-live.daioncdn.net/dmax/dmax.m3u8
 https://dogus-live.daioncdn.net/tlc/tlc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FİT YAŞA TV" tvg-logo="" group-title="Belgesel",FİT YAŞA TV
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/fit-yasa-tv/playlist/0.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KONYA OLAY TV" tvg-logo="" group-title="Belgesel",KONYA OLAY TV
+http://olayhabertv42.ozelip.com:28008/olay/olay/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KANAL 53" tvg-logo="" group-title="Belgesel",KANAL 53
 https://kanal53.ozelip.com:3448/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KANAL S" tvg-logo="" group-title="Belgesel",KANAL S
@@ -1106,7 +1108,7 @@ http://lionking.proxvip.xyz:2095/live/vlkn2282/vlk.56/74193.ts
 #EXTINF:-1 tvg-id="" tvg-name="GURME TV" tvg-logo="" group-title="Belgesel",GURME TV
 https://live.euromediacenter.com/gurmetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN GURME HD" tvg-logo="" group-title="Belgesel",BEİN GURME HD
-https://kerimmkirac-dproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3583230858/index.m3u8
+https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/950394656/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN GURME" tvg-logo="" group-title="Belgesel",BEİN GURME
 http://a8026.yesil03.xyz:80/hursitkose/gEgANpaw/15031
 #EXTINF:-1 tvg-id="" tvg-name="BEİN İZ HD" tvg-logo="" group-title="Belgesel",BEİN İZ HD
