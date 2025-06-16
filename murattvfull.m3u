@@ -394,7 +394,7 @@ http://116.202.238.88/AHABER_TR/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A HABER" tvg-logo="" group-title="Haber",A HABER
 https://trkvz-live.ercdn.net/ahaberhd/ahaberhd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN TÜRK FHD" tvg-logo="" group-title="Haber",CNN TÜRK FHD
-https://yotubesakuapi.global.ssl.fastly.net/playlist/1.m3u8
+https://kablo.vercel.app/index.m3u8?id=42
 #EXTINF:-1 tvg-id="" tvg-name="CNN TÜRK FHD+" tvg-logo="" group-title="Haber",CNN TÜRK FHD+
 https://tv1.arectv30.sbs/live/cnnturk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN TÜRK HD" tvg-logo="" group-title="Haber",CNN TÜRK HD
@@ -407,6 +407,8 @@ http://hdlocal.de:8080/live/cs22cs.suroot/4amFSTThYHGGS2223/10126.ts
 http://135.181.115.81:8000/play/a03j/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="" tvg-name="CNN TÜRK STREAM" tvg-logo="" group-title="Haber",CNN TÜRK STREAM
 http://ott.dobratv.net:25461/live/TeleskyGradacac/OlhzoyCMyn/6644.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNN TÜRK PLAY" tvg-logo="" group-title="Haber",CNN TÜRK PLAY
+https://yotubesakuapi.global.ssl.fastly.net/playlist/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN TÜRK" tvg-logo="" group-title="Haber",CNN TÜRK
 http://116.202.238.88/CNNTURK_TR/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HABER TÜRK FHD" tvg-logo="" group-title="Haber",HABER TÜRK FHD
@@ -543,6 +545,8 @@ https://tv.ensonhaber.com/benguturk/benguturk_720p.m3u8
 https://yotubesakuapi.global.ssl.fastly.net/playlist/84.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KANAL B" tvg-logo="" group-title="Haber",KANAL B
 https://baskentaudiovideo.xyz/LiveApp/streams/mUE22idl26lA1683879097431.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KANAL B HD" tvg-logo="" group-title="Haber",KANAL B HD
+https://kablo.vercel.app/index.m3u8?id=28
 #EXTINF:-1 tvg-id="" tvg-name="TV 5" tvg-logo="" group-title="Haber",TV 5
 https://tv5-live.ercdn.net/tv5/tv5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HABER 61" tvg-logo="" group-title="Haber",HABER 61
@@ -575,10 +579,12 @@ https://live01.iha.tv/webabone/live/chunks.m3u8
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A NEWS FHD" tvg-logo="" group-title="Haber",A NEWS FHD
 https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=L4O-IO_dySQ.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A NEWS HD+" tvg-logo="" group-title="Haber",A NEWS HD+
+https://koprulu4.global.ssl.fastly.net/kablo/?id=anews
 #EXTINF:-1 tvg-id="" tvg-name="A NEWS HD" tvg-logo="" group-title="Haber",A NEWS HD
-https://trkvz-live.ercdn.net/anewshd/anewshd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A NEWS" tvg-logo="" group-title="Haber",A NEWS
 https://yotubesakuapi.global.ssl.fastly.net/yt.m3u8/?id=L4O-IO_dySQ.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A NEWS" tvg-logo="" group-title="Haber",A NEWS
+https://trkvz-live.ercdn.net/anewshd/anewshd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN İNTERNATİONAL" tvg-logo="" group-title="Haber",CNN İNTERNATİONAL
 https://kablo.vercel.app/index.m3u8?id=71
 #EXTINF:-1 tvg-id="" tvg-name="CÜNEYT ÖZDEMİR YOUTUBE Her Gün Saat 12" tvg-logo="" group-title="Haber",CÜNEYT ÖZDEMİR YOUTUBE Her gün Saat 12
@@ -677,6 +683,8 @@ https://yurhnwtpys.turknet.ercdn.net/cvmbjbpmdx/kanal7/kanal7.m3u8
 http://89.187.191.41/Kanal-7-HD-TR/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A2 FHD" tvg-logo="" group-title="Ulusal",A2 FHD
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A2 FHD+" tvg-logo="" group-title="Ulusal",A2 FHD+
+https://kablo.vercel.app/index.m3u8?id=16
 #EXTINF:-1 tvg-id="" tvg-name="A2 HD+" tvg-logo="" group-title="Ulusal",A2 HD+
 http://hdlocal.de:8080/live/cs22cs.suroot/4amFSTThYHGGS2223/10124.ts
 #EXTINF:-1 tvg-id="" tvg-name="A2 HD" tvg-logo="" group-title="Ulusal",A2 HD
@@ -1186,6 +1194,11 @@ https://embedlp.b-cdn.net/womantv.m3u8
 https://live.euromediacenter.com/tvmor/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DİM TV" tvg-logo="" group-title="Belgesel",DİM TV
 https://waw2.artiyerelmedya.net/dimtv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TARİH TV HD" tvg-logo="" group-title="Belgesel",TARİH TV HD
+https://koprulu4.global.ssl.fastly.net/kablo/?id=tarihtv
+#EXTINF:-1 tvg-id="" tvg-name="TARİH TV" tvg-logo="" group-title="Belgesel",TARİH TV
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+https://tv1.arectv30.sbs/live/tarihtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TARIM TV" tvg-logo="" group-title="Belgesel",TARIM TV
 https://canlitvulusal.xyz/live/tarimtv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ÇİFTÇİ TV" tvg-logo="" group-title="Belgesel",ÇİFTÇİ TV
@@ -1212,6 +1225,8 @@ https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=yRSAb5stq44.m3u8
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/vaaz-tv/playlist/0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DİYANET TV" tvg-logo="" group-title="Dini",DİYANET TV
 https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/mt_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VAV TV" tvg-logo="" group-title="Dini",VAV TV
+https://kablo.vercel.app/index.m3u8?id=30
 #EXTINF:-1 tvg-id="" tvg-name="TRT ÇOCUK HD" tvg-logo="" group-title="Çocuk",TRT ÇOCUK HD
 http://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT DİYANET ÇOCUK" tvg-logo="" group-title="Çocuk",TRT DİYANET ÇOCUK
