@@ -1229,8 +1229,12 @@ https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95
 https://kablo.vercel.app/index.m3u8?id=30
 #EXTINF:-1 tvg-id="" tvg-name="TRT ÇOCUK HD" tvg-logo="" group-title="Çocuk",TRT ÇOCUK HD
 http://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT ÇOCUK FHD" tvg-logo="" group-title="Çocuk",TRT ÇOCUK FHD
+http://176.65.146.123:6001/play/a01i/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT DİYANET ÇOCUK" tvg-logo="" group-title="Çocuk",TRT DİYANET ÇOCUK
 http://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT DİYANET ÇOCUK FHD" tvg-logo="" group-title="Çocuk",TRT DİYANET ÇOCUK FHD
+http://176.65.146.123:6001/play/a01n/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT EBA HD" tvg-logo="" group-title="Çocuk",TRT EBA HD
 https://tv-e-okul01.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MİNİKA ÇOCUK HD" tvg-logo="" group-title="Çocuk",MİNİKA ÇOCUK HD
@@ -1244,7 +1248,7 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK HD" tvg-logo="" group-title="Çocuk",CARTOON NETWORK HD
 https://lemonchiffon-dotterel-347603.hostingersite.com/yayin.m3u8?id=1608
 #EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="" group-title="Çocuk",CARTOON NETWORK
-https://canlitvulusal.xyz/live/cartoonnetwork/index.m3u8
+https://tv.arectv34.sbs/live/cartoonnetwork.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BABY TV" tvg-logo="" group-title="Çocuk",BABY TV
 http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/634
 #EXTINF:-1 tvg-id="" tvg-name="CAİLLOU TÜRKÇE" tvg-logo="" group-title="Çocuk",CAİLLOU TÜRKÇE
