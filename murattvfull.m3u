@@ -890,17 +890,17 @@ https://tv1.arectv30.sbs/live/bsfamily.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN MOVİES TÜRK" tvg-logo="" group-title="Sinema",BEİN MOVİES TÜRK
 https://tv1.arectv30.sbs/live/bsturk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SİNEMA TV" tvg-logo="" group-title="Sinema",SİNEMA TV
-https://kablo.vercel.app/index.m3u8?id=1
+https://koprulu4.global.ssl.fastly.net/kablo/?id=sinematv
 #EXTINF:-1 tvg-id="" tvg-name="SİNEMA AKSİYON" tvg-logo="" group-title="Sinema",SİNEMA AKSİYON
-https://kablo.vercel.app/index.m3u8?id=2
+https://koprulu4.global.ssl.fastly.net/kablo/?id=sinemaaksiyon
 #EXTINF:-1 tvg-id="" tvg-name="SİNEMA AİLE" tvg-logo="" group-title="Sinema",SİNEMA AİLE
-https://kablo.vercel.app/index.m3u8?id=4
+https://koprulu4.global.ssl.fastly.net/kablo/?id=sinemaaile
 #EXTINF:-1 tvg-id="" tvg-name="SİNEMA KOMEDİ" tvg-logo="" group-title="Sinema",SİNEMA KOMEDİ
-https://kablo.vercel.app/index.m3u8?id=6
+https://koprulu4.global.ssl.fastly.net/kablo/?id=sinemakomedi
 #EXTINF:-1 tvg-id="" tvg-name="SİNEMA 1001" tvg-logo="" group-title="Sinema",SİNEMA 1001
-https://kablo.vercel.app/index.m3u8?id=5
+https://koprulu4.global.ssl.fastly.net/kablo/?id=sinema1001
 #EXTINF:-1 tvg-id="" tvg-name="SİNEMA YERLİ" tvg-logo="" group-title="Sinema",SİNEMA YERLİ
-https://kablo.vercel.app/index.m3u8?id=3
+https://koprulu4.global.ssl.fastly.net/kablo/?id=sinemayerli
 #EXTINF:-1 tvg-id="" tvg-name="MOVİESMART TÜRK HD" tvg-logo="" group-title="Sinema",MOVİESMART TÜRK HD
 https://tv1.arectv30.sbs/live/mvturk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MOVİESMART TÜRK" tvg-logo="" group-title="Sinema",MOVİESMART TÜRK
@@ -912,7 +912,7 @@ http://a8026.yesil03.xyz:80/hursitkose/gEgANpaw/23640
 #EXTINF:-1 tvg-id="" tvg-name="FX HD" tvg-logo="" group-title="Sinema",FX HD
 https://saran-live.ercdn.net/fx/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EPİC DRAMA" tvg-logo="" group-title="Sinema",EPİC DRAMA
-https://kablo.vercel.app/index.m3u8?id=119
+https://koprulu4.global.ssl.fastly.net/kablo/?id=epicdramahd
 #EXTINF:-1 tvg-id="" tvg-name="BLU TV PLAY 1" tvg-logo="" group-title="Sinema",BLU TV PLAY 1
 http://noxcon.cfd/live/tuncayylmaz/HkvCZS04kJ/823168.ts
 #EXTINF:-1 tvg-id="" tvg-name="BLU TV PLAY 2" tvg-logo="" group-title="Sinema",BLU TV PLAY 2
@@ -922,7 +922,7 @@ https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TABİİ TV" tvg-logo="" group-title="Sinema",TABİİ TV
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EXXEN TV" tvg-logo="" group-title="Sinema",EXXEN TV
-http://premium2rss.xyz:80/live/@Yusufmilpark@/gpGWDLpDVP/291106.ts
+https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/2426097659/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="" group-title="Sinema",HBO HD
 http://a8026.yesil03.xyz:80/Vipline.753/d7BXYWTzh6/169126
 #EXTINF:-1 tvg-id="" tvg-name="CİNEBOX KORKU" tvg-logo="" group-title="Sinema",CİNEBOX KORKU
@@ -1029,8 +1029,6 @@ https://uzunmuhalefet.serv00.net/canlitv2.php?id=12969&.m3u8
 https://spor.kuzeykibris.tv/m3u8/tv_ktv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KUZEY KIBRIS TV" tvg-logo="" group-title="Sinema",KUZEY KIBRIS TV
 https://old.kuzeykibris.tv/m3u8/kktv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KUZEY KIBRIS TV 2" tvg-logo="" group-title="Sinema",KUZEY KIBRIS TV 2
-https://spor.kuzeykibris.tv/m3u8/kktv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="YEŞİLÇAM TV ARZU FİLM" tvg-logo="" group-title="Sinema",YEŞİLÇAM TV ARZU FİLM
 https://yotubesakuapi.global.ssl.fastly.net/playlist/20.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="YEŞİLÇAM TV ZEİ METİN" tvg-logo="" group-title="Sinema",YEŞİLÇAM TV ZEKİ METİN
