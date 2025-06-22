@@ -1,5 +1,5 @@
 #EXTINF:-1 ,MURAT TV
-https://yotubesakuapi.global.ssl.fastly.net/playlist/75.m3u8
+https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=EmdtE7sRMSY.m3u8
 #EXTINF:-1 ,MURAT TV 2
 https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=n5CBQTdLkLA.m3u8
 #EXTINF:-1 ,MURAT TV 3
@@ -1130,18 +1130,18 @@ http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6854/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBC EARTH FHD" tvg-logo="" group-title="Belgesel",BBC EARTH FHD
 http://a8026.yesil03.xyz:80/hursitkose/gEgANpaw/2144
 #EXTINF:-1 tvg-id="" tvg-name="DA VİNCİ HD" tvg-logo="" group-title="Belgesel",DA VİNCİ HD
-https://kablo.vercel.app/index.m3u8?id=134
+https://koprulu4.global.ssl.fastly.net/kablo/?id=davinci
 #EXTINF:-1 tvg-id="" tvg-name="DA VİNCİ" tvg-logo="" group-title="Belgesel",DA VİNCİ
 http://a8026.yesil03.xyz:80/hursitkose/gEgANpaw/2136
 #EXTINF:-1 tvg-id="" tvg-name="DİSCOVERY CHANNEL HD" tvg-logo="" group-title="Belgesel",DİSCOVERY CHANNEL HD
-https://kablo.vercel.app/index.m3u8?id=84
+https://koprulu4.global.ssl.fastly.net/kablo/?id=discoverychannel
 #EXTINF:-1 tvg-id="" tvg-name="DİSCOVERY CHANNEL HD+" tvg-logo="" group-title="Belgesel",DİSCOVERY CHANNEL HD+
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 https://tv1.arectv30.sbs/live/discovery.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DİSCOVERY CHANNEL" tvg-logo="" group-title="Belgesel",DİSCOVERY CHANNEL
 https://217.30.11.74/e/500.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DİSCOVERY ID HD" tvg-logo="" group-title="Belgesel",DİSCOVERY ID HD
-https://kablo.vercel.app/index.m3u8?id=85
+https://koprulu4.global.ssl.fastly.net/kablo/?id=id
 #EXTINF:-1 tvg-id="" tvg-name="DİSCOVERY ID" tvg-logo="" group-title="Belgesel",DİSCOVERY ID
 https://tv.arectv34.sbs/live/discs.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DİSCOVERY SCİENCE" tvg-logo="" group-title="Belgesel",DİSCOVERY SCİENCE
@@ -1155,33 +1155,33 @@ https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/241533156
 #EXTINF:-1 tvg-id="" tvg-name="HİSTORY CHANNEL" tvg-logo="" group-title="Belgesel",HİSTORY CHANNEL
 http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6856/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NATİONAL GEO HD" tvg-logo="" group-title="Belgesel",NATİONAL GEO HD
-https://kablo.vercel.app/index.m3u8?id=82
+https://koprulu4.global.ssl.fastly.net/kablo/?id=natgeo
 #EXTINF:-1 tvg-id="" tvg-name="NATİONAL GEO HD+" tvg-logo="" group-title="Belgesel",NATİONAL GEO HD+
 https://saran-live.ercdn.net/natgeohd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NATİONAL GEOGRAPHİC HD" tvg-logo="" group-title="Belgesel",NATİONAL GEOGRAPHİC HD
 https://saran-live.ercdn.net/natgeohd/index.m3u8?st=uo_tiDvIzeRrTIyZ402B9g&e=1738278432
 #EXTINF:-1 tvg-id="" tvg-name="NATİONAL GEO WİLD" tvg-logo="" group-title="Belgesel",NATİONAL GEO WİLD
-https://kablo.vercel.app/index.m3u8?id=83
+https://koprulu4.global.ssl.fastly.net/kablo/?id=natgeowild
 #EXTINF:-1 tvg-id="" tvg-name="NATİONAL GEO WİLD HD" tvg-logo="" group-title="Belgesel",NATİONAL GEO WİLD HD
 https://saran-live.ercdn.net/natgeowild/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LOVE NATURE HD" tvg-logo="" group-title="Belgesel",LOVE NATURE HD
-https://kablo.vercel.app/index.m3u8?id=87
+https://koprulu4.global.ssl.fastly.net/kablo/?id=lovenaturehd
 #EXTINF:-1 tvg-id="" tvg-name="LOVE NATURE" tvg-logo="" group-title="Belgesel",LOVE NATURE
 https://tv.arectv34.sbs/live/lovenature.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VİASAT EXPLORE" tvg-logo="" group-title="Belgesel",VİASAT EXPLORE
 https://tv1.arectv30.sbs/live/viasatexplore.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VİASAT EXPLORE HD" tvg-logo="" group-title="Belgesel",VİASAT EXPLORE HD
-https://kablo.vercel.app/index.m3u8?id=89
+https://koprulu4.global.ssl.fastly.net/kablo/?id=viasatexplore
 #EXTINF:-1 tvg-id="" tvg-name="VİASAT HİSTORY" tvg-logo="" group-title="Belgesel",VİASAT HİSTORY
 https://tv1.arectv30.sbs/live/viasathistory.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VİASAT HİSTORY HD" tvg-logo="" group-title="Belgesel",VİASAT HİSTORY HD
-https://kablo.vercel.app/index.m3u8?id=86
+https://koprulu4.global.ssl.fastly.net/kablo/?id=viasathistory
 #EXTINF:-1 tvg-id="" tvg-name="DOCU SCREEN" tvg-logo="" group-title="Belgesel",DOCU SCREEN
-https://kablo.vercel.app/index.m3u8?id=88
+https://koprulu4.global.ssl.fastly.net/kablo/?id=docuscreen
 #EXTINF:-1 tvg-id="" tvg-name="CGTN BELGESEL" tvg-logo="" group-title="Belgesel",CGTN BELGESEL
 https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CGTN DOCUMENTARY" tvg-logo="" group-title="Belgesel",CGTN DOCUMENTARY
-https://kablo.vercel.app/index.m3u8?id=90
+https://koprulu4.global.ssl.fastly.net/kablo/?id=cgtndocu
 #EXTINF:-1 tvg-id="" tvg-name="KADIRGA TV" tvg-logo="" group-title="Belgesel",KADIRGA TV
 https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/2093940826/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KADIRGA TV LİVE" tvg-logo="" group-title="Belgesel",KADIRGA TV LİVE
@@ -1226,7 +1226,7 @@ https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/vaaz-tv/playlist/0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DİYANET TV" tvg-logo="" group-title="Dini",DİYANET TV
 https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/mt_0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VAV TV" tvg-logo="" group-title="Dini",VAV TV
-https://kablo.vercel.app/index.m3u8?id=30
+https://koprulu4.global.ssl.fastly.net/kablo/?id=vavtv
 #EXTINF:-1 tvg-id="" tvg-name="TRT ÇOCUK HD" tvg-logo="" group-title="Çocuk",TRT ÇOCUK HD
 http://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT ÇOCUK FHD" tvg-logo="" group-title="Çocuk",TRT ÇOCUK FHD
@@ -1246,7 +1246,7 @@ https://trkvz-live.daioncdn.net/minikago/minikago.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MİNİKA GO" tvg-logo="" group-title="Çocuk",MİNİKA GO
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK HD" tvg-logo="" group-title="Çocuk",CARTOON NETWORK HD
-https://lemonchiffon-dotterel-347603.hostingersite.com/yayin.m3u8?id=1608
+https://koprulu4.global.ssl.fastly.net/kablo/?id=cartoonnetwork
 #EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="" group-title="Çocuk",CARTOON NETWORK
 https://tv.arectv34.sbs/live/cartoonnetwork.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BABY TV" tvg-logo="" group-title="Çocuk",BABY TV
