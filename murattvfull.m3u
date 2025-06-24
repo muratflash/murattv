@@ -116,11 +116,11 @@ https://gknnowtv.onrender.com/bein3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 4 DESSİ" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 4 DESSİ
 https://gknnowtv.onrender.com/bein4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS HABER FHD" tvg-logo="" group-title="Bein Sports",BEİN SPORTS HABER FHD
-https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=VCl1wO81VdM.m3u8
+https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=CtUorRNqC4s.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS HABER HD" tvg-logo="" group-title="Bein Sports",BEİN SPORTS HABER HD
 https://koprulu4.global.ssl.fastly.net/kablo/?id=beinsportshaber
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS HABER" tvg-logo="" group-title="Bein Sports",BEİN SPORTS HABER
-https://yotubesakuapi.global.ssl.fastly.net/playlist/71.m3u8
+https://koprulu4.global.ssl.fastly.net/ythls/?kanal_id=UCPe9vNjHF1kEExT5kHwc7aw.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS ARŞİV" tvg-logo="" group-title="Bein Sports",BEİN SPORTS ARŞİV
 https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=KTGpuaZek0A.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TABİİ SPOR FHD" tvg-logo="" group-title="Tabii Spor",TABİİ SPOR FHD
@@ -278,19 +278,21 @@ https://217.30.11.74/e/155.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SPOR SMARRT 2" tvg-logo="" group-title="Spor Smart",SPOR SMART 2
 https://217.30.11.74/e/156.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS HABER FHD" tvg-logo="" group-title="Spor",BEİN SPORTS HABER FHD
-https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=VCl1wO81VdM.m3u8
+https://koprulu4.global.ssl.fastly.net/ythls/?kanal_id=UCPe9vNjHF1kEExT5kHwc7aw.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS HABER FHD+" tvg-logo="" group-title="Spor",BEİN SPORTS HABER FHD+
 https://koprulu4.global.ssl.fastly.net/kablo/?id=beinsportshaber
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS HABER HD" tvg-logo="" group-title="Spor",BEİN SPORTS HABER HD
-https://yotubesakuapi.global.ssl.fastly.net/playlist/71.m3u8
+https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=CtUorRNqC4s.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS HABER HD+" tvg-logo="" group-title="Spor",BEİN SPORTS HABER HD+
 http://a8026.yesil03.xyz:80/hursitkose/gEgANpaw/37165
 #EXTINF:-1 tvg-id="" tvg-name="TRT SPOR FHD" tvg-logo="" group-title="Spor",TRT SPOR FHD
 https://trt.daioncdn.net/trtspor/master_1080p.m3u8?platform=trtspor&sid=6v658fcnyyrq&app=9b65474e-8197-4899-aabb-321fcf6dd9eb&ce=2
 #EXTINF:-1 tvg-id="" tvg-name="TRT SPOR HD" tvg-logo="" group-title="Spor",TRT SPOR HD
 https://tv-trtspor1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT SPOR" tvg-logo="" group-title="Spor",TRT SPOR
+https://koprulu4.global.ssl.fastly.net/kablo/?id=trtspor
 #EXTINF:-1 tvg-id="" tvg-name="A SPOR FHD" tvg-logo="" group-title="Spor",A SPOR FHD
-https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=7uBpwcn2ZZ0.m3u8
+https://koprulu4.global.ssl.fastly.net/ythls/?kanal_id=UCJElRTCNEmLemgirqvsW63Q.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A SPOR FHD+" tvg-logo="" group-title="Spor",A SPOR FHD+
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A SPOR HD+" tvg-logo="" group-title="Spor",A SPOR HD+
@@ -304,7 +306,9 @@ https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HT SPOR FHD" tvg-logo="" group-title="Spor",HT SPOR FHD
 https://ciner-live.daioncdn.net/ht-spor/ht-spor_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HT SPOR HD" tvg-logo="" group-title="Spor",HT SPOR HD
-https://yotubesakuapi.global.ssl.fastly.net/playlist/54.m3u8
+https://koprulu4.global.ssl.fastly.net/ythls/?kanal_id=UCK3mI2lsk3LSo8PBUc8JTSw.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HT SPOR" tvg-logo="" group-title="Spor",HT SPOR
+https://koprulu4.global.ssl.fastly.net/kablo/?id=htsporhd
 #EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR HD" tvg-logo="" group-title="Spor",TİVİBU SPOR HD
 http://lionking.proxvip.xyz:2095/live/vlkn2282/vlk.56/86876.ts
 #EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR" tvg-logo="" group-title="Spor",TİVİBU SPOR
@@ -349,8 +353,8 @@ https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HARD KNOCKS FİGHTİNG" tvg-logo="" group-title="Spor",HARD KNOCKS FİGHTİNG
 https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/2ee2b8d4-acc4-4296-9dc8-66f1ffd0fff8/5.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FİGHT BOX" tvg-logo="" group-title="Spor",FİGHT BOX
-https://tv.arectv3.xyz/live/fight.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COSMO SPORTS" tvg-logo="" group-title="Spor",COSMO SPORTS
+https://koprulu4.global.ssl.fastly.net/kablo/?id=fightscreen
 #EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1" tvg-logo="" group-title="Spor",EUROSPORT 1
 https://tv.arectv3.xyz/live/euro1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2" tvg-logo="" group-title="Spor",EUROSPORT 2
@@ -358,13 +362,15 @@ https://tv.arectv3.xyz/live/euro2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TJK TV" tvg-logo="" group-title="Spor",TJK TV
 https://tjktv-live.tjk.org/tjktv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TJK TV HD" tvg-logo="" group-title="Spor",TJK TV HD
-https://yotubesakuapi.global.ssl.fastly.net/playlist/36.m3u8
+https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=g89RQMJtK6E.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TJK TV YURT DIŞI" tvg-logo="" group-title="Spor",TJK TV YURT DIŞI
+https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=ri4rR0H2i9c.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TAY TV FHD" tvg-logo="" group-title="Spor",TAY TV FHD
 https://duhnet.hipodrom.com/S2/HLS_LIVE/mislitaynp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TAY TV HD" tvg-logo="" group-title="Spor",TAY TV HD
 http://78.128.125.60:9981/play/a01k/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TAY TV" tvg-logo="" group-title="Spor",TAY TV
-https://217.30.11.74/e/201.m3u8
+https://koprulu4.global.ssl.fastly.net/ythls/?kanal_id=UCjkRA7KEdp7PDKDUs396XHg.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NBA TV HD" tvg-logo="" group-title="Spor",NBA TV HD
 https://koprulu4.global.ssl.fastly.net/kablo/?id=nbatv
 #EXTINF:-1 tvg-id="" tvg-name="AUTOMOTO HD" tvg-logo="" group-title="Spor",AUTOMOTO HD
@@ -378,11 +384,13 @@ https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TGRT HABER FHD" tvg-logo="" group-title="Haber",TGRT HABER FHD
 https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TGRT HABER HD" tvg-logo="" group-title="Haber",TGRT HABER HD
-https://yotubesakuapi.global.ssl.fastly.net/playlist/9.m3u8
+https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=TsB0xYOH0AU.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TGRT HABER" tvg-logo="" group-title="Haber",TGRT HABER
+https://koprulu4.global.ssl.fastly.net/kablo/?id=tgrthaber
 #EXTINF:-1 tvg-id="" tvg-name="A HABER FHD" tvg-logo="" group-title="Haber",A HABER FHD
-https://yotubesakuapi.global.ssl.fastly.net/playlist/4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A HABER FHD+" tvg-logo="" group-title="Haber",A HABER FHD+
 https://koprulu4.global.ssl.fastly.net/kablo/?id=ahaber
+#EXTINF:-1 tvg-id="" tvg-name="A HABER FHD+" tvg-logo="" group-title="Haber",A HABER FHD+
+https://koprulu4.global.ssl.fastly.net/ythls/?kanal_id=UCKQhfw-lzz0uKnE1fY1PsAA.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A HABER HD+" tvg-logo="" group-title="Haber",A HABER HD+
 http://176.65.146.123:6001/play/a01u/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A HABER HD" tvg-logo="" group-title="Haber",A HABER HD
@@ -398,7 +406,7 @@ https://koprulu4.global.ssl.fastly.net/kablo/?id=cnnturk
 #EXTINF:-1 tvg-id="" tvg-name="CNN TÜRK FHD+" tvg-logo="" group-title="Haber",CNN TÜRK FHD+
 https://tv1.arectv30.sbs/live/cnnturk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN TÜRK HD" tvg-logo="" group-title="Haber",CNN TÜRK HD
-https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=VXMR3YQ7W3s.m3u8
+https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=bdDfLLy9Y5k.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN TÜRK HD+" tvg-logo="" group-title="Haber",CNN TÜRK HD+
 http://176.65.146.123:6002/play/a00z/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN TÜRK UHD" tvg-logo="" group-title="Haber",CNN TÜRK UHD
@@ -408,7 +416,7 @@ http://135.181.115.81:8000/play/a03j/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="" tvg-name="CNN TÜRK STREAM" tvg-logo="" group-title="Haber",CNN TÜRK STREAM
 http://ott.dobratv.net:25461/live/TeleskyGradacac/OlhzoyCMyn/6644.ts
 #EXTINF:-1 tvg-id="" tvg-name="CNN TÜRK PLAY" tvg-logo="" group-title="Haber",CNN TÜRK PLAY
-https://yotubesakuapi.global.ssl.fastly.net/playlist/1.m3u8
+https://koprulu4.global.ssl.fastly.net/ythls/?kanal_id=UCV6zcRug6Hqp1UX_FdyUeBg.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN TÜRK" tvg-logo="" group-title="Haber",CNN TÜRK
 http://116.202.238.88/CNNTURK_TR/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HABER TÜRK FHD" tvg-logo="" group-title="Haber",HABER TÜRK FHD
