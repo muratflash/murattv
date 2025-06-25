@@ -745,7 +745,7 @@ https://cdn-onstv.yayin.com.tr/onstv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SHOWMAX FHD" tvg-logo="" group-title="Ulusal",SHOW MAX FHD
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SHOWMAX HD+" tvg-logo="" group-title="Ulusal",SHOW MAX HD+
-https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=Y3vGHFrsqrs.m3u8
+https://koprulu4.global.ssl.fastly.net/ythls/?kanal_id=UC9JMe_We017gYrRc7kZHgmg.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SHOWMAX HD" tvg-logo="" group-title="Ulusal",SHOW MAX HD
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shmax.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TGRT EU HD" tvg-logo="" group-title="Ulusal",TGRT EU HD
@@ -763,25 +763,25 @@ https://koprulu4.global.ssl.fastly.net/kablo/?id=gzttv
 #EXTINF:-1 tvg-id="" tvg-name="A PARA FHD" tvg-logo="" group-title="Ulusal",A PARA FHD
 https://koprulu4.global.ssl.fastly.net/kablo/?id=apara
 #EXTINF:-1 tvg-id="" tvg-name="A PARA FHD+" tvg-logo="" group-title="Ulusal",A PARA FHD+
-https://yotubesakuapi.global.ssl.fastly.net/playlist/89.m3u8
+https://koprulu4.global.ssl.fastly.net/ythls/?kanal_id=UCzrGg6iyRDuUSnO0cQ5oLcA.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A PARA HD+" tvg-logo="" group-title="Ulusal",A PARA HD+
 http://185.234.111.229:8000/play/a01l
 #EXTINF:-1 tvg-id="" tvg-name="A PARA HD" tvg-logo="" group-title="Ulusal",A PARA HD
-https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=63uHG__U1wc.m3u8
+https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=neWTytwJhEc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A PARA" tvg-logo="" group-title="Ulusal",A PARA
 https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BLOOMBERG HT" tvg-logo="" group-title="Ulusal",BLOOMBERG HT
 https://bloomberght-live.daioncdn.net/bloomberght/bloomberght.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BLOOMBERG HT HD" tvg-logo="" group-title="Ulusal",BLOOMBERG HT HD
-https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=hHSmBJk6w0c.m3u8
+https://koprulu4.global.ssl.fastly.net/ythls/?kanal_id=UCApLxl6oYQafxvykuoC2uxQ.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BLOOMBERG HT FHD" tvg-logo="" group-title="Ulusal",BLOOMBERG HT FHD
-https://yotubesakuapi.global.ssl.fastly.net/playlist/91.m3u8
+https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=hHSmBJk6w0c.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNBC-E FHD" tvg-logo="" group-title="Ulusal",CNBC-E FHD
 https://uzunmuhalefet.serv00.net/canlitv2.php?id=13406&.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNBC-E HD+" tvg-logo="" group-title="Ulusal",CNBC-E HD+
 http://50.7.144.122:1935/live/cnbce.stream/playlist.m3u8?hash=b0fd6da0c45409a2b42467df8a32de8d
 #EXTINF:-1 tvg-id="" tvg-name="CNBC-E HD" tvg-logo="" group-title="Ulusal",CNBC-E HD
-https://yotubesakuapi.global.ssl.fastly.net/playlist/90.m3u8
+https://koprulu4.global.ssl.fastly.net/ythls/?kanal_id=UCaO-M1dXacMwtyg0Pvovk4w.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNBC-E" tvg-logo="" group-title="Ulusal",CNBC-E
 https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=XihyuKSyUD0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EKOTÜRK TV FHD" tvg-logo="" group-title="Ulusal",EKOTÜRK TV FHD
@@ -789,9 +789,9 @@ http://176.65.146.123:6004/play/a018/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EKOTÜRK TV FHD+" tvg-logo="" group-title="Ulusal",EKOTÜRK TV FHD+
 https://koprulu4.global.ssl.fastly.net/kablo/?id=ekoturk
 #EXTINF:-1 tvg-id="" tvg-name="EKOTÜRK TV HD+" tvg-logo="" group-title="Ulusal",EKOTÜRK TV HD+
-https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=Eol9cuS6qZI.m3u8
+https://koprulu4.global.ssl.fastly.net/ythls/?kanal_id=UCAGVKxpAKwXMWdmcHbrvcwQ.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EKOTÜRK TV HD" tvg-logo="" group-title="Ulusal",EKOTÜRK TV HD
-https://yotubesakuapi.global.ssl.fastly.net/playlist/47.m3u8
+https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=Son5meUMZuU.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EKOTÜRK TV" tvg-logo="" group-title="Ulusal",EKOTÜRK TV
 https://trn03.tulix.tv/gt-ekoturk/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TLC FHD" tvg-logo="" group-title="Ulusal",TLC FHD
@@ -823,7 +823,7 @@ https://s01.webcaster.cloud/wmtv/live_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WOMAN TV" tvg-logo="" group-title="Ulusal",WOMAN TV
 https://embedlp.b-cdn.net/womantv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BİZİM EV TV" tvg-logo="" group-title="Ulusal",BİZİM EV TV
-https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=QDbUBdcHUMk.m3u8
+https://koprulu4.global.ssl.fastly.net/ythls/?kanal_id=UCIHMK8qtjB_GNuXmeex6i8g.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TÜRKMENELİ TV" tvg-logo="" group-title="Ulusal",TÜRKMENELİ TV
 https://135962.global.ssl.fastly.net/5ff366a512987e2c0a3dabfe/live_14378e1002eb11ef9cb025207067897a/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ADANALI" tvg-logo="" group-title="Dizi",ADANALI
@@ -1115,7 +1115,7 @@ https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TGRT BELGESEL" tvg-logo="" group-title="Belgesel",TGRT BELGESEL
 http://176.65.146.224:6005/play/a01c/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TGRT BELGESEL HD" tvg-logo="" group-title="Belgesel",TGRT BELGESEL HD
-https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=31kIomx-aCM.m3u8
+https://koprulu4.global.ssl.fastly.net/ythls/?kanal_id=UCkQV7uH1Otv47CZz6tD3jGQ.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="YABAN TV HD" tvg-logo="" group-title="Belgesel",YABAN TV HD
 https://uzunmuhalefet.serv00.net/canlitv2.php?id=12044&.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="YABAN TV" tvg-logo="" group-title="Belgesel",YABAN TV
