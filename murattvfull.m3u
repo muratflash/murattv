@@ -343,8 +343,12 @@ https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=KTGpuaZek0A.m3u8
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/ztktv/playlist/0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CBC SPORT HD" tvg-logo="" group-title="Spor",CBC SPORT HD
 http://a8026.yesil03.xyz:80/hursitkose/gEgANpaw/37362
+#EXTINF:-1 tvg-id="" tvg-name="CBC SPORT" tvg-logo="" group-title="Spor",CBC SPORT
+http://0e770a63.ucomist.net/iptv/ZWZ54NWQ78NYQX/2193/index&extension=m3u8
 #EXTINF:-1 tvg-id="" tvg-name="İDMAN TV HD" tvg-logo="" group-title="Spor",İDMAN TV HD
 http://a8026.yesil03.xyz:80/hursitkose/gEgANpaw/37363
+#EXTINF:-1 tvg-id="" tvg-name="İDMAN TV" tvg-logo="" group-title="Spor",İDMAN TV
+https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/2368422760/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SOLHSPORTS HD" tvg-logo="" group-title="Spor",SOLHSPORTS HD
 https://solhtvhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FİFA HD" tvg-logo="" group-title="Spor",FİFA HD
@@ -603,11 +607,11 @@ https://live01.iha.tv/webabone/live/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT WORLD" tvg-logo="" group-title="Haber",TRT WORLD
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A NEWS FHD" tvg-logo="" group-title="Haber",A NEWS FHD
-https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=L4O-IO_dySQ.m3u8
+https://koprulu4.global.ssl.fastly.net/ythls/?kanal_id=UC-LRBEUet4xX2fRB3JitFxg.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A NEWS HD+" tvg-logo="" group-title="Haber",A NEWS HD+
 https://koprulu4.global.ssl.fastly.net/kablo/?id=anews
 #EXTINF:-1 tvg-id="" tvg-name="A NEWS HD" tvg-logo="" group-title="Haber",A NEWS HD
-https://koprulu4.global.ssl.fastly.net/ythls/?kanal_id=UC-LRBEUet4xX2fRB3JitFxg.m3u8
+https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=L4O-IO_dySQ.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A NEWS" tvg-logo="" group-title="Haber",A NEWS
 https://trkvz-live.ercdn.net/anewshd/anewshd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN İNTERNATİONAL" tvg-logo="" group-title="Haber",CNN İNTERNATİONAL
