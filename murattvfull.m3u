@@ -348,7 +348,7 @@ http://0e770a63.ucomist.net/iptv/ZWZ54NWQ78NYQX/2193/index&extension=m3u8
 #EXTINF:-1 tvg-id="" tvg-name="İDMAN TV HD" tvg-logo="" group-title="Spor",İDMAN TV HD
 http://a8026.yesil03.xyz:80/hursitkose/gEgANpaw/37363
 #EXTINF:-1 tvg-id="" tvg-name="İDMAN TV" tvg-logo="" group-title="Spor",İDMAN TV
-https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/2368422760/index.m3u8
+http://0e770a63.ucomist.net/iptv/ZWZ54NWQ78NYQX/2198/index&extension=m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SOLHSPORTS HD" tvg-logo="" group-title="Spor",SOLHSPORTS HD
 https://solhtvhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FİFA HD" tvg-logo="" group-title="Spor",FİFA HD
@@ -1016,6 +1016,8 @@ https://ip240.radyotelekom.com.tr:3118/stream/play.m3u8
 https://hls.goodgame.ru/hls/215961.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TELEON TV" tvg-logo="" group-title="Sinema",TELEON TV
 https://tinyurl.com/teleon
+#EXTINF:-1 tvg-id="" tvg-name="ANADOLU NET" tvg-logo="" group-title="Sinema",ANADOLU NET
+https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LEBİH TV" tvg-logo="" group-title="Sinema",LEBİH TV
 https://ip100.radyotelekomtv.com:3982/stream/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HOCWAN TV" tvg-logo="" group-title="Sinema",HOCWAN TV
@@ -1159,11 +1161,11 @@ http://lionking.proxvip.xyz:2095/live/vlkn2282/vlk.56/74193.ts
 #EXTINF:-1 tvg-id="" tvg-name="GURME TV" tvg-logo="" group-title="Belgesel",GURME TV
 https://live.euromediacenter.com/gurmetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN GURME HD" tvg-logo="" group-title="Belgesel",BEİN GURME HD
-https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/950394656/index.m3u8
+https://live-cdn-65984.varplaycdn.cfd/gurme/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN GURME" tvg-logo="" group-title="Belgesel",BEİN GURME
 http://a8026.yesil03.xyz:80/hursitkose/gEgANpaw/15031
 #EXTINF:-1 tvg-id="" tvg-name="BEİN İZ HD" tvg-logo="" group-title="Belgesel",BEİN İZ HD
-https://kerimmkirac-dproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1691223078/index.m3u8
+http://hdlocal.de:8080/live/cs22cs.suroot/4amFSTThYHGGS2223/10251.ts
 #EXTINF:-1 tvg-id="" tvg-name="BEİN İZ" tvg-logo="" group-title="Belgesel",BEİN İZ
 http://a8026.yesil03.xyz:80/hursitkose/gEgANpaw/26225
 #EXTINF:-1 tvg-id="" tvg-name="BBC EARTH" tvg-logo="" group-title="Belgesel",BBC EARTH
@@ -1192,9 +1194,9 @@ http://a8026.yesil03.xyz:80/hursitkose/gEgANpaw/2139
 #EXTINF:-1 tvg-id="" tvg-name="HİSTORY CHANNEL HD+" tvg-logo="" group-title="Belgesel",HİSTORY CHANNEL HD+
 http://a8026.yesil03.xyz:80/hursitkose/gEgANpaw/25966
 #EXTINF:-1 tvg-id="" tvg-name="HİSTORY CHANNEL HD" tvg-logo="" group-title="Belgesel",HİSTORY CHANNEL HD
-https://tv.arectv34.sbs/live/history.m3u8
+http://hdlocal.de:8080/live/cs22cs.suroot/4amFSTThYHGGS2223/10111.ts
 #EXTINF:-1 tvg-id="" tvg-name="HİSTORY CHANNEL LİVE" tvg-logo="" group-title="Belgesel",HİSTORY CHANNEL LİVE
-https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/2415331568/index.m3u8
+https://tv.arectv34.sbs/live/history.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HİSTORY CHANNEL" tvg-logo="" group-title="Belgesel",HİSTORY CHANNEL
 http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6856/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NATİONAL GEO HD" tvg-logo="" group-title="Belgesel",NATİONAL GEO HD
@@ -1226,9 +1228,9 @@ https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CGTN DOCUMENTARY" tvg-logo="" group-title="Belgesel",CGTN DOCUMENTARY
 https://koprulu4.global.ssl.fastly.net/kablo/?id=cgtndocu
 #EXTINF:-1 tvg-id="" tvg-name="KADIRGA TV" tvg-logo="" group-title="Belgesel",KADIRGA TV
-https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/2093940826/index.m3u8
+http://lionking.proxvip.xyz:2095/live/vlkn2282/vlk.56/24066.ts
 #EXTINF:-1 tvg-id="" tvg-name="KADIRGA TV LİVE" tvg-logo="" group-title="Belgesel",KADIRGA TV LİVE
-https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/2717283979/index.m3u8
+http://a8026.yesil03.xyz:80/hursitkose/gEgANpaw/66581
 #EXTINF:-1 tvg-id="" tvg-name="SAĞLIK CHANNEL TV" tvg-logo="" group-title="Belgesel",SAĞLIK CHANNEL TV
 https://live.euromediacenter.com/saglikchannel/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WOMAN KADIN TV" tvg-logo="" group-title="Belgesel",WOMAN KADIN TV
@@ -1250,8 +1252,6 @@ https://canlitvulusal.xyz/live/ciftcitv/index.m3u8
 https://yayin1.canlitv.fun/canlitv/koytv.stream/chunklist_w362693127.m3u8?hash=b0fd6da0c45409a2b42467df8a32de8d
 #EXTINF:-1 tvg-id="" tvg-name="ÇAY TV" tvg-logo="" group-title="Belgesel",ÇAY TV
 https://edge.socialsmart.tv/caytv/bant1/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ANADOLU NET" tvg-logo="" group-title="Belgesel",ANADOLU NET
-https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SDM TV BELGESEL" tvg-logo="" group-title="Belgesel",SDM TV BELGESEL
 https://host.onlineradyotv.net:8081/sdmtv3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FASHİON TV" tvg-logo="" group-title="Belgesel",FASHİON TV
