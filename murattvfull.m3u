@@ -630,12 +630,12 @@ https://tv-trt1.medya.trt.com.tr/master.m3u8
 http://176.65.146.123:6001/play/a027/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KANAL D FHD" tvg-logo="" group-title="Ulusal",KANAL D FHD
 https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KANAL D HD+" tvg-logo="" group-title="Ulusal",KANAL D HD+
+#EXTINF:-1 tvg-id="" tvg-name="KANAL D FHD+" tvg-logo="" group-title="Ulusal",KANAL D FHD+
 https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KANAL D HD+" tvg-logo="" group-title="Ulusal",KANAL D HD+
+https://koprulu4.global.ssl.fastly.net/kablo/?id=kanald
 #EXTINF:-1 tvg-id="" tvg-name="KANAL D HD" tvg-logo="" group-title="Ulusal",KANAL D HD
 https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KANAL D LİVE" tvg-logo="" group-title="Ulusal",KANAL D LİVE
-http://89.187.191.41/Kanal-D-HD-TR/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KANAL D" tvg-logo="" group-title="Ulusal",KANAL D
 http://116.202.238.88/KANALD_TR/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ATV FHD" tvg-logo="" group-title="Ulusal",ATV FHD
@@ -817,7 +817,7 @@ https://emmazbvkkf.turknet.ercdn.net/cnifuowzza/dmax/dmax_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DMAX HD" tvg-logo="" group-title="Ulusal",DMAX HD
 https://koprulu4.global.ssl.fastly.net/kablo/?id=dmax
 #EXTINF:-1 tvg-id="" tvg-name="TRT 2 FHD" tvg-logo="" group-title="Ulusal",TRT 2 FHD
-http://176.65.146.123:6001/play/a02e/index.m3u8
+https://koprulu4.global.ssl.fastly.net/kablo/?id=trt2
 #EXTINF:-1 tvg-id="" tvg-name="TRT 2 HD" tvg-logo="" group-title="Ulusal",TRT 2 HD
 https://tv-trt2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT AVAZ" tvg-logo="" group-title="Ulusal",TRT AVAZ
@@ -982,6 +982,20 @@ http://noxcon.cfd/live/tuncayylmaz/HkvCZS04kJ/823159.ts
 http://noxcon.cfd/live/tuncayylmaz/HkvCZS04kJ/823163.ts
 #EXTINF:-1 tvg-id="" tvg-name="FİLMBOX DRAMA" tvg-logo="" group-title="Sinema",FİLMBOX DRAMA
 http://noxcon.cfd/live/tuncayylmaz/HkvCZS04kJ/823162.ts
+#EXTINF:-1 tvg-id="" tvg-name="CEHENNEM SİLAHI TV" tvg-logo="" group-title="Sinema",CEHENNEM SİLAHI TV
+http://lionking.proxvip.xyz:2095/live/vlkn2282/vlk.56/43158.ts
+#EXTINF:-1 tvg-id="" tvg-name="GELECEĞE DÖNÜŞ TV" tvg-logo="" group-title="Sinema",GELECEĞE DÖNÜŞ TV
+http://lionking.proxvip.xyz:2095/live/vlkn2282/vlk.56/44013.ts
+#EXTINF:-1 tvg-id="" tvg-name="JHON WİCK TV" tvg-logo="" group-title="Sinema",JOHN WİCK TV
+http://lionking.proxvip.xyz:2095/live/vlkn2282/vlk.56/501.ts
+#EXTINF:-1 tvg-id="" tvg-name="ROCKY TV" tvg-logo="" group-title="Sinema",ROCKY TV
+http://lionking.proxvip.xyz:2095/live/vlkn2282/vlk.56/155819.ts
+#EXTINF:-1 tvg-id="" tvg-name="TAŞIYICI TV" tvg-logo="" group-title="Sinema",TAŞIYICI TV
+http://lionking.proxvip.xyz:2095/live/vlkn2282/vlk.56/148048.ts
+#EXTINF:-1 tvg-id="" tvg-name="TERMİNATÖR TV" tvg-logo="" group-title="Sinema",TERMİNATÖR TV
+http://lionking.proxvip.xyz:2095/live/vlkn2282/vlk.56/141817.ts
+#EXTINF:-1 tvg-id="" tvg-name="VAN DAMME TV" tvg-logo="" group-title="Sinema",VAN DAMME TV
+http://lionking.proxvip.xyz:2095/live/vlkn2282/vlk.56/125585.ts
 #EXTINF:-1 tvg-id="" tvg-name="TİVİ TÜRK" tvg-logo="" group-title="Sinema",TİVİ TÜRK
 https://stream.tiviturk.de/live/tiviturk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SÜPER TÜRK TV" tvg-logo="" group-title="Sinema",SÜPER TÜRK TV
@@ -1014,8 +1028,6 @@ https://pazarciktv.ozelip.net:3962/hybrid/play.m3u8
 https://a8.radyotelekom.com.tr:3580/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NOW SİNEMA" tvg-logo="" group-title="Sinema",NOW SİNEMA
 https://a8.radyotelekom.com.tr:3502/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HTV SİNEMA" tvg-logo="" group-title="Sinema",HTV SİNEMA
-https://a8.radyotelekom.com.tr:3761/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESMA TV" tvg-logo="" group-title="Sinema",ESMA TV
 https://a8.radyotelekom.com.tr:3899/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PLAY TV" tvg-logo="" group-title="Sinema",PLAY TV
@@ -1370,6 +1382,8 @@ https://host.onlineradyotv.net:8081/sdmtv2/tracks-v1a1/mono.m3u8
 https://hls.goodgame.ru/hls/215959.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MEGA TV MÜZİK" tvg-logo="" group-title="Müzik",MEGA TV MÜZİK
 https://a8.radyotelekom.com.tr:3513/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HTV MÜZİK" tvg-logo="" group-title="Müzik",HTV MÜZİK
+https://a8.radyotelekom.com.tr:3761/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EGE LİVE TV" tvg-logo="" group-title="Müzik",EGE LİVE TV
 http://stream.tvcdn.net/yerel/ege-live-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VRT TV" tvg-logo="" group-title="Müzik",VRT TV
