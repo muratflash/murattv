@@ -384,6 +384,8 @@ https://koprulu4.global.ssl.fastly.net/ythls/?kanal_id=UCjkRA7KEdp7PDKDUs396XHg.
 #EXTINF:-1 tvg-id="" tvg-name="NBA TV HD" tvg-logo="" group-title="Spor",NBA TV HD
 https://koprulu4.global.ssl.fastly.net/kablo/?id=nbatv
 #EXTINF:-1 tvg-id="" tvg-name="AUTOMOTO HD" tvg-logo="" group-title="Spor",AUTOMOTO HD
+http://driptvs.com:2095/live/King200conxx/355sgdhh/77945.ts
+#EXTINF:-1 tvg-id="" tvg-name="AUTOMOTO" tvg-logo="" group-title="Spor",AUTOMOTO
 http://100automoto.tv:1935/bgtv1/Stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WORLD BİLLİARDS" tvg-logo="" group-title="Spor",WORLD BİLLİARDS
 https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8
@@ -607,9 +609,9 @@ https://live.euromediacenter.com/bhatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SURMANŞET TV" tvg-logo="" group-title="Haber",SURMANŞET TV
 https://live.euromediacenter.com/surmansethabertv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DHA 2 CANLI" tvg-logo="" group-title="Haber",DHA 1 CANLI
-https://603c568fccdf5.streamlock.net/live/dhaweb1/playlist.m3u8
+https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DHA 2 CANLI" tvg-logo="" group-title="Haber",DHA 2 CANLI
-https://603c568fccdf5.streamlock.net/live2/dhaweb2/playlist.m3u8
+https://603c568fccdf5.streamlock.net/live2/dhaweb2/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="İHA CANLI" tvg-logo="" group-title="Haber",İHA CANLI
 https://live01.iha.tv/webabone/live/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT WORLD" tvg-logo="" group-title="Haber",TRT WORLD
@@ -762,6 +764,8 @@ https://ciner-live.daioncdn.net/showmax/showmax.m3u8
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shmax.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SHOW MAX" tvg-logo="" group-title="Ulusal",SHOW MAX
 https://koprulu4.global.ssl.fastly.net/ythls/?kanal_id=UC9JMe_We017gYrRc7kZHgmg.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TGRT EU FHD" tvg-logo="" group-title="Ulusal",TGRT EU FHD
+https://live-cdn-65984.varplaycdn.cfd/tgrteu/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TGRT EU HD" tvg-logo="" group-title="Ulusal",TGRT EU HD
 http://a8026.yesil03.xyz:80/Vipline.753/d7BXYWTzh6/29825
 #EXTINF:-1 tvg-id="" tvg-name="TGRT EU" tvg-logo="" group-title="Ulusal",TGRT EU
