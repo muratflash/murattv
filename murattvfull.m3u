@@ -341,10 +341,16 @@ http://116.202.117.244/gzcspor/gzcspor/playlist.m3u8
 https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=KTGpuaZek0A.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZTK TV" tvg-logo="" group-title="Spor",ZTK TV
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/ztktv/playlist/0.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBC SPORT FHD" tvg-logo="" group-title="Spor",CBC SPORT FHD
+http://l1iptv.xyz/live/12unioniptv12/RhXNL2W8qeysv/16018.ts
 #EXTINF:-1 tvg-id="" tvg-name="CBC SPORT HD" tvg-logo="" group-title="Spor",CBC SPORT HD
 http://a8026.yesil03.xyz:80/hursitkose/gEgANpaw/37362
 #EXTINF:-1 tvg-id="" tvg-name="CBC SPORT" tvg-logo="" group-title="Spor",CBC SPORT
 http://0e770a63.ucomist.net/iptv/ZWZ54NWQ78NYQX/2193/index&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="İDMAN TV FHD" tvg-logo="" group-title="Spor",İDMAN TV FHD
+http://l1iptv.xyz/live/12unioniptv12/RhXNL2W8qeysv/16013.ts
+#EXTINF:-1 tvg-id="" tvg-name="İDMAN TV FHD+" tvg-logo="" group-title="Spor",İDMAN TV FHD+
+http://l1iptv.xyz/live/12unioniptv12/RhXNL2W8qeysv/16015.ts
 #EXTINF:-1 tvg-id="" tvg-name="İDMAN TV HD" tvg-logo="" group-title="Spor",İDMAN TV HD
 http://a8026.yesil03.xyz:80/hursitkose/gEgANpaw/37363
 #EXTINF:-1 tvg-id="" tvg-name="İDMAN TV" tvg-logo="" group-title="Spor",İDMAN TV
@@ -537,6 +543,8 @@ https://yayin1.canlitv.fun/canlitv/ilketv.stream/chunklist_w1251053909.m3u8?hash
 http://canbroadcast.com:7000/canlican/tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MEDYA HABER" tvg-logo="" group-title="Haber",MEDYA HABER
 https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=Rpwx_xfijJU.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MEDYA HABER LİVE" tvg-logo="" group-title="Haber",MEDYA HABER LİVE
+http://l1iptv.xyz/live/12unioniptv12/RhXNL2W8qeysv/15943.ts
 #EXTINF:-1 tvg-id="" tvg-name="MC EU" tvg-logo="" group-title="Haber",MC EU
 #EXTVLCOPT:network-caching=1000
 https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&type=live&service=wowza&protocol=https&output=playlist.m3u8
@@ -1196,7 +1204,7 @@ http://a8026.yesil03.xyz:80/hursitkose/gEgANpaw/25966
 #EXTINF:-1 tvg-id="" tvg-name="HİSTORY CHANNEL HD" tvg-logo="" group-title="Belgesel",HİSTORY CHANNEL HD
 http://hdlocal.de:8080/live/cs22cs.suroot/4amFSTThYHGGS2223/10111.ts
 #EXTINF:-1 tvg-id="" tvg-name="HİSTORY CHANNEL LİVE" tvg-logo="" group-title="Belgesel",HİSTORY CHANNEL LİVE
-https://tv.arectv34.sbs/live/history.m3u8
+https://live-cdn-65984.varplaycdn.cfd/history/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HİSTORY CHANNEL" tvg-logo="" group-title="Belgesel",HİSTORY CHANNEL
 http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6856/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NATİONAL GEO HD" tvg-logo="" group-title="Belgesel",NATİONAL GEO HD
@@ -1625,3 +1633,43 @@ http://cdn-radyokulup.yayin.com.tr/radyokulup/radyokulup/chunklist.m3u8
 https://yotubesakuapi.global.ssl.fastly.net/playlist/75.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KANUN FON MÜZİKLERİ 7/24" tvg-logo="" group-title="Radyo",KANUN FON MÜZİKLERİ 7/24
 https://ythls.kekikakademi.org/youtube/video/n5CBQTdLkLA.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBC SPORT" tvg-logo="" group-title="Azerbaycan",CBC SPORT
+http://l1iptv.xyz/live/12unioniptv12/RhXNL2W8qeysv/16018.ts
+#EXTINF:-1 tvg-id="" tvg-name="İDMAN TV" tvg-logo="" group-title="Azerbaycan",İDMAN TV
+http://l1iptv.xyz/live/12unioniptv12/RhXNL2W8qeysv/16013.ts
+#EXTINF:-1 tvg-id="" tvg-name="İCTİMAİ TV" tvg-logo="" group-title="Azerbaycan",İCTİMAİ TV
+http://l1iptv.xyz/live/12unioniptv12/RhXNL2W8qeysv/16005.ts
+#EXTINF:-1 tvg-id="" tvg-name="İCTİMAİ TV HD" tvg-logo="" group-title="Azerbaycan",İCTİMAİ TV HD
+https://live.itv.az/itv.m3u8?bandwidth=3900&shift=0
+#EXTINF:-1 tvg-id="" tvg-name="AZ TV" tvg-logo="" group-title="Azerbaycan",AZ TV
+http://0e770a63.ucomist.net/iptv/ZWZ54NWQ78NYQX/966/index&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AZ TV HD" tvg-logo="" group-title="Azerbaycan",AZ TV HD
+http://str.yodacdn.net/aztv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AZAD ATV" tvg-logo="" group-title="Azerbaycan",AZAD ATV
+http://0e770a63.ucomist.net/iptv/ZWZ54NWQ78NYQX/2200/index&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AZAD ATV HD" tvg-logo="" group-title="Azerbaycan",AZAD ATV HD
+https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARB" tvg-logo="" group-title="Azerbaycan",ARB
+http://l1iptv.xyz/live/12unioniptv12/RhXNL2W8qeysv/16014.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARB 24 TV" tvg-logo="" group-title="Azerbaycan",ARB 24 TV
+http://0e770a63.ucomist.net/iptv/ZWZ54NWQ78NYQX/2188/index&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARB 24" tvg-logo="" group-title="Azerbaycan",ARB 24
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-24.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARB GÜNEŞ TV" tvg-logo="" group-title="Azerbaycan",ARB GÜNEŞ TV
+http://0e770a63.ucomist.net/iptv/ZWZ54NWQ78NYQX/2189/index&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BAKU TV" tvg-logo="" group-title="Azerbaycan",BAKU TV
+https://rtmp.baku.tv/hls/bakutv_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MEDENİYYET TV" tvg-logo="" group-title="Azerbaycan",MEDENİYYET TV
+http://0e770a63.ucomist.net/iptv/ZWZ54NWQ78NYQX/2197/index&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KEPEZ TV" tvg-logo="" group-title="Azerbaycan",KEPEZ TV
+http://85.132.78.122:8050/dashjs/stream/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="SPACE TV" tvg-logo="" group-title="Azerbaycan",SPACE TV
+http://l1iptv.xyz/live/12unioniptv12/RhXNL2W8qeysv/16010.ts
+#EXTINF:-1 tvg-id="" tvg-name="SEHİYYE TV" tvg-logo="" group-title="Azerbaycan",SEHİYYE TV
+https://goldvod.org/tv/az.php?id=shtv
+#EXTINF:-1 tvg-id="" tvg-name="DÜNYA TV" tvg-logo="" group-title="Azerbaycan",DÜNYA TV
+http://l1iptv.xyz/live/12unioniptv12/RhXNL2W8qeysv/16019.ts
+#EXTINF:-1 tvg-id="" tvg-name="STAR TV" tvg-logo="" group-title="Azerbaycan",STAR TV
+http://l1iptv.xyz/live/12unioniptv12/RhXNL2W8qeysv/16022.ts
+#EXTINF:-1 tvg-id="" tvg-name="XEZER TV" tvg-logo="" group-title="Azerbaycan",XEZER TV
+http://l1iptv.xyz/live/12unioniptv12/RhXNL2W8qeysv/16003.ts
