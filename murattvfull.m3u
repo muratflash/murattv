@@ -1128,12 +1128,6 @@ http://lionking.proxvip.xyz:2095/live/vlkn2282/vlk.56/91105.ts
 http://lionking.proxvip.xyz:2095/live/vlkn2282/vlk.56/13123.ts
 #EXTINF:-1 tvg-id="" tvg-name="CÜNEYT ARKIN TV 4" tvg-logo="" group-title="Sinema",CÜNEYT ARKIN TV 4
 http://lionking.proxvip.xyz:2095/live/vlkn2282/vlk.56/80133.ts
-#EXTINF:-1 tvg-id="" tvg-name="FARRUK TV" tvg-logo="" group-title="Sinema",FARRUK TV
-https://vsrv1.az-streamingserver.com:3833/live/ofhwiwudlive.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ALVİN CHANNEL" tvg-logo="" group-title="Sinema",ALVİN CHANNEL
-https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KONUL TV" tvg-logo="" group-title="Sinema",KONUL TV
-https://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT BELGESEL HD" tvg-logo="" group-title="Belgesel",TRT BELGESEL HD
 https://d2xwn494f2lep.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-Belgesel/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT BELGESEL FHD" tvg-logo="" group-title="Belgesel",TRT BELGESEL FHD
@@ -1667,9 +1661,19 @@ http://85.132.78.122:8050/dashjs/stream/index.mpd
 http://l1iptv.xyz/live/12unioniptv12/RhXNL2W8qeysv/16010.ts
 #EXTINF:-1 tvg-id="" tvg-name="SEHİYYE TV" tvg-logo="" group-title="Azerbaycan",SEHİYYE TV
 https://goldvod.org/tv/az.php?id=shtv
+#EXTINF:-1 tvg-id="" tvg-name="SHOW PLUS TV" tvg-logo="" group-title="Azerbaycan",SHOW PLUS TV
+https://rtmp.showplus.tv/hls/myshow.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KANAL S" tvg-logo="" group-title="Azerbaycan",KANAL S
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/kanal-s.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DÜNYA TV" tvg-logo="" group-title="Azerbaycan",DÜNYA TV
 http://l1iptv.xyz/live/12unioniptv12/RhXNL2W8qeysv/16019.ts
 #EXTINF:-1 tvg-id="" tvg-name="STAR TV" tvg-logo="" group-title="Azerbaycan",STAR TV
 http://l1iptv.xyz/live/12unioniptv12/RhXNL2W8qeysv/16022.ts
 #EXTINF:-1 tvg-id="" tvg-name="XEZER TV" tvg-logo="" group-title="Azerbaycan",XEZER TV
 http://l1iptv.xyz/live/12unioniptv12/RhXNL2W8qeysv/16003.ts
+#EXTINF:-1 tvg-id="" tvg-name="FARRUK TV" tvg-logo="" group-title="Azerbaycan",FARRUK TV
+https://vsrv1.az-streamingserver.com:3833/live/ofhwiwudlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ALVİN CHANNEL" tvg-logo="" group-title="Azerbaycan",ALVİN CHANNEL
+https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KONUL TV" tvg-logo="" group-title="Azerbaycan",KONUL TV
+https://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
