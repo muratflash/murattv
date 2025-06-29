@@ -209,6 +209,8 @@ http://103.161.34.59:8080/live/INFINITYZBRbH14hQF/KWz6KrhQvj/174.ts
 http://lionking.proxvip.xyz:2095/live/vlkn2282/vlk.56/86876.ts
 #EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR HD" tvg-logo="" group-title="Tivibu Spor",TİVİBU SPOR HD
 http://a8026.yesil03.xyz:80/hursitkose/gEgANpaw/65751
+#EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR" tvg-logo="" group-title="Tivibu Spor",TİVİBU SPOR
+https://live-cdn-65984.varplaycdn.cfd/700/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR 1 FHD" tvg-logo="" group-title="Tivibu Spor",TİVİBU SPOR 1 FHD
 https://tv.arectv34.sbs/live/t1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR 2 FHD" tvg-logo="" group-title="Tivibu Spor",TİVİBU SPOR 2 FHD
@@ -309,6 +311,8 @@ https://ciner-live.daioncdn.net/ht-spor/ht-spor_1080p.m3u8
 https://koprulu4.global.ssl.fastly.net/ythls/?kanal_id=UCK3mI2lsk3LSo8PBUc8JTSw.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HT SPOR" tvg-logo="" group-title="Spor",HT SPOR
 https://koprulu4.global.ssl.fastly.net/kablo/?id=htsporhd
+#EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR FHD" tvg-logo="" group-title="Spor",TİVİBU SPOR FHD
+https://live-cdn-65984.varplaycdn.cfd/700/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR HD" tvg-logo="" group-title="Spor",TİVİBU SPOR HD
 http://lionking.proxvip.xyz:2095/live/vlkn2282/vlk.56/86876.ts
 #EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR" tvg-logo="" group-title="Spor",TİVİBU SPOR
@@ -1287,31 +1291,41 @@ http://176.65.146.123:6001/play/a01n/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT EBA HD" tvg-logo="" group-title="Çocuk",TRT EBA HD
 https://tv-e-okul01.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MİNİKA ÇOCUK HD" tvg-logo="" group-title="Çocuk",MİNİKA ÇOCUK HD
-https://trkvz-live.daioncdn.net/minikago_cocuk/minikago_cocuk.m3u8
+https://koprulu4.global.ssl.fastly.net/kablo/?id=minikacocuk
 #EXTINF:-1 tvg-id="" tvg-name="MİNİKA ÇOCUK" tvg-logo="" group-title="Çocuk",MİNİKA ÇOCUK
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MİNİKA GO HD" tvg-logo="" group-title="Çocuk",MİNİKA GO HD
-https://trkvz-live.daioncdn.net/minikago/minikago.m3u8
+https://koprulu4.global.ssl.fastly.net/kablo/?id=minikago
 #EXTINF:-1 tvg-id="" tvg-name="MİNİKA GO" tvg-logo="" group-title="Çocuk",MİNİKA GO
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK HD" tvg-logo="" group-title="Çocuk",CARTOON NETWORK HD
 https://koprulu4.global.ssl.fastly.net/kablo/?id=cartoonnetwork
 #EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="" group-title="Çocuk",CARTOON NETWORK
 https://tv.arectv34.sbs/live/cartoonnetwork.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BABY TV HD" tvg-logo="" group-title="Çocuk",BABY TV HD
+https://koprulu4.global.ssl.fastly.net/kablo/?id=babytv
 #EXTINF:-1 tvg-id="" tvg-name="BABY TV" tvg-logo="" group-title="Çocuk",BABY TV
-http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/634
+http://driptvs.com:2095/live/King200conxx/355sgdhh/17202.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPACETOON HD" tvg-logo="" group-title="Çocuk",SPACETOON HD
+https://koprulu4.global.ssl.fastly.net/kablo/?id=spacetoon
+#EXTINF:-1 tvg-id="" tvg-name="SPACETOON" tvg-logo="" group-title="Çocuk",SPACETOON
+http://driptvs.com:2095/live/King200conxx/355sgdhh/77958.ts
 #EXTINF:-1 tvg-id="" tvg-name="CAİLLOU TÜRKÇE" tvg-logo="" group-title="Çocuk",CAİLLOU TÜRKÇE
-http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/192581
+http://driptvs.com:2095/live/King200conxx/355sgdhh/78003.ts
 #EXTINF:-1 tvg-id="" tvg-name="CARTOONİTO TÜRKÇE" tvg-logo="" group-title="Çocuk",CARTOONİTO TÜRKÇE
-http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/672
+http://driptvs.com:2095/live/King200conxx/355sgdhh/142637.ts
 #EXTINF:-1 tvg-id="" tvg-name="ÇOCUK SMART" tvg-logo="" group-title="Çocuk",ÇOCUK SMART
-http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1851
+http://driptvs.com:2095/live/King200conxx/355sgdhh/25950.ts
+#EXTINF:-1 tvg-id="" tvg-name="DİSNEY JUNİOR FHD" tvg-logo="" group-title="Çocuk",DİSNEY JUNİOR FHD
+https://koprulu4.global.ssl.fastly.net/kablo/?id=disneyjunior
 #EXTINF:-1 tvg-id="" tvg-name="DİSNEY JUNİOR HD" tvg-logo="" group-title="Çocuk",DİSNEY JUNİOR HD
 http://driptvs.com:2095/live/King200conxx/355sgdhh/5317.ts
 #EXTINF:-1 tvg-id="" tvg-name="DİSNEY JUNİOR" tvg-logo="" group-title="Çocuk",DİSNEY JUNİOR
 http://localhd.tv:8080/cs22cs.suroot/4amFSTThYHGGS2223/10004
+#EXTINF:-1 tvg-id="" tvg-name="KELOĞLAN TV" tvg-logo="" group-title="Çocuk",KELOĞLAN TV
+http://driptvs.com:2095/live/King200conxx/355sgdhh/77988.ts
 #EXTINF:-1 tvg-id="" tvg-name="SL NİLOYA" tvg-logo="" group-title="Çocuk",SL NİLOYA
-http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/70743
+http://driptvs.com:2095/live/King200conxx/355sgdhh/77980.ts
 #EXTINF:-1 tvg-id="" tvg-name="KRAL ŞAKİR TV" tvg-logo="" group-title="Çocuk",KRAL ŞAKİR TV
 https://ythls.kekikakademi.org/youtube/video/zPNYXrlS1cE.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ÇİZGİ FİLM TV" tvg-logo="" group-title="Çocuk",ÇİZGİ FİLM TV
@@ -1319,19 +1333,19 @@ https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/cizgi-film-tv/playlist/
 #EXTINF:-1 tvg-id="" tvg-name="NİCKELODEON" tvg-logo="" group-title="Çocuk",NİCKELODEON
 http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/278469
 #EXTINF:-1 tvg-id="" tvg-name="DA VİNCİ HD" tvg-logo="" group-title="Çocuk",DA VİNCİ HD
-http://teke-tek.garibim.club:6787/live/tefil-WOI/AcpbP4UsnkRr/381.ts
+https://koprulu4.global.ssl.fastly.net/kablo/?id=davinci
 #EXTINF:-1 tvg-id="" tvg-name="DA VİNCİ" tvg-logo="" group-title="Çocuk",DA VİNCİ
-http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1850
+http://a8026.yesil03.xyz:80/hursitkose/gEgANpaw/2136
 #EXTINF:-1 tvg-id="" tvg-name="NİCK JR" tvg-logo="" group-title="Çocuk",NİCK JR
-http://teke-tek.garibim.club:6787/tefil-WOI/AcpbP4UsnkRr/377
+http://driptvs.com:2095/live/King200conxx/355sgdhh/5315.ts
 #EXTINF:-1 tvg-id="" tvg-name="MAŞA İLE KOCA AYI" tvg-logo="" group-title="Çocuk",MAŞA İLE KOCA AYI
 http://kuklaby856.rlclickpnl.click:8080/demir879/575884r4/6238
 #EXTINF:-1 tvg-id="" tvg-name="KİDS MAX TV" tvg-logo="" group-title="Çocuk",KİDS MAX TV
 http://kuklaby856.rlclickpnl.click:8080/demir879/575884r4/6249
 #EXTINF:-1 tvg-id="" tvg-name="ŞİRİNLER TV" tvg-logo="" group-title="Çocuk",ŞİRİNLER TV
-http://kuklaby856.rlclickpnl.click:8080/demir879/575884r4/6245
+http://driptvs.com:2095/live/King200conxx/355sgdhh/77986.ts
 #EXTINF:-1 tvg-id="" tvg-name="PEPE TV" tvg-logo="" group-title="Çocuk",PEPE TV
-http://kuklaby856.rlclickpnl.click:8080/demir879/575884r4/6241
+http://driptvs.com:2095/live/King200conxx/355sgdhh/77974.ts
 #EXTINF:-1 tvg-id="" tvg-name="PEMBE PANTER TV" tvg-logo="" group-title="Çocuk",PEMBE PANTER TV
 http://kuklaby856.rlclickpnl.click:8080/demir879/575884r4/6235
 #EXTINF:-1 tvg-id="" tvg-name="TOM VE JERRY TV" tvg-logo="" group-title="Çocuk",TOM VE JERRY TV
@@ -1345,11 +1359,11 @@ https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=uBguEnNlrmU.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ÇOK GÜZEL HAREKETLER 2" tvg-logo="" group-title="Eğlence",ÇOK GÜZEL HAREKETLER 2
 https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=TdBr00bXSS8.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ARKADAŞIM HOŞGELDİN" tvg-logo="" group-title="Eğlence",ARKADAŞIM HOŞGELDİN
-https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=XuvLGBooCu0.m3u8
+https://koprulu4.global.ssl.fastly.net/ythls/?kanal_id=UCOYerJedhQqSyhXkev8QRFA.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KOMEDİ DÜKKANI" tvg-logo="" group-title="Eğlence",KOMEDİ DÜKKANI
-https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=ua67Cqosxpc.m3u8
+https://koprulu4.global.ssl.fastly.net/ythls/?kanal_id=UCZJXR4VXvJ4GPd4y0GJcUYg.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TOLGSHOW" tvg-logo="" group-title="Eğlence",TOLGSHOW
-https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=rFsNO59bzRc.m3u8
+https://koprulu4.global.ssl.fastly.net/ythls/?kanal_id=UCfyPw7vYwIVb6OuDIf7qeOQ.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ATA DEMİRER SHOW" tvg-logo="" group-title="Eğlence",ATA DEMİRER SHOW
 https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=TuMH2t9PrNA.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CEM YILMAZ SHOW" tvg-logo="" group-title="Eğlence",CEM YILMAZ SHOW
